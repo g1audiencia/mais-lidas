@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/07/2026 22:16",
+  "atualizado_em": "22/07/2026 22:50",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Influenciadora tem dados pessoais vazados após chamar integrantes do BTS de 'afeminados'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/influenciadora-tem-dados-pessoais-vazados-apos-chamar-bts-de-afeminados.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Outro Canal: Jovem Pan afasta diretor que fez apresentadora Márcia Dantas chorar ao vivo em programa",
           "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/jovem-pan-afasta-diretor-que-fez-apresentadora-marcia-dantas-chorar-ao-vivo-em-programa.shtml"
         },
         {
-          "rank": 2,
-          "title": "Influenciadora tem dados pessoais vazados após chamar BTS de 'afeminados'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/influenciadora-tem-dados-pessoais-vazados-apos-chamar-bts-de-afeminados.shtml"
+          "rank": 3,
+          "title": "Flávio Bolsonaro emitiu e cancelou R$ 1 milhão em notas fiscais para empresa que operou com o Master",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-emitiu-e-cancelou-r-1-milhao-em-notas-fiscais-para-empresa-que-operou-com-o-master.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
         },
         {
-          "rank": 4,
-          "title": "Empresa de cunhado de Cristiano Ronaldo é alvo de operação contra rinha de galo no RS",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/empresa-de-cunhado-de-cristiano-ronaldo-e-alvo-de-operacao-contra-rinha-de-galo-no-rs.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Morre subitamente jornalista que divulgou fala de Trump sobre Meloni",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/morre-subitamente-jornalista-que-divulgou-fala-de-trump-sobre-meloni.shtml"
+          "title": "Bebê morre ao prender a cabeça em creche de São Paulo; funcionários são investigados",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/bebe-morre-durante-atividade-em-creche-de-sao-paulo-funcionarios-sao-investigados.shtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Zidane, Guardiola, Ancelotti e Klopp: as negociações dos técnicos com seleções para a Copa de 2030",
-          "url": "https://www.estadao.com.br/esportes/futebol/zidane-guardiola-ancelotti-e-klopp-as-negociacoes-dos-tecnicos-com-selecoes-para-a-copa-de-2030/"
+          "title": "Por que o Brasil tem tantos golpes virtuais e roubos de celular?",
+          "url": "https://www.estadao.com.br/brasil/por-que-brasil-tem-tantos-golpes-virtuais-e-roubos-de-celular/"
         }
       ],
       "erro": null
@@ -177,8 +177,8 @@
         },
         {
           "rank": 3,
-          "title": "Thais Carla impressiona ao posar com look fitness após perder 101 kg",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/thais-carla-impressiona-ao-posar-com-look-fitness-apos-perder-101-kg"
+          "title": "Herdeiro de Chacrinha vence ação contra partido por uso de bordão",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/herdeiro-de-chacrinha-vence-acao-contra-partido-por-uso-de-bordao"
         }
       ],
       "erro": null
@@ -221,18 +221,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
+          "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
+        },
+        {
+          "rank": 2,
           "title": "Kaylee Hottle, deaf ‘Godzilla’ actor, killed in car crash at 18",
           "url": "https://apnews.com/article/kaylee-hottle-dies-godzilla-actor-7971cbb43107772fe4e9a6174ea84111"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Trump administration says it’s deferring $1B in Medicaid payments to California and Minnesota",
           "url": "https://apnews.com/article/medicaid-fraud-minnesota-california-oz-rfk-trump-24033ef9807b46f8b6fd6614ef5b1169"
-        },
-        {
-          "rank": 3,
-          "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
-          "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
         },
         {
           "rank": 4,
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz. 3 hrs ago World",
+          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
           "url": "https://www.bbc.com/news/articles/cdrv0p37k8jo"
         },
         {
           "rank": 2,
-          "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister. 4 hrs ago World",
-          "url": "https://www.bbc.com/news/articles/c204p64pqzno"
+          "title": "A year after deadly jet crash at Bangladesh school, families demand answers",
+          "url": "https://www.bbc.com/news/articles/cx2j7jgg1z1o"
         },
         {
           "rank": 3,
-          "title": "Tankers make sharp U-turns after Houthi shipping threat All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows. 8 hrs ago BBC Verify",
-          "url": "https://www.bbc.com/news/articles/cn0n127lpzgo"
+          "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
+          "url": "https://www.bbc.com/news/articles/c204p64pqzno"
         },
         {
           "rank": 4,
-          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement. 11 hrs ago Technology",
-          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
+          "title": "Tankers make sharp U-turns after Houthi shipping threat",
+          "url": "https://www.bbc.com/news/articles/cn0n127lpzgo"
         },
         {
           "rank": 5,
-          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings. 6 hrs ago",
-          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Mirá el Mundo en Fotos: el resumen del día en imágenes",
-          "url": "https://www.clarin.com/fotogalerias/mundo-fotos-resumen-dia-mejores-imagenes-espana-campeon-2026-llegada-seleccion-argentina-scaloneta-expo-rural-2026_5_UJOgrQrXU6.html"
-        },
-        {
-          "rank": 2,
           "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
           "url": "https://www.clarin.com/mundo/openai-revela-agentes-ia-realizaron-hackeo-precedentes-empresa_0_3RaGKVaDgv.html"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "La Justicia de EE.UU. avanza contra la AFA y pide comunicaciones de \"Chiqui\" Tapia, Pablo Toviggino y Javier Faroni",
           "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Las mejores medialunas de Buenos Aires: la guía definitiva para encontrar las más ricas según cada antojo",
           "url": "https://www.clarin.com/gourmet/mejores-medialunas-buenos-aires-guia-definitiva-encontrar-ricas-antojo_0_VeGvflC0Jj.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "El semáforo de la Selección en el Mundial 2026: Messi fue el más aprobado, muchos no explotaron y tres quedaron en deuda",
           "url": "https://www.clarin.com/deportes/semaforo-seleccion-mundial-2026-messi-aprobado-explotaron-quedaron-deuda_0_g9UQVaR30A.html"
+        },
+        {
+          "rank": 5,
+          "title": "Lionel Messi, elegido mejor jugador del Mundial por la IFFHS: el premio que le negó la FIFA le llega por un \"veredicto inequívoco\"",
+          "url": "https://www.clarin.com/deportes/lionel-messi-elegido-mejor-jugador-mundial-iffhs-premio-nego-fifa-llega-veredicto-inequivoco_0_QtTNKyLOJt.html"
         }
       ],
       "erro": null

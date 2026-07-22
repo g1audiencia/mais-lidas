@@ -2,7 +2,7 @@ name: Coletar mais lidas
 
 on:
   schedule:
-    - cron: '0 * * * *'   # de hora em hora
+    - cron: '*/10 * * * *'   # a cada 10 minutos
   workflow_dispatch:        # permite rodar manualmente pelo botão
 
 permissions:

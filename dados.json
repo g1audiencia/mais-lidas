@@ -1,1 +1,315 @@
-{"atualizado_em":"aguardando primeira coleta","portais":[]}
+{
+  "atualizado_em": "22/07/2026 22:16",
+  "portais": [
+    {
+      "portal": "Folha",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Outro Canal: Jovem Pan afasta diretor que fez apresentadora Márcia Dantas chorar ao vivo em programa",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/jovem-pan-afasta-diretor-que-fez-apresentadora-marcia-dantas-chorar-ao-vivo-em-programa.shtml"
+        },
+        {
+          "rank": 2,
+          "title": "Influenciadora tem dados pessoais vazados após chamar BTS de 'afeminados'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/influenciadora-tem-dados-pessoais-vazados-apos-chamar-bts-de-afeminados.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Empresa de cunhado de Cristiano Ronaldo é alvo de operação contra rinha de galo no RS",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/empresa-de-cunhado-de-cristiano-ronaldo-e-alvo-de-operacao-contra-rinha-de-galo-no-rs.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Morre subitamente jornalista que divulgou fala de Trump sobre Meloni",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/morre-subitamente-jornalista-que-divulgou-fala-de-trump-sobre-meloni.shtml"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "UOL",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Abaixo-assinado argentino reúne 67 mil pedindo anulação de final da Copa",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/22/abaixo-assinado-argentino-reune-67-mil-pedindo-anulacao-de-final-da-copa.ghtm"
+        },
+        {
+          "rank": 2,
+          "title": "MLS abre investigação contra Inter Miami pela contratação de Casemiro",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/22/inter-miami-anuncia-contratacao-de-casemiro-mas-mls-abre-investigacao-gbvgfeaam.htm"
+        },
+        {
+          "rank": 3,
+          "title": "Ana Maria e equipe passam mal após comerem prato ao vivo",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/22/ana-maria-equipe-do-mais-voce-passa-mal.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "Mãe de irmãos suspeitos de matar empresário na Grande SP denunciou crime à polícia",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/22/mae-suspeitos-caso-marcelo-carapicuiba.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Maisa aposta em look de costas nuas para curtir férias em Ibiza",
+          "url": "https://www.uol.com.br/flash/?c=e12eac631d8086136d5114ebb2c6e3620260722"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "CNN Brasil",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "\"Harmonização facial\" de Vini Jr.: entenda riscos do procedimento",
+          "url": "https://www.cnnbrasil.com.br/saude/harmonizacao-facial-de-vini-jr-entenda-riscos-do-procedimento/"
+        },
+        {
+          "rank": 2,
+          "title": "Dois maiores inimigos dos rins são conhecidos e terceiro vem crescendo",
+          "url": "https://www.cnnbrasil.com.br/saude/dois-maiores-inimigos-dos-rins-sao-conhecidos-e-terceiro-vem-crescendo/"
+        },
+        {
+          "rank": 3,
+          "title": "Interpol descobre delegacia falsa da Polícia Federal brasileira na África",
+          "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/nacional/brasil/interpol-descobre-delegacia-falsa-da-policia-federal-brasileira-na-africa/"
+        },
+        {
+          "rank": 4,
+          "title": "Harmonização facial de Vini Jr. divide opiniões na web; veja antes e depois",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/harmonizacao-facial-de-vini-jr-divide-opinioes-na-web-veja-antes-e-depois/"
+        },
+        {
+          "rank": 5,
+          "title": "Brasil vence o Japão de virada e se classifica para semi da VNL Feminina",
+          "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-vence-o-japao-de-virada-e-se-classifica-para-semi-da-vnl-feminina/"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "O Globo",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Barbearia nudista cobra até R$ 4 mil por atendimento; saiba como funciona a proposta",
+          "url": "https://oglobo.globo.com/ela/noticia/2026/07/21/barbearia-nudista-cobra-ate-r-4-mil-por-atendimento-saiba-como-funciona-a-proposta.ghtml"
+        },
+        {
+          "rank": 2,
+          "title": "Almada sinaliza positivamente ao Flamengo, que busca acordo com o Atlético de Madrid",
+          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/22/almada-sinaliza-positivamente-para-o-flamengo-que-precisara-chegar-a-acordo-com-atletico-de-madrid.ghtml"
+        },
+        {
+          "rank": 3,
+          "title": "Ciro Nogueira avisa Flávio Bolsonaro que PP ficará neutro na eleição presidencial e frustra PL",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/22/ciro-nogueira-avisa-flavio-bolsonaro-que-pp-ficara-neutro-na-eleicao-presidencial-e-frustra-pl.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "Dados falsos citados por Flávio sobre urnas repercutem no TSE, e ministros citam caso que gerou punições",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/22/dados-falsos-citados-por-flavio-sobre-urnas-repercutem-no-tse-e-ministros-citam-caso-que-gerou-punicoes.ghtml"
+        },
+        {
+          "rank": 5,
+          "title": "Religião, namorada ou timidez? Web busca explicações para 'vácuo' de Lamine Yamal diante da princesa Sofia",
+          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/22/religiao-namorada-ou-timidez-web-busca-explicacoes-para-vacuo-de-lamine-yamal-diante-da-princesa-sofia.ghtml"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "Estadão",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+        },
+        {
+          "rank": 2,
+          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
+          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+        },
+        {
+          "rank": 3,
+          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
+          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
+        },
+        {
+          "rank": 4,
+          "title": "Por que a reunião de Flávio Bolsonaro com embaixadores acendeu um alerta no TSE?",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/por-que-a-reuniao-de-flavio-bolsonaro-com-embaixadores-acendeu-um-alerta-no-tse/"
+        },
+        {
+          "rank": 5,
+          "title": "Zidane, Guardiola, Ancelotti e Klopp: as negociações dos técnicos com seleções para a Copa de 2030",
+          "url": "https://www.estadao.com.br/esportes/futebol/zidane-guardiola-ancelotti-e-klopp-as-negociacoes-dos-tecnicos-com-selecoes-para-a-copa-de-2030/"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "Metrópoles",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Flávio Bolsonaro emitiu R$ 1,5 milhão em notas para empresas usadas em esquema de Vorcaro",
+          "url": "https://www.metropoles.com/colunas/tacio-lorran/flavio-bolsonaro-emitiu-r-15-milhao-em-notas-para-empresas-usadas-em-esquema-de-vorcaro"
+        },
+        {
+          "rank": 2,
+          "title": "Com Vozinha, Fifa divulga a seleção ideal da Copa do Mundo de 2026",
+          "url": "https://www.metropoles.com/esportes/com-vozinha-fifa-divulga-a-selecao-ideal-da-copa-do-mundo-de-2026"
+        },
+        {
+          "rank": 3,
+          "title": "Thais Carla impressiona ao posar com look fitness após perder 101 kg",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/thais-carla-impressiona-ao-posar-com-look-fitness-apos-perder-101-kg"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "R7",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Quem era Michele Leão, capitã da PM morta em Belo Horizonte",
+          "url": "https://noticias.r7.com/minas-gerais/quem-era-michele-leao-familia-lembra-capita-da-pm-como-uma-mulher-alegre-dedicada-e-apaixonada-pelo-filho-22072026/"
+        },
+        {
+          "rank": 2,
+          "title": "Cosme: Poupado, Neymar joga pôquer durante partida decisiva do Santos",
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-jogava-poquer-ontem-enquanto-santos-disputava-vaga-na-copa-sul-americana-time-de-cuca-foi-mais-competitivo-e-goleou-sem-seu-idolo-22072026/"
+        },
+        {
+          "rank": 3,
+          "title": "Mega-Sena acumula e vai a R$ 62 milhões; veja os números desta terça-feira",
+          "url": "https://noticias.r7.com/loterias/mega-sena-acumula-e-premio-vai-a-r-62-milhoes-veja-os-numeros-desta-terca-feira-22072026/"
+        },
+        {
+          "rank": 4,
+          "title": "Cosme: Ronaldo e Roberto Carlos serão sócios de time do interior de SP",
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/bilionarios-ronaldo-e-roberto-carlos-serao-socios-na-inter-de-limeira-e-se-der-certo-investirao-no-uniao-sao-joao-22072026/"
+        },
+        {
+          "rank": 5,
+          "title": "'Coração de Mãe': Bora se declara para Karsu e faz pedido emocionante",
+          "url": "https://record.r7.com/coracao-de-mae/novidades/em-coracao-de-mae-bora-se-declara-para-karsu-e-faz-pedido-emocionante-antes-da-viagem-21072026/"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "AP",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Kaylee Hottle, deaf ‘Godzilla’ actor, killed in car crash at 18",
+          "url": "https://apnews.com/article/kaylee-hottle-dies-godzilla-actor-7971cbb43107772fe4e9a6174ea84111"
+        },
+        {
+          "rank": 2,
+          "title": "Trump administration says it’s deferring $1B in Medicaid payments to California and Minnesota",
+          "url": "https://apnews.com/article/medicaid-fraud-minnesota-california-oz-rfk-trump-24033ef9807b46f8b6fd6614ef5b1169"
+        },
+        {
+          "rank": 3,
+          "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
+          "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
+        },
+        {
+          "rank": 4,
+          "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
+          "url": "https://apnews.com/article/canada-us-gordie-howe-bridge-trump-9327c97c42ca4a2343f337c7b30e7375"
+        },
+        {
+          "rank": 5,
+          "title": "US civil rights agency moves to end demographic data collection after 60 years",
+          "url": "https://apnews.com/article/eeoc-discrimination-dei-andrea-lucas-2f521d784a9d0376416499066dc9f178"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "BBC News",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz. 3 hrs ago World",
+          "url": "https://www.bbc.com/news/articles/cdrv0p37k8jo"
+        },
+        {
+          "rank": 2,
+          "title": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister. 4 hrs ago World",
+          "url": "https://www.bbc.com/news/articles/c204p64pqzno"
+        },
+        {
+          "rank": 3,
+          "title": "Tankers make sharp U-turns after Houthi shipping threat All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows. 8 hrs ago BBC Verify",
+          "url": "https://www.bbc.com/news/articles/cn0n127lpzgo"
+        },
+        {
+          "rank": 4,
+          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement. 11 hrs ago Technology",
+          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
+        },
+        {
+          "rank": 5,
+          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on The deaths of 52 people on the Clipper Endeavor led to the introduction of mandatory pre-flight safety briefings. 6 hrs ago",
+          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "portal": "Clarín",
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Mirá el Mundo en Fotos: el resumen del día en imágenes",
+          "url": "https://www.clarin.com/fotogalerias/mundo-fotos-resumen-dia-mejores-imagenes-espana-campeon-2026-llegada-seleccion-argentina-scaloneta-expo-rural-2026_5_UJOgrQrXU6.html"
+        },
+        {
+          "rank": 2,
+          "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
+          "url": "https://www.clarin.com/mundo/openai-revela-agentes-ia-realizaron-hackeo-precedentes-empresa_0_3RaGKVaDgv.html"
+        },
+        {
+          "rank": 3,
+          "title": "La Justicia de EE.UU. avanza contra la AFA y pide comunicaciones de \"Chiqui\" Tapia, Pablo Toviggino y Javier Faroni",
+          "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
+        },
+        {
+          "rank": 4,
+          "title": "Las mejores medialunas de Buenos Aires: la guía definitiva para encontrar las más ricas según cada antojo",
+          "url": "https://www.clarin.com/gourmet/mejores-medialunas-buenos-aires-guia-definitiva-encontrar-ricas-antojo_0_VeGvflC0Jj.html"
+        },
+        {
+          "rank": 5,
+          "title": "El semáforo de la Selección en el Mundial 2026: Messi fue el más aprobado, muchos no explotaron y tres quedaron en deuda",
+          "url": "https://www.clarin.com/deportes/semaforo-seleccion-mundial-2026-messi-aprobado-explotaron-quedaron-deuda_0_g9UQVaR30A.html"
+        }
+      ],
+      "erro": null
+    }
+  ]
+}

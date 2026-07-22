@@ -139,7 +139,7 @@
           <div class="sec-label">Concorrência — mais lidas</div>
           <button class="refresh" onclick="location.reload()">↻ Atualizar</button>
         </div>
-        <span id="updated" class="upd">Atualizado 22/07/2026 16:40</span>
+        <span id="updated" class="upd"></span>
       </div>
       <div class="grid" id="grid"></div>
       <footer id="foot"></footer>
@@ -156,7 +156,7 @@ function togglePanel(head){
 
 const exemplo=null;
 function render(dados){
-  document.getElementById("updated").innerHTML="Atualizado: <b>"+dados.atualizado_em+"</b>";
+  document.getElementById("updated").innerHTML="Coletado: <b>"+dados.atualizado_em+"</b> · atualiza sozinho a cada 10 min";
   const grid=document.getElementById("grid");grid.innerHTML="";
   for(const p of dados.portais){
     const col=document.createElement("div");col.className="col";

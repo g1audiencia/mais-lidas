@@ -147,7 +147,12 @@ def coletor_bbc(html_str):
     for a in links:
         href = a.get("href","").strip()
         if href.startswith("/"): href = "https://www.bbc.com" + href
-        titulo = re.sub(r"^\s*\d+\s+", "", a.get_text(" ", strip=True))
+        # pegar só o <h2> (título limpo); a BBC às vezes gruda resumo no texto do link
+        h2 = a.find("h2")
+        if h2:
+            titulo = h2.get_text(" ", strip=True)
+        else:
+            titulo = re.sub(r"^\s*\d+\s+", "", a.get_text(" ", strip=True))
         if not titulo or href in vistos: continue
         vistos.add(href)
         itens.append({"rank": len(itens)+1, "title": titulo, "url": href})
@@ -161,6 +166,9 @@ def coletor_clarin(html_str):
         titulo = a.get("aria-label","").strip()
         href = a.get("data-mrf-link") or a.get("href","")
         if href.startswith("/"): href = "https://www.clarin.com" + href
+        # excluir galerias de foto e vídeos que se infiltram na lista
+        if "/fotogalerias/" in href or "/videos/" in href: continue
+        # só considerar links que estão no bloco "Lo más visto" (têm aria-label real)
         if not titulo or not href or href in vistos: continue
         vistos.add(href)
         pai = a.parent

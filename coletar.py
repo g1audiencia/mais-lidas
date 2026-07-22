@@ -141,21 +141,34 @@ def coletor_ap(html_str):
 
 def coletor_bbc(html_str):
     soup = BeautifulSoup(html_str, "html.parser")
-    links = soup.find_all("a", href=re.compile(r"/news/articles/"))
-    if not links: raise ValueError("bloco 'Most read' da BBC não encontrado")
-    itens = []; vistos = set()
-    for a in links:
-        href = a.get("href","").strip()
-        if href.startswith("/"): href = "https://www.bbc.com" + href
-        # pegar só o <h2> (título limpo); a BBC às vezes gruda resumo no texto do link
-        h2 = a.find("h2")
+    h2_mr = None
+    for h in soup.find_all(["h2","h3"]):
+        if re.search(r"most read", h.get_text(), re.I):
+            h2_mr = h; break
+    bloco = None
+    if h2_mr:
+        bloco = h2_mr.find_parent("section") or h2_mr.find_parent("div")
+    if bloco is None:
+        melhor=None; n=0
+        for sec in soup.find_all(["section","ol","div"]):
+            la = sec.find_all("a", href=re.compile(r"/news/articles/"))
+            if len(la)>n and len(la)<=12:
+                n=len(la); melhor=sec
+        bloco = melhor
+    if bloco is None:
+        raise ValueError("bloco 'Most read' da BBC nao encontrado")
+    itens=[]; vistos=set()
+    for a in bloco.find_all("a", href=re.compile(r"/news/articles/")):
+        href=a.get("href","").strip()
+        if href.startswith("/"): href="https://www.bbc.com"+href
+        h2=a.find(["h2","h3"])
         if h2:
-            titulo = h2.get_text(" ", strip=True)
+            titulo=h2.get_text(" ",strip=True)
         else:
-            titulo = re.sub(r"^\s*\d+\s+", "", a.get_text(" ", strip=True))
+            titulo=re.sub(r"^\s*\d+\s+","",a.get_text(" ",strip=True))
         if not titulo or href in vistos: continue
         vistos.add(href)
-        itens.append({"rank": len(itens)+1, "title": titulo, "url": href})
+        itens.append({"rank":len(itens)+1,"title":titulo,"url":href})
     return itens
 
 def coletor_clarin(html_str):

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:18",
+  "atualizado_em": "23/07/2026 06:24",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Investidor deve esquecer o CDI? IPCA+ ganha espaço como nova peça-chave das carteiras",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/investidor-deve-esquecer-o-cdi-ipca-ganha-espaco-como-nova-peca-chave-das-carteiras/"
-        },
-        {
-          "rank": 4,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 4,
+          "title": "Dólar ou CDI: os dois grandes bloqueios para o investidor brasileiro diversificar internacionalmente",
+          "url": "https://www.estadao.com.br/einvestidor/william-castro/dolar-ou-cdi-os-dois-grandes-bloqueios-para-o-investidor-brasileiro-diversificar-internacionalmente/"
+        },
+        {
           "rank": 5,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
+          "title": "Produto brasileiro sente ‘efeito Milei’ e perde liderança para a China na Argentina",
+          "url": "https://www.estadao.com.br/economia/produto-brasileiro-sente-efeito-milei-e-perde-lideranca-para-a-china-na-argentina/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
-        },
-        {
-          "rank": 3,
           "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
           "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "US signs landmark nuclear deal with Saudi Arabia",
           "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         },
         {
+          "rank": 4,
+          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
+        },
+        {
           "rank": 5,
-          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
         }
       ],
       "erro": null

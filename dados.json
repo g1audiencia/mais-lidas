@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 13:52",
+  "atualizado_em": "23/07/2026 13:57",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 4,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
           "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
+        },
+        {
+          "rank": 5,
+          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
         }
       ],
       "erro": null
@@ -226,13 +226,13 @@
         },
         {
           "rank": 2,
-          "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
-          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-22-2026-42ff3de8d135ad72ff3ba4d94cc0921d"
+          "title": "House Republicans adopt $95 billion package for the Iran war and Trump’s priorities",
+          "url": "https://apnews.com/article/gop-95-billion-iran-war-trump-johnson-f9dea5ef800bfeb0e343256e841af38f"
         },
         {
           "rank": 3,
-          "title": "House Republicans adopt $95 billion package for the Iran war and Trump’s priorities",
-          "url": "https://apnews.com/article/gop-95-billion-iran-war-trump-johnson-f9dea5ef800bfeb0e343256e841af38f"
+          "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
+          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-22-2026-42ff3de8d135ad72ff3ba4d94cc0921d"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-          "url": "https://www.bbc.com/news/articles/cvgjp79m42go"
+          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         }
       ],
       "erro": null

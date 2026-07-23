@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 05:50",
+  "atualizado_em": "23/07/2026 06:00",
   "portais": [
     {
       "portal": "Folha",
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Almada sinaliza positivamente ao Flamengo, que busca acordo com o Atlético de Madrid",
-          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/22/almada-sinaliza-positivamente-para-o-flamengo-que-precisara-chegar-a-acordo-com-atletico-de-madrid.ghtml"
+          "title": "Nem atum nem pescada: o peixe rico em proteínas que ajuda a equilibrar o colesterol e a saúde cerebral",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/07/22/nem-atum-nem-pescada-o-peixe-rico-em-proteinas-que-ajuda-a-equilibrar-o-colesterol-e-a-saude-cerebral.ghtml"
         },
         {
           "rank": 5,
-          "title": "Nem atum nem pescada: o peixe rico em proteínas que ajuda a equilibrar o colesterol e a saúde cerebral",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/07/22/nem-atum-nem-pescada-o-peixe-rico-em-proteinas-que-ajuda-a-equilibrar-o-colesterol-e-a-saude-cerebral.ghtml"
+          "title": "Almada sinaliza positivamente ao Flamengo, que busca acordo com o Atlético de Madrid",
+          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/22/almada-sinaliza-positivamente-para-o-flamengo-que-precisara-chegar-a-acordo-com-atletico-de-madrid.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Elomar traz ‘O Auto da Catingueira’  para o Cultura Artística: ‘O sertão acabou’, diz",
-          "url": "https://www.estadao.com.br/cultura/musica/elomar-traz-o-auto-da-catingueira-para-o-cultura-artistica-o-sertao-acabou-diz/"
-        },
-        {
-          "rank": 2,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
-        },
-        {
-          "rank": 3,
-          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
-          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
-        },
-        {
-          "rank": 4,
           "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         },
         {
+          "rank": 2,
+          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
+          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
+        },
+        {
+          "rank": 3,
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+        },
+        {
+          "rank": 4,
+          "title": "Elomar traz ‘O Auto da Catingueira’  para o Cultura Artística: ‘O sertão acabou’, diz",
+          "url": "https://www.estadao.com.br/cultura/musica/elomar-traz-o-auto-da-catingueira-para-o-cultura-artistica-o-sertao-acabou-diz/"
+        },
+        {
           "rank": 5,
-          "title": "Qual o melhor creme de leite fresco do Brasil?",
-          "url": "https://www.estadao.com.br/paladar/comida/qual-o-melhor-creme-de-leite-fresco-do-brasil/"
+          "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
+          "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
-        },
-        {
-          "rank": 3,
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
-        },
-        {
-          "rank": 4,
           "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
           "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         },
         {
+          "rank": 3,
+          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
+        },
+        {
+          "rank": 4,
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+        },
+        {
           "rank": 5,
-          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
         }
       ],
       "erro": null

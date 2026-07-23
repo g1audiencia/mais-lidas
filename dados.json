@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 20:52",
+  "atualizado_em": "23/07/2026 20:58",
   "portais": [
     {
       "portal": "Folha",
@@ -71,13 +71,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/com-cancer-lito-sousa-e-diagnosticado-com-inflamacao-no-sistema-nervoso/"
+          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
         },
         {
           "rank": 2,
-          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
+          "title": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/com-cancer-lito-sousa-e-diagnosticado-com-inflamacao-no-sistema-nervoso/"
         },
         {
           "rank": 3,
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Vídeo: Trem pega fogo no Centro de SP e passageiros andam nos trilhos",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-trem-pega-fogo-no-centro-de-sp-e-passageiros-andam-nos-trilhos/"
+          "title": "Lamine Yamal revela conselho de Messi após a final da Copa do Mundo",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/lamine-yamal-revela-conselho-de-messi-apos-a-final-da-copa-do-mundo/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+        },
+        {
+          "rank": 3,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "EUA anunciam sobretaxa de 12,5% a produtos brasileiros por falhas no combate ao trabalho forçado",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
-        },
-        {
-          "rank": 5,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         }
       ],
       "erro": null

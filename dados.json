@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 15:09",
+  "atualizado_em": "23/07/2026 15:14",
   "portais": [
     {
       "portal": "Folha",
@@ -189,28 +189,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Veja vídeo do momento em que vagão de trem da linha 12-Safira pega fogo em SP",
+          "url": "https://record.r7.com/balanco-geral-manha/video/panico-e-correria-veja-video-do-momento-em-que-vagao-de-trem-da-linha-12-safira-pega-fogo-em-sp-23072026/"
+        },
+        {
+          "rank": 2,
           "title": "Quem era Michele Leão, capitã da PM morta em Belo Horizonte",
           "url": "https://noticias.r7.com/minas-gerais/quem-era-michele-leao-familia-lembra-capita-da-pm-como-uma-mulher-alegre-dedicada-e-apaixonada-pelo-filho-22072026/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Cão gigante mobiliza resgate de 4 horas após ferir a pata durante trilha",
           "url": "https://entretenimento.r7.com/rpet/cao-gigante-ferido-mobiliza-operacao-de-resgate-de-4-horas-para-descer-uma-montanha-23072026/"
         },
         {
-          "rank": 3,
-          "title": "Princesa da Espanha viraliza após encontro com Yamal; saiba quem é",
-          "url": "https://esportes.r7.com/futebol/quem-e-a-princesa-da-espanha-que-viralizou-apos-encontro-com-lamine-yamal-23072026/"
-        },
-        {
           "rank": 4,
-          "title": "Blog: São Paulo leva virada, e Dorival já é questionado por jejum",
-          "url": "https://esportes.r7.com/prisma/cosme-rimoli/frustrante-jejum-do-sao-paulo-time-de-dorival-toma-virada-em-casa-para-o-athletico-equipe-tensa-jogadores-afobados-tecnico-ja-e-questionado-23072026/"
+          "title": "Cosme: Com dívida de R$ 2,5 bi, Botafogo vira 'fornecedor' do Palmeiras",
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/marlon-freitas-barboza-e-danilo-palmeiras-e-o-que-mais-se-aproveita-das-dividas-de-r-25-bilhoes-do-botafogo-de-rival-o-clube-carioca-virou-fornecedor-23072026/"
         },
         {
           "rank": 5,
-          "title": "Cosme: Ronaldo e Roberto Carlos serão sócios de time do interior de SP",
-          "url": "https://esportes.r7.com/prisma/cosme-rimoli/bilionarios-ronaldo-e-roberto-carlos-serao-socios-na-inter-de-limeira-e-se-der-certo-investirao-no-uniao-sao-joao-22072026/"
+          "title": "Incêndio em trem paralisa três linhas do transporte sobre trilhos em SP",
+          "url": "https://record.r7.com/balanco-geral-manha/video/incendio-em-trem-paralisa-tres-linhas-do-transporte-sobre-trilhos-em-sao-paulo-23072026/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 13:03",
+  "atualizado_em": "23/07/2026 13:08",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
-          "title": "Dois maiores inimigos dos rins são conhecidos e terceiro vem crescendo",
-          "url": "https://www.cnnbrasil.com.br/saude/dois-maiores-inimigos-dos-rins-sao-conhecidos-e-terceiro-vem-crescendo/"
-        },
-        {
-          "rank": 4,
           "title": "Análise: Por que os EUA não tratam a Nicarágua como tratam Cuba e Venezuela",
           "url": "https://www.cnnbrasil.com.br/internacional/analise-por-que-os-eua-nao-tratam-a-nicaragua-como-tratam-cuba-e-venezuela/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Atacante Gabriel Pec passa por reavaliação e tem fratura confirmada",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/atacante-gabriel-pec-passa-por-reavaliacao-e-tem-fratura-confirmada/"
+        },
+        {
+          "rank": 5,
+          "title": "Dois maiores inimigos dos rins são conhecidos e terceiro vem crescendo",
+          "url": "https://www.cnnbrasil.com.br/saude/dois-maiores-inimigos-dos-rins-sao-conhecidos-e-terceiro-vem-crescendo/"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
           "rank": 5,
-          "title": "Furto de celular tem alta em SP e 8 Estados. Quais são os lugares com mais crimes? Consulte",
-          "url": "https://www.estadao.com.br/brasil/roubo-de-celular-cai-no-pais-sp-e-mais-8-estados-tem-alta-de-furtos/"
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         }
       ],
       "erro": null

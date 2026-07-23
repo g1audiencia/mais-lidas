@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:57",
+  "atualizado_em": "23/07/2026 07:02",
   "portais": [
     {
       "portal": "Folha",
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+          "title": "Zanin autoriza PF a investigar ministro do STJ Moura Ribeiro em inquérito sobre venda de decisões",
+          "url": "https://www.estadao.com.br/politica/zanin-autoriza-pf-a-investigar-ministro-do-stj-moura-ribeiro-em-inquerito-sobre-venda-de-decisoes/"
         },
         {
           "rank": 5,
-          "title": "Quem sai aos seus não degenera",
-          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
-        },
-        {
-          "rank": 2,
-          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
-        },
-        {
-          "rank": 3,
           "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
           "url": "https://www.bbc.com/news/articles/cz64pn37138o"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+        },
+        {
+          "rank": 3,
           "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
           "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
           "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
+        },
+        {
+          "rank": 5,
+          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 08:07",
+  "atualizado_em": "23/07/2026 08:13",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "Barbearia nudista cobra até R$ 4 mil por atendimento; saiba como funciona a proposta",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/07/21/barbearia-nudista-cobra-ate-r-4-mil-por-atendimento-saiba-como-funciona-a-proposta.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Cão enfrenta urso e salva menino de 6 anos de ataque nos Estados Unidos; vídeo viraliza nas redes",
           "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/22/cao-enfrenta-urso-e-salva-menino-de-6-anos-de-ataque-nos-estados-unidos-video-viraliza-nas-redes.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Vivi para contar: 'Seguimos lutando e agradecendo a Deus pelo milagre', diz mãe de bebê que 'renasceu' após ser declarado morto",
+          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/23/vivi-para-contar-seguimos-lutando-e-agradecendo-a-deus-pelo-milagre-diz-mae-de-bebe-que-renasceu-apos-ser-declarado-morto.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Almada sinaliza positivamente ao Flamengo, que busca acordo com o Atlético de Madrid",
-          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/22/almada-sinaliza-positivamente-para-o-flamengo-que-precisara-chegar-a-acordo-com-atletico-de-madrid.ghtml"
+          "title": "Barbearia nudista cobra até R$ 4 mil por atendimento; saiba como funciona a proposta",
+          "url": "https://oglobo.globo.com/ela/noticia/2026/07/21/barbearia-nudista-cobra-ate-r-4-mil-por-atendimento-saiba-como-funciona-a-proposta.ghtml"
         },
         {
           "rank": 5,
-          "title": "Com Messi, Mbappé e Vozinha, Fifa anuncia seleção ideal da Copa do Mundo",
-          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/22/com-messi-mbappe-e-vozinha-fifa-anuncia-selecao-ideal-da-copa-do-mundo.ghtml"
+          "title": "Almada sinaliza positivamente ao Flamengo, que busca acordo com o Atlético de Madrid",
+          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/22/almada-sinaliza-positivamente-para-o-flamengo-que-precisara-chegar-a-acordo-com-atletico-de-madrid.ghtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem sai aos seus não degenera",
-          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
-        },
-        {
-          "rank": 3,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
-        },
-        {
-          "rank": 4,
           "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
           "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
+        },
+        {
+          "rank": 4,
           "title": "‘Senador prestador de serviços: o consultor Flávio Bolsonaro na rede de Vorcaro’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/senador-prestador-de-servicos-o-consultor-flavio-bolsonaro-na-rede-de-vorcaro-estadao-analisa/"
+        },
+        {
+          "rank": 5,
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
         }
       ],
       "erro": null

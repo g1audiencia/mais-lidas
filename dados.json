@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 19:25",
+  "atualizado_em": "23/07/2026 19:31",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
-        },
-        {
-          "rank": 4,
           "title": "Estados Unidos anunciam sobretaxa de 12,5% a produtos brasileiros por trabalho escravo",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Bastidores: Mendonça não aliviará para Flávio no Dark Horse e rechaça pecha de traidor",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-mendonca-nao-aliviara-para-flavio-no-dark-horse-e-rechaca-pecha-de-traidor/"
+        },
+        {
+          "rank": 5,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         }
       ],
       "erro": null
@@ -300,8 +300,8 @@
         },
         {
           "rank": 4,
-          "title": "Quién era Facundo Rico, el ingeniero argentino asesinado en España por un marido celoso",
-          "url": "https://www.clarin.com/policiales/facundo-rico-ingeniero-argentino-asesinado-espana-marido-celoso_0_gm3aMmUDpY.html"
+          "title": "Por su adicción a las drogas, le dan arresto domiciliario a Facundo Leal: es el exfuncionario al que le encontraron más de US$ 2,5 millones, cocaína y pastillas de éxtasis",
+          "url": "https://www.clarin.com/politica/adiccion-drogas-dan-arresto-domiciliario-facundo-leal-ex-funcionario-encontraron-us-25-millones-cocaina-pastillas-extasis_0_C52mi0XtQc.html"
         },
         {
           "rank": 5,

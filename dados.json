@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 03:54",
+  "atualizado_em": "23/07/2026 04:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         },
         {
           "rank": 2,
-          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
-          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
+          "title": "Ciro indica que PP não comporá chapa de Flávio Bolsonaro nem será oposição ao próximo governo eleito",
+          "url": "https://www.estadao.com.br/politica/ciro-indica-que-pp-nao-compora-chapa-de-flavio-bolsonaro/"
         },
         {
           "rank": 3,
-          "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
-          "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
         },
         {
           "rank": 4,
-          "title": "Tesouro IPCA+, Selic ou Prefixado: o cálculo que mostra qual pode render mais até 2032",
-          "url": "https://www.estadao.com.br/einvestidor/einar-rivero/tesouro-ipca-selic-ou-prefixado-o-calculo-que-mostra-qual-pode-render-mais-ate-2032/"
+          "title": "Por que a reunião de Flávio Bolsonaro com embaixadores acendeu um alerta no TSE?",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/por-que-a-reuniao-de-flavio-bolsonaro-com-embaixadores-acendeu-um-alerta-no-tse/"
         },
         {
           "rank": 5,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
+          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
         }
       ],
       "erro": null
@@ -217,9 +217,30 @@
     },
     {
       "portal": "AP",
-      "ok": false,
-      "items": [],
-      "erro": "esperava ao menos 3 itens, achei 2"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "OpenAI models hacked into another AI company on their own, ChatGPT maker says",
+          "url": "https://apnews.com/article/openai-gpt56-sol-hugging-face-63ab84fed5612af04d8a160d60f6def3"
+        },
+        {
+          "rank": 2,
+          "title": "Independent autopsy of Nolan Wells finds ‘undetermined’ cause of death",
+          "url": "https://apnews.com/article/nolan-xavier-wells-ben-crump-mississippi-naacp-b620c2bedf4c05d2a460b5bb1e7ee02e"
+        },
+        {
+          "rank": 3,
+          "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
+          "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
+        },
+        {
+          "rank": 4,
+          "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
+          "url": "https://apnews.com/article/canada-us-gordie-howe-bridge-trump-9327c97c42ca4a2343f337c7b30e7375"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "BBC News",
@@ -247,8 +268,8 @@
         },
         {
           "rank": 5,
-          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+          "title": "Farm's delight after six white owlets found nesting",
+          "url": "https://www.bbc.com/news/articles/cvg9nql8x83o"
         }
       ],
       "erro": null

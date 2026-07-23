@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 05:02",
+  "atualizado_em": "23/07/2026 05:07",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
-          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
-        },
-        {
-          "rank": 2,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
-        },
-        {
-          "rank": 3,
           "title": "Os problemas sérios de afirmação nacional não estão na propaganda governista",
           "url": "https://www.estadao.com.br/politica/william-waack/os-problemas-serios-de-afirmacao-nacional-nao-estao-na-propaganda-governista/"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 3,
+          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
+          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+        },
+        {
+          "rank": 4,
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+        },
+        {
           "rank": 5,
-          "title": "Por que o Brasil tem tantos golpes virtuais e roubos de celular?",
-          "url": "https://www.estadao.com.br/brasil/por-que-brasil-tem-tantos-golpes-virtuais-e-roubos-de-celular/"
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 07:13",
+  "atualizado_em": "23/07/2026 07:19",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "'Happy hour das avós': mulher de 82 anos consegue mudança em lei americana para beber em casa de repouso",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/happy-hour-das-avos-mulher-de-82-anos-consegue-mudanca-em-lei-americana-para-beber-em-casa-de-repouso.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Sei que é difícil para o Brasil, mas joguei meu melhor, diz algoz de Calderano em Paris",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/sei-que-e-dificil-para-o-brasil-mas-joguei-meu-melhor-diz-algoz-de-calderano-em-paris.shtml"
         },
         {
+          "rank": 4,
+          "title": "'Happy hour das avós': mulher de 82 anos consegue mudança em lei americana para beber em casa de repouso",
+          "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/happy-hour-das-avos-mulher-de-82-anos-consegue-mudanca-em-lei-americana-para-beber-em-casa-de-repouso.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
+          "title": "Falha paralisa linhas 11, 12 e 13 da Trivia Trens e provoca caos no transporte coletivo em SP",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/falha-paralisa-linhas-11-12-e-13-da-trivia-trens-e-provoca-caos-no-transporte-coletivo-em-sp.shtml"
         }
       ],
       "erro": null
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Com Messi, Mbappé e Vozinha, Fifa anuncia seleção ideal da Copa do Mundo",
-          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/22/com-messi-mbappe-e-vozinha-fifa-anuncia-selecao-ideal-da-copa-do-mundo.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Cão enfrenta urso e salva menino de 6 anos de ataque nos Estados Unidos; vídeo viraliza nas redes",
           "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/22/cao-enfrenta-urso-e-salva-menino-de-6-anos-de-ataque-nos-estados-unidos-video-viraliza-nas-redes.ghtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Almada sinaliza positivamente ao Flamengo, que busca acordo com o Atlético de Madrid",
           "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/22/almada-sinaliza-positivamente-para-o-flamengo-que-precisara-chegar-a-acordo-com-atletico-de-madrid.ghtml"
+        },
+        {
+          "rank": 5,
+          "title": "Com Messi, Mbappé e Vozinha, Fifa anuncia seleção ideal da Copa do Mundo",
+          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/22/com-messi-mbappe-e-vozinha-fifa-anuncia-selecao-ideal-da-copa-do-mundo.ghtml"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Natalia Timerman mostra biblioteca e conta qual clássico da literatura avaliou com ‘seis estrelas’",
-          "url": "https://www.estadao.com.br/cultura/literatura/natalia-timerman-mostra-biblioteca-e-conta-qual-classico-da-literatura-avaliou-com-seis-estrelas/"
+          "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
+          "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
           "rank": 5,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+          "title": "‘O problema não é ela, é o Flávio’: o diagnóstico da Faria Lima após périplo de Daniella Marques",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-problema-nao-e-ela-e-o-flavio-o-diagnostico-da-faria-lima-apos-periplo-de-daniella-marques/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
-          "url": "https://www.clarin.com/mundo/openai-revela-agentes-ia-realizaron-hackeo-precedentes-empresa_0_3RaGKVaDgv.html"
-        },
-        {
-          "rank": 3,
           "title": "Sin Messi ni De Paul, Inter Miami ganó pese a un blooper de su arquero argentino y amargó el debut de Lewandowski en Chicago Fire",
           "url": "https://www.clarin.com/deportes/messi-paul-inter-miami-gano-pese-blooper-arquero-argentino-amargo-debut-lewandowski-chicago-fire_0_xQLyqNNkZj.html"
         },
         {
+          "rank": 3,
+          "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
+          "url": "https://www.clarin.com/mundo/openai-revela-agentes-ia-realizaron-hackeo-precedentes-empresa_0_3RaGKVaDgv.html"
+        },
+        {
           "rank": 4,
-          "title": "Javier Milei pide por la economía antes de las PASO y el regreso de Mauricio Macri",
-          "url": "https://www.clarin.com/politica/javier-milei-pide-economia-paso-regreso-mauricio-macri_0_vzBkPfFhJL.html"
+          "title": "Por primera vez, citan a declarar en Estados Unidos a un testigo de los negocios y movimientos de fondos de la AFA en el exterior",
+          "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
         },
         {
           "rank": 5,
-          "title": "Por primera vez, citan a declarar en Estados Unidos a un testigo de los negocios y movimientos de fondos de la AFA en el exterior",
-          "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
+          "title": "Javier Milei pide por la economía antes de las PASO y el regreso de Mauricio Macri",
+          "url": "https://www.clarin.com/politica/javier-milei-pide-economia-paso-regreso-mauricio-macri_0_vzBkPfFhJL.html"
         }
       ],
       "erro": null

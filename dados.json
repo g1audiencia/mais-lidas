@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 05:18",
+  "atualizado_em": "23/07/2026 05:29",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+        },
+        {
+          "rank": 3,
           "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
           "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
         },
         {
-          "rank": 3,
-          "title": "Por que a reunião de Flávio Bolsonaro com embaixadores acendeu um alerta no TSE?",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/por-que-a-reuniao-de-flavio-bolsonaro-com-embaixadores-acendeu-um-alerta-no-tse/"
-        },
-        {
           "rank": 4,
-          "title": "Novo desafio dos empreendedores não é ter tecnologia — é saber usá-la",
-          "url": "https://www.estadao.com.br/economia/novo-desafio-dos-empreendedores-nao-e-ter-tecnologia-e-saber-usa-la/"
+          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
+          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
         },
         {
           "rank": 5,
-          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
-          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
+          "title": "Por que a reunião de Flávio Bolsonaro com embaixadores acendeu um alerta no TSE?",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/por-que-a-reuniao-de-flavio-bolsonaro-com-embaixadores-acendeu-um-alerta-no-tse/"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         },
         {
           "rank": 3,
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
         },
         {
           "rank": 4,

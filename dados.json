@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 05:51",
+  "atualizado_em": "23/07/2026 05:56",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
           "rank": 3,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
-        },
-        {
-          "rank": 4,
           "title": "Por que o Brasil tem tantos golpes virtuais e roubos de celular?",
           "url": "https://www.estadao.com.br/brasil/por-que-brasil-tem-tantos-golpes-virtuais-e-roubos-de-celular/"
         },
         {
+          "rank": 4,
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+        },
+        {
           "rank": 5,
-          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
-          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         }
       ],
       "erro": null
@@ -253,23 +253,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Police officer was violent rapist who attacked women over 14 years",
-          "url": "https://www.bbc.com/news/articles/c3v0rq66q3no"
-        },
-        {
-          "rank": 2,
           "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
           "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
           "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "US signs landmark nuclear deal with Saudi Arabia",
           "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+        },
+        {
+          "rank": 4,
+          "title": "Police officer was violent rapist who attacked women over 14 years",
+          "url": "https://www.bbc.com/news/articles/c3v0rq66q3no"
         },
         {
           "rank": 5,

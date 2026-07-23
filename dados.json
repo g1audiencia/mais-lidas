@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 04:45",
+  "atualizado_em": "23/07/2026 04:51",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
+          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
         },
         {
           "rank": 3,
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
+        },
+        {
+          "rank": 4,
           "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
           "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
         },
         {
-          "rank": 4,
-          "title": "Joia do Palmeiras aparece em seleção de promessas para a Copa do Mundo 2030; confira",
-          "url": "https://www.estadao.com.br/esportes/futebol/joia-do-palmeiras-aparece-em-selecao-de-promessas-para-a-copa-do-mundo-2030-confira-npres/"
-        },
-        {
           "rank": 5,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+          "title": "Os problemas sérios de afirmação nacional não estão na propaganda governista",
+          "url": "https://www.estadao.com.br/politica/william-waack/os-problemas-serios-de-afirmacao-nacional-nao-estao-na-propaganda-governista/"
         }
       ],
       "erro": null

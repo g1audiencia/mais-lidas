@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:46",
+  "atualizado_em": "23/07/2026 06:51",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Athletico vira em 5 minutos sobre São Paulo e deixa rival pressionado",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/22/sao-paulo-leva-2-gols-em-5-minutos-e-perde-para-athletico-na-volta-da-copa.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Abaixo-assinado argentino reúne 67 mil pedindo anulação de final da Copa",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/22/abaixo-assinado-argentino-reune-67-mil-pedindo-anulacao-de-final-da-copa.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Qual nível de testosterona é ideal e o que ela realmente faz no seu corpo",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/22/mais-testosterona-homem-mais-forte.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Turista sofre lesão genital em Honduras; socorro custou R$ 270 mil",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/22/turista-sofre-lesao-genital-em-honduras-socorro-custou-r-270-mil.ghtm"
+        },
+        {
+          "rank": 4,
           "title": "Como funciona o 'Xerf', tecnologia usada em mudanças no rosto de Vini Jr.",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/22/sem-agulhas-o-que-e-o-procedimento-feito-por-vini-jr-e-virginia.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Deputado italiano contrário a Carla Zambelli diz que ela sumiu",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/22/deputado-que-entregou-zambelli-na-italia-diz-que-ninguem-sabe-onde-ela-esta.htm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
-        },
-        {
-          "rank": 3,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
-        },
-        {
-          "rank": 4,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+        },
+        {
+          "rank": 4,
           "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
           "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+        },
+        {
+          "rank": 5,
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Caso AFA: Tapia y Toviggino, acorralados en EE.UU.",
-          "url": "https://www.clarin.com/opinion/caso-afa-tapia-toviggino-acorralados-eeuu_0_u27F30oiFg.html"
+          "title": "Javier Milei pide por la economía antes de las PASO y el regreso de Mauricio Macri",
+          "url": "https://www.clarin.com/politica/javier-milei-pide-economia-paso-regreso-mauricio-macri_0_vzBkPfFhJL.html"
         },
         {
           "rank": 5,
-          "title": "Las mejores medialunas de Buenos Aires: la guía definitiva para encontrar las más ricas según cada antojo",
-          "url": "https://www.clarin.com/gourmet/mejores-medialunas-buenos-aires-guia-definitiva-encontrar-ricas-antojo_0_VeGvflC0Jj.html"
+          "title": "Por primera vez, citan a declarar en Estados Unidos a un testigo de los negocios y movimientos de fondos de la AFA en el exterior",
+          "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
         }
       ],
       "erro": null

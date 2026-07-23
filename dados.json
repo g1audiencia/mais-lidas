@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 20:31",
+  "atualizado_em": "23/07/2026 20:36",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Voo da Voepass que matou 62 pessoas não poderia ter decolado, diz Cenipa",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/voo-da-voepass-que-matou-62-pessoas-nao-poderia-ter-decolado-diz-cenipa.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Caça mais avançado da Rússia cai pela primeira vez",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Igreja Presbiteriana Unida aprova inclusão de pessoas homoafetivas como membros e pastores",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/igreja-presbiteriana-unida-aprova-inclusao-de-pessoas-homoafetivas-como-membros-e-pastores.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Andréa Sorvetão diz que rompimento com Xuxa é político e rebate acusação de homofobia",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/andrea-sorvetao-diz-que-rompimento-com-xuxa-e-politico-e-rebate-acusacao-de-homofobia.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cenipa divulga relatório final e diz que avião da Voepass não poderia ter decolado; acompanhe",
-          "url": "https://www.estadao.com.br/brasil/ao-vivo-cenipa-relatorio-voepass-aviao/"
-        },
-        {
-          "rank": 2,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
-        },
-        {
-          "rank": 3,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Cenipa divulga relatório final e diz que avião da Voepass não poderia ter decolado; acompanhe",
+          "url": "https://www.estadao.com.br/brasil/ao-vivo-cenipa-relatorio-voepass-aviao/"
+        },
+        {
+          "rank": 3,
           "title": "EUA anunciam sobretaxa de 12,5% a produtos brasileiros por falhas no combate ao trabalho forçado",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         },
         {
+          "rank": 4,
+          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+        },
+        {
           "rank": 5,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         }
       ],
       "erro": null

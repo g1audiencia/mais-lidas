@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 14:25",
+  "atualizado_em": "23/07/2026 14:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
-        },
-        {
-          "rank": 2,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
-          "rank": 3,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
         },
         {
+          "rank": 3,
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+        },
+        {
+          "rank": 4,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+        },
+        {
           "rank": 5,
-          "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
-          "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
+          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
+          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
-          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
-        },
-        {
-          "rank": 4,
           "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
           "url": "https://www.bbc.com/news/articles/cz05lx0xpero"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
           "url": "https://www.bbc.com/news/articles/cvgjp79m42go"
+        },
+        {
+          "rank": 5,
+          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
         }
       ],
       "erro": null

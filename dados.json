@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 08:35",
+  "atualizado_em": "23/07/2026 08:40",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
-        },
-        {
-          "rank": 2,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 2,
+          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
+        },
+        {
           "rank": 3,
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
+        },
+        {
+          "rank": 4,
           "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
           "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
-          "rank": 4,
-          "title": "Relatório de tragédia da Voepass será revelado: quais as causas mais comuns de acidentes de avião?",
-          "url": "https://www.estadao.com.br/brasil/relatorio-de-tragedia-da-voepass-sera-revelado-quais-as-causas-mais-comuns-de-acidentes-de-aviao/"
-        },
-        {
           "rank": 5,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
+          "title": "Ortega rasga a fantasia",
+          "url": "https://www.estadao.com.br/opiniao/ortega-rasga-a-fantasia/"
         }
       ],
       "erro": null

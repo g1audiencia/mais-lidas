@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 07:51",
+  "atualizado_em": "23/07/2026 07:56",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘Senador prestador de serviços: o consultor Flávio Bolsonaro na rede de Vorcaro’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/senador-prestador-de-servicos-o-consultor-flavio-bolsonaro-na-rede-de-vorcaro-estadao-analisa/"
-        },
-        {
-          "rank": 4,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 4,
+          "title": "‘Senador prestador de serviços: o consultor Flávio Bolsonaro na rede de Vorcaro’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/senador-prestador-de-servicos-o-consultor-flavio-bolsonaro-na-rede-de-vorcaro-estadao-analisa/"
+        },
+        {
           "rank": 5,
-          "title": "Zanin autoriza PF a investigar ministro do STJ Moura Ribeiro em inquérito sobre venda de decisões",
-          "url": "https://www.estadao.com.br/politica/zanin-autoriza-pf-a-investigar-ministro-do-stj-moura-ribeiro-em-inquerito-sobre-venda-de-decisoes/"
+          "title": "Ortega rasga a fantasia",
+          "url": "https://www.estadao.com.br/opiniao/ortega-rasga-a-fantasia/"
         }
       ],
       "erro": null
@@ -263,8 +263,8 @@
         },
         {
           "rank": 3,
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "Sin Messi ni De Paul, Inter Miami ganó pese a un blooper de su arquero argentino y amargó el debut de Lewandowski en Chicago Fire",
-          "url": "https://www.clarin.com/deportes/messi-paul-inter-miami-gano-pese-blooper-arquero-argentino-amargo-debut-lewandowski-chicago-fire_0_xQLyqNNkZj.html"
+          "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
+          "url": "https://www.clarin.com/mundo/openai-revela-agentes-ia-realizaron-hackeo-precedentes-empresa_0_3RaGKVaDgv.html"
         },
         {
           "rank": 3,
-          "title": "Crearon una solución simple para una de las cirugías del ojo más riesgosas y ganaron su séptimo \"Óscar de la retina\"",
-          "url": "https://www.clarin.com/sociedad/crearon-solucion-simple-cirugias-ojo-riesgosas-ganaron-septimo-oscar-retina_0_VM7QqRcVfO.html"
+          "title": "Lionel Messi, elegido mejor jugador del Mundial por la IFFHS: el premio que le negó la FIFA le llega por un \"veredicto inequívoco\"",
+          "url": "https://www.clarin.com/deportes/lionel-messi-elegido-mejor-jugador-mundial-iffhs-premio-nego-fifa-llega-veredicto-inequivoco_0_QtTNKyLOJt.html"
         },
         {
           "rank": 4,
-          "title": "Javier Milei pide por la economía antes de las PASO y el regreso de Mauricio Macri",
-          "url": "https://www.clarin.com/politica/javier-milei-pide-economia-paso-regreso-mauricio-macri_0_vzBkPfFhJL.html"
+          "title": "Redes, relatos y un enemigo común: Javier Milei convirtió la polémica por la derrota de la selección en un un nuevo capítulo de \"su batalla cultural\"",
+          "url": "https://www.clarin.com/politica/redes-relatos-enemigo-comun-javier-milei-convirtio-polemica-derrota-seleccion-nuevo-capitulo-batalla-cultural_0_CD2ZfmMLtG.html"
         },
         {
           "rank": 5,
-          "title": "Por primera vez, citan a declarar en Estados Unidos a un testigo de los negocios y movimientos de fondos de la AFA en el exterior",
-          "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
+          "title": "Sin Messi ni De Paul, Inter Miami ganó pese a un blooper de su arquero argentino y amargó el debut de Lewandowski en Chicago Fire",
+          "url": "https://www.clarin.com/deportes/messi-paul-inter-miami-gano-pese-blooper-arquero-argentino-amargo-debut-lewandowski-chicago-fire_0_xQLyqNNkZj.html"
         }
       ],
       "erro": null

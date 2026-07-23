@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:31",
+  "atualizado_em": "23/07/2026 06:42",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Renan critica fala de Flávio a diplomatas sobre urnas e fala em \"vergonha\"",
-          "url": "https://www.cnnbrasil.com.br/politica/renan-critica-fala-de-flavio-a-diplomatas-sobre-urnas-e-fala-em-vergonha/"
+          "title": "Interpol descobre delegacia falsa da Polícia Federal brasileira na África",
+          "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/nacional/brasil/interpol-descobre-delegacia-falsa-da-policia-federal-brasileira-na-africa/"
         },
         {
           "rank": 5,
-          "title": "Interpol descobre delegacia falsa da Polícia Federal brasileira na África",
-          "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/nacional/brasil/interpol-descobre-delegacia-falsa-da-policia-federal-brasileira-na-africa/"
+          "title": "Renan critica fala de Flávio a diplomatas sobre urnas e fala em \"vergonha\"",
+          "url": "https://www.cnnbrasil.com.br/politica/renan-critica-fala-de-flavio-a-diplomatas-sobre-urnas-e-fala-em-vergonha/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
-        },
-        {
-          "rank": 2,
           "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         },
         {
+          "rank": 2,
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+        },
+        {
           "rank": 3,
-          "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
-          "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
+          "title": "Justiça do DF determina que Virginia Fonseca retire conteúdo de apostas das redes sociais em até 48h",
+          "url": "https://www.estadao.com.br/economia/justica-df-determina-virginia-fonseca-retire-conteudo-apostas-redes-sociais-ate-48h-npr/"
         },
         {
           "rank": 4,
-          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
-          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
+          "title": "Três pilotos passam mal durante voo de mais de 10 horas entre Índia e Reino Unido",
+          "url": "https://www.estadao.com.br/internacional/tres-pilotos-passam-mal-voo-mais-10-horas-india-reino-unido-npr/"
         },
         {
           "rank": 5,
-          "title": "Três pilotos passam mal durante voo de mais de 10 horas entre Índia e Reino Unido",
-          "url": "https://www.estadao.com.br/internacional/tres-pilotos-passam-mal-voo-mais-10-horas-india-reino-unido-npr/"
+          "title": "Política agressiva de tarifas vai continuar, diz czar do comércio exterior dos EUA",
+          "url": "https://www.estadao.com.br/economia/politica-agressiva-tarifas-czar-comercio-exterior-eua/"
         }
       ],
       "erro": null

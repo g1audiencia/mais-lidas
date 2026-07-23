@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 11:51",
+  "atualizado_em": "23/07/2026 11:57",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
-        },
-        {
-          "rank": 2,
           "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
           "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
+        },
+        {
+          "rank": 3,
+          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
+          "title": "Furto de celular tem alta em SP e 8 Estados. Quais são os lugares com mais crimes? Consulte",
+          "url": "https://www.estadao.com.br/brasil/roubo-de-celular-cai-no-pais-sp-e-mais-8-estados-tem-alta-de-furtos/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
+          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "\"Nos destruyeron\": tres años y medio de prisión por matar a golpes a un hombre que salió en defensa de su hija",
-          "url": "https://www.clarin.com/policiales/destruyeron-anos-medio-prision-matar-golpes-hombre-salio-defensa-hija_0_9dbJdC94JP.html"
+          "title": "Pánico en un café: en menos de un minuto motochorros armados entraron al bar, le quitaron un maletín con dinero a una pareja y huyeron",
+          "url": "https://www.clarin.com/policiales/panico-cafe-minuto-motochorros-armados-entraron-bar-quitaron-maletin-dinero-pareja-huyeron_0_pkQ7KaAhdo.html"
         }
       ],
       "erro": null

@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Coleta as 5 mais lidas de 11 portais e salva em dados.json.
-Roda no GitHub Actions (de hora em hora). Nada é instalado localmente.
+Roda no GitHub Actions. Nada é instalado localmente.
 """
 import requests, json, datetime, re
+from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"}
@@ -223,7 +224,7 @@ def coletar():
         except Exception as e:
             resultados.append({"portal": nome, "ok": False, "items": [], "erro": str(e)})
             print(f"[FALHA] {nome}: {e}")
-    return {"atualizado_em": datetime.datetime.now().strftime("%d/%m/%Y %H:%M"), "portais": resultados}
+    return {"atualizado_em": datetime.datetime.now(ZoneInfo("America/Sao_Paulo")).strftime("%d/%m/%Y %H:%M"), "portais": resultados}
 
 if __name__ == "__main__":
     dados = coletar()

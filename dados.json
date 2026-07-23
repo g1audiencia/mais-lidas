@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 19:58",
+  "atualizado_em": "23/07/2026 20:04",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+        },
+        {
+          "rank": 4,
           "title": "Estados Unidos anunciam sobretaxa de 12,5% a produtos brasileiros por trabalho escravo",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Bastidores: Mendonça não aliviará para Flávio no Dark Horse e rechaça pecha de traidor",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-mendonca-nao-aliviara-para-flavio-no-dark-horse-e-rechaca-pecha-de-traidor/"
-        },
-        {
-          "rank": 5,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         }
       ],
       "erro": null

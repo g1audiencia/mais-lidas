@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 14:08",
+  "atualizado_em": "23/07/2026 14:14",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
+          "title": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/com-cancer-lito-sousa-e-diagnosticado-com-inflamacao-no-sistema-nervoso/"
+        },
+        {
+          "rank": 4,
           "title": "Análise: Por que os EUA não tratam a Nicarágua como tratam Cuba e Venezuela",
           "url": "https://www.cnnbrasil.com.br/internacional/analise-por-que-os-eua-nao-tratam-a-nicaragua-como-tratam-cuba-e-venezuela/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Atacante Gabriel Pec passa por reavaliação e tem fratura confirmada",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/atacante-gabriel-pec-passa-por-reavaliacao-e-tem-fratura-confirmada/"
-        },
-        {
-          "rank": 5,
-          "title": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/com-cancer-lito-sousa-e-diagnosticado-com-inflamacao-no-sistema-nervoso/"
         }
       ],
       "erro": null
@@ -108,18 +108,18 @@
         },
         {
           "rank": 2,
-          "title": "Para treinar a Itália, Guardiola pede salário dez vezes maior que o que Luis de la Fuente recebe na Espanha",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/23/guardiola-pede-salario-dez-vezes-maior-que-o-de-luis-de-la-fuente-para-treinar-a-italia-diz-jornal.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Maldini diz que Itália tentou tirar Carlo Ancelotti da seleção brasileira antes de abrir negociações com Guardiola",
           "url": "https://oglobo.globo.com/esportes/noticia/2026/07/23/maldini-diz-que-italia-conversou-com-carlo-ancelotti-antes-de-abrir-negociacoes-com-guardiola.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Para treinar a Itália, Guardiola pede salário dez vezes maior que o que Luis de la Fuente recebe na Espanha",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/23/guardiola-pede-salario-dez-vezes-maior-que-o-de-luis-de-la-fuente-para-treinar-a-italia-diz-jornal.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Vivi para contar: 'Seguimos lutando e agradecendo a Deus pelo milagre', diz mãe de bebê que 'renasceu' após ser declarado morto",
-          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/23/vivi-para-contar-seguimos-lutando-e-agradecendo-a-deus-pelo-milagre-diz-mae-de-bebe-que-renasceu-apos-ser-declarado-morto.ghtml"
+          "title": "Vai matricular seu filho? Veja opções de escolas no Rio e em SP com mensalidades de R$ 1 mil a mais de R$ 7 mil",
+          "url": "https://oglobo.globo.com/brasil/educacao/noticia/2026/07/23/vai-matricular-seu-filho-veja-opcoes-de-escolas-no-rio-e-em-sp-com-mensalidades-de-r-1-mil-a-mais-de-r-7-mil.ghtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
-        },
-        {
-          "rank": 2,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
-          "rank": 3,
-          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
+          "rank": 2,
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
+          "rank": 4,
+          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
+        },
+        {
           "rank": 5,
-          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
-          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
+          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
+          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
+          "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+          "url": "https://www.bbc.com/news/articles/cvgjp79m42go"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 17:19",
+  "atualizado_em": "23/07/2026 17:25",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+        },
+        {
+          "rank": 4,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "‘Não falta polícia no Brasil. O que falta é integração’, diz promotor jurado de morte pelo PCC",
           "url": "https://www.estadao.com.br/brasil/nao-falta-policia-no-brasil-o-que-falta-e-integracao-diz-promotor-jurado-de-morte-pelo-pcc/"
-        },
-        {
-          "rank": 5,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         }
       ],
       "erro": null

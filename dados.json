@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 04:26",
+  "atualizado_em": "23/07/2026 04:36",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "O que é a cirurgia na vesícula pela qual passará o cantor Roberto Carlos",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/o-que-e-a-cirurgia-na-vesicula-pela-qual-passara-o-cantor-roberto-carlos.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Saiba o que é naturalização facial, procedimento feito por Vini Jr. que busca corrigir proporções",
           "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/saiba-o-que-e-naturalizacao-facial-procedimento-feito-por-vini-jr-que-busca-corrigir-proporcoes.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "'Happy hour das avós': mulher de 82 anos consegue mudança em lei americana para beber em casa de repouso",
+          "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/happy-hour-das-avos-mulher-de-82-anos-consegue-mudanca-em-lei-americana-para-beber-em-casa-de-repouso.shtml"
         }
       ],
       "erro": null
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
-          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
+          "title": "Câmara dos EUA aprova orçamento recorde de defesa de US$ 1,15 trilhão",
+          "url": "https://www.estadao.com.br/internacional/camara-eua-aprova-orcamento-recorde-defesa-1-15-trilhao-npr/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Zidane, Guardiola, Ancelotti e Klopp: as negociações dos técnicos com seleções para a Copa de 2030",
-          "url": "https://www.estadao.com.br/esportes/futebol/zidane-guardiola-ancelotti-e-klopp-as-negociacoes-dos-tecnicos-com-selecoes-para-a-copa-de-2030/"
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
         }
       ],
       "erro": null

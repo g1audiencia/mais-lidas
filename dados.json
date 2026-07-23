@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 08:02",
+  "atualizado_em": "23/07/2026 08:07",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "Qual nível de testosterona é ideal e o que ela realmente faz no seu corpo",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/22/mais-testosterona-homem-mais-forte.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Por votos da direita, Caiado sobe tom contra Flávio, e bolsonaristas reagem",
           "url": "https://noticias.uol.com.br/eleicoes/2026/07/23/por-votos-da-direita-caiado-sobe-tom-contra-flavio-e-bolsonaristas-reagem.ghtm"
         },
         {
+          "rank": 4,
+          "title": "Fim da escala 6x1: empresária adota escala 4x3 em cafeteria e vê lucro subir",
+          "url": "https://www.uol.com.br/flash/?c=411715c0996e5626f7c7d7b959155c920260722"
+        },
+        {
           "rank": 5,
-          "title": "Deputado italiano contrário a Carla Zambelli diz que ela sumiu",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/22/deputado-que-entregou-zambelli-na-italia-diz-que-ninguem-sabe-onde-ela-esta.htm"
+          "title": "Turista americana sofre lesão genital em Honduras; socorro custou R$ 270 mil",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/22/turista-sofre-lesao-genital-em-honduras-socorro-custou-r-270-mil.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
-        },
-        {
-          "rank": 3,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 3,
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
+        },
+        {
           "rank": 4,
-          "title": "‘Senador prestador de serviços: o consultor Flávio Bolsonaro na rede de Vorcaro’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/senador-prestador-de-servicos-o-consultor-flavio-bolsonaro-na-rede-de-vorcaro-estadao-analisa/"
+          "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
+          "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
           "rank": 5,
-          "title": "Ortega rasga a fantasia",
-          "url": "https://www.estadao.com.br/opiniao/ortega-rasga-a-fantasia/"
+          "title": "‘Senador prestador de serviços: o consultor Flávio Bolsonaro na rede de Vorcaro’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/senador-prestador-de-servicos-o-consultor-flavio-bolsonaro-na-rede-de-vorcaro-estadao-analisa/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
-          "url": "https://www.clarin.com/mundo/openai-revela-agentes-ia-realizaron-hackeo-precedentes-empresa_0_3RaGKVaDgv.html"
+          "title": "Crearon una solución simple para una de las cirugías del ojo más riesgosas y ganaron su séptimo \"Óscar de la retina\"",
+          "url": "https://www.clarin.com/sociedad/crearon-solucion-simple-cirugias-ojo-riesgosas-ganaron-septimo-oscar-retina_0_VM7QqRcVfO.html"
         },
         {
           "rank": 3,
-          "title": "Lionel Messi, elegido mejor jugador del Mundial por la IFFHS: el premio que le negó la FIFA le llega por un \"veredicto inequívoco\"",
-          "url": "https://www.clarin.com/deportes/lionel-messi-elegido-mejor-jugador-mundial-iffhs-premio-nego-fifa-llega-veredicto-inequivoco_0_QtTNKyLOJt.html"
+          "title": "Sin Messi ni De Paul, Inter Miami ganó pese a un blooper de su arquero argentino y amargó el debut de Lewandowski en Chicago Fire",
+          "url": "https://www.clarin.com/deportes/messi-paul-inter-miami-gano-pese-blooper-arquero-argentino-amargo-debut-lewandowski-chicago-fire_0_xQLyqNNkZj.html"
         },
         {
           "rank": 4,
-          "title": "Redes, relatos y un enemigo común: Javier Milei convirtió la polémica por la derrota de la selección en un un nuevo capítulo de \"su batalla cultural\"",
-          "url": "https://www.clarin.com/politica/redes-relatos-enemigo-comun-javier-milei-convirtio-polemica-derrota-seleccion-nuevo-capitulo-batalla-cultural_0_CD2ZfmMLtG.html"
+          "title": "\"Nos destruyeron\": tres años y medio de prisión por matar a golpes a un hombre que salió en defensa de su hija",
+          "url": "https://www.clarin.com/policiales/destruyeron-anos-medio-prision-matar-golpes-hombre-salio-defensa-hija_0_9dbJdC94JP.html"
         },
         {
           "rank": 5,
-          "title": "Sin Messi ni De Paul, Inter Miami ganó pese a un blooper de su arquero argentino y amargó el debut de Lewandowski en Chicago Fire",
-          "url": "https://www.clarin.com/deportes/messi-paul-inter-miami-gano-pese-blooper-arquero-argentino-amargo-debut-lewandowski-chicago-fire_0_xQLyqNNkZj.html"
+          "title": "Javier Milei pide por la economía antes de las PASO y el regreso de Mauricio Macri",
+          "url": "https://www.clarin.com/politica/javier-milei-pide-economia-paso-regreso-mauricio-macri_0_vzBkPfFhJL.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/07/2026 22:58",
+  "atualizado_em": "23/07/2026 02:41",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Outro Canal: Jovem Pan afasta diretor que fez apresentadora Márcia Dantas chorar ao vivo em programa",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/jovem-pan-afasta-diretor-que-fez-apresentadora-marcia-dantas-chorar-ao-vivo-em-programa.shtml"
+          "title": "Bebê morre ao prender a cabeça em creche de São Paulo; funcionários são investigados",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/bebe-morre-durante-atividade-em-creche-de-sao-paulo-funcionarios-sao-investigados.shtml"
         },
         {
           "rank": 3,
-          "title": "Flávio Bolsonaro emitiu e cancelou R$ 1 milhão em notas fiscais para empresa que operou com o Master",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-emitiu-e-cancelou-r-1-milhao-em-notas-fiscais-para-empresa-que-operou-com-o-master.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
         },
         {
+          "rank": 4,
+          "title": "Roberto Carlos será submetido a cirurgia na vesícula",
+          "url": "https://f5.folha.uol.com.br/musica/2026/07/roberto-carlos-sera-submetido-a-cirurgia-na-vesicula.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Bebê morre ao prender a cabeça em creche de São Paulo; funcionários são investigados",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/bebe-morre-durante-atividade-em-creche-de-sao-paulo-funcionarios-sao-investigados.shtml"
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de empresa ligada a consultoria que operou com o Master",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-emitiu-e-cancelou-r-1-milhao-em-notas-fiscais-para-empresa-que-operou-com-o-master.shtml"
         }
       ],
       "erro": null
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Veja os resultados e a classificação do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
+        },
+        {
+          "rank": 2,
+          "title": "Athletico vira em 5 minutos sobre São Paulo e deixa rival pressionado",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/22/sao-paulo-leva-2-gols-em-5-minutos-e-perde-para-athletico-na-volta-da-copa.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Abaixo-assinado argentino reúne 67 mil pedindo anulação de final da Copa",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/22/abaixo-assinado-argentino-reune-67-mil-pedindo-anulacao-de-final-da-copa.ghtm"
         },
         {
-          "rank": 2,
-          "title": "MLS abre investigação contra Inter Miami pela contratação de Casemiro",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/22/inter-miami-anuncia-contratacao-de-casemiro-mas-mls-abre-investigacao-gbvgfeaam.htm"
-        },
-        {
-          "rank": 3,
-          "title": "Ana Maria e equipe passam mal após comerem prato ao vivo",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/22/ana-maria-equipe-do-mais-voce-passa-mal.ghtm"
-        },
-        {
           "rank": 4,
-          "title": "Mãe de irmãos suspeitos de matar empresário na Grande SP denunciou crime à polícia",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/22/mae-suspeitos-caso-marcelo-carapicuiba.ghtm"
+          "title": "Qual nível de testosterona é ideal e o que ela realmente faz no seu corpo",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/22/mais-testosterona-homem-mais-forte.ghtm"
         },
         {
           "rank": 5,
-          "title": "Maisa aposta em look de costas nuas para curtir férias em Ibiza",
-          "url": "https://www.uol.com.br/flash/?c=e12eac631d8086136d5114ebb2c6e3620260722"
+          "title": "Como funciona o 'Xerf', tecnologia usada em mudanças no rosto de Vini Jr.",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/22/sem-agulhas-o-que-e-o-procedimento-feito-por-vini-jr-e-virginia.ghtm"
         }
       ],
       "erro": null
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Ciro Nogueira avisa Flávio Bolsonaro que PP ficará neutro na eleição presidencial e frustra PL",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/07/22/ciro-nogueira-avisa-flavio-bolsonaro-que-pp-ficara-neutro-na-eleicao-presidencial-e-frustra-pl.ghtml"
+          "title": "Escritório de Flávio Bolsonaro foi contratado por empresa ligada a consultoria que recebeu repasses do Master, mostram documentos",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/22/escritorio-de-flavio-bolsonaro-foi-contratado-por-empresa-ligada-a-consultoria-que-recebeu-repasses-do-master-mostram-documentos.ghtml"
         },
         {
           "rank": 4,
-          "title": "Dados falsos citados por Flávio sobre urnas repercutem no TSE, e ministros citam caso que gerou punições",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/07/22/dados-falsos-citados-por-flavio-sobre-urnas-repercutem-no-tse-e-ministros-citam-caso-que-gerou-punicoes.ghtml"
+          "title": "Com Messi, Mbappé e Vozinha, Fifa anuncia seleção ideal da Copa do Mundo",
+          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/22/com-messi-mbappe-e-vozinha-fifa-anuncia-selecao-ideal-da-copa-do-mundo.ghtml"
         },
         {
           "rank": 5,
-          "title": "Religião, namorada ou timidez? Web busca explicações para 'vácuo' de Lamine Yamal diante da princesa Sofia",
-          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/22/religiao-namorada-ou-timidez-web-busca-explicacoes-para-vacuo-de-lamine-yamal-diante-da-princesa-sofia.ghtml"
+          "title": "Nem atum nem pescada: o peixe rico em proteínas que ajuda a equilibrar o colesterol e a saúde cerebral",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/07/22/nem-atum-nem-pescada-o-peixe-rico-em-proteinas-que-ajuda-a-equilibrar-o-colesterol-e-a-saude-cerebral.ghtml"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Por que a reunião de Flávio Bolsonaro com embaixadores acendeu um alerta no TSE?",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/por-que-a-reuniao-de-flavio-bolsonaro-com-embaixadores-acendeu-um-alerta-no-tse/"
+          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
         },
         {
           "rank": 5,
-          "title": "Por que o Brasil tem tantos golpes virtuais e roubos de celular?",
-          "url": "https://www.estadao.com.br/brasil/por-que-brasil-tem-tantos-golpes-virtuais-e-roubos-de-celular/"
+          "title": "São Paulo sofre virada em 5 minutos e volta da parada da Copa derrotado pelo Athletico-PR",
+          "url": "https://www.estadao.com.br/esportes/futebol/sao-paulo-sofre-virada-em-5-minutos-e-volta-da-parada-da-copa-derrotado-pelo-athletico-pr/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro emitiu R$ 1,5 milhão em notas para empresas usadas em esquema de Vorcaro",
-          "url": "https://www.metropoles.com/colunas/tacio-lorran/flavio-bolsonaro-emitiu-r-15-milhao-em-notas-para-empresas-usadas-em-esquema-de-vorcaro"
+          "title": "FBI confisca celular de presidente da Associação Argentina de Futebol",
+          "url": "https://www.metropoles.com/esportes/fbi-confisca-celular-de-presidente-da-associacao-argentina-de-futebol"
         },
         {
           "rank": 2,
-          "title": "Com Vozinha, Fifa divulga a seleção ideal da Copa do Mundo de 2026",
-          "url": "https://www.metropoles.com/esportes/com-vozinha-fifa-divulga-a-selecao-ideal-da-copa-do-mundo-de-2026"
+          "title": "Herdeiro de Chacrinha vence ação contra partido por uso de bordão",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/herdeiro-de-chacrinha-vence-acao-contra-partido-por-uso-de-bordao"
         },
         {
           "rank": 3,
-          "title": "Herdeiro de Chacrinha vence ação contra partido por uso de bordão",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/herdeiro-de-chacrinha-vence-acao-contra-partido-por-uso-de-bordao"
+          "title": "Com Vozinha, Fifa divulga a seleção ideal da Copa do Mundo de 2026",
+          "url": "https://www.metropoles.com/esportes/com-vozinha-fifa-divulga-a-selecao-ideal-da-copa-do-mundo-de-2026"
         }
       ],
       "erro": null
@@ -194,58 +194,32 @@
         },
         {
           "rank": 2,
-          "title": "Cosme: Poupado, Neymar joga pôquer durante partida decisiva do Santos",
-          "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-jogava-poquer-ontem-enquanto-santos-disputava-vaga-na-copa-sul-americana-time-de-cuca-foi-mais-competitivo-e-goleou-sem-seu-idolo-22072026/"
-        },
-        {
-          "rank": 3,
-          "title": "Mega-Sena acumula e vai a R$ 62 milhões; veja os números desta terça-feira",
-          "url": "https://noticias.r7.com/loterias/mega-sena-acumula-e-premio-vai-a-r-62-milhoes-veja-os-numeros-desta-terca-feira-22072026/"
-        },
-        {
-          "rank": 4,
           "title": "Cosme: Ronaldo e Roberto Carlos serão sócios de time do interior de SP",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/bilionarios-ronaldo-e-roberto-carlos-serao-socios-na-inter-de-limeira-e-se-der-certo-investirao-no-uniao-sao-joao-22072026/"
         },
         {
+          "rank": 3,
+          "title": "Cosme: Poupado, Neymar joga pôquer durante partida decisiva do Santos",
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-jogava-poquer-ontem-enquanto-santos-disputava-vaga-na-copa-sul-americana-time-de-cuca-foi-mais-competitivo-e-goleou-sem-seu-idolo-22072026/"
+        },
+        {
+          "rank": 4,
+          "title": "Mega-Sena acumula e vai a R$ 62 milhões; veja os números desta terça-feira",
+          "url": "https://noticias.r7.com/loterias/mega-sena-acumula-e-premio-vai-a-r-62-milhoes-veja-os-numeros-desta-terca-feira-22072026/"
+        },
+        {
           "rank": 5,
-          "title": "'Coração de Mãe': Bora se declara para Karsu e faz pedido emocionante",
-          "url": "https://record.r7.com/coracao-de-mae/novidades/em-coracao-de-mae-bora-se-declara-para-karsu-e-faz-pedido-emocionante-antes-da-viagem-21072026/"
+          "title": "Equipes de busca encontram avião desaparecido há 74 anos no fundo do mar",
+          "url": "https://noticias.r7.com/internacional/equipes-de-busca-encontram-aviao-da-pan-am-desaparecido-ha-74-anos-no-fundo-do-mar-22072026/"
         }
       ],
       "erro": null
     },
     {
       "portal": "AP",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
-          "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
-        },
-        {
-          "rank": 2,
-          "title": "Kaylee Hottle, deaf ‘Godzilla’ actor, killed in car crash at 18",
-          "url": "https://apnews.com/article/kaylee-hottle-dies-godzilla-actor-7971cbb43107772fe4e9a6174ea84111"
-        },
-        {
-          "rank": 3,
-          "title": "Trump administration says it’s deferring $1B in Medicaid payments to California and Minnesota",
-          "url": "https://apnews.com/article/medicaid-fraud-minnesota-california-oz-rfk-trump-24033ef9807b46f8b6fd6614ef5b1169"
-        },
-        {
-          "rank": 4,
-          "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
-          "url": "https://apnews.com/article/canada-us-gordie-howe-bridge-trump-9327c97c42ca4a2343f337c7b30e7375"
-        },
-        {
-          "rank": 5,
-          "title": "US civil rights agency moves to end demographic data collection after 60 years",
-          "url": "https://apnews.com/article/eeoc-discrimination-dei-andrea-lucas-2f521d784a9d0376416499066dc9f178"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "esperava ao menos 3 itens, achei 2"
     },
     {
       "portal": "BBC News",
@@ -258,23 +232,23 @@
         },
         {
           "rank": 2,
-          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         },
         {
           "rank": 3,
-          "title": "Farm's delight after six white owlets found nesting",
-          "url": "https://www.bbc.com/news/articles/cvg9nql8x83o"
+          "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+          "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
         },
         {
           "rank": 4,
-          "title": "Modelling scout linked to Epstein found dead in Paris",
-          "url": "https://www.bbc.com/news/articles/cp8en38vpd3o"
+          "title": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
+          "url": "https://www.bbc.com/news/articles/c3ek3l9gp7go"
         },
         {
           "rank": 5,
-          "title": "Prince George enjoys coastal fun in new video as he becomes a teenager",
-          "url": "https://www.bbc.com/news/articles/cm2ge7z0708o"
+          "title": "Farm's delight after six white owlets found nesting",
+          "url": "https://www.bbc.com/news/articles/cvg9nql8x83o"
         }
       ],
       "erro": null
@@ -285,28 +259,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "El crimen de un ingeniero argentino que conmociona a Madrid: 13 puñaladas en venganza de una supuesta infidelidad",
+          "url": "https://www.clarin.com/policiales/crimen-ingeniero-argentino-conmociona-madrid-13-punaladas-venganza-supuesta-infidelidad_0_CQ6vxTM1wG.html"
+        },
+        {
+          "rank": 2,
           "title": "OpenAI revela que sus agentes de IA realizaron un hackeo \"sin precedentes\" contra otra empresa",
           "url": "https://www.clarin.com/mundo/openai-revela-agentes-ia-realizaron-hackeo-precedentes-empresa_0_3RaGKVaDgv.html"
         },
         {
-          "rank": 2,
-          "title": "La Justicia de EE.UU. avanza contra la AFA y pide comunicaciones de \"Chiqui\" Tapia, Pablo Toviggino y Javier Faroni",
-          "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
+          "rank": 3,
+          "title": "Lionel Messi, elegido mejor jugador del Mundial por la IFFHS: el premio que le negó la FIFA le llega por un \"veredicto inequívoco\"",
+          "url": "https://www.clarin.com/deportes/lionel-messi-elegido-mejor-jugador-mundial-iffhs-premio-nego-fifa-llega-veredicto-inequivoco_0_QtTNKyLOJt.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Las mejores medialunas de Buenos Aires: la guía definitiva para encontrar las más ricas según cada antojo",
           "url": "https://www.clarin.com/gourmet/mejores-medialunas-buenos-aires-guia-definitiva-encontrar-ricas-antojo_0_VeGvflC0Jj.html"
         },
         {
-          "rank": 4,
-          "title": "El semáforo de la Selección en el Mundial 2026: Messi fue el más aprobado, muchos no explotaron y tres quedaron en deuda",
-          "url": "https://www.clarin.com/deportes/semaforo-seleccion-mundial-2026-messi-aprobado-explotaron-quedaron-deuda_0_g9UQVaR30A.html"
-        },
-        {
           "rank": 5,
-          "title": "Lionel Messi, elegido mejor jugador del Mundial por la IFFHS: el premio que le negó la FIFA le llega por un \"veredicto inequívoco\"",
-          "url": "https://www.clarin.com/deportes/lionel-messi-elegido-mejor-jugador-mundial-iffhs-premio-nego-fifa-llega-veredicto-inequivoco_0_QtTNKyLOJt.html"
+          "title": "Por primera vez, citan a declarar en Estados Unidos a un testigo de los negocios y movimientos de fondos de la AFA en el exterior",
+          "url": "https://www.clarin.com/politica/justicia-eeuu-incauto-telefonos-chiqui-tapia-dirigentes-afa-regreso-seleccionado-final-mundial_0_Oh99G9zI2s.html"
         }
       ],
       "erro": null

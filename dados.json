@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 19:31",
+  "atualizado_em": "23/07/2026 19:36",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro faz apelo por apoio de Michelle e volta a pedir desculpas",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/flavio-faz-apelo-por-apoio-de-michelle-a-candidatura-e-volta-a-pedir-de-desculpas.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
         },
         {
-          "rank": 3,
-          "title": "Michelle vai gravar vídeo de reconciliação com Flávio Bolsonaro, diz Valdemar",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/michelle-vai-gravar-video-de-reconciliacao-com-flavio-bolsonaro-diz-valdemar.shtml"
+          "rank": 2,
+          "title": "Flávio Bolsonaro faz apelo por apoio de Michelle e volta a pedir desculpas",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/flavio-faz-apelo-por-apoio-de-michelle-a-candidatura-e-volta-a-pedir-de-desculpas.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Caça mais avançado da Rússia cai pela primeira vez",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "EUA anunciam nova tarifa de 12,5% contra Brasil por falhar no combate ao trabalho forçado",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/eua-anunciam-nova-tarifa-de-125-contra-brasil-por-suposto-uso-de-trabalho-escravo.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Igreja Presbiteriana Unida aprova inclusão de pessoas homoafetivas como membros e pastores",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/igreja-presbiteriana-unida-aprova-inclusao-de-pessoas-homoafetivas-como-membros-e-pastores.shtml"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "US announces tariffs on dozens of countries over forced labour concerns",
+          "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
           "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
         },
         {

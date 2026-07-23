@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:00",
+  "atualizado_em": "23/07/2026 06:10",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
-          "title": "Interpol descobre delegacia falsa da Polícia Federal brasileira na África",
-          "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/nacional/brasil/interpol-descobre-delegacia-falsa-da-policia-federal-brasileira-na-africa/"
+          "title": "Irã atinge bases da CIA e EUA questionam participação da Rússia",
+          "url": "https://www.cnnbrasil.com.br/internacional/ira-atinge-bases-da-cia-e-eua-questionam-participacao-da-russia/"
         },
         {
           "rank": 4,
-          "title": "Harmonização facial de Vini Jr. divide opiniões na web; veja antes e depois",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/harmonizacao-facial-de-vini-jr-divide-opinioes-na-web-veja-antes-e-depois/"
+          "title": "Renan critica fala de Flávio a diplomatas sobre urnas e fala em \"vergonha\"",
+          "url": "https://www.cnnbrasil.com.br/politica/renan-critica-fala-de-flavio-a-diplomatas-sobre-urnas-e-fala-em-vergonha/"
         },
         {
           "rank": 5,
-          "title": "Justiça manda Virgínia apagar anúncios de bet em 48 horas",
-          "url": "https://www.cnnbrasil.com.br/nacional/justica-manda-virginia-apagar-anuncios-de-bet-em-48-horas/"
+          "title": "Interpol descobre delegacia falsa da Polícia Federal brasileira na África",
+          "url": "https://www.cnnbrasil.com.br/blogs/elijonasmaia/nacional/brasil/interpol-descobre-delegacia-falsa-da-policia-federal-brasileira-na-africa/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
-        },
-        {
-          "rank": 2,
-          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
-          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
-        },
-        {
-          "rank": 3,
           "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
         },
         {
+          "rank": 2,
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+        },
+        {
+          "rank": 3,
+          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
+          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
+        },
+        {
           "rank": 4,
-          "title": "Elomar traz ‘O Auto da Catingueira’  para o Cultura Artística: ‘O sertão acabou’, diz",
-          "url": "https://www.estadao.com.br/cultura/musica/elomar-traz-o-auto-da-catingueira-para-o-cultura-artistica-o-sertao-acabou-diz/"
+          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
+          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
         },
         {
           "rank": 5,
-          "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
-          "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
+          "title": "Fórum dos Leitores",
+          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-23-7-2026/"
         }
       ],
       "erro": null
@@ -226,21 +226,16 @@
         },
         {
           "rank": 2,
-          "title": "White House admits it used keywords to kill billions worth of California research grants",
-          "url": "https://apnews.com/article/california-research-grants-terminated-keywords-lawsuit-a0ddb01413ecb68d9668490a20be6207"
-        },
-        {
-          "rank": 3,
           "title": "Independent autopsy of Nolan Wells finds ‘undetermined’ cause of death",
           "url": "https://apnews.com/article/nolan-xavier-wells-ben-crump-mississippi-naacp-b620c2bedf4c05d2a460b5bb1e7ee02e"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
           "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
           "url": "https://apnews.com/article/canada-us-gordie-howe-bridge-trump-9327c97c42ca4a2343f337c7b30e7375"
         }
@@ -263,13 +258,13 @@
         },
         {
           "rank": 3,
-          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         },
         {
           "rank": 4,
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 08:29",
+  "atualizado_em": "23/07/2026 08:35",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Fãs de Deolane Bezerra fazem ato na avenida Paulista e pedem liberdade da influenciadora",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/fas-de-deolane-bezerra-fazem-ato-na-avenida-paulista-e-pedem-liberdade-da-influenciadora.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Sei que é difícil para o Brasil, mas joguei meu melhor, diz algoz de Calderano em Paris",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/sei-que-e-dificil-para-o-brasil-mas-joguei-meu-melhor-diz-algoz-de-calderano-em-paris.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Por que a desobediência dos modelos da OpenAI é o incidente com IA mais preocupante até agora",
           "url": "https://www1.folha.uol.com.br/tec/2026/07/por-que-a-desobediencia-dos-modelos-da-openai-e-o-incidente-com-ia-mais-preocupante-ate-agora.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Gás do Povo provoca guerra dos botijões entre fabricantes nacionais e importadores da China",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/gas-do-povo-provoca-guerra-dos-botijoes-entre-fabricantes-nacionais-e-importadores-da-china.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
-        },
-        {
-          "rank": 3,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
           "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
+          "rank": 4,
+          "title": "Relatório de tragédia da Voepass será revelado: quais as causas mais comuns de acidentes de avião?",
+          "url": "https://www.estadao.com.br/brasil/relatorio-de-tragedia-da-voepass-sera-revelado-quais-as-causas-mais-comuns-de-acidentes-de-aviao/"
+        },
+        {
           "rank": 5,
-          "title": "Zanin autoriza PF a investigar ministro do STJ Moura Ribeiro em inquérito sobre venda de decisões",
-          "url": "https://www.estadao.com.br/politica/zanin-autoriza-pf-a-investigar-ministro-do-stj-moura-ribeiro-em-inquerito-sobre-venda-de-decisoes/"
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
         }
       ],
       "erro": null

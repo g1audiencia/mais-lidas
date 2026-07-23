@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:21",
+  "atualizado_em": "23/07/2026 06:31",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
+          "title": "São Paulo virou um retrato triste da ganância e da corrupção imobiliária",
+          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/07/sao-paulo-virou-um-retrato-triste-da-ganancia-e-da-corrupcao-imobiliaria.shtml"
         },
         {
           "rank": 5,
-          "title": "Fãs de Deolane Bezerra fazem ato na avenida Paulista e pedem liberdade da influenciadora",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/fas-de-deolane-bezerra-fazem-ato-na-avenida-paulista-e-pedem-liberdade-da-influenciadora.shtml"
+          "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+          "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
+          "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
         },
         {
           "rank": 4,
-          "title": "Ciro indica que PP não comporá chapa de Flávio Bolsonaro nem será oposição ao próximo governo eleito",
-          "url": "https://www.estadao.com.br/politica/ciro-indica-que-pp-nao-compora-chapa-de-flavio-bolsonaro/"
+          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
+          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
         },
         {
           "rank": 5,
-          "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
-          "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
+          "title": "Três pilotos passam mal durante voo de mais de 10 horas entre Índia e Reino Unido",
+          "url": "https://www.estadao.com.br/internacional/tres-pilotos-passam-mal-voo-mais-10-horas-india-reino-unido-npr/"
         }
       ],
       "erro": null
@@ -248,23 +248,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-          "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
-        },
-        {
-          "rank": 2,
           "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
           "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         },
         {
+          "rank": 2,
+          "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+          "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
+        },
+        {
           "rank": 3,
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
         },
         {
           "rank": 4,
-          "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-          "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         },
         {
           "rank": 5,

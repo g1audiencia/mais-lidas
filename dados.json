@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 18:36",
+  "atualizado_em": "23/07/2026 18:41",
   "portais": [
     {
       "portal": "Folha",
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Trump to hit 60 countries with tariffs of up to 12.5% over forced labour",
+          "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
+        },
+        {
+          "rank": 2,
           "title": "'Everything on the table' as Canada plans response to US tariffs",
           "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Saudis must recognise Israel for nuclear deal, says Trump",
           "url": "https://www.bbc.com/news/articles/cwye71yq8wwo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Secret Service agent  in Vance's team under investigation over alleged leak",
           "url": "https://www.bbc.com/news/articles/cq6dgp46923o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
           "url": "https://www.bbc.com/news/articles/c4gkxppljpyo"
-        },
-        {
-          "rank": 5,
-          "title": "Ukraine's ousted defence minister insists on being reinstated",
-          "url": "https://www.bbc.com/news/articles/ce97nm53pgxo"
         }
       ],
       "erro": null

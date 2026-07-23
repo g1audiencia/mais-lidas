@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 18:03",
+  "atualizado_em": "23/07/2026 18:09",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Maldini diz que Itália tentou tirar Carlo Ancelotti da seleção brasileira antes de abrir negociações com Guardiola",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/23/maldini-diz-que-italia-conversou-com-carlo-ancelotti-antes-de-abrir-negociacoes-com-guardiola.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Médica tenta fugir, mas é presa em flagrante por furtar produtos de supermercado em Copacabana; vídeo",
           "url": "https://oglobo.globo.com/rio/bairros/zona-sul/noticia/2026/07/23/medica-e-presa-em-flagrante-por-furtar-produtos-de-supermercado-em-copacabana.ghtml"
         },
         {
+          "rank": 4,
+          "title": "Em meio à tensão com EUA, China faz mais um aceno positivo para o Brasil",
+          "url": "https://oglobo.globo.com/blogs/marcelo-ninio/coluna/2026/07/em-meio-a-tensao-com-eua-china-faz-mais-um-aceno-positivo-para-o-brasil.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "Pressionado, Flávio Bolsonaro enfrenta desembarque de União-PP enquanto testa discurso mais radical",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/07/23/pressionado-flavio-bolsonaro-enfrenta-desembarque-de-uniao-pp-enquanto-testa-discurso-mais-radical.ghtml"
+          "title": "O que é o 'divórcio do sono' e por que cada vez mais famosos adotam a tendência",
+          "url": "https://oglobo.globo.com/ela/noticia/2026/07/23/o-que-e-o-divorcio-do-sono-e-por-que-cada-vez-mais-famosos-adotam-a-tendencia.ghtml"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-          "url": "https://www.bbc.com/news/articles/cwye71yq8wwo"
+          "title": "'Everything on the table' as Canada plans response to US tariffs",
+          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
         },
         {
           "rank": 2,
-          "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-          "url": "https://www.bbc.com/news/articles/c4gkxppljpyo"
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "url": "https://www.bbc.com/news/articles/cwye71yq8wwo"
         },
         {
           "rank": 3,
@@ -268,8 +268,8 @@
         },
         {
           "rank": 4,
-          "title": "'Everything on the table' as Canada plans response to US tariffs",
-          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
+          "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+          "url": "https://www.bbc.com/news/articles/c4gkxppljpyo"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:24",
+  "atualizado_em": "23/07/2026 06:29",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
-        },
-        {
-          "rank": 3,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 3,
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
+        },
+        {
           "rank": 4,
-          "title": "Dólar ou CDI: os dois grandes bloqueios para o investidor brasileiro diversificar internacionalmente",
-          "url": "https://www.estadao.com.br/einvestidor/william-castro/dolar-ou-cdi-os-dois-grandes-bloqueios-para-o-investidor-brasileiro-diversificar-internacionalmente/"
+          "title": "Natalia Timerman mostra biblioteca e conta qual clássico da literatura avaliou com ‘seis estrelas’",
+          "url": "https://www.estadao.com.br/cultura/literatura/natalia-timerman-mostra-biblioteca-e-conta-qual-classico-da-literatura-avaliou-com-seis-estrelas/"
         },
         {
           "rank": 5,
-          "title": "Produto brasileiro sente ‘efeito Milei’ e perde liderança para a China na Argentina",
-          "url": "https://www.estadao.com.br/economia/produto-brasileiro-sente-efeito-milei-e-perde-lideranca-para-a-china-na-argentina/"
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
         }
       ],
       "erro": null

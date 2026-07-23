@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 14:03",
+  "atualizado_em": "23/07/2026 14:08",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Jovem que sumiu ao trocar viagem de ônibus por carro é achada no PR após 3 dias",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/23/jovem-que-sumiu-ao-trocar-viagem-de-onibus-por-carro-e-encontrada-no-pr.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Corpo de empresário sequestrado e morto em Carapicuíba (SP) é encontrado em rio",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/23/corpo-encontrado-buscas-empresario-sp.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Mudança no rosto, como a de Vini Jr., pode alterar a biometria facial?",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/23/mudanca-no-rosto-como-a-de-vini-jr-pode-alterar-a-biometria-facial.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Por votos da direita, Caiado sobe tom contra Flávio, e bolsonaristas reagem",
           "url": "https://noticias.uol.com.br/eleicoes/2026/07/23/por-votos-da-direita-caiado-sobe-tom-contra-flavio-e-bolsonaristas-reagem.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "'Nota de Flávio a empresa ligada ao Master não tem efeito jurídico', diz advogado",
           "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/23/advogado-flavio-prestar-servico-a-empresa-ligada-ao-master-nao-tem-efeito-juridico.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Idosa é operada por engano em hospital de Campinas (SP) e morre três dias depois",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/23/paciente-morre-apos-cirurgia-destinada-a-outra-pessoa-em-campinas.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 2,
           "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
           "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
+          "rank": 2,
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
+        },
+        {
           "rank": 3,
+          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
+        },
+        {
+          "rank": 4,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
-          "rank": 4,
-          "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
-          "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
-        },
-        {
           "rank": 5,
-          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
+          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
+          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         }
       ],
       "erro": null
@@ -177,8 +177,8 @@
         },
         {
           "rank": 3,
-          "title": "Justiça determina perícia em investimentos de Fernanda Lima",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/justica-determina-pericia-em-investimentos-de-fernanda-lima"
+          "title": "De férias em Dubai, comprador da Naskar volta a debochar de clientes: \"O pai tá safe\"",
+          "url": "https://www.metropoles.com/distrito-federal/de-ferias-em-dubai-comprador-da-naskar-volta-a-debochar-de-clientes"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 07:03",
+  "atualizado_em": "23/07/2026 04:13",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Renan critica fala de Flávio a diplomatas sobre urnas e fala em \"vergonha\"",
-          "url": "https://www.cnnbrasil.com.br/politica/renan-critica-fala-de-flavio-a-diplomatas-sobre-urnas-e-fala-em-vergonha/"
+          "title": "EUA assinam acordo com Arábia Saudita que pode permitir combustível nuclear",
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-assinam-acordo-com-arabia-saudita-que-pode-permitir-combustivel-nuclear/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Caiado e Renan Santos criticam Flávio Bolsonaro por falas em reunião com embaixadores",
+          "url": "https://www.estadao.com.br/politica/caiado-e-renan-santos-criticam-flavio-bolsonaro-por-falas-em-reuniao-com-embaixadores-nprp/"
+        },
+        {
+          "rank": 3,
           "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
         },
         {
-          "rank": 3,
-          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
-          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
-        },
-        {
           "rank": 4,
-          "title": "Testamos o ​Wey 07, SUV grandalhão de 6 lugares que anda como Mustang e tem até forninho",
-          "url": "https://www.estadao.com.br/jornal-do-carro/testamos-o-wey-07-suv-grandalhao-de-6-lugares-que-anda-como-mustang-e-tem-ate-forninho/"
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
           "rank": 5,
-          "title": "Por que a Europa não se defende sozinha?",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-a-europa-nao-se-defende-sozinha/"
+          "title": "Gonet cita ‘precedente Bolsonaro’ ao apontar possível ilícito eleitoral do senador Alessandro Vieira",
+          "url": "https://www.estadao.com.br/politica/gonet-cita-precedente-bolsonaro-ao-apontar-possivel-ilicito-eleitoral-do-senador-alessandro-vieira/"
         }
       ],
       "erro": null
@@ -221,21 +221,26 @@
       "items": [
         {
           "rank": 1,
+          "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
+          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-22-2026-42ff3de8d135ad72ff3ba4d94cc0921d"
+        },
+        {
+          "rank": 2,
           "title": "OpenAI models hacked into another AI company on their own, ChatGPT maker says",
           "url": "https://apnews.com/article/openai-gpt56-sol-hugging-face-63ab84fed5612af04d8a160d60f6def3"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Independent autopsy of Nolan Wells finds ‘undetermined’ cause of death",
           "url": "https://apnews.com/article/nolan-xavier-wells-ben-crump-mississippi-naacp-b620c2bedf4c05d2a460b5bb1e7ee02e"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, 2 AP sources say",
           "url": "https://apnews.com/article/trump-saudi-arabia-nuclear-program-uranium-6bb82164c890a7dc335cbfc2c628a3da"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
           "url": "https://apnews.com/article/canada-us-gordie-howe-bridge-trump-9327c97c42ca4a2343f337c7b30e7375"
         }
@@ -263,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Police officer was violent rapist who attacked women over 14 years",
-          "url": "https://www.bbc.com/news/articles/c3v0rq66q3no"
+          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
         },
         {
           "rank": 5,
-          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
+          "title": "Police officer was violent rapist who attacked women over 14 years",
+          "url": "https://www.bbc.com/news/articles/c3v0rq66q3no"
         }
       ],
       "erro": null

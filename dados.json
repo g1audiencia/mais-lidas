@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 08:13",
+  "atualizado_em": "23/07/2026 08:18",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "'Happy hour das avós': mulher de 82 anos consegue mudança em lei americana para beber em casa de repouso",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/happy-hour-das-avos-mulher-de-82-anos-consegue-mudanca-em-lei-americana-para-beber-em-casa-de-repouso.shtml"
+          "title": "Por que a desobediência dos modelos da OpenAI é o incidente com IA mais preocupante até agora",
+          "url": "https://www1.folha.uol.com.br/tec/2026/07/por-que-a-desobediencia-dos-modelos-da-openai-e-o-incidente-com-ia-mais-preocupante-ate-agora.shtml"
         },
         {
           "rank": 5,
-          "title": "Fãs de Deolane Bezerra fazem ato na avenida Paulista e pedem liberdade da influenciadora",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/fas-de-deolane-bezerra-fazem-ato-na-avenida-paulista-e-pedem-liberdade-da-influenciadora.shtml"
+          "title": "Gás do Povo provoca guerra dos botijões entre fabricantes nacionais e importadores da China",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/gas-do-povo-provoca-guerra-dos-botijoes-entre-fabricantes-nacionais-e-importadores-da-china.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
-          "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
-        },
-        {
-          "rank": 3,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 3,
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
+        },
+        {
           "rank": 4,
-          "title": "‘Senador prestador de serviços: o consultor Flávio Bolsonaro na rede de Vorcaro’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/senador-prestador-de-servicos-o-consultor-flavio-bolsonaro-na-rede-de-vorcaro-estadao-analisa/"
+          "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
+          "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
           "rank": 5,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
+          "title": "Zanin autoriza PF a investigar ministro do STJ Moura Ribeiro em inquérito sobre venda de decisões",
+          "url": "https://www.estadao.com.br/politica/zanin-autoriza-pf-a-investigar-ministro-do-stj-moura-ribeiro-em-inquerito-sobre-venda-de-decisoes/"
         }
       ],
       "erro": null

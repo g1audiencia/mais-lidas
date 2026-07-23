@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 10:51",
+  "atualizado_em": "23/07/2026 10:56",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Gakiya: ‘Crime organizado é mais ágil e mais rápido do que o Estado’",
-          "url": "https://www.estadao.com.br/brasil/ao-vivo-brasil-adiante-terceiro-encontro-seguranca-publica/"
-        },
-        {
-          "rank": 3,
           "title": "Quem sai aos seus não degenera",
           "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
         },
         {
+          "rank": 3,
+          "title": "Gakiya: ‘Crime organizado é mais ágil e mais rápido do que o Estado’",
+          "url": "https://www.estadao.com.br/brasil/ao-vivo-brasil-adiante-terceiro-encontro-seguranca-publica/"
+        },
+        {
           "rank": 4,
-          "title": "Furto de celular tem alta em SP e 8 Estados. Quais são os lugares com mais crimes? Consulte",
-          "url": "https://www.estadao.com.br/brasil/roubo-de-celular-cai-no-pais-sp-e-mais-8-estados-tem-alta-de-furtos/"
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
           "rank": 5,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+          "title": "Furto de celular tem alta em SP e 8 Estados. Quais são os lugares com mais crimes? Consulte",
+          "url": "https://www.estadao.com.br/brasil/roubo-de-celular-cai-no-pais-sp-e-mais-8-estados-tem-alta-de-furtos/"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-          "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
+          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+          "url": "https://www.bbc.com/news/articles/cz05lx0xpero"
         },
         {
           "rank": 3,
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-          "url": "https://www.bbc.com/news/articles/cz05lx0xpero"
+          "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+          "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
         },
         {
           "rank": 4,

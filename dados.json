@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 05:13",
+  "atualizado_em": "23/07/2026 05:18",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "São Paulo virou um retrato triste da ganância e da corrupção imobiliária",
-          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/07/sao-paulo-virou-um-retrato-triste-da-ganancia-e-da-corrupcao-imobiliaria.shtml"
+          "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
         }
       ],
       "erro": null
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Nem atum nem pescada: o peixe rico em proteínas que ajuda a equilibrar o colesterol e a saúde cerebral",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/07/22/nem-atum-nem-pescada-o-peixe-rico-em-proteinas-que-ajuda-a-equilibrar-o-colesterol-e-a-saude-cerebral.ghtml"
+          "title": "Cão enfrenta urso e salva menino de 6 anos de ataque nos Estados Unidos; vídeo viraliza nas redes",
+          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/22/cao-enfrenta-urso-e-salva-menino-de-6-anos-de-ataque-nos-estados-unidos-video-viraliza-nas-redes.ghtml"
         },
         {
           "rank": 5,
-          "title": "Cão enfrenta urso e salva menino de 6 anos de ataque nos Estados Unidos; vídeo viraliza nas redes",
-          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/22/cao-enfrenta-urso-e-salva-menino-de-6-anos-de-ataque-nos-estados-unidos-video-viraliza-nas-redes.ghtml"
+          "title": "Nem atum nem pescada: o peixe rico em proteínas que ajuda a equilibrar o colesterol e a saúde cerebral",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/07/22/nem-atum-nem-pescada-o-peixe-rico-em-proteinas-que-ajuda-a-equilibrar-o-colesterol-e-a-saude-cerebral.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os problemas sérios de afirmação nacional não estão na propaganda governista",
-          "url": "https://www.estadao.com.br/politica/william-waack/os-problemas-serios-de-afirmacao-nacional-nao-estao-na-propaganda-governista/"
-        },
-        {
-          "rank": 2,
-          "title": "Quem sai aos seus não degenera",
-          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
-        },
-        {
-          "rank": 3,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
-        },
-        {
-          "rank": 4,
           "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         },
         {
+          "rank": 2,
+          "title": "Os problemas sérios de afirmação nacional não estão na propaganda governista",
+          "url": "https://www.estadao.com.br/politica/william-waack/os-problemas-serios-de-afirmacao-nacional-nao-estao-na-propaganda-governista/"
+        },
+        {
+          "rank": 3,
+          "title": "Escola Vera Cruz e Prefeitura de SP brigam na Justiça por cobrança de R$ 36 milhões em impostos",
+          "url": "https://www.estadao.com.br/educacao/escola-vera-cruz-e-prefeitura-de-sp-brigam-na-justica-por-cobranca-de-r-36-milhoes-em-impostos/"
+        },
+        {
+          "rank": 4,
+          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
+          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+        },
+        {
           "rank": 5,
-          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+          "title": "Por que o Brasil tem tantos golpes virtuais e roubos de celular?",
+          "url": "https://www.estadao.com.br/brasil/por-que-brasil-tem-tantos-golpes-virtuais-e-roubos-de-celular/"
         }
       ],
       "erro": null

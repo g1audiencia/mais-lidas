@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 12:19",
+  "atualizado_em": "23/07/2026 12:24",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Terceiro encontro do ‘Brasil Adiante’ discute propostas de combate à violência; veja como foi",
+          "url": "https://www.estadao.com.br/brasil/ao-vivo-brasil-adiante-terceiro-encontro-seguranca-publica/"
+        },
+        {
+          "rank": 4,
           "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
           "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
-          "rank": 4,
-          "title": "Quem sai aos seus não degenera",
-          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
-        },
-        {
           "rank": 5,
-          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
+          "title": "Furto de celular tem alta em SP e 8 Estados. Quais são os lugares com mais crimes? Consulte",
+          "url": "https://www.estadao.com.br/brasil/roubo-de-celular-cai-no-pais-sp-e-mais-8-estados-tem-alta-de-furtos/"
         }
       ],
       "erro": null

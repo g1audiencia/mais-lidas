@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 10:24",
+  "atualizado_em": "23/07/2026 10:29",
   "portais": [
     {
       "portal": "Folha",
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Zanin autoriza PF a investigar ministro do STJ Moura Ribeiro em inquérito sobre venda de decisões",
-          "url": "https://www.estadao.com.br/politica/zanin-autoriza-pf-a-investigar-ministro-do-stj-moura-ribeiro-em-inquerito-sobre-venda-de-decisoes/"
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
           "rank": 5,
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
+          "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+          "url": "https://www.bbc.com/news/articles/cwye71yq8wwo"
+        },
+        {
+          "rank": 3,
+          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+          "url": "https://www.bbc.com/news/articles/cz05lx0xpero"
+        },
+        {
+          "rank": 4,
           "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
           "url": "https://www.bbc.com/news/articles/cz64pn37138o"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
           "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
-        },
-        {
-          "rank": 4,
-          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
-        },
-        {
-          "rank": 5,
-          "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-          "url": "https://www.bbc.com/news/articles/cz05lx0xpero"
         }
       ],
       "erro": null

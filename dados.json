@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 18:47",
+  "atualizado_em": "23/07/2026 18:52",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Estados Unidos anunciam sobretaxa de 12,5% a produtos brasileiros",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+        },
+        {
+          "rank": 4,
           "title": "Bastidores: Mendonça não aliviará para Flávio no Dark Horse e rechaça pecha de traidor",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-mendonca-nao-aliviara-para-flavio-no-dark-horse-e-rechaca-pecha-de-traidor/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
-        },
-        {
-          "rank": 5,
-          "title": "Governo de SP manda CPTM reassumir linhas de trem que tiveram falhas por 90 dias: ‘Inaceitável’",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-volta-a-operar-linhas-11-12-e-13-que-tiveram-falhas-por-90-dias-decide-governo-de-sp-npr/"
         }
       ],
       "erro": null
@@ -194,23 +194,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem era Michele Leão, capitã da PM morta em Belo Horizonte",
-          "url": "https://noticias.r7.com/minas-gerais/quem-era-michele-leao-familia-lembra-capita-da-pm-como-uma-mulher-alegre-dedicada-e-apaixonada-pelo-filho-22072026/"
-        },
-        {
-          "rank": 3,
           "title": "Cosme: Com dívida de R$ 2,5 bi, Botafogo vira 'fornecedor' do Palmeiras",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/marlon-freitas-barboza-e-danilo-palmeiras-e-o-que-mais-se-aproveita-das-dividas-de-r-25-bilhoes-do-botafogo-de-rival-o-clube-carioca-virou-fornecedor-23072026/"
         },
         {
+          "rank": 3,
+          "title": "Quem era Michele Leão, capitã da PM morta em Belo Horizonte",
+          "url": "https://noticias.r7.com/minas-gerais/quem-era-michele-leao-familia-lembra-capita-da-pm-como-uma-mulher-alegre-dedicada-e-apaixonada-pelo-filho-22072026/"
+        },
+        {
           "rank": 4,
-          "title": "Cão gigante mobiliza resgate de 4 horas após ferir a pata durante trilha",
-          "url": "https://entretenimento.r7.com/rpet/cao-gigante-ferido-mobiliza-operacao-de-resgate-de-4-horas-para-descer-uma-montanha-23072026/"
+          "title": "Jornal espanhol ironiza Flamengo após acerto verbal por Almada",
+          "url": "https://esportes.r7.com/prisma/blog-do-nicola/jornal-espanhol-ironiza-flamengo-apos-acerto-verbal-por-almada-23072026/"
         },
         {
           "rank": 5,
-          "title": "Jornal espanhol ironiza Flamengo após acerto verbal por Almada",
-          "url": "https://esportes.r7.com/prisma/blog-do-nicola/jornal-espanhol-ironiza-flamengo-apos-acerto-verbal-por-almada-23072026/"
+          "title": "Cão gigante mobiliza resgate de 4 horas após ferir a pata durante trilha",
+          "url": "https://entretenimento.r7.com/rpet/cao-gigante-ferido-mobiliza-operacao-de-resgate-de-4-horas-para-descer-uma-montanha-23072026/"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump to hit 60 countries with tariffs of up to 12.5% over forced labour",
+          "title": "US announces tariffs on dozens of countries over forced labour concerns",
           "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
         },
         {

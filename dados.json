@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 03:44",
+  "atualizado_em": "23/07/2026 03:54",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "O que é a cirurgia na vesícula pela qual passará o cantor Roberto Carlos",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/o-que-e-a-cirurgia-na-vesicula-pela-qual-passara-o-cantor-roberto-carlos.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Morre o cantor gospel Diogo Nascimento, após doença rara, aos 41 anos",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/morre-o-cantor-gospel-diogo-nascimento-apos-doenca-rara-aos-41-anos.shtml"
         },
         {
-          "rank": 4,
-          "title": "Fãs de Deolane Bezerra fazem ato na avenida Paulista e pedem liberdade da influenciadora",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/fas-de-deolane-bezerra-fazem-ato-na-avenida-paulista-e-pedem-liberdade-da-influenciadora.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Saiba o que é naturalização facial, procedimento feito por Vini Jr. que busca corrigir proporções",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/saiba-o-que-e-naturalizacao-facial-procedimento-feito-por-vini-jr-que-busca-corrigir-proporcoes.shtml"
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de empresa ligada a consultoria que operou com o Master",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/flavio-bolsonaro-emitiu-e-cancelou-r-1-milhao-em-notas-fiscais-para-empresa-que-operou-com-o-master.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
-        },
-        {
-          "rank": 2,
-          "title": "Por que a reunião de Flávio Bolsonaro com embaixadores acendeu um alerta no TSE?",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/por-que-a-reuniao-de-flavio-bolsonaro-com-embaixadores-acendeu-um-alerta-no-tse/"
-        },
-        {
-          "rank": 3,
           "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
           "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
         },
         {
+          "rank": 2,
+          "title": "Bibi achava que trocaria o aiatolá por Ahmadinejad e os iranianos iriam agradecer? Isso é loucura",
+          "url": "https://www.estadao.com.br/internacional/bibi-achava-que-trocaria-o-aiatola-por-ahmadinejad-e-os-iranianos-iriam-agradecer-isso-e-loucura/"
+        },
+        {
+          "rank": 3,
+          "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
+          "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
+        },
+        {
           "rank": 4,
-          "title": "Caixa do BRB preocupa e BC pode ter de tomar decisão sobre banco nos próximos dias; leia bastidor",
-          "url": "https://www.estadao.com.br/economia/caixa-do-brb-preocupa-e-bc-pode-ter-de-tomar-decisao-sobre-banco-nos-proximos-dias-leia-bastidor/"
+          "title": "Tesouro IPCA+, Selic ou Prefixado: o cálculo que mostra qual pode render mais até 2032",
+          "url": "https://www.estadao.com.br/einvestidor/einar-rivero/tesouro-ipca-selic-ou-prefixado-o-calculo-que-mostra-qual-pode-render-mais-ate-2032/"
         },
         {
           "rank": 5,
-          "title": "Por que o Brasil tem tantos golpes virtuais e roubos de celular?",
-          "url": "https://www.estadao.com.br/brasil/por-que-brasil-tem-tantos-golpes-virtuais-e-roubos-de-celular/"
+          "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 09:40",
+  "atualizado_em": "23/07/2026 09:45",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Irã atinge bases da CIA e EUA questionam participação da Rússia",
-          "url": "https://www.cnnbrasil.com.br/internacional/ira-atinge-bases-da-cia-e-eua-questionam-participacao-da-russia/"
+          "title": "Análise: Por que os EUA não tratam a Nicarágua como tratam Cuba e Venezuela",
+          "url": "https://www.cnnbrasil.com.br/internacional/analise-por-que-os-eua-nao-tratam-a-nicaragua-como-tratam-cuba-e-venezuela/"
         },
         {
           "rank": 5,
-          "title": "Amigos dos rins: veja quais são as melhores práticas para evitar doenças",
-          "url": "https://www.cnnbrasil.com.br/saude/amigos-dos-rins-veja-quais-sao-as-melhores-praticas-para-evitar-doencas/"
+          "title": "Irã atinge bases da CIA e EUA questionam participação da Rússia",
+          "url": "https://www.cnnbrasil.com.br/internacional/ira-atinge-bases-da-cia-e-eua-questionam-participacao-da-russia/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem sai aos seus não degenera",
-          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
-        },
-        {
-          "rank": 3,
-          "title": "Terceiro encontro do ‘Brasil Adiante’ discute propostas de combate à violência",
+          "title": "União deve ser ‘estrategista’ da política de segurança, diz Renato de Lima",
           "url": "https://www.estadao.com.br/brasil/ao-vivo-brasil-adiante-terceiro-encontro-seguranca-publica/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
           "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
+          "rank": 4,
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
+        },
+        {
           "rank": 5,
-          "title": "Relatório de tragédia da Voepass será revelado: quais as causas mais comuns de acidentes de avião?",
-          "url": "https://www.estadao.com.br/brasil/relatorio-de-tragedia-da-voepass-sera-revelado-quais-as-causas-mais-comuns-de-acidentes-de-aviao/"
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Iran’s demands over the Strait of Hormuz would set a dangerous precedent, Rubio warns Asian leaders",
-          "url": "https://apnews.com/article/asean-rubio-south-china-sea-iran-war-12b3a257be0b6af9d96356dd78be3cfd"
+          "title": "House votes for Department of War renaming as part of an annual defense bill",
+          "url": "https://apnews.com/article/defense-pentagon-congress-iran-spending-trump-de65f6e0ee4f4d69699fb9f1f647083e"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
-          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
-        },
-        {
-          "rank": 4,
           "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
           "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
           "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
+        },
+        {
+          "rank": 5,
+          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
         }
       ],
       "erro": null

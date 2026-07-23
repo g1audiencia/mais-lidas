@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 07:19",
+  "atualizado_em": "23/07/2026 07:24",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem sai aos seus não degenera",
-          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
-        },
-        {
-          "rank": 3,
-          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
-        },
-        {
-          "rank": 4,
           "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
           "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
+          "rank": 3,
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
+        },
+        {
+          "rank": 4,
+          "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
+        },
+        {
           "rank": 5,
-          "title": "‘O problema não é ela, é o Flávio’: o diagnóstico da Faria Lima após périplo de Daniella Marques",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-problema-nao-e-ela-e-o-flavio-o-diagnostico-da-faria-lima-apos-periplo-de-daniella-marques/"
+          "title": "Falha no fornecimento de energia interrompe circulação nas linhas 11-Coral, 12-Safira e 13-Jade",
+          "url": "https://www.estadao.com.br/sao-paulo/falha-no-fornecimento-de-energia-interrompe-circulacao-nas-linhas-11-coral-12-safira-e-13-jade-npr/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "US signs landmark nuclear deal with Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
+          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
         },
         {
           "rank": 2,
-          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
-          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
+          "title": "US signs landmark nuclear deal with Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         },
         {
           "rank": 3,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
+          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
         },
         {
           "rank": 5,
-          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
         }
       ],
       "erro": null

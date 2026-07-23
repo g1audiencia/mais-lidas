@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 20:04",
+  "atualizado_em": "23/07/2026 20:09",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "EUA anunciam tarifa de 12,5% contra o Brasil por suposto trabalho escravo",
-          "url": "https://economia.uol.com.br/noticias/redacao/2026/07/23/eua-anunciam-tarifa-contra-brasil-trabalho-forcado.ghtm"
-        },
-        {
-          "rank": 2,
           "title": "Mercado: Ancelotti procurado, 'não' corintiano e Grêmio com reforço de Copa",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/23/mercado-da-bola-23-julho-2026.ghtm"
         },
         {
+          "rank": 2,
+          "title": "Cenipa: avião da Voepass teve falha no degelo e erro da tripulação no voo",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/23/cenipa-divulga-nesta-quinta-relatorio-final-sobre-queda-de-aviao-da-voepass.ghtm"
+        },
+        {
           "rank": 3,
-          "title": "Contrariado por postagem de Kassab, Tarcísio não deve ir à convenção de Caiado",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/07/23/tarcisio-convencao-psd-caiado.ghtm"
+          "title": "EUA anunciam tarifa de 12,5% contra o Brasil por suposto trabalho escravo",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/07/23/eua-anunciam-tarifa-contra-brasil-trabalho-forcado.ghtm"
         },
         {
           "rank": 4,
-          "title": "Jovem que sumiu ao trocar viagem de ônibus por carro é achada no PR após 3 dias",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/23/jovem-que-sumiu-ao-trocar-viagem-de-onibus-por-carro-e-encontrada-no-pr.ghtm"
+          "title": "Neymar rebate críticas por ter jogado torneio de pôquer: 'Vai cuidar da sua vida'",
+          "url": "https://www.uol.com.br/flash/?c=5577d0669fe35548cab644e2922c1abb20260723"
         },
         {
           "rank": 5,
-          "title": "Neymar rebate críticas por ter jogado torneio de pôquer: 'Vai cuidar da sua vida'",
-          "url": "https://www.uol.com.br/flash/?c=5577d0669fe35548cab644e2922c1abb20260723"
+          "title": "Contrariado por postagem de Kassab, Tarcísio não deve ir à convenção de Caiado",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/23/tarcisio-convencao-psd-caiado.ghtm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
-        },
-        {
-          "rank": 4,
           "title": "Estados Unidos anunciam sobretaxa de 12,5% a produtos brasileiros por trabalho escravo",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Bastidores: Mendonça não aliviará para Flávio no Dark Horse e rechaça pecha de traidor",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-mendonca-nao-aliviara-para-flavio-no-dark-horse-e-rechaca-pecha-de-traidor/"
+        },
+        {
+          "rank": 5,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "US announces tariffs on dozens of trade partners over 'forced labour' imports",
+          "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
           "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
         },
         {
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "Murió Bruno Betancor, el futbolista uruguayo de 22 años, surgido en Peñarol, que hace días fue señalado por llevarse ropa de Riestra",
-          "url": "https://www.clarin.com/deportes/murio-bruno-bentancor-futbolista-uruguayo-22-anos-surgido-penarol-hace-dias-senalado-llevarse-ropa-riestra_0_1NWa3l7jfj.html"
-        },
-        {
-          "rank": 3,
-          "title": "Antonela Roccuzzo y su firme posteo  tras la ola de críticas a Argentina por la final del Mundial",
-          "url": "https://www.clarin.com/fama/antonela-roccuzzo-firme-posteo-ola-criticas-argentina-final-mundial_0_c0d1bTbsLI.html"
-        },
-        {
-          "rank": 4,
           "title": "El gobierno de Trump anunció aranceles a 60 países y un 10% para productos argentinos",
           "url": "https://www.clarin.com/economia/gobierno-trump-anuncio-aranceles-60-paises-10-productos-argentinos_0_L7Ki80Mwz1.html"
         },
         {
+          "rank": 3,
+          "title": "Murió Bruno Betancor, el futbolista uruguayo de 22 años, surgido en Peñarol, que hace días fue señalado por llevarse ropa de Riestra",
+          "url": "https://www.clarin.com/deportes/murio-bruno-bentancor-futbolista-uruguayo-22-anos-surgido-penarol-hace-dias-senalado-llevarse-ropa-riestra_0_1NWa3l7jfj.html"
+        },
+        {
+          "rank": 4,
+          "title": "Antonela Roccuzzo y su firme posteo  tras la ola de críticas a Argentina por la final del Mundial",
+          "url": "https://www.clarin.com/fama/antonela-roccuzzo-firme-posteo-ola-criticas-argentina-final-mundial_0_c0d1bTbsLI.html"
+        },
+        {
           "rank": 5,
-          "title": "Por su adicción a las drogas, le dan arresto domiciliario a Facundo Leal: es el exfuncionario al que le encontraron más de US$ 800 mil, cocaína y éxtasis",
-          "url": "https://www.clarin.com/politica/adiccion-drogas-dan-arresto-domiciliario-facundo-leal-ex-funcionario-encontraron-us-25-millones-cocaina-pastillas-extasis_0_C52mi0XtQc.html"
+          "title": "Quién era Facundo Rico, el ingeniero argentino asesinado en España por un marido celoso",
+          "url": "https://www.clarin.com/policiales/facundo-rico-ingeniero-argentino-asesinado-espana-marido-celoso_0_gm3aMmUDpY.html"
         }
       ],
       "erro": null

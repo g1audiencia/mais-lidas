@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 04:36",
+  "atualizado_em": "23/07/2026 04:47",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
-          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
+          "title": "Por que a reunião de Flávio Bolsonaro com embaixadores acendeu um alerta no TSE?",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/por-que-a-reuniao-de-flavio-bolsonaro-com-embaixadores-acendeu-um-alerta-no-tse/"
         },
         {
           "rank": 3,
-          "title": "Câmara dos EUA aprova orçamento recorde de defesa de US$ 1,15 trilhão",
-          "url": "https://www.estadao.com.br/internacional/camara-eua-aprova-orcamento-recorde-defesa-1-15-trilhao-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Mãe denunciou filhos suspeitos de sequestrar e matar empresário em Carapicuíba, na Grande SP",
           "url": "https://www.estadao.com.br/sao-paulo/mae-denunciou-filhos-suspeitos-sequestrar-matar-empresario-carapicuiba-grande-sp-npr/"
         },
         {
+          "rank": 4,
+          "title": "Câmara dos EUA aprova orçamento recorde de defesa de US$ 1,15 trilhão",
+          "url": "https://www.estadao.com.br/internacional/camara-eua-aprova-orcamento-recorde-defesa-1-15-trilhao-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+          "title": "Caiado e Renan Santos criticam Flávio Bolsonaro por falas em reunião com embaixadores",
+          "url": "https://www.estadao.com.br/politica/caiado-e-renan-santos-criticam-flavio-bolsonaro-por-falas-em-reuniao-com-embaixadores-nprp/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
-          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
+          "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
+          "url": "https://www.bbc.com/news/articles/cpw9xzx9r4ko"
         },
         {
           "rank": 5,
-          "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-          "url": "https://www.bbc.com/news/articles/cpw9xzx9r4ko"
+          "title": "Wreckage of Pan Am plane that shaped aviation safety found 74 years on",
+          "url": "https://www.bbc.com/news/articles/cdrvyllxj71o"
         }
       ],
       "erro": null

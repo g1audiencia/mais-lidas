@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 16:25",
+  "atualizado_em": "23/07/2026 16:31",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 2,
           "title": "Bastidores: Mendonça não aliviará para Flávio no Dark Horse e rechaça pecha de traidor",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-mendonca-nao-aliviara-para-flavio-no-dark-horse-e-rechaca-pecha-de-traidor/"
         },
         {
+          "rank": 2,
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
+        },
+        {
           "rank": 3,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
           "rank": 4,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
           "rank": 5,
@@ -199,18 +199,18 @@
         },
         {
           "rank": 3,
-          "title": "Cão gigante mobiliza resgate de 4 horas após ferir a pata durante trilha",
-          "url": "https://entretenimento.r7.com/rpet/cao-gigante-ferido-mobiliza-operacao-de-resgate-de-4-horas-para-descer-uma-montanha-23072026/"
-        },
-        {
-          "rank": 4,
           "title": "Cosme: Com dívida de R$ 2,5 bi, Botafogo vira 'fornecedor' do Palmeiras",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/marlon-freitas-barboza-e-danilo-palmeiras-e-o-que-mais-se-aproveita-das-dividas-de-r-25-bilhoes-do-botafogo-de-rival-o-clube-carioca-virou-fornecedor-23072026/"
         },
         {
+          "rank": 4,
+          "title": "Cão gigante mobiliza resgate de 4 horas após ferir a pata durante trilha",
+          "url": "https://entretenimento.r7.com/rpet/cao-gigante-ferido-mobiliza-operacao-de-resgate-de-4-horas-para-descer-uma-montanha-23072026/"
+        },
+        {
           "rank": 5,
-          "title": "Incêndio em trem paralisa três linhas do transporte sobre trilhos em SP",
-          "url": "https://record.r7.com/balanco-geral-manha/video/incendio-em-trem-paralisa-tres-linhas-do-transporte-sobre-trilhos-em-sao-paulo-23072026/"
+          "title": "Jornal espanhol ironiza Flamengo após acerto verbal por Almada",
+          "url": "https://esportes.r7.com/prisma/blog-do-nicola/jornal-espanhol-ironiza-flamengo-apos-acerto-verbal-por-almada-23072026/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 04:13",
+  "atualizado_em": "23/07/2026 04:24",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "São Paulo virou um retrato triste da ganância e da corrupção imobiliária",
+          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/07/sao-paulo-virou-um-retrato-triste-da-ganancia-e-da-corrupcao-imobiliaria.shtml"
+        },
+        {
+          "rank": 4,
           "title": "'Happy hour das avós': mulher de 82 anos consegue mudança em lei americana para beber em casa de repouso",
           "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/happy-hour-das-avos-mulher-de-82-anos-consegue-mudanca-em-lei-americana-para-beber-em-casa-de-repouso.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Fãs de Deolane Bezerra fazem ato na avenida Paulista e pedem liberdade da influenciadora",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/fas-de-deolane-bezerra-fazem-ato-na-avenida-paulista-e-pedem-liberdade-da-influenciadora.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "São Paulo virou um retrato triste da ganância e da corrupção imobiliária",
-          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/07/sao-paulo-virou-um-retrato-triste-da-ganancia-e-da-corrupcao-imobiliaria.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Os problemas sérios de afirmação nacional não estão na propaganda governista",
+          "url": "https://www.estadao.com.br/politica/william-waack/os-problemas-serios-de-afirmacao-nacional-nao-estao-na-propaganda-governista/"
+        },
+        {
+          "rank": 2,
           "title": "Flávio Bolsonaro recebeu R$ 500 mil de diretor de empresa do esquema do Banco Master",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-recebeu-r-500-mil-de-diretor-de-empresa-do-esquema-do-banco-master/"
         },
         {
-          "rank": 2,
-          "title": "Caiado e Renan Santos criticam Flávio Bolsonaro por falas em reunião com embaixadores",
-          "url": "https://www.estadao.com.br/politica/caiado-e-renan-santos-criticam-flavio-bolsonaro-por-falas-em-reuniao-com-embaixadores-nprp/"
-        },
-        {
           "rank": 3,
-          "title": "Ouça áudios que mostram farra de propinas em delegacias da Polícia de São Paulo para acobertar o PCC",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ouca-audios-que-mostram-farra-de-propinas-em-delegacias-da-policia-de-sao-paulo-para-acobertar-o-pcc/"
+          "title": "XP e Benchimol fecham acordo de R$ 1,5 milhão com CVM em processo sobre agentes autônomos",
+          "url": "https://www.estadao.com.br/economia/xp-benchimol-acordo-cvm-processo-agentes-autonomos/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Gonet cita ‘precedente Bolsonaro’ ao apontar possível ilícito eleitoral do senador Alessandro Vieira",
-          "url": "https://www.estadao.com.br/politica/gonet-cita-precedente-bolsonaro-ao-apontar-possivel-ilicito-eleitoral-do-senador-alessandro-vieira/"
+          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
+          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
           "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
         },
         {

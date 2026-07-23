@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 06:40",
+  "atualizado_em": "23/07/2026 06:46",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Quem sai aos seus não degenera",
-          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
-        },
-        {
-          "rank": 4,
           "title": "Como o BYD Dolphin híbrido faz até 71 km/l?",
           "url": "https://www.estadao.com.br/jornal-do-carro/como-o-byd-dolphin-hibrido-faz-ate-71-kml/"
         },
         {
+          "rank": 4,
+          "title": "Quem sai aos seus não degenera",
+          "url": "https://www.estadao.com.br/opiniao/quem-sai-aos-seus-nao-degenera/"
+        },
+        {
           "rank": 5,
-          "title": "Ortega rasga a fantasia",
-          "url": "https://www.estadao.com.br/opiniao/ortega-rasga-a-fantasia/"
+          "title": "OpenAI diz que modelos de IA saíram do controle e atacaram biblioteca digital",
+          "url": "https://www.estadao.com.br/economia/openai-modelos-ia-sairam-controle-atacaram-biblioteca-digital/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
-        },
-        {
-          "rank": 2,
-          "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-          "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
-        },
-        {
-          "rank": 3,
           "title": "US signs landmark nuclear deal with Saudi Arabia",
           "url": "https://www.bbc.com/news/articles/cj03r59z73po"
         },
         {
+          "rank": 2,
+          "title": "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
+          "url": "https://www.bbc.com/news/articles/cdrvy3pn3r0o"
+        },
+        {
+          "rank": 3,
+          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
+        },
+        {
           "rank": 4,
-          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
+          "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+          "url": "https://www.bbc.com/news/articles/ce8kvm84lxmo"
         },
         {
           "rank": 5,
-          "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
-          "url": "https://www.bbc.com/news/articles/cz64pn37138o"
+          "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+          "url": "https://www.bbc.com/news/articles/cewrx0ldlkko"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Redes, relatos y un enemigo común: Javier Milei convirtió la polémica por la derrota de la selección en un un nuevo capítulo de \"su batalla cultural\"",
-          "url": "https://www.clarin.com/politica/redes-relatos-enemigo-comun-javier-milei-convirtio-polemica-derrota-seleccion-nuevo-capitulo-batalla-cultural_0_CD2ZfmMLtG.html"
+          "title": "Sin Messi ni De Paul, Inter Miami ganó pese a un blooper de su arquero argentino y amargó el debut de Lewandowski en Chicago Fire",
+          "url": "https://www.clarin.com/deportes/messi-paul-inter-miami-gano-pese-blooper-arquero-argentino-amargo-debut-lewandowski-chicago-fire_0_xQLyqNNkZj.html"
         },
         {
           "rank": 4,
-          "title": "Sin Messi ni De Paul, Inter Miami ganó pese a un blooper de su arquero argentino y amargó el debut de Lewandowski en Chicago Fire",
-          "url": "https://www.clarin.com/deportes/messi-paul-inter-miami-gano-pese-blooper-arquero-argentino-amargo-debut-lewandowski-chicago-fire_0_xQLyqNNkZj.html"
+          "title": "Caso AFA: Tapia y Toviggino, acorralados en EE.UU.",
+          "url": "https://www.clarin.com/opinion/caso-afa-tapia-toviggino-acorralados-eeuu_0_u27F30oiFg.html"
         },
         {
           "rank": 5,

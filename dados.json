@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 02:04",
+  "atualizado_em": "24/07/2026 02:09",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
-          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         },
         {
           "rank": 4,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+          "title": "Passata de tomate: veja qual é a melhor e como escolher um bom produto",
+          "url": "https://www.estadao.com.br/paladar/comida/passata-de-tomate-veja-qual-e-a-melhor-e-como-escolher-um-bom-produto/"
         },
         {
           "rank": 5,
-          "title": "Se Flávio não queria prestar serviços à empresa que recebeu dinheiro do Master, por que emitiu nota?",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/se-flavio-nao-queria-prestar-servicos-a-empresa-que-recebeu-dinheiro-do-master-por-que-emitiu-nota/"
+          "title": "Diniz minimiza atuação do Corinthians contra Remo: ‘Não se faz mágica com 25 dias de treino’",
+          "url": "https://www.estadao.com.br/esportes/futebol/diniz-minimiza-atuacao-do-corinthians-contra-remo-nao-se-faz-magica-com-25-dias-de-treino/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "'Everything on the table' as Canada plans response to US tariffs",
-          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
-        },
-        {
-          "rank": 4,
           "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
           "url": "https://www.bbc.com/news/articles/cx2vqj2e9x8o"
         },
         {
+          "rank": 4,
+          "title": "'Everything on the table' as Canada plans response to US tariffs",
+          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
+        },
+        {
           "rank": 5,
-          "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
-          "url": "https://www.bbc.com/news/articles/cvgve0vxy1yo"
+          "title": "US health panel loosens restrictions for controversial peptides popular online",
+          "url": "https://www.bbc.com/news/articles/ckg4741vklko"
         }
       ],
       "erro": null

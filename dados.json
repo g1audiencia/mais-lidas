@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 00:37",
+  "atualizado_em": "24/07/2026 00:42",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
-        },
-        {
-          "rank": 2,
-          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
-        },
-        {
-          "rank": 3,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
+          "rank": 3,
+          "title": "Governo de SP manda CPTM reassumir linhas de trem que tiveram falhas por 90 dias: ‘Inaceitável’",
+          "url": "https://www.estadao.com.br/sao-paulo/cptm-volta-a-operar-linhas-11-12-e-13-que-tiveram-falhas-por-90-dias-decide-governo-de-sp-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+        },
+        {
           "rank": 5,
-          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+          "title": "PF abre inquérito contra segundo ministro do STJ para apurar venda de decisões",
+          "url": "https://www.estadao.com.br/politica/pf-abre-inquerito-contra-segundo-ministro-do-stj-para-apurar-venda-de-decisoes/"
         }
       ],
       "erro": null
@@ -231,13 +231,13 @@
         },
         {
           "rank": 3,
-          "title": "Special prosecutor drops all felony criminal charges against Louisiana Attorney General Murrill",
-          "url": "https://apnews.com/article/louisiana-attorney-general-liz-murrill-charges-d481ca6adba8232a7cbf450a46e5b6b3"
+          "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
+          "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
         },
         {
           "rank": 4,
-          "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
-          "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
+          "title": "Special prosecutor drops all felony criminal charges against Louisiana Attorney General Murrill",
+          "url": "https://apnews.com/article/louisiana-attorney-general-liz-murrill-charges-d481ca6adba8232a7cbf450a46e5b6b3"
         },
         {
           "rank": 5,
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "CJP protest: The youth movement India's Modi didn't see coming",
+          "url": "https://www.bbc.com/news/articles/c07rgpxe51no"
+        },
+        {
+          "rank": 4,
           "title": "They became best friends – then discovered they were brother and sister",
           "url": "https://www.bbc.com/news/articles/c4g397rl4nzo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
           "url": "https://www.bbc.com/news/articles/cx2vqj2e9x8o"
-        },
-        {
-          "rank": 5,
-          "title": "CJP protest: The youth movement India's Modi didn't see coming",
-          "url": "https://www.bbc.com/news/articles/c07rgpxe51no"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "El brote de diarreas explosivas provocadas por un parásito avanza por Estados Unidos y en Nueva York investigan la ruta del cilantro",
-          "url": "https://www.clarin.com/mundo/brote-diarreas-explosivas-provocadas-parasito-avanza-estados-unidos-nueva-york-investigan-ruta-cilantro_0_5vFja8Gi0q.html"
+          "title": "Detuvieron en Estados Unidos al exnovio de la modelo argentina asesinada en México: estuvo tres años prófugo",
+          "url": "https://www.clarin.com/sociedad/detuvieron-estados-unidos-exnovio-modelo-argentina-asesinada-mexico-anos-profugo_0_uzvJgeShxZ.html"
         },
         {
           "rank": 5,
-          "title": "Detuvieron en Estados Unidos al exnovio de la modelo argentina asesinada en México: estuvo tres años prófugo",
-          "url": "https://www.clarin.com/sociedad/detuvieron-estados-unidos-exnovio-modelo-argentina-asesinada-mexico-anos-profugo_0_uzvJgeShxZ.html"
+          "title": "El brote de diarreas explosivas provocadas por un parásito avanza por Estados Unidos y en Nueva York investigan la ruta del cilantro",
+          "url": "https://www.clarin.com/mundo/brote-diarreas-explosivas-provocadas-parasito-avanza-estados-unidos-nueva-york-investigan-ruta-cilantro_0_5vFja8Gi0q.html"
         }
       ],
       "erro": null

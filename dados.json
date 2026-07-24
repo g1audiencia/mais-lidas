@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 05:53",
+  "atualizado_em": "24/07/2026 05:59",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
-        },
-        {
-          "rank": 3,
-          "title": "Temporada de caça aos mensageiros",
-          "url": "https://www.estadao.com.br/opiniao/temporada-de-caca-aos-mensageiros/"
-        },
-        {
-          "rank": 4,
           "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Como Trump encontrou um novo caminho para taxar o mundo",
           "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
+        },
+        {
+          "rank": 4,
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+        },
+        {
+          "rank": 5,
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         }
       ],
       "erro": null

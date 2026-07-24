@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 23:15",
+  "atualizado_em": "23/07/2026 23:20",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Jogador espanhol Marc Cucurella mantém cabelo longo para que filho autista o reconheça em campo",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/jogador-espanhol-marc-cucurella-mantem-cabelo-longo-para-que-filho-autista-o-reconheca-em-campo.shtml"
         },
         {
+          "rank": 2,
+          "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
+        },
+        {
           "rank": 3,
-          "title": "IA superará inteligência humana em 5 anos, e dinheiro perderá sentido, afirma Musk em entrevista",
-          "url": "https://www1.folha.uol.com.br/tec/2026/07/musk-expoe-a-sua-visao-sobre-o-futuro-que-passa-pela-ia-colonizacao-de-marte-e-guerra-no-reino-unido.shtml"
+          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Igreja Presbiteriana Unida aprova inclusão de pessoas homoafetivas como membros e pastores",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/igreja-presbiteriana-unida-aprova-inclusao-de-pessoas-homoafetivas-como-membros-e-pastores.shtml"
+          "title": "IA superará inteligência humana em 5 anos, e dinheiro perderá sentido, afirma Musk em entrevista",
+          "url": "https://www1.folha.uol.com.br/tec/2026/07/musk-expoe-a-sua-visao-sobre-o-futuro-que-passa-pela-ia-colonizacao-de-marte-e-guerra-no-reino-unido.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
-          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
-        },
-        {
-          "rank": 4,
           "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
+          "rank": 4,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+        },
+        {
           "rank": 5,
-          "title": "Bastidores: Michelle e Flávio usaram pontes para gravar vídeo de pacificação; clima ainda não é bom",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-michelle-e-flavio-usaram-pontes-para-gravar-video-de-pacificacao-clima-ainda-nao-e-bom/"
+          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
         }
       ],
       "erro": null

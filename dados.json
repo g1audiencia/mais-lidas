@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 05:26",
+  "atualizado_em": "24/07/2026 05:31",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Caça mais avançado da Rússia cai pela primeira vez",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
         },
         {
+          "rank": 4,
+          "title": "Caça mais avançado da Rússia cai pela primeira vez",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
+        },
+        {
           "rank": 5,
-          "title": "IA superará inteligência humana em 5 anos, e dinheiro perderá sentido, afirma Musk em entrevista",
-          "url": "https://www1.folha.uol.com.br/tec/2026/07/musk-expoe-a-sua-visao-sobre-o-futuro-que-passa-pela-ia-colonizacao-de-marte-e-guerra-no-reino-unido.shtml"
+          "title": "Flip fica sem luz na segunda noite de evento, e energia deve voltar até a madrugada",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 2,
           "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         },
         {
+          "rank": 3,
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
+        },
+        {
           "rank": 4,
-          "title": "Ajuda deveria ser só para quem precisa",
-          "url": "https://www.estadao.com.br/opiniao/ajuda-deveria-ser-so-para-quem-precisa/"
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
           "rank": 5,
-          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
+          "title": "Ajuda deveria ser só para quem precisa",
+          "url": "https://www.estadao.com.br/opiniao/ajuda-deveria-ser-so-para-quem-precisa/"
         }
       ],
       "erro": null

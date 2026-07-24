@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 19:04",
+  "atualizado_em": "24/07/2026 19:10",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
-          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
-        },
-        {
-          "rank": 4,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
+          "rank": 4,
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+        },
+        {
           "rank": 5,
-          "title": "Enquanto Mendonça autoriza investigação do que Flávio não explica, ministros do STF seguem blindados",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/enquanto-mendonca-autoriza-investigacao-do-que-flavio-nao-explica-ministros-do-stf-seguem-blindados/"
+          "title": "Simulação do Cenipa mostra voo da Voepass que caiu em Vinhedo; veja vídeo",
+          "url": "https://www.estadao.com.br/brasil/simulacao-do-cenipa-mostra-voo-da-voepass-que-caiu-em-vinhedo-veja-video/"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
-          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
+          "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
+          "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
         },
         {
           "rank": 4,
-          "title": "Guerra en Medio Oriente: Irán amenazó a la Familia Real británica y podría atacar una base militar en Reino Unido",
-          "url": "https://www.clarin.com/mundo/guerra-medio-oriente-iran-amenaza-atacar-familia-real-britanica-base-militar-reino-unido_0_R29zL79TGW.html"
+          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
+          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
         },
         {
           "rank": 5,

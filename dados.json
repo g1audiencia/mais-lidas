@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 14:41",
+  "atualizado_em": "24/07/2026 14:47",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
-        },
-        {
-          "rank": 2,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 2,
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+        },
+        {
           "rank": 3,
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+        },
+        {
+          "rank": 4,
           "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
           "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
-        },
-        {
-          "rank": 5,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         }
       ],
       "erro": null

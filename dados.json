@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 10:49",
+  "atualizado_em": "24/07/2026 10:55",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
-        },
-        {
-          "rank": 4,
           "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
           "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         },
         {
+          "rank": 4,
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+        },
+        {
           "rank": 5,
-          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
-          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         }
       ],
       "erro": null
@@ -226,18 +226,18 @@
         },
         {
           "rank": 2,
+          "title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment",
+          "url": "https://apnews.com/article/amish-shah-arizona-democratic-house-primary-c1631e29aaeef27cdf4ea40cb352069d"
+        },
+        {
+          "rank": 3,
           "title": "Trump issues new double-digit tariffs on 60 countries",
           "url": "https://apnews.com/live/trump-ice-iran-updates-07-23-2026"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
           "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
-        },
-        {
-          "rank": 4,
-          "title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment",
-          "url": "https://apnews.com/article/amish-shah-arizona-democratic-house-primary-c1631e29aaeef27cdf4ea40cb352069d"
         },
         {
           "rank": 5,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Café y corazón: cuántas tazas se pueden tomar por día, y el impacto concreto en la salud, según una nueva declaración científica",
-          "url": "https://www.clarin.com/buena-vida/cafe-corazon-cuantas-tazas-pueden-tomar-dia-impacto-concreto-salud-nueva-declaracion-cientifica_0_dXMiIJAr8t.html"
+          "title": "\"Los Josecitos\": el clan de tres hermanos y un primo peruanos que secuestró, drogó y abusó durante dos días a una joven en Once",
+          "url": "https://www.clarin.com/policiales/josecitos-clan-hermanos-primo-peruanos-secuestro-drogo-abuso-dias-joven-once_0_uHXWyOjFnd.html"
         }
       ],
       "erro": null

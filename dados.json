@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 11:44",
+  "atualizado_em": "24/07/2026 11:50",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/com-cancer-lito-sousa-e-diagnosticado-com-inflamacao-no-sistema-nervoso/"
+          "title": "Lula sanciona lei que proíbe a produção e comercialização de foie gras",
+          "url": "https://www.cnnbrasil.com.br/agro/lula-sanciona-lei-que-proibe-a-producao-e-comercializacao-de-foie-gras/"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+          "title": "Hospital Albert Einstein compra casas no Morumbi para expansão imobiliária",
+          "url": "https://www.estadao.com.br/economia/coluna-do-broad/hospital-albert-einstein-compra-casas-no-morumbi-para-expansao-imobiliaria/"
         },
         {
           "rank": 5,
-          "title": "O prato que Anthony Bourdain não perdoou",
-          "url": "https://www.estadao.com.br/paladar/devoravel/amado-por-daniel-boulud-e-odiado-por-bourdain-a-historia-do-prato-que-fez-claude-troisgros-gelar/"
+          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
+          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
         }
       ],
       "erro": null
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
+          "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
+          "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
+        },
+        {
+          "rank": 3,
           "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
           "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
           "url": "https://apnews.com/article/nun-arrested-ice-texas-d4937d291570e9b151add91c36020dd4"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump issues new double-digit tariffs on 60 countries",
           "url": "https://apnews.com/live/trump-ice-iran-updates-07-23-2026"
-        },
-        {
-          "rank": 5,
-          "title": "House again passes a resolution seeking to halt military action in Iran as the conflict escalates",
-          "url": "https://apnews.com/article/iran-congress-war-powers-resolution-vote-0ba2387a476fe08de0bfd6281adb9639"
         }
       ],
       "erro": null

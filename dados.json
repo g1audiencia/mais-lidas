@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 05:15",
+  "atualizado_em": "24/07/2026 05:21",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Caça mais avançado da Rússia cai pela primeira vez",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
         },
         {
+          "rank": 3,
+          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
+        },
+        {
           "rank": 4,
-          "title": "IA superará inteligência humana em 5 anos, e dinheiro perderá sentido, afirma Musk em entrevista",
-          "url": "https://www1.folha.uol.com.br/tec/2026/07/musk-expoe-a-sua-visao-sobre-o-futuro-que-passa-pela-ia-colonizacao-de-marte-e-guerra-no-reino-unido.shtml"
+          "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
         },
         {
           "rank": 5,
-          "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
+          "title": "IA superará inteligência humana em 5 anos, e dinheiro perderá sentido, afirma Musk em entrevista",
+          "url": "https://www1.folha.uol.com.br/tec/2026/07/musk-expoe-a-sua-visao-sobre-o-futuro-que-passa-pela-ia-colonizacao-de-marte-e-guerra-no-reino-unido.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
-          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
+          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         },
         {
           "rank": 2,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
-        },
-        {
-          "rank": 3,
-          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
-        },
-        {
-          "rank": 4,
           "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+        },
+        {
+          "rank": 4,
+          "title": "Cerveja com proteína: por que o mercado cervejeiro está investindo tanto em saúde e bem-estar",
+          "url": "https://www.estadao.com.br/paladar/bebida/spaten-pro-chega-com-10g-de-proteina-e-sem-alcool-entenda-por-que-a-industria-cervejeira-brasileira-esta-lancando-produtos-de-bem-estar/"
+        },
+        {
+          "rank": 5,
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         }
       ],
       "erro": null

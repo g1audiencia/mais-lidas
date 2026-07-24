@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 07:04",
+  "atualizado_em": "24/07/2026 07:09",
   "portais": [
     {
       "portal": "Folha",
@@ -285,23 +285,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Investigan posibles irregularidades en las apuestas del Mundial: España bajo la lupa, tiene dos partidos sospechados",
-          "url": "https://www.clarin.com/deportes/investigan-posibles-irregularidades-apuestas-mundial-espana-lupa-partidos-sospechados_0_O3wT2r4F3B.html"
-        },
-        {
-          "rank": 2,
-          "title": "Bomba en Brasil: Carlo Ancelotti es uno de los candidatos para tomar las riendas de la selección de Italia",
-          "url": "https://www.clarin.com/deportes/bomba-brasil-carlo-ancelotti-candidatos-tomar-riendas-seleccion-italia_0_o9KckUDzQc.html"
-        },
-        {
-          "rank": 3,
           "title": "Murió Zdenek Chovanec: tenía 21 años, fue rival de Colapinto en la Fórmula 3 y hay conmoción en el automovilismo",
           "url": "https://www.clarin.com/deportes/murio-zdenek-chovanec-21-anos-rival-colapinto-formula-3-conmocion-automovilismo_0_BNvyywiQO1.html"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Por su adicción a las drogas, le dan arresto domiciliario a Facundo Leal: es el exfuncionario al que le encontraron más de US$ 800 mil, cocaína y éxtasis",
           "url": "https://www.clarin.com/politica/adiccion-drogas-dan-arresto-domiciliario-facundo-leal-ex-funcionario-encontraron-us-25-millones-cocaina-pastillas-extasis_0_C52mi0XtQc.html"
+        },
+        {
+          "rank": 3,
+          "title": "Bomba en Brasil: Carlo Ancelotti es uno de los candidatos para tomar las riendas de la selección de Italia",
+          "url": "https://www.clarin.com/deportes/bomba-brasil-carlo-ancelotti-candidatos-tomar-riendas-seleccion-italia_0_o9KckUDzQc.html"
+        },
+        {
+          "rank": 4,
+          "title": "Investigan posibles irregularidades en las apuestas del Mundial: España bajo la lupa, tiene dos partidos sospechados",
+          "url": "https://www.clarin.com/deportes/investigan-posibles-irregularidades-apuestas-mundial-espana-lupa-partidos-sospechados_0_O3wT2r4F3B.html"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 09:55",
+  "atualizado_em": "24/07/2026 10:00",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
-          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
-        },
-        {
-          "rank": 4,
           "title": "Prático, mas perigoso: como o carregador por indução do carro detorna o seu celular",
           "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         },
         {
+          "rank": 4,
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+        },
+        {
           "rank": 5,
-          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
-          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         }
       ],
       "erro": null

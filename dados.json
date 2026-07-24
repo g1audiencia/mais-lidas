@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 17:26",
+  "atualizado_em": "24/07/2026 17:31",
   "portais": [
     {
       "portal": "Folha",
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "How Jimothy the raccoon became the internet's latest animal obsession",
+          "url": "https://www.bbc.com/news/articles/cd0xnge2zx7o"
+        },
+        {
+          "rank": 4,
           "title": "Cyclospora outbreak expands to nine US states, health officials say",
           "url": "https://www.bbc.com/news/articles/cwyqgnp8wv8o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "This new bridge aimed to show US-Canada unity but instead stoked divisions",
           "url": "https://www.bbc.com/news/articles/cewr57kd21vo"
-        },
-        {
-          "rank": 5,
-          "title": "They became best friends - then discovered they were brother and sister",
-          "url": "https://www.bbc.com/news/articles/c4g397rl4nzo"
         }
       ],
       "erro": null

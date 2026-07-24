@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 06:15",
+  "atualizado_em": "24/07/2026 06:21",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Caça mais avançado da Rússia cai pela primeira vez",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
         },
         {
+          "rank": 3,
+          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Igreja Presbiteriana Unida aprova inclusão de pessoas homoafetivas como membros e pastores",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/igreja-presbiteriana-unida-aprova-inclusao-de-pessoas-homoafetivas-como-membros-e-pastores.shtml"
+          "title": "Família de Chadwick Boseman entra na Justiça contra viúva do ator",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/familia-de-chadwick-boseman-entra-na-justica-contra-viuva-do-ator.shtml"
         },
         {
           "rank": 5,
-          "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
+          "title": "Supremacistas brancos só saíram do armário, diz Angela Davis, estrela da Flip",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/supremacistas-brancos-so-sairam-do-armario-diz-angela-davis-estrela-da-flip.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
-          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
-        },
-        {
-          "rank": 3,
-          "title": "Crise da Oncoclínicas (ONCO3) chega a 111 fundos, mas risco maior é de quem comprou títulos; entenda",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/crise-da-oncoclinicas-onco3-chega-a-111-fundos-mas-risco-maior-e-de-quem-comprou-titulos-entenda/"
-        },
-        {
-          "rank": 4,
           "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
+          "rank": 3,
+          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+        },
+        {
+          "rank": 4,
+          "title": "Com eleições e recorde de emendas, apoio a Lula recua no Congresso, mostra levantamento",
+          "url": "https://www.estadao.com.br/politica/com-eleicoes-e-recorde-de-emendas-apoio-a-lula-recua-no-congresso-mostra-levantamento/"
+        },
+        {
           "rank": 5,
-          "title": "Ajuda deveria ser só para quem precisa",
-          "url": "https://www.estadao.com.br/opiniao/ajuda-deveria-ser-so-para-quem-precisa/"
+          "title": "Saúde e educação: com o gasto mais vivo do que nunca, está na hora de a realidade se impor",
+          "url": "https://www.estadao.com.br/economia/fabio-giambiagi/agenda-2027-vi-saude-e-educacao/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 04:31",
+  "atualizado_em": "24/07/2026 04:37",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+        },
+        {
+          "rank": 2,
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
+        },
+        {
+          "rank": 3,
           "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
           "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
         },
         {
-          "rank": 2,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
-        },
-        {
-          "rank": 3,
-          "title": "Ajuda deveria ser só para quem precisa",
-          "url": "https://www.estadao.com.br/opiniao/ajuda-deveria-ser-so-para-quem-precisa/"
-        },
-        {
           "rank": 4,
-          "title": "Temporada de caça aos mensageiros",
-          "url": "https://www.estadao.com.br/opiniao/temporada-de-caca-aos-mensageiros/"
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
           "rank": 5,
-          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
+          "title": "Saúde e educação: com o gasto mais vivo do que nunca, está na hora de a realidade se impor",
+          "url": "https://www.estadao.com.br/economia/fabio-giambiagi/agenda-2027-vi-saude-e-educacao/"
         }
       ],
       "erro": null

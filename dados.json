@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 12:45",
+  "atualizado_em": "24/07/2026 12:51",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Governo age para afastar centrão de Flávio Bolsonaro, e Lula deve poupar Ciro Nogueira na campanha",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-age-para-afastar-centrao-de-flavio-bolsonaro-e-lula-deve-poupar-ciro-nogueira-na-campanha.shtml"
         },
         {
+          "rank": 2,
+          "title": "Terreno de Jaques Wagner valorizou 115 vezes após rodovia projetada no governo dele",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/terreno-de-jaques-wagner-valorizou-115-vezes-apos-rodovia-projetada-no-governo-dele.shtml"
+        },
+        {
           "rank": 3,
+          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Vendaval causa uma morte, afeta hospitais, suspende aulas e gera caos em Ribeirão Preto (SP)",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/vendaval-afeta-hospitais-suspende-aulas-e-gera-caos-em-ribeirao-preto-sp.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Jogador espanhol Marc Cucurella mantém cabelo longo para que filho autista o reconheça em campo",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/jogador-espanhol-marc-cucurella-mantem-cabelo-longo-para-que-filho-autista-o-reconheca-em-campo.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Terreno de Jaques Wagner valorizou 115 vezes após rodovia projetada no governo dele",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/terreno-de-jaques-wagner-valorizou-115-vezes-apos-rodovia-projetada-no-governo-dele.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         },
         {
           "rank": 2,
-          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
-          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 3,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
+          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war",
+          "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"
+        },
+        {
+          "rank": 4,
           "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
           "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
           "url": "https://apnews.com/article/nun-arrested-ice-texas-d4937d291570e9b151add91c36020dd4"
-        },
-        {
-          "rank": 5,
-          "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
-          "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
         }
       ],
       "erro": null

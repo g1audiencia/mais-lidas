@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 16:09",
+  "atualizado_em": "24/07/2026 16:14",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "A IA sabe mais sobre você do que parece: veja 4 perguntas para fazer ao ChatGPT e descobrir",
-          "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/07/24/a-ia-sabe-mais-sobre-voce-do-que-parece-veja-4-perguntas-para-fazer-ao-chatgpt-e-descobrir.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Astro da NBA, LeBron James acerta com Philadelphia 76ers",
           "url": "https://oglobo.globo.com/esportes/noticia/2026/07/24/astro-da-nba-lebron-james-assinara-contrato-de-dois-anos-com-76ers-diz-jornalista.ghtml"
         },
         {
+          "rank": 3,
+          "title": "A IA sabe mais sobre você do que parece: veja 4 perguntas para fazer ao ChatGPT e descobrir",
+          "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/07/24/a-ia-sabe-mais-sobre-voce-do-que-parece-veja-4-perguntas-para-fazer-ao-chatgpt-e-descobrir.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "No PL, aliados classificam articulação de Flávio com Centrão como 'tragédia' e já admitem candidatura avulsa",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/07/24/no-pl-aliados-classificam-articulacao-de-flavio-com-centrao-como-tragedia-e-ja-admitem-candidatura-avulsa.ghtml"
+          "title": "Crise na campanha de Flávio abre brechas, e candidatos da direita ampliam ataques em busca de deserções no bolsonarismo",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/24/crise-na-campanha-de-flavio-abre-brechas-e-candidatos-da-direita-ampliam-ataques-em-busca-de-desercoes-no-bolsonarismo.ghtml"
         },
         {
           "rank": 5,
-          "title": "A resistência de Carlos Bolsonaro na trégua entre Flávio e Michelle",
-          "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/07/a-resistencia-de-carlos-bolsonaro-na-tregua-entre-flavio-e-michelle.ghtml"
+          "title": "No PL, aliados classificam articulação de Flávio com Centrão como 'tragédia' e já admitem candidatura avulsa",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/24/no-pl-aliados-classificam-articulacao-de-flavio-com-centrao-como-tragedia-e-ja-admitem-candidatura-avulsa.ghtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
-          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
+          "title": "Quer se mudar para o Paraguai? Veja 3 motivos para não sair correndo para o país vizinho",
+          "url": "https://www.estadao.com.br/economia/duquesa-de-tax/quer-mudar-para-o-paraguai-veja-3-motivos-para-nao-sair-correndo-para-o-pais-vizinho/"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Volver al país: cuánto te cobra ARCA por traer compras en la valija y qué excepciones hay",
-          "url": "https://www.clarin.com/servicios/volver-pais-cobra-arca-traer-compras-valija-excepciones_0_x95pu3yEuE.html"
+          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
+          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
         }
       ],
       "erro": null

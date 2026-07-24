@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 03:31",
+  "atualizado_em": "24/07/2026 03:37",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Temporada de caça aos mensageiros",
-          "url": "https://www.estadao.com.br/opiniao/temporada-de-caca-aos-mensageiros/"
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
           "rank": 2,
+          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+        },
+        {
+          "rank": 3,
+          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+        },
+        {
+          "rank": 4,
           "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
           "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
         },
         {
-          "rank": 3,
-          "title": "Zidane, Guardiola, Ancelotti e Klopp: as negociações dos técnicos com seleções para a Copa de 2030",
-          "url": "https://www.estadao.com.br/esportes/futebol/zidane-guardiola-ancelotti-e-klopp-as-negociacoes-dos-tecnicos-com-selecoes-para-a-copa-de-2030/"
-        },
-        {
-          "rank": 4,
-          "title": "Cenipa divulga relatório final e diz que avião da Voepass não poderia ter decolado; veja como foi",
-          "url": "https://www.estadao.com.br/brasil/ao-vivo-cenipa-relatorio-voepass-aviao/"
-        },
-        {
           "rank": 5,
-          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
-          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
+          "title": "Temporada de caça aos mensageiros",
+          "url": "https://www.estadao.com.br/opiniao/temporada-de-caca-aos-mensageiros/"
         }
       ],
       "erro": null

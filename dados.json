@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 13:41",
+  "atualizado_em": "24/07/2026 13:47",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/lamentavel-injustificada-e-sem-base-legal-o-que-os-paises-disseram-sobre-as-tarifas-dos-eua.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Terreno de Jaques Wagner valorizou 115 vezes após rodovia projetada no governo dele",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/terreno-de-jaques-wagner-valorizou-115-vezes-apos-rodovia-projetada-no-governo-dele.shtml"
         },
         {
+          "rank": 3,
+          "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/lamentavel-injustificada-e-sem-base-legal-o-que-os-paises-disseram-sobre-as-tarifas-dos-eua.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Vendaval causa uma morte, afeta hospitais, suspende aulas e gera caos em Ribeirão Preto (SP)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/vendaval-afeta-hospitais-suspende-aulas-e-gera-caos-em-ribeirao-preto-sp.shtml"
+          "title": "Governo Lula sanciona lei que proíbe produção e venda de foie gras no Brasil",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-lula-sanciona-lei-que-proibe-producao-e-venda-de-foie-gras-no-brasil.shtml"
         },
         {
           "rank": 5,
-          "title": "Governo Lula sanciona lei que proíbe produção e venda de foie gras no Brasil",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-lula-sanciona-lei-que-proibe-producao-e-venda-de-foie-gras-no-brasil.shtml"
+          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
+          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
         }
       ],
       "erro": null

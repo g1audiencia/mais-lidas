@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 12:17",
+  "atualizado_em": "24/07/2026 12:23",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Orcas nos EUA 'picotam' peixe-lua de até duas toneladas em comportamento nunca registrado; veja vídeo",
-          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/23/orcas-nos-eua-despedacam-peixe-lua-de-ate-duas-toneladas-em-comportamento-nunca-registrado-veja-video.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "A resistência de Carlos Bolsonaro na trégua entre Flávio e Michelle",
           "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/07/a-resistencia-de-carlos-bolsonaro-na-tregua-entre-flavio-e-michelle.ghtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "No PL, aliados classificam articulação de Flávio com Centrão como 'tragédia' e já admitem candidatura avulsa",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/24/no-pl-aliados-classificam-articulacao-de-flavio-com-centrao-como-tragedia-e-ja-admitem-candidatura-avulsa.ghtml"
+        },
+        {
+          "rank": 5,
+          "title": "Orcas nos EUA 'picotam' peixe-lua de até duas toneladas em comportamento nunca registrado; veja vídeo",
+          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/23/orcas-nos-eua-despedacam-peixe-lua-de-ate-duas-toneladas-em-comportamento-nunca-registrado-veja-video.ghtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Habib’s pede à Justiça proteção contra credores; dívidas somam R$ 312,4 milhões",
-          "url": "https://www.estadao.com.br/economia/negocios/habibs-protecao-justica-contra-credores/"
+          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
+          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
         }
       ],
       "erro": null

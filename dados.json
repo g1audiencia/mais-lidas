@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 07:31",
+  "atualizado_em": "24/07/2026 07:37",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Família de Chadwick Boseman entra na Justiça contra viúva do ator",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/familia-de-chadwick-boseman-entra-na-justica-contra-viuva-do-ator.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Flip fica sem luz na segunda noite de evento",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
         },
         {
+          "rank": 4,
+          "title": "Supremacistas brancos só saíram do armário, diz Angela Davis, estrela da Flip",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/supremacistas-brancos-so-sairam-do-armario-diz-angela-davis-estrela-da-flip.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Caça mais avançado da Rússia cai pela primeira vez",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
+          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
-          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
-        },
-        {
-          "rank": 3,
           "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
           "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
         },
         {
+          "rank": 3,
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
+        },
+        {
           "rank": 4,
-          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
-          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
           "rank": 5,
-          "title": "Temporada de caça aos mensageiros",
-          "url": "https://www.estadao.com.br/opiniao/temporada-de-caca-aos-mensageiros/"
+          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
+          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 05:42",
+  "atualizado_em": "24/07/2026 05:48",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Caça mais avançado da Rússia cai pela primeira vez",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
         },
         {
+          "rank": 4,
+          "title": "Igreja Presbiteriana Unida aprova inclusão de pessoas homoafetivas como membros e pastores",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/igreja-presbiteriana-unida-aprova-inclusao-de-pessoas-homoafetivas-como-membros-e-pastores.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Flip fica sem luz na segunda noite de evento, e energia deve voltar até a madrugada",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
+          "title": "Filho de Carla Perez e Xanddy anuncia casamento e surpreende com ensaio em academia",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/filho-de-carla-perez-e-xanddy-anuncia-casamento-e-surpreende-com-ensaio-em-academia.shtml"
         }
       ],
       "erro": null
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
+          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
         },
         {
           "rank": 2,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
+          "title": "Temporada de caça aos mensageiros",
+          "url": "https://www.estadao.com.br/opiniao/temporada-de-caca-aos-mensageiros/"
         },
         {
           "rank": 5,
-          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
-          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         }
       ],
       "erro": null

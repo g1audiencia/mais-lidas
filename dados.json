@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 15:31",
+  "atualizado_em": "24/07/2026 15:36",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
-        },
-        {
-          "rank": 4,
           "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/lamentavel-injustificada-e-sem-base-legal-o-que-os-paises-disseram-sobre-as-tarifas-dos-eua.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "LeBron James jogará pelo Philadelphia 76ers na próxima temporada",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/lebron-james-diz-que-jogara-pelo-philadelphia-76ers-na-proxima-temporada.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado",
-          "url": "https://www.estadao.com.br/politica/empresa-para-a-qual-flavio-bolsonaro-emitiu-r-1-milhao-em-notas-nao-existe-no-endereco-informado/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
           "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         },
         {
+          "rank": 3,
+          "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado",
+          "url": "https://www.estadao.com.br/politica/empresa-para-a-qual-flavio-bolsonaro-emitiu-r-1-milhao-em-notas-nao-existe-no-endereco-informado/"
+        },
+        {
           "rank": 4,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+          "title": "Quais são os passaportes mais fortes do mundo? Veja a posição do Brasil no ranking global",
+          "url": "https://www.estadao.com.br/internacional/quais-sao-os-passaportes-mais-fortes-do-mundo-veja-a-posicao-do-brasil-no-ranking-global-npr/"
         },
         {
           "rank": 5,
-          "title": "Quais são os passaportes mais fortes do mundo? Veja a posição do Brasil no ranking global",
-          "url": "https://www.estadao.com.br/internacional/quais-sao-os-passaportes-mais-fortes-do-mundo-veja-a-posicao-do-brasil-no-ranking-global-npr/"
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         }
       ],
       "erro": null

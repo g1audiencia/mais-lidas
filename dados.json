@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 09:17",
+  "atualizado_em": "24/07/2026 09:22",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
+          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
+        },
+        {
+          "rank": 3,
           "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
           "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
         },
         {
-          "rank": 3,
-          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
-        },
-        {
           "rank": 4,
-          "title": "Milícia marítima chinesa está cada vez mais ativa e pressiona arredores de Taiwan",
-          "url": "https://www.estadao.com.br/internacional/milicia-maritima-chinesa-esta-cada-vez-mais-ativa-e-pressiona-arredores-de-taiwan/"
+          "title": "Crise da Oncoclínicas (ONCO3) chega a 111 fundos, mas risco maior é de quem comprou títulos; entenda",
+          "url": "https://www.estadao.com.br/einvestidor/onde-investir/crise-da-oncoclinicas-onco3-chega-a-111-fundos-mas-risco-maior-e-de-quem-comprou-titulos-entenda/"
         },
         {
           "rank": 5,
-          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
-          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 11:50",
+  "atualizado_em": "24/07/2026 11:55",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Lula sanciona lei que proíbe a produção e comercialização de foie gras",
-          "url": "https://www.cnnbrasil.com.br/agro/lula-sanciona-lei-que-proibe-a-producao-e-comercializacao-de-foie-gras/"
+          "title": "Com câncer, Lito Sousa é diagnosticado com inflamação no sistema nervoso",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/com-cancer-lito-sousa-e-diagnosticado-com-inflamacao-no-sistema-nervoso/"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Nearly 150,000 mail ballots rejected in California’s primary despite efforts to count every vote",
+          "url": "https://apnews.com/article/california-primary-rejected-mail-ballots-voting-2291684fe4544cab2301f8965abc8f79"
+        },
+        {
+          "rank": 2,
           "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
           "url": "https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
           "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
           "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
           "url": "https://apnews.com/article/nun-arrested-ice-texas-d4937d291570e9b151add91c36020dd4"
-        },
-        {
-          "rank": 5,
-          "title": "Trump issues new double-digit tariffs on 60 countries",
-          "url": "https://apnews.com/live/trump-ice-iran-updates-07-23-2026"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "F1 GP de Hungría con Franco Colapinto, EN VIVO: horarios de las prácticas libres, cómo y dónde ver la Fórmula 1 este viernes 24 de julio",
-          "url": "https://www.clarin.com/deportes/f1-gp-hungria-franco-colapinto-vivo-horarios-practicas-libres-ver-formula-1-viernes-24-julio_0_imVvexWMNZ.html"
-        },
-        {
-          "rank": 3,
           "title": "Leandro Paredes le empieza a decir adiós a la Selección Argentina: \"No sé si estoy para seguir; hay que digerir lo que pasó y procesarlo\"",
           "url": "https://www.clarin.com/deportes/leandro-paredes-empieza-decir-adios-seleccion-argentina-seguir-digerir-paso-procesarlo_0_VR2eOsJ6oc.html"
         },
         {
+          "rank": 3,
+          "title": "F1 GP de Hungría con Franco Colapinto, EN VIVO: horarios de las prácticas libres, cómo y dónde ver la Fórmula 1 este viernes 24 de julio",
+          "url": "https://www.clarin.com/deportes/f1-gp-hungria-franco-colapinto-vivo-horarios-practicas-libres-ver-formula-1-viernes-24-julio_0_imVvexWMNZ.html"
+        },
+        {
           "rank": 4,
-          "title": "Volver al país: cuánto te cobra ARCA por traer compras en la valija y qué excepciones hay",
-          "url": "https://www.clarin.com/servicios/volver-pais-cobra-arca-traer-compras-valija-excepciones_0_x95pu3yEuE.html"
+          "title": "Una nueva encuesta electoral muestra un escenario parejísimo para la presidencial 2027",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-muestra-escenario-parejisimo-presidencial-2027_0_XX4cTpawlI.html"
         },
         {
           "rank": 5,
-          "title": "\"Los Josecitos\": el clan de tres hermanos y un primo peruanos que secuestró, drogó y abusó durante dos días a una joven en Once",
-          "url": "https://www.clarin.com/policiales/josecitos-clan-hermanos-primo-peruanos-secuestro-drogo-abuso-dias-joven-once_0_uHXWyOjFnd.html"
+          "title": "Volver al país: cuánto te cobra ARCA por traer compras en la valija y qué excepciones hay",
+          "url": "https://www.clarin.com/servicios/volver-pais-cobra-arca-traer-compras-valija-excepciones_0_x95pu3yEuE.html"
         }
       ],
       "erro": null

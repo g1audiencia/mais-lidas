@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 07:15",
+  "atualizado_em": "24/07/2026 07:20",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Família de Chadwick Boseman entra na Justiça contra viúva do ator",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/familia-de-chadwick-boseman-entra-na-justica-contra-viuva-do-ator.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
         },
         {
+          "rank": 3,
+          "title": "Família de Chadwick Boseman entra na Justiça contra viúva do ator",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/familia-de-chadwick-boseman-entra-na-justica-contra-viuva-do-ator.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Caça mais avançado da Rússia cai pela primeira vez",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
+          "title": "Flip fica sem luz na segunda noite de evento",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
         },
         {
           "rank": 5,
-          "title": "Flip fica sem luz na segunda noite de evento",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
+          "title": "Caça mais avançado da Rússia cai pela primeira vez",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
         }
       ],
       "erro": null
@@ -81,8 +81,8 @@
         },
         {
           "rank": 3,
-          "title": "\"Harmonização facial\" de Vini Jr.: entenda riscos do procedimento",
-          "url": "https://www.cnnbrasil.com.br/saude/harmonizacao-facial-de-vini-jr-entenda-riscos-do-procedimento/"
+          "title": "Entenda decisão que envolve Déborah Eevelyn e testamento de Dennis Carvalho",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/entenda-decisao-que-envolve-deborah-eevelyn-e-testamento-de-dennis-carvalho/"
         },
         {
           "rank": 4,
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Entenda decisão que envolve Déborah Eevelyn e testamento de Dennis Carvalho",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/entenda-decisao-que-envolve-deborah-eevelyn-e-testamento-de-dennis-carvalho/"
+          "title": "\"Harmonização facial\" de Vini Jr.: entenda riscos do procedimento",
+          "url": "https://www.cnnbrasil.com.br/saude/harmonizacao-facial-de-vini-jr-entenda-riscos-do-procedimento/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
-          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
-        },
-        {
-          "rank": 3,
           "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
           "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         },
         {
+          "rank": 3,
+          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
+          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
+        },
+        {
           "rank": 4,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         },
         {
           "rank": 5,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+          "title": "R$ 2 bi em patrocínio, 8 bi de visualizações: Casimiro construiu isso indo ao trabalho ao meio-dia",
+          "url": "https://www.estadao.com.br/economia/camila-farani/r-2-bi-em-patrocinio-8-bi-de-visualizacoes-casimiro-construiu-isso-indo-ao-trabalho-ao-meio-dia/"
         }
       ],
       "erro": null

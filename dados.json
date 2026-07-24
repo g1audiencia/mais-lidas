@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 21:47",
+  "atualizado_em": "23/07/2026 21:53",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
           "rank": 5,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "Franco Colapinto se bancó hablar del Mundial rodeado por los pilotos españoles y respondió con una chicana",
-          "url": "https://www.clarin.com/deportes/franco-colapinto-banco-hablar-mundial-rodeado-pilotos-espanoles-respondio-chicana_0_TWHN9dT4AW.html"
+          "title": "Antonela Roccuzzo y su firme posteo  tras la ola de críticas a Argentina por la final del Mundial",
+          "url": "https://www.clarin.com/fama/antonela-roccuzzo-firme-posteo-ola-criticas-argentina-final-mundial_0_c0d1bTbsLI.html"
         },
         {
           "rank": 3,
-          "title": "El gobierno de Trump anunció aranceles a 60 países y un 10% para productos argentinos",
-          "url": "https://www.clarin.com/economia/gobierno-trump-anuncio-aranceles-60-paises-10-productos-argentinos_0_L7Ki80Mwz1.html"
-        },
-        {
-          "rank": 4,
           "title": "Detuvieron en Estados Unidos al exnovio de la modelo argentina asesinada en México: estuvo tres años prófugo",
           "url": "https://www.clarin.com/sociedad/detuvieron-estados-unidos-exnovio-modelo-argentina-asesinada-mexico-anos-profugo_0_uzvJgeShxZ.html"
         },
         {
+          "rank": 4,
+          "title": "El gobierno de Trump anunció aranceles a 60 países y un 10% para productos argentinos",
+          "url": "https://www.clarin.com/economia/gobierno-trump-anuncio-aranceles-60-paises-10-productos-argentinos_0_L7Ki80Mwz1.html"
+        },
+        {
           "rank": 5,
-          "title": "Antonela Roccuzzo y su firme posteo  tras la ola de críticas a Argentina por la final del Mundial",
-          "url": "https://www.clarin.com/fama/antonela-roccuzzo-firme-posteo-ola-criticas-argentina-final-mundial_0_c0d1bTbsLI.html"
+          "title": "Franco Colapinto se bancó hablar del Mundial rodeado por los pilotos españoles y respondió con una chicana",
+          "url": "https://www.clarin.com/deportes/franco-colapinto-banco-hablar-mundial-rodeado-pilotos-espanoles-respondio-chicana_0_TWHN9dT4AW.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 17:15",
+  "atualizado_em": "24/07/2026 17:20",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/lamentavel-injustificada-e-sem-base-legal-o-que-os-paises-disseram-sobre-as-tarifas-dos-eua.shtml"
+          "title": "Meu irmão viveu e morreu em seu próprio mundo",
+          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
         },
         {
           "rank": 5,
-          "title": "Votação do fim da escala 6x1 deve ficar para depois das eleições, admite ministro do Trabalho",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/votacao-do-fim-da-escala-6x1-deve-ficar-para-depois-das-eleicoes-admite-ministro-do-trabalho.shtml"
+          "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/lamentavel-injustificada-e-sem-base-legal-o-que-os-paises-disseram-sobre-as-tarifas-dos-eua.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
-        },
-        {
-          "rank": 4,
           "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
           "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         },
         {
+          "rank": 4,
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+        },
+        {
           "rank": 5,
-          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
-          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
+          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
+          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "Guerra en Medio Oriente: Irán amenazó a la Familia Real británica y podría atacar una base militar en Reino Unido",
-          "url": "https://www.clarin.com/mundo/guerra-medio-oriente-iran-amenaza-atacar-familia-real-britanica-base-militar-reino-unido_0_R29zL79TGW.html"
-        },
-        {
-          "rank": 3,
           "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
           "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Y ahora, ¿quién podrá defendernos?",
           "url": "https://www.clarin.com/deportes/ahora-podra-defendernos_0_oaxMZiQ1e9.html"
         },
         {
+          "rank": 4,
+          "title": "Guerra en Medio Oriente: Irán amenazó a la Familia Real británica y podría atacar una base militar en Reino Unido",
+          "url": "https://www.clarin.com/mundo/guerra-medio-oriente-iran-amenaza-atacar-familia-real-britanica-base-militar-reino-unido_0_R29zL79TGW.html"
+        },
+        {
           "rank": 5,
-          "title": "Volver al país: cuánto te cobra ARCA por traer compras en la valija y qué excepciones hay",
-          "url": "https://www.clarin.com/servicios/volver-pais-cobra-arca-traer-compras-valija-excepciones_0_x95pu3yEuE.html"
+          "title": "Brasil prohibió el foie gras y desató la furia de Francia por uno de sus símbolos gastronómicos",
+          "url": "https://www.clarin.com/mundo/brasil-prohibio-foie-gras-desato-furia-francia-simbolos-gastronomicos_0_GmTn3lUzYD.html"
         }
       ],
       "erro": null

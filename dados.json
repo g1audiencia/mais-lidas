@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 15:14",
+  "atualizado_em": "24/07/2026 15:20",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/lamentavel-injustificada-e-sem-base-legal-o-que-os-paises-disseram-sobre-as-tarifas-dos-eua.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "LeBron James jogará pelo Philadelphia 76ers na próxima temporada",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/lebron-james-diz-que-jogara-pelo-philadelphia-76ers-na-proxima-temporada.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Governo Lula sanciona lei que proíbe produção e venda de foie gras no Brasil",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-lula-sanciona-lei-que-proibe-producao-e-venda-de-foie-gras-no-brasil.shtml"
         },
         {
+          "rank": 3,
+          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "'Lamentável', 'injustificada' e 'sem base legal': o que os países disseram sobre as tarifas dos EUA",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/lamentavel-injustificada-e-sem-base-legal-o-que-os-paises-disseram-sobre-as-tarifas-dos-eua.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Terreno de Jaques Wagner valorizou 115 vezes após rodovia projetada no governo dele",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/terreno-de-jaques-wagner-valorizou-115-vezes-apos-rodovia-projetada-no-governo-dele.shtml"
+          "title": "LeBron James jogará pelo Philadelphia 76ers na próxima temporada",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/lebron-james-diz-que-jogara-pelo-philadelphia-76ers-na-proxima-temporada.shtml"
         }
       ],
       "erro": null
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "'Se não deixarem minha família em paz, vou embora', diz Klopp ao assumir Alemanha",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/07/24/klopp-manda-recado-apos-assumir-a-alemanha-se-nao-deixarem-em-paz-minha-familia-vou-embora.htm"
+          "title": "Brasileirão: após o 1º turno veja chances de ser campeão, rebaixado ou ir à Libertadores",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/24/chances-brasileirao-titulo-rebaixamento-libertadores.ghtm"
         }
       ],
       "erro": null
@@ -145,13 +145,13 @@
         },
         {
           "rank": 3,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+          "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado",
+          "url": "https://www.estadao.com.br/politica/empresa-para-a-qual-flavio-bolsonaro-emitiu-r-1-milhao-em-notas-nao-existe-no-endereco-informado/"
         },
         {
           "rank": 4,
-          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
-          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
+          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
         },
         {
           "rank": 5,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-          "url": "https://www.bbc.com/news/articles/ckg68jky65eo"
+          "title": "They became best friends - then discovered they were brother and sister",
+          "url": "https://www.bbc.com/news/articles/c4g397rl4nzo"
         },
         {
           "rank": 5,
-          "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
-          "url": "https://www.bbc.com/news/articles/c7vgz680977o"
+          "title": "'Everything on the table' including retaliation as Canada plans response to US tariffs",
+          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
         }
       ],
       "erro": null

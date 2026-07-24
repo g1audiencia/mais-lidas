@@ -1,37 +1,11 @@
 {
-  "atualizado_em": "24/07/2026 07:53",
+  "atualizado_em": "24/07/2026 07:59",
   "portais": [
     {
       "portal": "Folha",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Jogador espanhol Marc Cucurella mantém cabelo longo para que filho autista o reconheça em campo",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/jogador-espanhol-marc-cucurella-mantem-cabelo-longo-para-que-filho-autista-o-reconheca-em-campo.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Governo age para afastar centrão de Flávio Bolsonaro, e Lula deve poupar Ciro Nogueira na campanha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-age-para-afastar-centrao-de-flavio-bolsonaro-e-lula-deve-poupar-ciro-nogueira-na-campanha.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Flip fica sem luz na segunda noite de evento",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Supremacistas brancos só saíram do armário, diz Angela Davis, estrela da Flip",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/supremacistas-brancos-so-sairam-do-armario-diz-angela-davis-estrela-da-flip.shtml"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "HTTPSConnectionPool(host='www.folha.uol.com.br', port=443): Read timed out. (read timeout=25)"
     },
     {
       "portal": "UOL",
@@ -44,23 +18,23 @@
         },
         {
           "rank": 2,
-          "title": "Veja os resultados e a classificação do Campeonato Brasileiro",
-          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
-        },
-        {
-          "rank": 3,
           "title": "Campanha internacional para excluir Argentina das Copas diz ter 23 milhões de assinaturas",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/23/quem-esta-por-tras-do-abaixo-assinado-para-anular-a-final-da-copa-do-mundo.ghtm"
         },
         {
+          "rank": 3,
+          "title": "Veja os resultados e a classificação do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
+        },
+        {
           "rank": 4,
-          "title": "Botafogo ironiza Palmeiras e provoca com música após fechar portas para Danilo",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/23/bota-ironiza-palmeiras-e-provoca-com-musica-apos-fechar-portas-pra-danilo.ghtm"
+          "title": "Frota reage após ser chamado de 'gostoso' por Claudia Raia: 'Sexo todo dia'",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/23/frota-reage-apos-ser-chamado-de-gostoso-por-claudia-raia-era-sexo-todo-dia.ghtm"
         },
         {
           "rank": 5,
-          "title": "Mercado: Ancelotti procurado, 'não' corintiano e Grêmio com reforço de Copa",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/23/mercado-da-bola-23-julho-2026.ghtm"
+          "title": "Sheila Mello mostra tratamento com colágeno no bumbum",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/23/sheila-mello-mostra-tratamento-com-colageno-no-bumbum-aos-48-anos.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +114,23 @@
         },
         {
           "rank": 2,
+          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
+          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
+        },
+        {
+          "rank": 3,
           "title": "Crise da Oncoclínicas (ONCO3) chega a 111 fundos, mas risco maior é de quem comprou títulos; entenda",
           "url": "https://www.estadao.com.br/einvestidor/onde-investir/crise-da-oncoclinicas-onco3-chega-a-111-fundos-mas-risco-maior-e-de-quem-comprou-titulos-entenda/"
         },
         {
-          "rank": 3,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
-        },
-        {
           "rank": 4,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
           "rank": 5,
-          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
-          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
         }
       ],
       "erro": null
@@ -273,8 +247,8 @@
         },
         {
           "rank": 5,
-          "title": "Two Chinese win world's top Maths prize for solving century-old problems",
-          "url": "https://www.bbc.com/news/articles/cvg84gp8xx4o"
+          "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+          "url": "https://www.bbc.com/news/articles/ckg68jky65eo"
         }
       ],
       "erro": null
@@ -295,18 +269,18 @@
         },
         {
           "rank": 3,
+          "title": "Volver al país: cuánto te cobra ARCA por traer compras en la valija y qué excepciones hay",
+          "url": "https://www.clarin.com/servicios/volver-pais-cobra-arca-traer-compras-valija-excepciones_0_x95pu3yEuE.html"
+        },
+        {
+          "rank": 4,
           "title": "Murió Zdenek Chovanec: tenía 21 años, fue rival de Colapinto en la Fórmula 3 y hay conmoción en el automovilismo",
           "url": "https://www.clarin.com/deportes/murio-zdenek-chovanec-21-anos-rival-colapinto-formula-3-conmocion-automovilismo_0_BNvyywiQO1.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Bomba en Brasil: Carlo Ancelotti es uno de los candidatos para tomar las riendas de la selección de Italia",
           "url": "https://www.clarin.com/deportes/bomba-brasil-carlo-ancelotti-candidatos-tomar-riendas-seleccion-italia_0_o9KckUDzQc.html"
-        },
-        {
-          "rank": 5,
-          "title": "Volver al país: cuánto te cobra ARCA por traer compras en la valija y qué excepciones hay",
-          "url": "https://www.clarin.com/servicios/volver-pais-cobra-arca-traer-compras-valija-excepciones_0_x95pu3yEuE.html"
         }
       ],
       "erro": null

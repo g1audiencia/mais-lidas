@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 18:37",
+  "atualizado_em": "24/07/2026 18:42",
   "portais": [
     {
       "portal": "Folha",
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Nearly 150,000 mail ballots rejected in California’s primary despite efforts to count every vote",
+          "url": "https://apnews.com/article/california-primary-rejected-mail-ballots-voting-2291684fe4544cab2301f8965abc8f79"
+        },
+        {
+          "rank": 2,
           "title": "Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war",
           "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
           "url": "https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
           "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire Friday",
           "url": "https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1"
-        },
-        {
-          "rank": 5,
-          "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
-          "url": "https://apnews.com/article/nun-arrested-ice-texas-d4937d291570e9b151add91c36020dd4"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-          "url": "https://www.bbc.com/news/articles/cj637zd1k1ko"
+          "title": "Cyclospora outbreak expands to nine US states, health officials say",
+          "url": "https://www.bbc.com/news/articles/cwyqgnp8wv8o"
         },
         {
           "rank": 3,
-          "title": "Cyclospora outbreak expands to nine US states, health officials say",
-          "url": "https://www.bbc.com/news/articles/cwyqgnp8wv8o"
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "url": "https://www.bbc.com/news/articles/cj637zd1k1ko"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "ICC top prosecutor removed over sexual misconduct allegations",
-          "url": "https://www.bbc.com/news/articles/cqjxddx12qqo"
+          "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
+          "url": "https://www.bbc.com/news/articles/c7vgz680977o"
         }
       ],
       "erro": null

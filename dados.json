@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 15:25",
+  "atualizado_em": "24/07/2026 15:31",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
-        },
-        {
-          "rank": 3,
           "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado",
           "url": "https://www.estadao.com.br/politica/empresa-para-a-qual-flavio-bolsonaro-emitiu-r-1-milhao-em-notas-nao-existe-no-endereco-informado/"
         },
         {
+          "rank": 3,
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+        },
+        {
           "rank": 4,
-          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         },
         {
           "rank": 5,
@@ -295,8 +295,8 @@
         },
         {
           "rank": 3,
-          "title": "Franco Colapinto: trompo, choque y bronca en menos de media hora de su única práctica en el GP de Hungría",
-          "url": "https://www.clarin.com/deportes/franco-colapinto-trompo-choque-bronca-media-hora-unica-practica-gp-hungria_0_uof89jiFOt.html"
+          "title": "Y ahora, ¿quién podrá defendernos?",
+          "url": "https://www.clarin.com/deportes/ahora-podra-defendernos_0_oaxMZiQ1e9.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Café y corazón: cuántas tazas se pueden tomar por día, y el impacto concreto en la salud, según una nueva declaración científica",
-          "url": "https://www.clarin.com/buena-vida/cafe-corazon-cuantas-tazas-pueden-tomar-dia-impacto-concreto-salud-nueva-declaracion-cientifica_0_dXMiIJAr8t.html"
+          "title": "Franco Colapinto: trompo, choque y bronca en menos de media hora de su única práctica en el GP de Hungría",
+          "url": "https://www.clarin.com/deportes/franco-colapinto-trompo-choque-bronca-media-hora-unica-practica-gp-hungria_0_uof89jiFOt.html"
         }
       ],
       "erro": null

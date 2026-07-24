@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 22:58",
+  "atualizado_em": "23/07/2026 23:04",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
-        },
-        {
-          "rank": 2,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
+          "rank": 2,
+          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+        },
+        {
           "rank": 3,
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+        },
+        {
+          "rank": 4,
           "title": "Quais são os Estados mais violentos do País? Veja ranking",
           "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
-          "rank": 4,
-          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
-        },
-        {
           "rank": 5,
-          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+          "title": "Governo Lula rechaça nova tarifa, diz que EUA ‘manipulam tema caro’ e fala em acionar reciprocidade",
+          "url": "https://www.estadao.com.br/economia/governo-brasileiro-rechaca-nova-tarifa-e-diz-que-eua-manipulam-tema-caro-aos-direitos-humanos/"
         }
       ],
       "erro": null

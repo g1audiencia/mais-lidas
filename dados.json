@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 04:59",
+  "atualizado_em": "24/07/2026 05:04",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 2,
-          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
-        },
-        {
-          "rank": 3,
-          "title": "Temporada de caça aos mensageiros",
-          "url": "https://www.estadao.com.br/opiniao/temporada-de-caca-aos-mensageiros/"
-        },
-        {
-          "rank": 4,
           "title": "Ajuda deveria ser só para quem precisa",
           "url": "https://www.estadao.com.br/opiniao/ajuda-deveria-ser-so-para-quem-precisa/"
         },
         {
+          "rank": 2,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+        },
+        {
+          "rank": 3,
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+        },
+        {
+          "rank": 4,
+          "title": "Caiado compara crise entre Flávio e Michelle Bolsonaro a ‘Casos de Família’",
+          "url": "https://www.estadao.com.br/politica/caiado-compara-crise-entre-flavio-e-michelle-bolsonaro-a-casos-de-familia-nprp/"
+        },
+        {
           "rank": 5,
-          "title": "Tarifa de 12,5% dos Estados Unidos afeta 3 mil produtos brasileiros, diz Amcham",
-          "url": "https://www.estadao.com.br/economia/tarifa-de-125-dos-estados-unidos-afeta-3-mil-produtos-brasileiros-diz-amcham/"
+          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
+          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
-          "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
-          "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
-        },
-        {
-          "rank": 4,
           "title": "Trump issues new double-digit tariffs on 60 countries",
           "url": "https://apnews.com/live/trump-ice-iran-updates-07-23-2026"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
           "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
+        },
+        {
+          "rank": 5,
+          "title": "Nearly 150,000 mail ballots rejected in California’ primary despite efforts to count every vote",
+          "url": "https://apnews.com/article/california-primary-rejected-mail-ballots-voting-2291684fe4544cab2301f8965abc8f79"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 14:52",
+  "atualizado_em": "24/07/2026 14:58",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
-        },
-        {
-          "rank": 4,
           "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
         },
         {
+          "rank": 4,
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+        },
+        {
           "rank": 5,
-          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
-          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
+          "title": "Tarifaço do Trump: impacto efetivo na economia é muito pequeno, diz pesquisador",
+          "url": "https://www.estadao.com.br/economia/tarifaco-do-trump-impacto-efetivo-na-economia-e-muito-pequeno-diz-pesquisador/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "They became best friends - then discovered they were brother and sister",
-          "url": "https://www.bbc.com/news/articles/c4g397rl4nzo"
+          "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+          "url": "https://www.bbc.com/news/articles/ckg68jky65eo"
         },
         {
           "rank": 5,
-          "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
-          "url": "https://www.bbc.com/news/articles/ckg68jky65eo"
+          "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
+          "url": "https://www.bbc.com/news/articles/c7vgz680977o"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Café y corazón: cuántas tazas se pueden tomar por día, y el impacto concreto en la salud, según una nueva declaración científica",
-          "url": "https://www.clarin.com/buena-vida/cafe-corazon-cuantas-tazas-pueden-tomar-dia-impacto-concreto-salud-nueva-declaracion-cientifica_0_dXMiIJAr8t.html"
+          "title": "Conmoción en Uruguay por una venganza narco en un conocido parque de Montevideo: un chico de 12 años muerto y varios heridos",
+          "url": "https://www.clarin.com/mundo/conmocion-uruguay-venganza-narco-conocido-parque-montevideo-chico-12-anos-muerto-varios-heridos_0_mRuraWHq4t.html"
         }
       ],
       "erro": null

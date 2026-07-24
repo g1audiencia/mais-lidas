@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 07:37",
+  "atualizado_em": "24/07/2026 07:42",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
-        },
-        {
-          "rank": 3,
           "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
+          "rank": 3,
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+        },
+        {
           "rank": 4,
-          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
         },
         {
           "rank": 5,
-          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
-          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
-          "url": "https://www.bbc.com/news/articles/cdx82rl5g0do"
+          "title": "US hits dozens of countries with new wave of tariffs",
+          "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
         },
         {
           "rank": 2,
-          "title": "US hits dozens of countries with new wave of tariffs",
-          "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
+          "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+          "url": "https://www.bbc.com/news/articles/cdx82rl5g0do"
         },
         {
           "rank": 3,
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Indemnización millonaria: se infartó en el trabajo, en vez de una ambulancia llamaron un remís y quedó postrado",
+          "url": "https://www.clarin.com/sociedad/indemnizacion-millonaria-infarto-trabajo-vez-ambulancia-llamaron-remis-quedo-postrado_0_lJ3iZQ3cIJ.html"
+        },
+        {
+          "rank": 2,
+          "title": "Leandro Paredes le empieza a decir adiós a la Selección Argentina: \"No sé si estoy para seguir; hay que digerir lo que pasó y procesarlo\"",
+          "url": "https://www.clarin.com/deportes/leandro-paredes-empieza-decir-adios-seleccion-argentina-seguir-digerir-paso-procesarlo_0_VR2eOsJ6oc.html"
+        },
+        {
+          "rank": 3,
           "title": "Murió Zdenek Chovanec: tenía 21 años, fue rival de Colapinto en la Fórmula 3 y hay conmoción en el automovilismo",
           "url": "https://www.clarin.com/deportes/murio-zdenek-chovanec-21-anos-rival-colapinto-formula-3-conmocion-automovilismo_0_BNvyywiQO1.html"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Bomba en Brasil: Carlo Ancelotti es uno de los candidatos para tomar las riendas de la selección de Italia",
           "url": "https://www.clarin.com/deportes/bomba-brasil-carlo-ancelotti-candidatos-tomar-riendas-seleccion-italia_0_o9KckUDzQc.html"
         },
         {
-          "rank": 3,
-          "title": "Por su adicción a las drogas, le dan arresto domiciliario a Facundo Leal: es el exfuncionario al que le encontraron más de US$ 800 mil, cocaína y éxtasis",
-          "url": "https://www.clarin.com/politica/adiccion-drogas-dan-arresto-domiciliario-facundo-leal-ex-funcionario-encontraron-us-25-millones-cocaina-pastillas-extasis_0_C52mi0XtQc.html"
-        },
-        {
-          "rank": 4,
-          "title": "El brote de diarreas explosivas provocadas por un parásito avanza por Estados Unidos y en Nueva York investigan la ruta del cilantro",
-          "url": "https://www.clarin.com/mundo/brote-diarreas-explosivas-provocadas-parasito-avanza-estados-unidos-nueva-york-investigan-ruta-cilantro_0_5vFja8Gi0q.html"
-        },
-        {
           "rank": 5,
-          "title": "Leandro Paredes le empieza a decir adiós a la Selección Argentina: \"No sé si estoy para seguir; hay que digerir lo que pasó y procesarlo\"",
-          "url": "https://www.clarin.com/deportes/leandro-paredes-empieza-decir-adios-seleccion-argentina-seguir-digerir-paso-procesarlo_0_VR2eOsJ6oc.html"
+          "title": "Volver al país: cuánto te cobra ARCA por traer compras en la valija y qué excepciones hay",
+          "url": "https://www.clarin.com/servicios/volver-pais-cobra-arca-traer-compras-valija-excepciones_0_x95pu3yEuE.html"
         }
       ],
       "erro": null

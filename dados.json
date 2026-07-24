@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 18:04",
+  "atualizado_em": "24/07/2026 18:09",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+        },
+        {
+          "rank": 4,
           "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
           "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
           "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
-        },
-        {
-          "rank": 5,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
-          "url": "https://apnews.com/article/nun-arrested-ice-texas-d4937d291570e9b151add91c36020dd4"
+          "title": "Trump imposes double-digit tariffs on dozens of countries as his 10% levies are set to expire Friday",
+          "url": "https://apnews.com/article/trump-tariffs-supreme-court-forced-labor-4ea091eeee3fa1bfbe55af3f482e6bc1"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
-          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
-        },
-        {
-          "rank": 3,
-          "title": "Guerra en Medio Oriente: Irán amenazó a la Familia Real británica y podría atacar una base militar en Reino Unido",
-          "url": "https://www.clarin.com/mundo/guerra-medio-oriente-iran-amenaza-atacar-familia-real-britanica-base-militar-reino-unido_0_R29zL79TGW.html"
-        },
-        {
-          "rank": 4,
           "title": "Y ahora, ¿quién podrá defendernos?",
           "url": "https://www.clarin.com/deportes/ahora-podra-defendernos_0_oaxMZiQ1e9.html"
         },
         {
+          "rank": 3,
+          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
+          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
+        },
+        {
+          "rank": 4,
+          "title": "Guerra en Medio Oriente: Irán amenazó a la Familia Real británica y podría atacar una base militar en Reino Unido",
+          "url": "https://www.clarin.com/mundo/guerra-medio-oriente-iran-amenaza-atacar-familia-real-britanica-base-militar-reino-unido_0_R29zL79TGW.html"
+        },
+        {
           "rank": 5,
-          "title": "Brasil prohibió el foie gras y desató la furia de Francia por uno de sus símbolos gastronómicos",
-          "url": "https://www.clarin.com/mundo/brasil-prohibio-foie-gras-desato-furia-francia-simbolos-gastronomicos_0_GmTn3lUzYD.html"
+          "title": "El vocero habló de un dólar a $1.800 y levantó críticas en la interna oficialista",
+          "url": "https://www.clarin.com/politica/vocero-hablo-dolar-1800-levanto-criticas-interna-oficialista_0_5iCg30Fnxj.html"
         }
       ],
       "erro": null

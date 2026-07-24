@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 08:10",
+  "atualizado_em": "24/07/2026 08:15",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
-        },
-        {
-          "rank": 3,
-          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
-          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
-        },
-        {
-          "rank": 4,
           "title": "Como Trump encontrou um novo caminho para taxar o mundo",
           "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
         },
         {
+          "rank": 3,
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
+        },
+        {
+          "rank": 4,
+          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
+          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
+        },
+        {
           "rank": 5,
-          "title": "Crise da Oncoclínicas (ONCO3) chega a 111 fundos, mas risco maior é de quem comprou títulos; entenda",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/crise-da-oncoclinicas-onco3-chega-a-111-fundos-mas-risco-maior-e-de-quem-comprou-titulos-entenda/"
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "US hits dozens of countries with new wave of tariffs",
-          "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
+          "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+          "url": "https://www.bbc.com/news/articles/cdx82rl5g0do"
         },
         {
           "rank": 2,
-          "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
-          "url": "https://www.bbc.com/news/articles/cdx82rl5g0do"
+          "title": "US hits dozens of countries with new wave of tariffs",
+          "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Murió Zdenek Chovanec: tenía 21 años, fue rival de Colapinto en la Fórmula 3 y hay conmoción en el automovilismo",
-          "url": "https://www.clarin.com/deportes/murio-zdenek-chovanec-21-anos-rival-colapinto-formula-3-conmocion-automovilismo_0_BNvyywiQO1.html"
+          "title": "Bomba en Brasil: Carlo Ancelotti es uno de los candidatos para tomar las riendas de la selección de Italia",
+          "url": "https://www.clarin.com/deportes/bomba-brasil-carlo-ancelotti-candidatos-tomar-riendas-seleccion-italia_0_o9KckUDzQc.html"
         },
         {
           "rank": 5,
-          "title": "Bomba en Brasil: Carlo Ancelotti es uno de los candidatos para tomar las riendas de la selección de Italia",
-          "url": "https://www.clarin.com/deportes/bomba-brasil-carlo-ancelotti-candidatos-tomar-riendas-seleccion-italia_0_o9KckUDzQc.html"
+          "title": "Café y corazón: cuántas tazas se pueden tomar por día, y el impacto concreto en la salud, según una nueva declaración científica",
+          "url": "https://www.clarin.com/buena-vida/cafe-corazon-cuantas-tazas-pueden-tomar-dia-impacto-concreto-salud-nueva-declaracion-cientifica_0_dXMiIJAr8t.html"
         }
       ],
       "erro": null

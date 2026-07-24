@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 01:53",
+  "atualizado_em": "24/07/2026 01:59",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
+          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         },
         {
           "rank": 2,
-          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
-        },
-        {
-          "rank": 3,
-          "title": "PF vê ‘atuação suspeita’ de lobista com mulher de desembargador em processos de Luiz Estevão no STJ",
-          "url": "https://www.estadao.com.br/politica/pf-ve-atuacao-suspeita-de-lobista-com-mulher-de-desembargador-em-processos-de-luiz-estevao-no-stj/"
-        },
-        {
-          "rank": 4,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
+          "rank": 3,
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
+        },
+        {
+          "rank": 4,
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+        },
+        {
           "rank": 5,
-          "title": "Receita de chef para a moqueca perfeita em casa",
-          "url": "https://www.estadao.com.br/paladar/receita/o-erro-comum-que-arruina-o-sabor-da-moqueca-e-como-o-chef-do-capitanea-resolve-o-caldo/"
+          "title": "Se Flávio não queria prestar serviços à empresa que recebeu dinheiro do Master, por que emitiu nota?",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/se-flavio-nao-queria-prestar-servicos-a-empresa-que-recebeu-dinheiro-do-master-por-que-emitiu-nota/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 04:20",
+  "atualizado_em": "24/07/2026 04:26",
   "portais": [
     {
       "portal": "Folha",
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "France orders evacuation of peninsula as hundreds flee wildfires by boat",
+          "url": "https://www.bbc.com/news/articles/cdx82rl5g0do"
+        },
+        {
+          "rank": 2,
           "title": "US hits dozens of trading partners with new wave of tariffs",
           "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "They became best friends – then discovered they were brother and sister",
           "url": "https://www.bbc.com/news/articles/c4g397rl4nzo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Two Chinese win world's top Maths prize for solving century-old problems",
           "url": "https://www.bbc.com/news/articles/cvg84gp8xx4o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "US says it will use frozen Iranian assets to fund damage to ships as strikes continue",
           "url": "https://www.bbc.com/news/articles/c05ql5llj4do"
-        },
-        {
-          "rank": 5,
-          "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
-          "url": "https://www.bbc.com/news/articles/cx2vqj2e9x8o"
         }
       ],
       "erro": null

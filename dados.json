@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 12:39",
+  "atualizado_em": "24/07/2026 12:45",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
+          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+        },
+        {
+          "rank": 4,
           "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
           "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 5,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
-          "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
+          "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
+          "url": "https://apnews.com/article/nun-arrested-ice-texas-d4937d291570e9b151add91c36020dd4"
         },
         {
           "rank": 5,
-          "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
-          "url": "https://apnews.com/article/nun-arrested-ice-texas-d4937d291570e9b151add91c36020dd4"
+          "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
+          "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
         }
       ],
       "erro": null

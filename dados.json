@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 22:09",
+  "atualizado_em": "23/07/2026 22:14",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Médica tenta fugir, mas é presa em flagrante por furtar produtos de supermercado em Copacabana; vídeo",
-          "url": "https://oglobo.globo.com/rio/bairros/zona-sul/noticia/2026/07/23/medica-e-presa-em-flagrante-por-furtar-produtos-de-supermercado-em-copacabana.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Monaco de Filipe Luís quer Pulgar, do Flamengo",
           "url": "https://oglobo.globo.com/blogs/diogo-dantas/post/2026/07/monaco-de-filipe-luis-quer-pulgar-do-flamengo.ghtml"
         },
         {
+          "rank": 4,
+          "title": "Médica tenta fugir, mas é presa em flagrante por furtar produtos de supermercado em Copacabana; vídeo",
+          "url": "https://oglobo.globo.com/rio/bairros/zona-sul/noticia/2026/07/23/medica-e-presa-em-flagrante-por-furtar-produtos-de-supermercado-em-copacabana.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "O que é o 'divórcio do sono' e por que cada vez mais famosos adotam a tendência",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/07/23/o-que-e-o-divorcio-do-sono-e-por-que-cada-vez-mais-famosos-adotam-a-tendencia.ghtml"
+          "title": "EUA anunciam sobretaxa de 12,5% para produtos brasileiros por vínculo a trabalho forçado. Entenda o que muda",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/23/eua-anunciam-sobretaxa-de-125percent-para-produtos-brasileiros-por-trabalho-forcado-entenda-o-que-muda.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 2,
-          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
-          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
-        },
-        {
-          "rank": 3,
           "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
+        },
+        {
+          "rank": 3,
           "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
+          "rank": 4,
+          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+        },
+        {
           "rank": 5,
-          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
+          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-          "url": "https://www.bbc.com/news/articles/cx2vqj2e9x8o"
-        },
-        {
-          "rank": 3,
           "title": "Saudis must recognise Israel for nuclear deal, says Trump",
           "url": "https://www.bbc.com/news/articles/cwye71yq8wwo"
         },
         {
+          "rank": 3,
+          "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+          "url": "https://www.bbc.com/news/articles/cx2vqj2e9x8o"
+        },
+        {
           "rank": 4,
-          "title": "Secret Service agent in Vance's team under investigation over alleged leak",
-          "url": "https://www.bbc.com/news/articles/cq6dgp46923o"
+          "title": "CJP protest: The youth movement India's Modi didn't see coming",
+          "url": "https://www.bbc.com/news/articles/c07rgpxe51no"
         },
         {
           "rank": 5,
-          "title": "'Everything on the table' as Canada plans response to US tariffs",
-          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
+          "title": "Secret Service agent in Vance's team under investigation over alleged leak",
+          "url": "https://www.bbc.com/news/articles/cq6dgp46923o"
         }
       ],
       "erro": null

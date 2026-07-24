@@ -1,11 +1,37 @@
 {
-  "atualizado_em": "24/07/2026 07:59",
+  "atualizado_em": "24/07/2026 08:04",
   "portais": [
     {
       "portal": "Folha",
-      "ok": false,
-      "items": [],
-      "erro": "HTTPSConnectionPool(host='www.folha.uol.com.br', port=443): Read timed out. (read timeout=25)"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Jogador espanhol Marc Cucurella mantém cabelo longo para que filho autista o reconheça em campo",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/jogador-espanhol-marc-cucurella-mantem-cabelo-longo-para-que-filho-autista-o-reconheca-em-campo.shtml"
+        },
+        {
+          "rank": 2,
+          "title": "Governo age para afastar centrão de Flávio Bolsonaro, e Lula deve poupar Ciro Nogueira na campanha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-age-para-afastar-centrao-de-flavio-bolsonaro-e-lula-deve-poupar-ciro-nogueira-na-campanha.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Flip fica sem luz na segunda noite de evento",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Familiares não devem sacar benefício do INSS após falecimento do segurado; veja o que fazer",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/familiares-nao-devem-sacar-beneficio-do-inss-apos-falecimento-do-segurado-veja-o-que-fazer.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Supremacistas brancos só saíram do armário, diz Angela Davis, estrela da Flip",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/supremacistas-brancos-so-sairam-do-armario-diz-angela-davis-estrela-da-flip.shtml"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "UOL",
@@ -114,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
-          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
-        },
-        {
-          "rank": 3,
           "title": "Crise da Oncoclínicas (ONCO3) chega a 111 fundos, mas risco maior é de quem comprou títulos; entenda",
           "url": "https://www.estadao.com.br/einvestidor/onde-investir/crise-da-oncoclinicas-onco3-chega-a-111-fundos-mas-risco-maior-e-de-quem-comprou-titulos-entenda/"
         },
         {
+          "rank": 3,
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+        },
+        {
           "rank": 4,
-          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
           "rank": 5,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
+          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
         }
       ],
       "erro": null

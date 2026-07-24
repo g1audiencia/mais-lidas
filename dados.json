@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 15:20",
+  "atualizado_em": "24/07/2026 15:25",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
+          "title": "Brasileirão: após o 1º turno veja chances de ser campeão, rebaixado ou ir à Libertadores",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/24/chances-brasileirao-titulo-rebaixamento-libertadores.ghtm"
+        },
+        {
+          "rank": 4,
           "title": "Josmar Jozino: Denúncia anônima liga ex-deputado a ataque contra tenente da Rota",
           "url": "https://noticias.uol.com.br/colunas/josmar-jozino/2026/07/24/denuncia-anonima-liga-ex-deputado-estadual-a-ataque-contra-tenente-da-rota.htm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Temporal no interior de SP tem ventos de 121 km/h e deixa ao menos um morto",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/24/temporal-no-interior-de-sp-tem-ventos-de-121-kmh-e-deixa-estragos.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Brasileirão: após o 1º turno veja chances de ser campeão, rebaixado ou ir à Libertadores",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/24/chances-brasileirao-titulo-rebaixamento-libertadores.ghtm"
         }
       ],
       "erro": null
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "\"Harmonização facial\" de Vini Jr.: entenda riscos do procedimento",
-          "url": "https://www.cnnbrasil.com.br/saude/harmonizacao-facial-de-vini-jr-entenda-riscos-do-procedimento/"
+          "title": "Herança de Denis Carvalho: veja as restrições impostas em testamento",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/heranca-de-denis-carvalho-veja-as-restricoes-impostas-em-testamento/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "They became best friends - then discovered they were brother and sister",
-          "url": "https://www.bbc.com/news/articles/c4g397rl4nzo"
+          "title": "Teen pleads guilty in school shooting in Georgia that killed four",
+          "url": "https://www.bbc.com/news/articles/crrvd0gl10go"
         },
         {
           "rank": 5,
-          "title": "'Everything on the table' including retaliation as Canada plans response to US tariffs",
-          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
+          "title": "They became best friends - then discovered they were brother and sister",
+          "url": "https://www.bbc.com/news/articles/c4g397rl4nzo"
         }
       ],
       "erro": null

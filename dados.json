@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 00:48",
+  "atualizado_em": "24/07/2026 00:53",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
-        },
-        {
-          "rank": 4,
           "title": "IA superará inteligência humana em 5 anos, e dinheiro perderá sentido, afirma Musk em entrevista",
           "url": "https://www1.folha.uol.com.br/tec/2026/07/musk-expoe-a-sua-visao-sobre-o-futuro-que-passa-pela-ia-colonizacao-de-marte-e-guerra-no-reino-unido.shtml"
         },
         {
+          "rank": 4,
+          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Caça mais avançado da Rússia cai pela primeira vez",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
+          "title": "Flip fica sem luz na segunda noite de evento, e energia deve voltar até a madrugada",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-fica-sem-luz-na-segunda-noite-de-evento-e-energia-deve-voltar-ate-a-madrugada.shtml"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 01:26",
+  "atualizado_em": "24/07/2026 01:31",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
-        },
-        {
-          "rank": 2,
           "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
           "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
+          "rank": 2,
+          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
+        },
+        {
           "rank": 3,
-          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
           "rank": 4,
-          "title": "Da romana à argentina, o prato favorito do paulistano",
-          "url": "https://www.estadao.com.br/paladar/da-romana-a-argentina-o-prato-favorito-do-paulistano/"
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
           "rank": 5,
-          "title": "Ama comidas juninas e odeia as filas das quermesses? O delivery é a solução variada e perfeita",
-          "url": "https://www.estadao.com.br/paladar/ama-comidas-juninas-e-odeia-as-filas-das-quermesses-o-delivery-e-a-solucao-variada-e-perfeita/"
+          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "CJP protest: The youth movement India's Modi didn't see coming",
-          "url": "https://www.bbc.com/news/articles/c07rgpxe51no"
-        },
-        {
-          "rank": 4,
           "title": "'Everything on the table' as Canada plans response to US tariffs",
           "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "US health panel loosens restrictions for controversial peptides popular online",
           "url": "https://www.bbc.com/news/articles/ckg4741vklko"
+        },
+        {
+          "rank": 5,
+          "title": "CJP protest: The youth movement India's Modi didn't see coming",
+          "url": "https://www.bbc.com/news/articles/c07rgpxe51no"
         }
       ],
       "erro": null

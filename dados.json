@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 02:20",
+  "atualizado_em": "24/07/2026 02:26",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
+          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
         },
         {
           "rank": 2,
-          "title": "Grupo Pão de Açúcar rescinde aluguel e vai desocupar centro de distribuição na entrada de São Paulo",
-          "url": "https://www.estadao.com.br/economia/grupo-pao-de-acucar-rescinde-aluguel-centro-distribuicao-sao-paulo/"
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
           "rank": 3,
-          "title": "Dormir pouco pode fazer você ganhar peso?",
-          "url": "https://www.estadao.com.br/pulsa/andrea-bacelar/dormir-pouco-pode-fazer-voce-ganhar-peso/"
+          "title": "PF vê ‘atuação suspeita’ de lobista com mulher de desembargador em processos de Luiz Estevão no STJ",
+          "url": "https://www.estadao.com.br/politica/pf-ve-atuacao-suspeita-de-lobista-com-mulher-de-desembargador-em-processos-de-luiz-estevao-no-stj/"
         },
         {
           "rank": 4,
-          "title": "Tesouro IPCA+, Selic ou Prefixado: o cálculo que mostra qual pode render mais até 2032",
-          "url": "https://www.estadao.com.br/einvestidor/einar-rivero/tesouro-ipca-selic-ou-prefixado-o-calculo-que-mostra-qual-pode-render-mais-ate-2032/"
+          "title": "Morre Caíque Verli, repórter da TV Gazeta, afiliada da Globo no ES, aos 33 anos",
+          "url": "https://www.estadao.com.br/brasil/morre-caique-verli-reporter-tv-gazeta-globo-es-33-anos-npr/"
         },
         {
           "rank": 5,
-          "title": "Ana Maria Braga e equipe do Mais Você passam mal após provarem receita",
-          "url": "https://www.estadao.com.br/emais/tv/ana-maria-braga-e-equipe-do-mais-voce-passam-mal-apos-provarem-receita-nprec/"
+          "title": "EUA anunciam sobretaxa de 12,5% ao Brasil por importar produtos de países que usam trabalho forçado",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         }
       ],
       "erro": null

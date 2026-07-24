@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 21:36",
+  "atualizado_em": "23/07/2026 21:42",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 2,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
-        },
-        {
-          "rank": 3,
           "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
+          "rank": 2,
+          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+        },
+        {
+          "rank": 3,
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
+        },
+        {
           "rank": 4,
-          "title": "Cenipa divulga relatório final e diz que avião da Voepass não poderia ter decolado; acompanhe",
-          "url": "https://www.estadao.com.br/brasil/ao-vivo-cenipa-relatorio-voepass-aviao/"
+          "title": "Quais são os Estados mais violentos do País? Veja ranking",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
         },
         {
           "rank": 5,
-          "title": "A Geração X cresceu sem precisar de ajuda. Na hora da aposentadoria, esse quadro mudou",
-          "url": "https://www.estadao.com.br/economia/geracao-x-ajuda-aposentadoria/"
+          "title": "Bastidores: Michelle e Flávio usaram pontes para gravar vídeo de pacificação; clima ainda não é bom",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bastidores-michelle-e-flavio-usaram-pontes-para-gravar-video-de-pacificacao-clima-ainda-nao-e-bom/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "De férias em Dubai, comprador da Naskar volta a debochar de clientes: \"O pai tá safe\"",
-          "url": "https://www.metropoles.com/distrito-federal/de-ferias-em-dubai-comprador-da-naskar-volta-a-debochar-de-clientes"
+          "title": "Mulher que Moraes mandou a PF prender usava foto do AI-5 no WhatsApp",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/mulher-que-moraes-mandou-a-pf-prender-usava-foto-do-ai-5-no-whatsapp"
         },
         {
           "rank": 3,
-          "title": "Corte italiana não viu perseguição política em julgamento de Zambelli",
-          "url": "https://www.metropoles.com/mundo/corte-italiana-nao-viu-perseguicao-politica-em-julgamento-de-zambelli"
+          "title": "De férias em Dubai, comprador da Naskar volta a debochar de clientes: \"O pai tá safe\"",
+          "url": "https://www.metropoles.com/distrito-federal/de-ferias-em-dubai-comprador-da-naskar-volta-a-debochar-de-clientes"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Ukraine's ousted defence minister insists on being reinstated",
-          "url": "https://www.bbc.com/news/articles/ce97nm53pgxo"
+          "title": "'Everything on the table' as Canada plans response to US tariffs",
+          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
         }
       ],
       "erro": null

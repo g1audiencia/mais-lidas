@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 21:20",
+  "atualizado_em": "23/07/2026 21:25",
   "portais": [
     {
       "portal": "Folha",
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Mega-Sena sorteia prêmio acumulado de R$ 61 milhões; veja as dezenas",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/07/23/mega-sena-concurso-3035-sorteio-23-de-julho.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Mercado: Ancelotti procurado, 'não' corintiano e Grêmio com reforço de Copa",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/23/mercado-da-bola-23-julho-2026.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Cenipa: avião da Voepass teve falha no degelo e erro da tripulação no voo",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/23/cenipa-divulga-nesta-quinta-relatorio-final-sobre-queda-de-aviao-da-voepass.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Neymar rebate críticas por ter jogado torneio de pôquer: 'Vai cuidar da sua vida'",
           "url": "https://www.uol.com.br/flash/?c=5577d0669fe35548cab644e2922c1abb20260723"
-        },
-        {
-          "rank": 4,
-          "title": "EUA anunciam tarifa de 12,5% contra o Brasil por suposto trabalho escravo",
-          "url": "https://economia.uol.com.br/noticias/redacao/2026/07/23/eua-anunciam-tarifa-contra-brasil-trabalho-forcado.ghtm"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "EUA anunciam sobretaxa de 12,5% a produtos brasileiros por falhas no combate ao trabalho forçado",
-          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
-        },
-        {
-          "rank": 4,
           "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
           "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
         },
         {
+          "rank": 4,
+          "title": "Morre Caíque Verli, repórter da TV Gazeta, afiliada da Globo no ES, aos 33 anos",
+          "url": "https://www.estadao.com.br/brasil/morre-caique-verli-reporter-tv-gazeta-globo-es-33-anos-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
+          "title": "EUA anunciam sobretaxa de 12,5% a produtos brasileiros por falhas no combate ao trabalho forçado",
+          "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Ukraine's ousted defence minister insists on being reinstated",
-          "url": "https://www.bbc.com/news/articles/ce97nm53pgxo"
+          "title": "Secret Service agent in Vance's team under investigation over alleged leak",
+          "url": "https://www.bbc.com/news/articles/cq6dgp46923o"
         },
         {
           "rank": 5,
-          "title": "'Everything on the table' as Canada plans response to US tariffs",
-          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
+          "title": "Ukraine's ousted defence minister insists on being reinstated",
+          "url": "https://www.bbc.com/news/articles/ce97nm53pgxo"
         }
       ],
       "erro": null

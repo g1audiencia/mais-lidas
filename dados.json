@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 14:09",
+  "atualizado_em": "24/07/2026 14:14",
   "portais": [
     {
       "portal": "Folha",
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Chuva esperada para 4 anos cai em 4 dias no deserto mais seco do mundo",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/24/chuva-de-quatro-anos-cai-em-quatro-dias-e-coloca-atacama-em-alerta-no-chile.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Josmar Jozino: Denúncia anônima liga ex-deputado a ataque contra tenente da Rota",
           "url": "https://noticias.uol.com.br/colunas/josmar-jozino/2026/07/24/denuncia-anonima-liga-ex-deputado-estadual-a-ataque-contra-tenente-da-rota.htm"
         },
         {
-          "rank": 2,
-          "title": "Empresário perde investimentos de 300 clientes, culpa Bolsa e é preso no Piauí",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/24/pi-homem-movimenta-r-600-mi-zera-conta-e-culpa-perda-em-bolsa-por-calote.htm"
-        },
-        {
           "rank": 3,
-          "title": "Danilo, em postagem: 'Espero que o Botafogo respeite a minha decisão'",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/23/danilo-botafogo-palmeiras-russia.ghtm"
+          "title": "Temporal no interior de SP tem ventos de 121 km/h e deixa ao menos um morto",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/24/temporal-no-interior-de-sp-tem-ventos-de-121-kmh-e-deixa-estragos.ghtm"
         },
         {
           "rank": 4,
-          "title": "Temporal no interior de SP tem ventos de 121 km/h e deixa ao menos um morto",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/24/temporal-no-interior-de-sp-tem-ventos-de-121-kmh-e-deixa-estragos.ghtm"
+          "title": "'Se não deixarem minha família em paz, vou embora', diz Klopp ao assumir Alemanha",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/07/24/klopp-manda-recado-apos-assumir-a-alemanha-se-nao-deixarem-em-paz-minha-familia-vou-embora.htm"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
+          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
+        },
+        {
+          "rank": 4,
           "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
           "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         },
         {
-          "rank": 4,
-          "title": "Habib’s pede à Justiça proteção contra credores; dívidas somam R$ 312,4 milhões",
-          "url": "https://www.estadao.com.br/economia/negocios/habibs-protecao-justica-contra-credores/"
-        },
-        {
           "rank": 5,
-          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
-          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
+          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
+          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
         }
       ],
       "erro": null

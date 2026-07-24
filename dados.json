@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 03:15",
+  "atualizado_em": "24/07/2026 03:20",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
+          "title": "Caça mais avançado da Rússia cai pela primeira vez",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
         },
         {
           "rank": 5,
-          "title": "Caça mais avançado da Rússia cai pela primeira vez",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/caca-mais-avancado-da-russia-cai-pela-primeira-vez.shtml"
+          "title": "Mortes: Professora de música que conquistou alunos com talento e carisma",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-professora-de-musica-que-conquistou-alunos-com-talento-e-carisma.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Ataque dos EUA nos sudoeste do Irã deixa quatro mortos",
-          "url": "https://www.estadao.com.br/internacional/ataque-dos-eua-nos-sudoeste-do-ira-deixa-quatro-mortos-npr/"
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
         },
         {
           "rank": 3,
-          "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
-        },
-        {
-          "rank": 4,
           "title": "Qual livro Cármen Lúcia levaria para todos os lugares? Ministra do STF responde na Flip 2026",
           "url": "https://www.estadao.com.br/cultura/literatura/qual-livro-carmen-lucia-levaria-para-todos-os-lugares-ministra-do-stf-responde-na-flip-2026/"
         },
         {
+          "rank": 4,
+          "title": "Juro real elevado abre janela para quem quer viver de renda; confira estratégias",
+          "url": "https://www.estadao.com.br/economia/juro-real-elevado-abre-janela-para-quem-quer-viver-de-renda-confira-estrategias/"
+        },
+        {
           "rank": 5,
-          "title": "Vice-presidente do conselho da Vale é acusado de vazamento de informações",
-          "url": "https://www.estadao.com.br/economia/crise-no-conselho-da-vale-termina-com-isolamento-e-queda-do-conselheiro-marcelo-gasparino/"
+          "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         }
       ],
       "erro": null

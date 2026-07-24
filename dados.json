@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 13:47",
+  "atualizado_em": "24/07/2026 13:52",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 2,
           "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
           "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         },
         {
+          "rank": 2,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
           "rank": 3,
-          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
-          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
+          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
+          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
         },
         {
           "rank": 4,
-          "title": "Habib’s pede à Justiça proteção contra credores; dívidas somam R$ 312,4 milhões",
-          "url": "https://www.estadao.com.br/economia/negocios/habibs-protecao-justica-contra-credores/"
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
         },
         {
           "rank": 5,
-          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
-          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
+          "title": "Habib’s pede à Justiça proteção contra credores; dívidas somam R$ 312,4 milhões",
+          "url": "https://www.estadao.com.br/economia/negocios/habibs-protecao-justica-contra-credores/"
         }
       ],
       "erro": null
@@ -226,13 +226,13 @@
         },
         {
           "rank": 2,
-          "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
-          "url": "https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e"
+          "title": "Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war",
+          "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"
         },
         {
           "rank": 3,
-          "title": "Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war",
-          "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"
+          "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
+          "url": "https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e"
         },
         {
           "rank": 4,

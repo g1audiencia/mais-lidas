@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 00:53",
+  "atualizado_em": "24/07/2026 00:58",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Agência de Comunicação",
-          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/prnewswire/kavalan-e-eleito-o-whisky-do-ano-pelo-segundo-ano-consecutivo-na-iwc-2026/"
-        },
-        {
-          "rank": 2,
           "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Quanto Flávio Bolsonaro vai pagar pelos novos 37,5% de Trump? E que candidato vai lucrar?",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quanto-flavio-bolsonaro-vai-pagar-pelos-novos-375-de-trump-e-que-candidato-vai-lucrar/"
         },
         {
+          "rank": 3,
+          "title": "Acidente da Voepass: FAB vê negligência da Anac e ‘normalização de desvios’ pela empresa aérea",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-fab-ve-negligencia-da-anac-e-normalizacao-do-desvios-pela-empresa-aerea/"
+        },
+        {
           "rank": 4,
-          "title": "Câncer de cabeça e pescoço: conheça os fatores de risco e saiba como prevenir",
-          "url": "https://www.estadao.com.br/pulsa/fernando-maluf/cancer-de-cabeca-e-pescoco-conheca-os-fatores-de-risco-e-saiba-como-prevenir/"
+          "title": "Moraes determina que PGR se manifeste sobre pedido da Receita de laudos das joias de Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/moraes-determina-que-pgr-se-manifeste-sobre-laudos-das-joias-de-bolsonaro-nprp/"
         },
         {
           "rank": 5,
-          "title": "Governo de SP manda CPTM reassumir linhas de trem que tiveram falhas por 90 dias: ‘Inaceitável’",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-volta-a-operar-linhas-11-12-e-13-que-tiveram-falhas-por-90-dias-decide-governo-de-sp-npr/"
+          "title": "Plataformas digitais buscam reduzir desconfiança no mercado de seminovos",
+          "url": "https://www.estadao.com.br/economia/plataformas-digitais-buscam-reduzir-desconfianca-no-mercado-de-seminovos/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 12:06",
+  "atualizado_em": "24/07/2026 12:12",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
-          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
-        },
-        {
-          "rank": 4,
           "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
           "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
         },
         {
+          "rank": 4,
+          "title": "‘Nenhum evento teve um impacto tão grande na gastronomia’, diz chef sobre caneta emagrecedora",
+          "url": "https://www.estadao.com.br/paladar/comida/mari-sciotti-como-as-canetas-emagrecedoras-estao-mudando-a-relacao-das-pessoas-com-a-comida/"
+        },
+        {
           "rank": 5,
-          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
-          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
+          "title": "Habib’s pede à Justiça proteção contra credores; dívidas somam R$ 312,4 milhões",
+          "url": "https://www.estadao.com.br/economia/negocios/habibs-protecao-justica-contra-credores/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "US hits dozens of countries with new wave of tariffs",
-          "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
+          "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+          "url": "https://www.bbc.com/news/articles/cdx82rl5g0do"
         },
         {
           "rank": 2,
-          "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-          "url": "https://www.bbc.com/news/articles/cdx82rl5g0do"
+          "title": "US hits dozens of countries with new wave of tariffs",
+          "url": "https://www.bbc.com/news/articles/cvgj61j6l08o"
         },
         {
           "rank": 3,
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "Leandro Paredes le empieza a decir adiós a la Selección Argentina: \"No sé si estoy para seguir; hay que digerir lo que pasó y procesarlo\"",
-          "url": "https://www.clarin.com/deportes/leandro-paredes-empieza-decir-adios-seleccion-argentina-seguir-digerir-paso-procesarlo_0_VR2eOsJ6oc.html"
+          "title": "F1 GP de Hungría con Franco Colapinto, EN VIVO: horarios de las prácticas libres, cómo y dónde ver la Fórmula 1 este viernes 24 de julio",
+          "url": "https://www.clarin.com/deportes/f1-gp-hungria-franco-colapinto-vivo-horarios-practicas-libres-ver-formula-1-viernes-24-julio_0_imVvexWMNZ.html"
         },
         {
           "rank": 3,
-          "title": "F1 GP de Hungría con Franco Colapinto, EN VIVO: horarios de las prácticas libres, cómo y dónde ver la Fórmula 1 este viernes 24 de julio",
-          "url": "https://www.clarin.com/deportes/f1-gp-hungria-franco-colapinto-vivo-horarios-practicas-libres-ver-formula-1-viernes-24-julio_0_imVvexWMNZ.html"
+          "title": "Leandro Paredes le empieza a decir adiós a la Selección Argentina: \"No sé si estoy para seguir; hay que digerir lo que pasó y procesarlo\"",
+          "url": "https://www.clarin.com/deportes/leandro-paredes-empieza-decir-adios-seleccion-argentina-seguir-digerir-paso-procesarlo_0_VR2eOsJ6oc.html"
         },
         {
           "rank": 4,

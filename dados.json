@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 10:44",
+  "atualizado_em": "24/07/2026 10:49",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Vendaval afeta hospitais, suspende aulas e gera caos em Ribeirão Preto (SP)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/vendaval-afeta-hospitais-suspende-aulas-e-gera-caos-em-ribeirao-preto-sp.shtml"
+          "title": "Governo Lula sanciona lei que proíbe produção e venda de foie gras no Brasil",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-lula-sanciona-lei-que-proibe-producao-e-venda-de-foie-gras-no-brasil.shtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Tarifa deixa mercado americano mais distante, mas empresas defendem negociações em vez de retaliação",
-          "url": "https://www.estadao.com.br/economia/tarifa-mercado-americano-distante-empresas-defendem-negociacoes-retaliacao/"
+          "title": "Como Trump encontrou um novo caminho para taxar o mundo",
+          "url": "https://www.estadao.com.br/economia/como-trump-encontrou-um-novo-caminho-para-taxar-o-mundo/"
         }
       ],
       "erro": null
@@ -226,18 +226,18 @@
         },
         {
           "rank": 2,
-          "title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment",
-          "url": "https://apnews.com/article/amish-shah-arizona-democratic-house-primary-c1631e29aaeef27cdf4ea40cb352069d"
-        },
-        {
-          "rank": 3,
           "title": "Trump issues new double-digit tariffs on 60 countries",
           "url": "https://apnews.com/live/trump-ice-iran-updates-07-23-2026"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
           "url": "https://apnews.com/article/hortman-hoffman-minnesota-lawmakers-boelter-sentencing-b9b2823e5386f2e4fbc465d23095dab8"
+        },
+        {
+          "rank": 4,
+          "title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment",
+          "url": "https://apnews.com/article/amish-shah-arizona-democratic-house-primary-c1631e29aaeef27cdf4ea40cb352069d"
         },
         {
           "rank": 5,

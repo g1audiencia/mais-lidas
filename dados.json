@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 20:58",
+  "atualizado_em": "23/07/2026 21:03",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quais são os Estados mais violentos do País? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-os-estados-mais-violentos-do-pais-veja-ranking/"
-        },
-        {
-          "rank": 3,
-          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
-          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
-        },
-        {
-          "rank": 4,
           "title": "PF vê crime em Dark Horse e complica Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-ve-crime-em-dark-horse-e-complica-flavio/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "EUA anunciam sobretaxa de 12,5% a produtos brasileiros por falhas no combate ao trabalho forçado",
           "url": "https://www.estadao.com.br/economia/estados-unidos-anunciam-sobretaxa-de-125-a-produtos-brasileiros/"
+        },
+        {
+          "rank": 4,
+          "title": "China começa a ter problemas com asfalto e a culpa é dos carros eletrificados",
+          "url": "https://www.estadao.com.br/jornal-do-carro/china-comeca-a-ter-problemas-com-asfalto-e-a-culpa-e-dos-carros-eletrificados/"
+        },
+        {
+          "rank": 5,
+          "title": "Sucesso do ‘governador biônico’ do RJ é recado doloroso e perigoso dos vícios de nossa democracia",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/sucesso-do-governador-bionico-do-rj-e-recado-doloroso-e-perigoso-dos-vicios-de-nossa-democracia/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Ukraine's ousted defence minister insists on being reinstated",
-          "url": "https://www.bbc.com/news/articles/ce97nm53pgxo"
+          "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+          "url": "https://www.bbc.com/news/articles/cx2vqj2e9x8o"
         },
         {
           "rank": 4,
-          "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-          "url": "https://www.bbc.com/news/articles/cx2vqj2e9x8o"
+          "title": "'Everything on the table' as Canada plans response to US tariffs",
+          "url": "https://www.bbc.com/news/articles/cgmkye80xg1o"
         },
         {
           "rank": 5,
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "Franco Colapinto se bancó hablar del Mundial rodeado por los pilotos españoles y respondió con una chicana",
-          "url": "https://www.clarin.com/deportes/franco-colapinto-banco-hablar-mundial-rodeado-pilotos-espanoles-respondio-chicana_0_TWHN9dT4AW.html"
-        },
-        {
-          "rank": 3,
           "title": "Bomba en Brasil: Carlo Ancelotti es uno de los candidatos para tomar las riendas de la selección de Italia",
           "url": "https://www.clarin.com/deportes/bomba-brasil-carlo-ancelotti-candidatos-tomar-riendas-seleccion-italia_0_o9KckUDzQc.html"
         },
         {
+          "rank": 3,
+          "title": "Franco Colapinto se bancó hablar del Mundial rodeado por los pilotos españoles y respondió con una chicana",
+          "url": "https://www.clarin.com/deportes/franco-colapinto-banco-hablar-mundial-rodeado-pilotos-espanoles-respondio-chicana_0_TWHN9dT4AW.html"
+        },
+        {
           "rank": 4,
-          "title": "Antonela Roccuzzo y su firme posteo  tras la ola de críticas a Argentina por la final del Mundial",
-          "url": "https://www.clarin.com/fama/antonela-roccuzzo-firme-posteo-ola-criticas-argentina-final-mundial_0_c0d1bTbsLI.html"
+          "title": "Detuvieron en Estados Unidos al exnovio de la modelo argentina asesinada en México: estuvo tres años prófugo",
+          "url": "https://www.clarin.com/sociedad/detuvieron-estados-unidos-exnovio-modelo-argentina-asesinada-mexico-anos-profugo_0_uzvJgeShxZ.html"
         },
         {
           "rank": 5,
-          "title": "Detuvieron en Estados Unidos al exnovio de la modelo argentina asesinada en México: estuvo tres años prófugo",
-          "url": "https://www.clarin.com/sociedad/detuvieron-estados-unidos-exnovio-modelo-argentina-asesinada-mexico-anos-profugo_0_uzvJgeShxZ.html"
+          "title": "Antonela Roccuzzo y su firme posteo  tras la ola de críticas a Argentina por la final del Mundial",
+          "url": "https://www.clarin.com/fama/antonela-roccuzzo-firme-posteo-ola-criticas-argentina-final-mundial_0_c0d1bTbsLI.html"
         }
       ],
       "erro": null

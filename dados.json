@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 20:34",
+  "atualizado_em": "25/07/2026 20:40",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Neymar marca em retorno, mas Santos só empata com a lanterna Chapecoense",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/25/santos-e-chapecoense-na-vila.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Jogadora chuta cabeça de rival em partida de futsal no Ceará e é suspensa por 5 anos",
           "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/jogadora-futsal-agressao-suspensao-ceara.ghtm"
         },
         {
-          "rank": 2,
-          "title": "Charleaux: 'Milei discursa com alta dose de grosseria e ignora protocolos'",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/25/milei-atropela-protocolo-e-ignora-lula-diz-charleaux.ghtm"
-        },
-        {
           "rank": 3,
-          "title": "Vídeo de inteligência artificial pode levar à punição de Flávio e de Jair Bolsonaro, diz especialista",
-          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/07/25/video-de-ia-de-bolsonaro-em-convencao-de-flavio-e-ilegal-diz-especialista.htm"
+          "title": "Veja a classificação, os resultados e todos os confrontos do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Comer essa fruta antes de dormir pode ajudar a emagrecer e muito mais",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/24/comer-essa-fruta-antes-de-dormir-pode-ajudar-a-emagrecer-e-muito-mais.ghtm"
+          "title": "Vídeo de inteligência artificial pode levar à punição de Flávio e de Jair Bolsonaro, diz especialista",
+          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/07/25/video-de-ia-de-bolsonaro-em-convencao-de-flavio-e-ilegal-diz-especialista.htm"
         }
       ],
       "erro": null
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "'Quem ama cuida': passado e circunstâncias da morte de Francesca virão à tona",
-          "url": "https://oglobo.globo.com/play/novelas/noticia/2026/07/25/quem-ama-cuida-passado-e-circunstancias-da-morte-de-francesca-virao-a-tona.ghtml"
+          "title": "Milei teve comportamento 'inadmissível' no palanque de Flávio e 'não está à altura do cargo que ocupa', diz presidente do PT",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/milei-teve-comportamento-inadmissivel-no-palanque-de-flavio-e-nao-esta-a-altura-do-cargo-que-ocupa-diz-presidente-do-pt.ghtml"
         },
         {
           "rank": 4,
-          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
-          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
+          "title": "Ao lançar candidatura, Flávio acena a mulheres, diz que Jair vai ‘subir rampa do Planalto’ com ele e ataca Lula",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/ao-lancar-candidatura-flavio-acena-a-mulheres-diz-que-jair-vai-subir-rampa-do-planalto-com-ele-e-ataca-lula.ghtml"
         },
         {
           "rank": 5,
-          "title": "Ao lançar candidatura, Flávio acena a mulheres, diz que Jair vai ‘subir rampa do Planalto’ com ele e ataca Lula",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/ao-lancar-candidatura-flavio-acena-a-mulheres-diz-que-jair-vai-subir-rampa-do-planalto-com-ele-e-ataca-lula.ghtml"
+          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
+          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
-        },
-        {
-          "rank": 2,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
-          "rank": 3,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
+          "rank": 3,
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+        },
+        {
+          "rank": 4,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
           "rank": 5,
-          "title": "Flávio lança candidatura ao Planalto com defesa do legado do pai e aceno estratégico às mulheres",
-          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+          "title": "The Economist: Do perturbador ao francamente bizarro, esta é a visão do futuro de Elon Musk",
+          "url": "https://www.estadao.com.br/economia/the-economist-a-visao-de-futuro-de-elon-musk/"
         }
       ],
       "erro": null

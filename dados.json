@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 02:22",
+  "atualizado_em": "25/07/2026 02:28",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
+          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
+        },
+        {
+          "rank": 2,
+          "title": "‘Não me entrego, não’, afirma Marcos Breda após passar pela 10ª cirurgia em 4 anos",
+          "url": "https://www.estadao.com.br/emais/gente/nao-me-entrego-nao-afirma-marcos-breda-apos-passar-pela-10-cirurgia-em-4-anos-nprec/"
+        },
+        {
+          "rank": 3,
+          "title": "João Gomes é levado ao hospital e esposa desabafa: ‘Está mal demais’",
+          "url": "https://www.estadao.com.br/emais/gente/joao-gomes-e-levado-ao-hospital-e-esposa-desabafa-esta-mal-demais-nprec/"
+        },
+        {
+          "rank": 4,
           "title": "Descoberto mais um câncer infeccioso",
           "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
-          "rank": 2,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 3,
-          "title": "Quais são os passaportes mais fortes do mundo? Veja a posição do Brasil no ranking global",
-          "url": "https://www.estadao.com.br/internacional/quais-sao-os-passaportes-mais-fortes-do-mundo-veja-a-posicao-do-brasil-no-ranking-global-npr/"
-        },
-        {
-          "rank": 4,
-          "title": "Coceira persistente na pele pode indicar doença inflamatória e merece atenção",
-          "url": "https://www.estadao.com.br/pulsa/dra-kat-responde/coceira-persistente-na-pele-pode-indicar-doenca-inflamatoria-e-merece-atencao/"
-        },
-        {
           "rank": 5,
-          "title": "Simulação do Cenipa mostra voo da Voepass que caiu em Vinhedo; veja vídeo",
-          "url": "https://www.estadao.com.br/brasil/simulacao-do-cenipa-mostra-voo-da-voepass-que-caiu-em-vinhedo-veja-video/"
+          "title": "Da romana à argentina, o prato favorito do paulistano",
+          "url": "https://www.estadao.com.br/paladar/da-romana-a-argentina-o-prato-favorito-do-paulistano/"
         }
       ],
       "erro": null
@@ -226,13 +226,13 @@
         },
         {
           "rank": 2,
-          "title": "Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war",
-          "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"
+          "title": "Trump says US will investigate EU trade practices for ‘unethical’ fines on Google and Apple",
+          "url": "https://apnews.com/live/trump-tariffs-iran-updates-07-24-2026"
         },
         {
           "rank": 3,
-          "title": "Trump says US will investigate EU trade practices for ‘unethical’ fines on Google and Apple",
-          "url": "https://apnews.com/live/trump-tariffs-iran-updates-07-24-2026"
+          "title": "Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war",
+          "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"
         },
         {
           "rank": 4,
@@ -258,8 +258,8 @@
         },
         {
           "rank": 2,
-          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
-          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
         },
         {
           "rank": 3,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+          "title": "Trump pokes fun at press during White House Correspondents' Dinner",
+          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
         },
         {
           "rank": 5,
-          "title": "Trump pokes fun at press during White House Correspondents' Dinner",
-          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
+          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
+          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
         }
       ],
       "erro": null

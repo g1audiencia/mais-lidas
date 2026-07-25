@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 10:44",
+  "atualizado_em": "25/07/2026 10:50",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/brasil-fica-fora-de-isencoes-extras-dos-eua-para-tarifa-e-deve-perder-mais-competitividade.shtml"
+          "title": "Governo Trump vai enviar dois oficiais para questionar as eleições no Brasil, diz jornal americano",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
         },
         {
           "rank": 2,
-          "title": "Em alta, mercado de aluguel se prepara para novas regras da reforma tributária",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/em-alta-mercado-de-aluguel-se-prepara-para-novas-regras-da-reforma-tributaria.shtml"
+          "title": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/brasil-fica-fora-de-isencoes-extras-dos-eua-para-tarifa-e-deve-perder-mais-competitividade.shtml"
         },
         {
           "rank": 3,
@@ -22,8 +22,8 @@
         },
         {
           "rank": 4,
-          "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
+          "title": "Em alta, mercado de aluguel se prepara para novas regras da reforma tributária",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/em-alta-mercado-de-aluguel-se-prepara-para-novas-regras-da-reforma-tributaria.shtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+        },
+        {
+          "rank": 3,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
-          "rank": 3,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
           "rank": 4,
-          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
-          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
           "rank": 5,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
+          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
         }
       ],
       "erro": null
@@ -194,7 +194,7 @@
         },
         {
           "rank": 2,
-          "title": "Chuva extrema provoca desastre na região mais seca do planeta",
+          "title": "Chuva extrema provoca desastre na região mais seca do planeta, no Chile",
           "url": "https://noticias.r7.com/internacional/chuva-de-quatro-anos-cai-em-quatro-dias-e-provoca-desastre-na-regiao-mais-seca-do-planeta-24072026/"
         },
         {

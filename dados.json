@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 06:08",
+  "atualizado_em": "25/07/2026 06:14",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 2,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
+          "rank": 2,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
           "rank": 3,
-          "title": "O prato que Anthony Bourdain não perdoou",
-          "url": "https://www.estadao.com.br/paladar/devoravel/amado-por-daniel-boulud-e-odiado-por-bourdain-a-historia-do-prato-que-fez-claude-troisgros-gelar/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
           "rank": 4,
-          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
-          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
+          "title": "‘Achar que cadeia não resolve a violência é uma ilusão’, diz ex-capitão do Bope",
+          "url": "https://www.estadao.com.br/brasil/achar-que-cadeia-nao-resolve-a-violencia-e-uma-ilusao-diz-ex-capitao-do-bope/"
         },
         {
           "rank": 5,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "Transtorno de múltiplas identidades existe? O que a ciência sabe",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/transtorno-de-multiplas-identidades-existe-o-que-a-ciencia-sabe/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 18:55",
+  "atualizado_em": "25/07/2026 19:02",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+        },
+        {
+          "rank": 3,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
+          "rank": 4,
           "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
           "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
           "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
-        },
-        {
-          "rank": 4,
-          "title": "Fachin rebate ataque de Milei a Alexandre de Moraes e defende STF",
-          "url": "https://www.estadao.com.br/politica/fachin-rebate-ataque-de-milei-a-alexandre-de-moraes-e-defende-stf/"
-        },
-        {
-          "rank": 5,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         }
       ],
       "erro": null
@@ -226,8 +226,8 @@
         },
         {
           "rank": 2,
-          "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
-          "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1"
+          "title": "Trump orders new signs outside Smithsonian saying some exhibits are inaccurate",
+          "url": "https://apnews.com/article/trump-smithsonian-history-exhibit-signs-d04879c33b518fe3acb91a4fb41c6a30"
         },
         {
           "rank": 3,
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Trump orders new signs outside Smithsonian saying some exhibits are inaccurate",
-          "url": "https://apnews.com/article/trump-smithsonian-history-exhibit-signs-d04879c33b518fe3acb91a4fb41c6a30"
+          "title": "Texts reveal teen who singer D4vd is accused of killing was pregnant, had abortion year before death",
+          "url": "https://apnews.com/article/d4vd-burke-celeste-rivas-hernandez-killing-hearing-6a1dd6c605e4551553daa8aa5f25fcad"
         },
         {
           "rank": 5,
-          "title": "Texts reveal teen who singer D4vd is accused of killing was pregnant, had abortion year before death",
-          "url": "https://apnews.com/article/d4vd-burke-celeste-rivas-hernandez-killing-hearing-6a1dd6c605e4551553daa8aa5f25fcad"
+          "title": "502 students lose spots at Howard University over tuition payments just weeks before classes start",
+          "url": "https://apnews.com/article/howard-university-unenrolled-students-tuition-d17f77d0fcdb16fa6262378fcad4aa5c"
         }
       ],
       "erro": null

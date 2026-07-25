@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 01:27",
+  "atualizado_em": "25/07/2026 01:33",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Datafolha: Lula tem 48%, e Flávio Bolsonaro, 43% no segundo turno",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno.shtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "Coceira persistente na pele pode indicar doença inflamatória e merece atenção",
+          "url": "https://www.estadao.com.br/pulsa/dra-kat-responde/coceira-persistente-na-pele-pode-indicar-doenca-inflamatoria-e-merece-atencao/"
         },
         {
           "rank": 2,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
-          "rank": 3,
-          "title": "‘Achar que cadeia não resolve a violência é uma ilusão’, diz ex-capitão do Bope",
-          "url": "https://www.estadao.com.br/brasil/achar-que-cadeia-nao-resolve-a-violencia-e-uma-ilusao-diz-ex-capitao-do-bope/"
-        },
-        {
-          "rank": 4,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 3,
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+        },
+        {
+          "rank": 4,
+          "title": "‘Achar que cadeia não resolve a violência é uma ilusão’, diz ex-capitão do Bope",
+          "url": "https://www.estadao.com.br/brasil/achar-que-cadeia-nao-resolve-a-violencia-e-uma-ilusao-diz-ex-capitao-do-bope/"
+        },
+        {
           "rank": 5,
-          "title": "Prático, mas perigoso: como o carregador por indução do carro detona o seu celular",
-          "url": "https://www.estadao.com.br/jornal-do-carro/pratico-mas-perigoso-como-o-carregador-por-inducao-do-carro-detorna-o-seu-celular/"
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         }
       ],
       "erro": null

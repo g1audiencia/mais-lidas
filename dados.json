@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 04:41",
+  "atualizado_em": "25/07/2026 04:47",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio deve explicações ao País",
-          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
-        },
-        {
-          "rank": 2,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
+          "rank": 2,
+          "title": "É mesmo inaceitável",
+          "url": "https://www.estadao.com.br/opiniao/e-mesmo-inaceitavel/"
+        },
+        {
           "rank": 3,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
+          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
         },
         {
           "rank": 4,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Governo Lula vai dar ‘chá de cadeira’ em indicado por Trump para embaixada dos EUA no Brasil",
+          "url": "https://www.estadao.com.br/economia/governo-lula-vai-dar-cha-de-cadeira-em-indicado-por-trump-para-embaixada-dos-eua-no-brasil/"
         },
         {
           "rank": 5,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         }
       ],
       "erro": null

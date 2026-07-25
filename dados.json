@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 17:12",
+  "atualizado_em": "25/07/2026 17:18",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Engenheira brasileira desaparece em Lyon, na França, e família busca apoio consular",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/engenheira-brasileira-desaparece-em-lyon-na-franca-e-familia-busca-apoio-consular.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Trump tenta enviar assessores ao Brasil para questionar eleições, mas Itamaraty nega vistos",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Milei chama Alexandre de Moraes de 'lixo careca' em evento de Flávio Bolsonaro",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-chama-alexandre-de-moraes-de-lixo-careca-em-evento-de-flavio-bolsonaro.shtml"
         },
         {
+          "rank": 2,
+          "title": "Engenheira brasileira desaparece em Lyon, na França, e família busca apoio consular",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/engenheira-brasileira-desaparece-em-lyon-na-franca-e-familia-busca-apoio-consular.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Trump tenta enviar assessores ao Brasil para questionar eleições, mas Itamaraty nega vistos",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Sombra de Bolsonaro e Milei refletem isolamento de Flávio",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/sombra-de-bolsonaro-e-milei-refletem-isolamento-de-flavio.shtml"
+          "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
         },
         {
           "rank": 5,
-          "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
+          "title": "Viagra pode combater metástase de células cancerígenas, aponta estudo",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/viagra-pode-combater-metastase-de-celulas-cancerigenas-aponta-estudo.shtml"
         }
       ],
       "erro": null
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Vídeo de inteligência artificial pode levar à punição de Flávio e de Jair Bolsonaro, diz especialista",
-          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/07/25/video-de-ia-de-bolsonaro-em-convencao-de-flavio-e-ilegal-diz-especialista.htm"
+          "title": "Grupo mata professora e arranca dedos dela para sacar dinheiro na Bahia",
+          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/25/homem-mata-professora-arranca-dedos-dela-e-faz-saques-em-banco-da-ba-veja.htm"
         },
         {
           "rank": 3,
-          "title": "Alexandre Borges: Campanha de Flávio Bolsonaro não começa bem",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/25/campanha-nao-comeca-bem-diz-alexandre-borges-sobre-flavio-bolsonaro.ghtm"
+          "title": "Governo Trump prepara ataque às urnas brasileiras, diz Washington Post",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/25/trump---urnas-eletronicas.ghtm"
         },
         {
           "rank": 4,
-          "title": "Três plantas que atraem escorpiões e exigem cuidado no jardim de casa",
-          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/07/24/3-plantas-que-atraem-escorpioes-e-exigem-cuidado-no-jardim-de-casa.ghtm"
+          "title": "Governo Lula nega visto a diplomatas dos EUA para falar com autoridades eleitorais",
+          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/25/governo-negou-visto-a-dois-funcionarios-do-departamento-de-estado-dos-eua.htm"
         },
         {
           "rank": 5,
-          "title": "Grupo mata professora e arranca dedos dela para sacar dinheiro na Bahia",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/25/homem-mata-professora-arranca-dedos-dela-e-faz-saques-em-banco-da-ba-veja.htm"
+          "title": "Giulia Costa, filha de Flávia Alessandra, posa de fio-dental em viagem",
+          "url": "https://cenapop.uol.com.br/noticias/famosos/giulia-costa-biquini-porto-rico.html"
         }
       ],
       "erro": null
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro para declarar apoio ao filho e vídeo de Michelle",
-          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
-        },
-        {
-          "rank": 2,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
+          "rank": 2,
+          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro para declarar apoio ao filho e vídeo de Michelle",
+          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+        },
+        {
           "rank": 3,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         },
         {
           "rank": 4,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 5,

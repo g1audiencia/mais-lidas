@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 18:42",
+  "atualizado_em": "25/07/2026 18:49",
   "portais": [
     {
       "portal": "Folha",
@@ -7,8 +7,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "TSE diz que foi procurado por governo Trump, mas que tema da agenda não foi informado",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/tse-diz-que-foi-procurado-por-governo-trump-mas-que-tema-da-agenda-nao-foi-informado.shtml"
+          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
         },
         {
           "rank": 2,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
+          "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
+          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+        },
+        {
+          "rank": 3,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
           "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
           "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
-        },
-        {
-          "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Ex-presidente da Jequiti questiona faturamento da empresa de Virginia",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/ex-presidente-da-jequiti-questiona-faturamento-da-empresa-de-virginia"
+        },
+        {
+          "rank": 2,
           "title": "“Vou servir ao seu lado”, diz cotada a vice de Flávio Bolsonaro",
           "url": "https://www.metropoles.com/colunas/grande-angular/vou-servir-ao-seu-lado-diz-cotada-a-vice-de-flavio-bolsonaro"
         },
         {
-          "rank": 2,
-          "title": "Flávio diz que Bolsonaro é \"vítima da maior farsa\" que país já viveu",
-          "url": "https://www.metropoles.com/sao-paulo/flavio-diz-que-bolsonaro-e-vitima-da-maior-farsa-que-pais-ja-viveu"
-        },
-        {
           "rank": 3,
-          "title": "Ex-presidente da Jequiti questiona faturamento da empresa de Virginia",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/ex-presidente-da-jequiti-questiona-faturamento-da-empresa-de-virginia"
+          "title": "Vídeo de Michelle e Bolsonaro de IA: o que marcou lançamento de Flávio à Presidência",
+          "url": "https://www.metropoles.com/sao-paulo/video-de-michelle-e-bolsonaro-de-ia-o-que-marcou-lancamento-de-flavio-a-presidencia"
         }
       ],
       "erro": null

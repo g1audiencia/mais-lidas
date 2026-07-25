@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 04:24",
+  "atualizado_em": "25/07/2026 04:30",
   "portais": [
     {
       "portal": "Folha",
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
-        },
-        {
-          "rank": 3,
           "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
           "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
           "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+        },
+        {
+          "rank": 4,
+          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 14:30",
+  "atualizado_em": "25/07/2026 14:37",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Milei chama Alexandre de Moraes de 'lixo careca' em evento de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-chama-alexandre-de-moraes-de-lixo-careca-em-evento-de-flavio-bolsonaro.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Paula Fernandes termina namoro com piloto após poucos meses de relação",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paula-fernandes-termina-namoro-com-piloto-apos-poucos-meses-de-relacao.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Will Smith se emociona ao ganhar obra inédita de Eduardo Kobra em evento em São Paulo",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/will-smith-se-emociona-ao-ganhar-obra-inedita-de-eduardo-kobra-em-evento-em-sao-paulo.shtml"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
-          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Paula Fernandes termina namoro com piloto após poucos meses de relação",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paula-fernandes-termina-namoro-com-piloto-apos-poucos-meses-de-relacao.shtml"
         }
       ],
       "erro": null
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Grupo mata professora e arranca dedos dela para sacar dinheiro na Bahia",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/25/homem-mata-professora-arranca-dedos-dela-e-faz-saques-em-banco-da-ba-veja.htm"
-        },
-        {
-          "rank": 2,
           "title": "Charleaux: 'Milei discursa com alta dose de grosseria e ignora protocolos'",
           "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/25/milei-atropela-protocolo-e-ignora-lula-diz-charleaux.ghtm"
         },
         {
+          "rank": 2,
+          "title": "Grupo mata professora e arranca dedos dela para sacar dinheiro na Bahia",
+          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/25/homem-mata-professora-arranca-dedos-dela-e-faz-saques-em-banco-da-ba-veja.htm"
+        },
+        {
           "rank": 3,
-          "title": "Governo Lula nega visto a diplomatas dos EUA para falar com autoridades eleitorais",
-          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/25/governo-negou-visto-a-dois-funcionarios-do-departamento-de-estado-dos-eua.htm"
+          "title": "Governo Trump prepara ataque às urnas brasileiras, diz Washington Post",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/25/trump---urnas-eletronicas.ghtm"
         },
         {
           "rank": 4,
-          "title": "Governo Trump prepara ataque às urnas brasileiras, diz Washington Post",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/07/25/trump---urnas-eletronicas.ghtm"
+          "title": "Governo Lula nega visto a diplomatas dos EUA para falar com autoridades eleitorais",
+          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/25/governo-negou-visto-a-dois-funcionarios-do-departamento-de-estado-dos-eua.htm"
         },
         {
           "rank": 5,

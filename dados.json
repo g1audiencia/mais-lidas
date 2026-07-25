@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 15:04",
+  "atualizado_em": "25/07/2026 15:10",
   "portais": [
     {
       "portal": "Folha",
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
+          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
         },
         {
           "rank": 2,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
         },
         {
           "rank": 3,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
+          "title": "Violenta entradera contra Daniel Scioli: una banda armada y con máscaras de payaso se metió al predio de La Ñata",
+          "url": "https://www.clarin.com/policiales/violenta-entradera-daniel-scioli-banda-armada-mascaras-payaso-metio-predio-villa-nata_0_DnwKU34wpC.html"
+        },
+        {
+          "rank": 4,
           "title": "La última gambeta de Messi y empezó la cuenta regresiva para Tapia y Toviggino",
           "url": "https://www.clarin.com/opinion/ultima-gambeta-messi-empezo-cuenta-regresiva-tapia-toviggino_0_0kmZIG1Fqt.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "La NASA sorprendió con el modelo físico y matemático que representa la estructura real de la Tierra: es geoide",
           "url": "https://www.clarin.com/internacional/nasa-sorprendio-modelo-fisico-matematico-representa-estructura-real-tierra-geoide_0_II4mLzgJXG.html"
-        },
-        {
-          "rank": 5,
-          "title": "Violenta entradera contra Daniel Scioli: una banda armada y con máscaras de payaso se metió al predio de La Ñata",
-          "url": "https://www.clarin.com/policiales/violenta-entradera-daniel-scioli-banda-armada-mascaras-payaso-metio-predio-villa-nata_0_DnwKU34wpC.html"
         }
       ],
       "erro": null

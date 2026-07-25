@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 06:19",
+  "atualizado_em": "25/07/2026 06:25",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O PCC está dentro da PM de SP",
-          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
-        },
-        {
-          "rank": 2,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
+          "rank": 2,
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+        },
+        {
           "rank": 3,
-          "title": "Nova IA analisa discurso de CEOs e revela quais empresas da B3 inspiram mais confiança ao mercado",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/nova-ia-analisa-discurso-de-ceos-e-revela-quais-empresas-da-b3-inspiram-mais-confianca-ao-mercado/"
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         },
         {
           "rank": 4,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
+          "title": "‘Tem que dobrar de preço para ficar barata’: grandes gestores de ações seguem otimistas com a Bolsa",
+          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/tem-que-dobrar-de-preco-para-ficar-barata-grandes-gestores-de-acoes-seguem-otimistas-com-a-bolsa/"
         },
         {
           "rank": 5,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
-          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
-          "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
+          "title": "La NASA sorprendió con el modelo físico y matemático que representa la estructura real de la Tierra: es geoide",
+          "url": "https://www.clarin.com/internacional/nasa-sorprendio-modelo-fisico-matematico-representa-estructura-real-tierra-geoide_0_II4mLzgJXG.html"
         },
         {
           "rank": 4,
-          "title": "El vocero habló de un dólar a $1.800 y levantó críticas en la interna oficialista",
-          "url": "https://www.clarin.com/politica/vocero-hablo-dolar-1800-levanto-criticas-interna-oficialista_0_5iCg30Fnxj.html"
+          "title": "Y ahora, ¿quién podrá defendernos?",
+          "url": "https://www.clarin.com/deportes/ahora-podra-defendernos_0_oaxMZiQ1e9.html"
         },
         {
           "rank": 5,
-          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
-          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
+          "title": "El vocero habló de un dólar a $1.800 y levantó críticas en la interna oficialista",
+          "url": "https://www.clarin.com/politica/vocero-hablo-dolar-1800-levanto-criticas-interna-oficialista_0_5iCg30Fnxj.html"
         }
       ],
       "erro": null

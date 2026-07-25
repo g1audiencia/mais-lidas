@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 14:07",
+  "atualizado_em": "25/07/2026 14:13",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "O que fez a diferença para a trégua entre Michelle e Flávio Bolsonaro",
-          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/07/o-que-fez-a-diferenca-para-a-tregua-entre-michelle-e-flavio-bolsonaro.ghtml"
-        },
-        {
-          "rank": 3,
-          "title": "Quem era Káh Felipe, influenciadora que morreu após enfrentar doença rara e câncer terminal",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/07/25/quem-era-kah-felipe-influenciadora-que-morreu-apos-enfrentar-doenca-rara-e-cancer-terminal.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Infantino escreve carta à seleção argentina após a derrota na final da Copa para a Espanha; leia o texto",
           "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/25/infantino-escreve-carta-a-selecao-argentina-apos-a-derrota-na-final-da-copa-para-a-espanha-leia-o-texto.ghtml"
         },
         {
+          "rank": 3,
+          "title": "O que fez a diferença para a trégua entre Michelle e Flávio Bolsonaro",
+          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/07/o-que-fez-a-diferenca-para-a-tregua-entre-michelle-e-flavio-bolsonaro.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "'Quem ama cuida': passado e circunstâncias da morte de Francesca virão à tona",
+          "url": "https://oglobo.globo.com/play/novelas/noticia/2026/07/25/quem-ama-cuida-passado-e-circunstancias-da-morte-de-francesca-virao-a-tona.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "Pressionado, Flávio usa ida de Milei à convenção do PL como trunfo e busca se associar à 'onda' da direita no continente",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/pressionado-flavio-usa-ida-de-milei-a-convencao-do-pl-como-trunfo-e-busca-se-associar-a-onda-da-direita-no-continente.ghtml"
+          "title": "Quem era Káh Felipe, influenciadora que morreu após enfrentar doença rara e câncer terminal",
+          "url": "https://oglobo.globo.com/ela/noticia/2026/07/25/quem-era-kah-felipe-influenciadora-que-morreu-apos-enfrentar-doenca-rara-e-cancer-terminal.ghtml"
         }
       ],
       "erro": null
@@ -231,13 +231,13 @@
         },
         {
           "rank": 3,
-          "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his ‘last decision’",
-          "url": "https://apnews.com/article/lebron-james-76ers-1db738a3a8c29aab2be24b1bc8082ae9"
+          "title": "Texts reveal teen who singer D4vd is accused of killing was pregnant, had abortion year before death",
+          "url": "https://apnews.com/article/d4vd-burke-celeste-rivas-hernandez-killing-hearing-6a1dd6c605e4551553daa8aa5f25fcad"
         },
         {
           "rank": 4,
-          "title": "Texts reveal teen who singer D4vd is accused of killing was pregnant, had abortion year before death",
-          "url": "https://apnews.com/article/d4vd-burke-celeste-rivas-hernandez-killing-hearing-6a1dd6c605e4551553daa8aa5f25fcad"
+          "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his ‘last decision’",
+          "url": "https://apnews.com/article/lebron-james-76ers-1db738a3a8c29aab2be24b1bc8082ae9"
         },
         {
           "rank": 5,
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
-        },
-        {
-          "rank": 2,
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
         },
         {
+          "rank": 2,
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+        },
+        {
           "rank": 3,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 11:01",
+  "atualizado_em": "25/07/2026 11:07",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
           "rank": 2,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 3,
           "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
           "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
         },
         {
+          "rank": 3,
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
+        },
+        {
           "rank": 4,
-          "title": "O PCC está dentro da PM de SP",
-          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
           "rank": 5,
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump says US will investigate EU trade practices for ‘unethical’ fines on Google and Apple",
-          "url": "https://apnews.com/live/trump-tariffs-iran-updates-07-24-2026"
+          "title": "Texts reveal teen who singer D4vd is accused of killing was pregnant, had abortion year before death",
+          "url": "https://apnews.com/article/d4vd-burke-celeste-rivas-hernandez-killing-hearing-6a1dd6c605e4551553daa8aa5f25fcad"
         }
       ],
       "erro": null

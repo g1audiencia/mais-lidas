@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 02:52",
+  "atualizado_em": "25/07/2026 03:00",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
+          "rank": 2,
+          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
+          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
+        },
+        {
+          "rank": 3,
           "title": "O prato que Anthony Bourdain não perdoou",
           "url": "https://www.estadao.com.br/paladar/devoravel/amado-por-daniel-boulud-e-odiado-por-bourdain-a-historia-do-prato-que-fez-claude-troisgros-gelar/"
         },
         {
-          "rank": 2,
-          "title": "Trump reinventou o faroeste, onde ele próprio cria ou recria leis; Brasil não sabe reagir",
-          "url": "https://www.estadao.com.br/economia/celso-ming/trump-reinventou-o-faroeste-onde-ele-proprio-cria-ou-recria-leis-brasil-nao-sabe-reagir/"
-        },
-        {
-          "rank": 3,
-          "title": "Xuxa diz viver um casamento ‘regado a sexo e tesão’. O que fazer quando a menopausa muda o desejo?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/xuxa-diz-viver-um-casamento-regado-a-sexo-e-tesao-o-que-fazer-quando-a-menopausa-muda-o-desejo/"
-        },
-        {
           "rank": 4,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "João Gomes é levado ao hospital e esposa desabafa: ‘Está mal demais’",
+          "url": "https://www.estadao.com.br/emais/gente/joao-gomes-e-levado-ao-hospital-e-esposa-desabafa-esta-mal-demais-nprec/"
         },
         {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
+          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
         },
         {
           "rank": 5,
-          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
-          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
+          "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+          "url": "https://www.bbc.com/news/articles/cj9d27v70j1o"
         }
       ],
       "erro": null

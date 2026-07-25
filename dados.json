@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 03:00",
+  "atualizado_em": "25/07/2026 03:07",
   "portais": [
     {
       "portal": "Folha",
@@ -71,28 +71,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula sanciona lei que proíbe a produção e comercialização de foie gras",
-          "url": "https://www.cnnbrasil.com.br/agro/lula-sanciona-lei-que-proibe-a-producao-e-comercializacao-de-foie-gras/"
-        },
-        {
-          "rank": 2,
           "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
           "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
         },
         {
+          "rank": 2,
+          "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
+        },
+        {
           "rank": 3,
-          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
+          "title": "\"Quilos Mortais\": como está Samantha, um dos casos mais difíceis do reality",
+          "url": "https://www.cnnbrasil.com.br/pop/realities/quilos-mortais-como-esta-samantha-um-dos-casos-mais-dificeis-do-reality/"
         },
         {
           "rank": 4,
-          "title": "A Argentina perdeu o título e as redes na Copa do Mundo",
-          "url": "https://www.cnnbrasil.com.br/colunas/renato-dolci/tecnologia/a-argentina-perdeu-o-titulo-e-as-redes-na-copa-do-mundo/"
+          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
         },
         {
           "rank": 5,
-          "title": "Herança de Denis Carvalho: veja as restrições impostas em testamento",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/heranca-de-denis-carvalho-veja-as-restricoes-impostas-em-testamento/"
+          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
-          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
           "rank": 3,
-          "title": "O prato que Anthony Bourdain não perdoou",
-          "url": "https://www.estadao.com.br/paladar/devoravel/amado-por-daniel-boulud-e-odiado-por-bourdain-a-historia-do-prato-que-fez-claude-troisgros-gelar/"
+          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
+          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
         },
         {
           "rank": 4,
-          "title": "João Gomes é levado ao hospital e esposa desabafa: ‘Está mal demais’",
-          "url": "https://www.estadao.com.br/emais/gente/joao-gomes-e-levado-ao-hospital-e-esposa-desabafa-esta-mal-demais-nprec/"
+          "title": "‘Achar que cadeia não resolve a violência é uma ilusão’, diz ex-capitão do Bope",
+          "url": "https://www.estadao.com.br/brasil/achar-que-cadeia-nao-resolve-a-violencia-e-uma-ilusao-diz-ex-capitao-do-bope/"
         },
         {
           "rank": 5,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump pokes fun at press during White House Correspondents' Dinner",
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
         },
         {

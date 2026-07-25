@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 21:16",
+  "atualizado_em": "24/07/2026 21:21",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Meu irmão viveu e morreu em seu próprio mundo",
-          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
+          "title": "Datafolha: Inferno astral de Flávio mantém vantagem de Lula, mas petista testa seu teto",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-inferno-astral-de-flavio-mantem-vantagem-de-lula-mas-petista-testa-seu-teto.shtml"
         },
         {
           "rank": 5,
-          "title": "Datafolha: Avaliação de Lula segue estável após tarifaço de Trump",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-avaliacao-de-lula-segue-estavel-apos-tarifaco-de-trump.shtml"
+          "title": "Meu irmão viveu e morreu em seu próprio mundo",
+          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
-        },
-        {
-          "rank": 2,
           "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
           "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "How Jimothy the raccoon became the internet's latest animal obsession",
           "url": "https://www.bbc.com/news/articles/cd0xnge2zx7o"
+        },
+        {
+          "rank": 3,
+          "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
         },
         {
           "rank": 4,

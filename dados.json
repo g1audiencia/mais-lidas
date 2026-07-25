@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 20:02",
+  "atualizado_em": "25/07/2026 20:07",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
-          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         },
         {
           "rank": 3,
-          "title": "Fachin rebate ataque de Milei a Alexandre de Moraes e defende STF",
-          "url": "https://www.estadao.com.br/politica/fachin-rebate-ataque-de-milei-a-alexandre-de-moraes-e-defende-stf/"
-        },
-        {
-          "rank": 4,
           "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
           "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
           "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+        },
+        {
+          "rank": 5,
+          "title": "Com Milei e Trump, Flávio pede ‘união da direita nacional’, mas age com a direita internacional",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/com-milei-e-trump-flavio-pede-uniao-da-direita-nacional-mas-age-com-a-direita-internacional/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "'Most people are lovely, but we do get irresponsible visitors'",
-          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
-        },
-        {
-          "rank": 3,
           "title": "More than 250,000 flee wildfires in France and Spain",
           "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
+          "rank": 3,
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
+        },
+        {
           "rank": 4,
-          "title": "Parents warned as hundreds of squishy toys seized",
-          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
+          "title": "India's 'cockroach' protest called off after education minister quits",
+          "url": "https://www.bbc.com/news/articles/cdx828gj5xko"
         },
         {
           "rank": 5,

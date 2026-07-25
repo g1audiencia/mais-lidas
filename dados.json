@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 00:44",
+  "atualizado_em": "25/07/2026 00:50",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
         },
         {
+          "rank": 3,
+          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
+        },
+        {
           "rank": 4,
-          "title": "'Não tivemos a chance de saber se ela ia viver', diz neta de idosa morta após cirurgia por engano",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/nao-tivemos-a-chance-de-saber-se-ela-ia-viver-diz-neta-de-idosa-morta-apos-cirurgia-por-engano.shtml"
+          "title": "Meu irmão viveu e morreu em seu próprio mundo",
+          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
         },
         {
           "rank": 5,
-          "title": "Jon Bon Jovi interrompe show e pede desculpas aos fãs em Nova York",
-          "url": "https://f5.folha.uol.com.br/musica/2026/07/jon-bon-jovi-interrompe-show-e-pede-desculpas-aos-fas-em-nova-york.shtml"
+          "title": "'Não tivemos a chance de saber se ela ia viver', diz neta de idosa morta após cirurgia por engano",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/nao-tivemos-a-chance-de-saber-se-ela-ia-viver-diz-neta-de-idosa-morta-apos-cirurgia-por-engano.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
-        },
-        {
-          "rank": 3,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
+          "rank": 3,
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+        },
+        {
           "rank": 4,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
+          "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado",
+          "url": "https://www.estadao.com.br/politica/empresa-para-a-qual-flavio-bolsonaro-emitiu-r-1-milhao-em-notas-nao-existe-no-endereco-informado/"
         },
         {
           "rank": 5,
-          "title": "Governo Lula vai dar ‘chá de cadeira’ em indicado por Trump para embaixada dos EUA no Brasil",
-          "url": "https://www.estadao.com.br/economia/governo-lula-vai-dar-cha-de-cadeira-em-indicado-por-trump-para-embaixada-dos-eua-no-brasil/"
+          "title": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/quais-alimentos-preparados-na-airfryer-podem-formar-acrilamida-ligada-a-prejuizos-a-saude-nprm/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 02:03",
+  "atualizado_em": "25/07/2026 02:09",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
-        },
-        {
-          "rank": 2,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
-        },
-        {
-          "rank": 3,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
-          "rank": 4,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 2,
+          "title": "Câncer de próstata: quais são os estágios da doença e como diagnosticá-la precocemente?",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/cancer-de-prostata-quais-sao-os-estagios-da-doenca-e-como-diagnostica-la-precocemente-nprm/"
+        },
+        {
+          "rank": 3,
+          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
+          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
+        },
+        {
+          "rank": 4,
+          "title": "‘Não me entrego, não’, afirma Marcos Breda após passar pela 10ª cirurgia em 4 anos",
+          "url": "https://www.estadao.com.br/emais/gente/nao-me-entrego-nao-afirma-marcos-breda-apos-passar-pela-10-cirurgia-em-4-anos-nprec/"
+        },
+        {
           "rank": 5,
-          "title": "‘Achar que cadeia não resolve a violência é uma ilusão’, diz ex-capitão do Bope",
-          "url": "https://www.estadao.com.br/brasil/achar-que-cadeia-nao-resolve-a-violencia-e-uma-ilusao-diz-ex-capitao-do-bope/"
+          "title": "João Gomes é levado ao hospital e esposa desabafa: ‘Está mal demais’",
+          "url": "https://www.estadao.com.br/emais/gente/joao-gomes-e-levado-ao-hospital-e-esposa-desabafa-esta-mal-demais-nprec/"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
+          "title": "El multimillonario que confesó una infidelidad en una carta pública y terminó pagando US$ 644 millones en un divorcio que sacude a un país",
+          "url": "https://www.clarin.com/internacional/multimillonario-confeso-infidelidad-carta-publica-termino-pagando-us-644-millones-divorcio-sacude-pais_0_K3WrC3w4Dw.html"
+        },
+        {
+          "rank": 4,
           "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
           "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
         },
         {
-          "rank": 4,
-          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
-          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
-        },
-        {
           "rank": 5,
-          "title": "Arsenal prepara una oferta récord y va con todo por Julián Álvarez: 100 millones de euros y un goleador top como parte de pago",
-          "url": "https://www.clarin.com/deportes/arsenal-prepara-oferta-record-van-julian-alvarez-100-millones-euros-goleador-top-parte-pago_0_LbZ96S64R3.html"
+          "title": "Investigan posibles irregularidades en las apuestas del Mundial: España tiene dos partidos sospechados y está bajo la lupa",
+          "url": "https://www.clarin.com/deportes/investigan-posibles-irregularidades-apuestas-mundial-espana-lupa-partidos-sospechados_0_O3wT2r4F3B.html"
         }
       ],
       "erro": null

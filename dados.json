@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 19:24",
+  "atualizado_em": "25/07/2026 19:30",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
+          "title": "A Argentina perdeu o título e as redes na Copa do Mundo",
+          "url": "https://www.cnnbrasil.com.br/colunas/renato-dolci/tecnologia/a-argentina-perdeu-o-titulo-e-as-redes-na-copa-do-mundo/"
         },
         {
           "rank": 4,
-          "title": "A Argentina perdeu o título e as redes na Copa do Mundo",
-          "url": "https://www.cnnbrasil.com.br/colunas/renato-dolci/tecnologia/a-argentina-perdeu-o-titulo-e-as-redes-na-copa-do-mundo/"
+          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
         },
         {
           "rank": 5,
@@ -103,23 +103,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
-          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
-        },
-        {
-          "rank": 2,
           "title": "Infantino escreve carta à seleção argentina após a derrota na final da Copa para a Espanha; leia o texto",
           "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/25/infantino-escreve-carta-a-selecao-argentina-apos-a-derrota-na-final-da-copa-para-a-espanha-leia-o-texto.ghtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Em convenção, PT formaliza apostas de Lula para São Paulo, estado-chave para a eleição presidencial contra Flávio",
           "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/em-convencao-pt-formaliza-apostas-de-lula-para-sao-paulo-estado-chave-para-a-eleicao-presidencial-contra-flavio.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "'Quem ama cuida': passado e circunstâncias da morte de Francesca virão à tona",
           "url": "https://oglobo.globo.com/play/novelas/noticia/2026/07/25/quem-ama-cuida-passado-e-circunstancias-da-morte-de-francesca-virao-a-tona.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
+          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
         },
         {
           "rank": 5,
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 2,
           "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
           "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
           "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
-        },
-        {
-          "rank": 3,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         }
       ],
       "erro": null

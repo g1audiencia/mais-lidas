@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 01:50",
+  "atualizado_em": "25/07/2026 01:58",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
           "rank": 2,
-          "title": "Lula tem 48% e Flávio Bolsonaro soma 43% no segundo turno, aponta pesquisa Datafolha",
-          "url": "https://www.estadao.com.br/politica/lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno-aponta-pesquisa-datafolha/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
           "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         },
         {
+          "rank": 3,
+          "title": "Lula tem 48% e Flávio Bolsonaro soma 43% no segundo turno, aponta pesquisa Datafolha",
+          "url": "https://www.estadao.com.br/politica/lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno-aponta-pesquisa-datafolha/"
+        },
+        {
           "rank": 4,
-          "title": "He-Man, Elize Matsunaga e Shakespeare: As estreias da semana no streaming",
-          "url": "https://www.estadao.com.br/cultura/cinema/de-he-man-a-elize-matsunaga-confira-as-estreias-da-semana-no-streaming-nprec/"
+          "title": "‘Não me entrego, não’, afirma Marcos Breda após passar pela 10ª cirurgia em 4 anos",
+          "url": "https://www.estadao.com.br/emais/gente/nao-me-entrego-nao-afirma-marcos-breda-apos-passar-pela-10-cirurgia-em-4-anos-nprec/"
         },
         {
           "rank": 5,
-          "title": "João Gomes é levado ao hospital e esposa desabafa: ‘Está mal demais’",
-          "url": "https://www.estadao.com.br/emais/gente/joao-gomes-e-levado-ao-hospital-e-esposa-desabafa-esta-mal-demais-nprec/"
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "ICC top prosecutor removed over sexual misconduct allegations",
-          "url": "https://www.bbc.com/news/articles/cqjxddx12qqo"
+          "title": "Trump pokes fun at press during White House Correspondents' Dinner",
+          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
         }
       ],
       "erro": null

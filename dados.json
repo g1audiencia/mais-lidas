@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 12:26",
+  "atualizado_em": "25/07/2026 12:32",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Trump tenta enviar dois oficiais para questionar eleições no Brasil",
+          "title": "Trump tenta enviar oficiais para questionar eleições, mas Itamaraty nega vistos",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
         },
         {
           "rank": 2,
-          "title": "Milei recebe de Tarcísio mais alta honraria do estado de São Paulo",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-recebe-de-tarcisio-mais-alta-honraria-do-estado-de-sao-paulo.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
         },
         {
+          "rank": 3,
+          "title": "Milei recebe de Tarcísio mais alta honraria do estado de São Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-recebe-de-tarcisio-mais-alta-honraria-do-estado-de-sao-paulo.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Em alta, mercado de aluguel se prepara para novas regras da reforma tributária",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/em-alta-mercado-de-aluguel-se-prepara-para-novas-regras-da-reforma-tributaria.shtml"
+          "title": "Will Smith se emociona ao ganhar obra inédita de Eduardo Kobra em evento em São Paulo",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/will-smith-se-emociona-ao-ganhar-obra-inedita-de-eduardo-kobra-em-evento-em-sao-paulo.shtml"
         },
         {
           "rank": 5,
-          "title": "Will Smith se emociona ao ganhar obra inédita de Eduardo Kobra em evento em São Paulo",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/will-smith-se-emociona-ao-ganhar-obra-inedita-de-eduardo-kobra-em-evento-em-sao-paulo.shtml"
+          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
+          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
-          "rank": 2,
           "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
           "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
         },
         {
+          "rank": 2,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
           "rank": 3,
-          "title": "O PCC está dentro da PM de SP",
-          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
-          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
           "rank": 4,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         },
         {
           "rank": 5,

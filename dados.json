@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 03:30",
+  "atualizado_em": "25/07/2026 03:41",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Datafolha: Lula tem 48%, e Flávio Bolsonaro, 43% no segundo turno",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
         },
         {
+          "rank": 3,
+          "title": "Datafolha: Lula tem 48%, e Flávio Bolsonaro, 43% no segundo turno",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno.shtml"
+        },
+        {
           "rank": 4,
-          "title": "'Não tivemos a chance de saber se ela ia viver', diz neta de idosa morta após cirurgia por engano",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/nao-tivemos-a-chance-de-saber-se-ela-ia-viver-diz-neta-de-idosa-morta-apos-cirurgia-por-engano.shtml"
+          "title": "Jon Bon Jovi interrompe show e pede desculpas aos fãs em Nova York",
+          "url": "https://f5.folha.uol.com.br/musica/2026/07/jon-bon-jovi-interrompe-show-e-pede-desculpas-aos-fas-em-nova-york.shtml"
         },
         {
           "rank": 5,
-          "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
+          "title": "SpaceX lança Starship com sucesso e abre caminho para voo orbital",
+          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/spacex-lanca-starship-com-sucesso-e-abre-caminho-para-voo-orbital.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "9 sites para alugar ou comprar imóvel no Brasil",
-          "url": "https://imoveis.estadao.com.br/aluguel/7-melhores-sites-para-alugar-imovel/"
-        },
-        {
-          "rank": 2,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 2,
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+        },
+        {
           "rank": 3,
-          "title": "Quais são os passaportes mais fortes do mundo? Veja a posição do Brasil no ranking global",
-          "url": "https://www.estadao.com.br/internacional/quais-sao-os-passaportes-mais-fortes-do-mundo-veja-a-posicao-do-brasil-no-ranking-global-npr/"
+          "title": "Do clássico ao vegano: Sete preparos de lasanha para cozinhar no conforto de casa",
+          "url": "https://www.estadao.com.br/paladar/caderno-de-receitas/da-bolonhesa-perfeita-ao-chips-crocante-6-receitas-de-lasanha-para-renovar-o-almoco-de-domingo/"
         },
         {
           "rank": 4,
-          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
-          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
+          "title": "‘Achar que cadeia não resolve a violência é uma ilusão’, diz ex-capitão do Bope",
+          "url": "https://www.estadao.com.br/brasil/achar-que-cadeia-nao-resolve-a-violencia-e-uma-ilusao-diz-ex-capitao-do-bope/"
         },
         {
           "rank": 5,
-          "title": "A Geração Z está abandonando um hábito que, segundo os bilionários, os preparou para o sucesso",
-          "url": "https://www.estadao.com.br/economia/negocios/geracao-z-perdendo-habito-sucesso-bilionarios/"
+          "title": "He-Man, Elize Matsunaga e Shakespeare: As estreias da semana no streaming",
+          "url": "https://www.estadao.com.br/cultura/cinema/de-he-man-a-elize-matsunaga-confira-as-estreias-da-semana-no-streaming-nprec/"
         }
       ],
       "erro": null
@@ -273,7 +273,7 @@
         },
         {
           "rank": 5,
-          "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
           "url": "https://www.bbc.com/news/articles/cj9d27v70j1o"
         }
       ],

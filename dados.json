@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 16:05",
+  "atualizado_em": "25/07/2026 16:11",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro para declarar apoio ao filho e vídeo de Michelle",
-          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
-        },
-        {
-          "rank": 3,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
+          "rank": 3,
+          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro para declarar apoio ao filho e vídeo de Michelle",
+          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+        },
+        {
           "rank": 4,
-          "title": "The Economist: Do perturbador ao francamente bizarro, esta é a visão do futuro de Elon Musk",
-          "url": "https://www.estadao.com.br/economia/the-economist-a-visao-de-futuro-de-elon-musk/"
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         },
         {
           "rank": 5,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Armados y con máscaras de payaso entraron a robar a la casa de Daniel Scioli en La Ñata: detuvieron a un ex custodio",
-          "url": "https://www.clarin.com/policiales/violenta-entradera-daniel-scioli-banda-armada-mascaras-payaso-metio-predio-villa-nata_0_DnwKU34wpC.html"
+          "title": "Se escapó a la montaña con dos maestras del jardín de su hijo, quedaron varados por una tormenta de nieve y tras el rescate se desató un escándalo",
+          "url": "https://www.clarin.com/internacional/escapo-montana-maestras-jardin-hijo-quedaron-varados-tormenta-nieve-rescate-desato-escandalo_0_gZn345JP67.html"
         },
         {
           "rank": 2,
-          "title": "Se escapó a la montaña con dos maestras del jardín de su hijo, quedaron varados por una tormenta de nieve y tras el rescate se desató un escándalo",
-          "url": "https://www.clarin.com/internacional/escapo-montana-maestras-jardin-hijo-quedaron-varados-tormenta-nieve-rescate-desato-escandalo_0_gZn345JP67.html"
+          "title": "Armados y con máscaras de payaso entraron a robar a la casa de Daniel Scioli en La Ñata: detuvieron a un ex custodio",
+          "url": "https://www.clarin.com/policiales/violenta-entradera-daniel-scioli-banda-armada-mascaras-payaso-metio-predio-villa-nata_0_DnwKU34wpC.html"
         },
         {
           "rank": 3,

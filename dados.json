@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 19:55",
+  "atualizado_em": "25/07/2026 20:02",
   "portais": [
     {
       "portal": "Folha",
@@ -76,13 +76,13 @@
         },
         {
           "rank": 2,
-          "title": "Brasil vence Itália no tie-break e se classifica para final da VNL feminina",
-          "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-vence-italia-no-tie-break-e-se-classifica-para-final-da-vnl-feminina/"
+          "title": "A Argentina perdeu o título e as redes na Copa do Mundo",
+          "url": "https://www.cnnbrasil.com.br/colunas/renato-dolci/tecnologia/a-argentina-perdeu-o-titulo-e-as-redes-na-copa-do-mundo/"
         },
         {
           "rank": 3,
-          "title": "A Argentina perdeu o título e as redes na Copa do Mundo",
-          "url": "https://www.cnnbrasil.com.br/colunas/renato-dolci/tecnologia/a-argentina-perdeu-o-titulo-e-as-redes-na-copa-do-mundo/"
+          "title": "Brasil vence Itália no tie-break e se classifica para final da VNL feminina",
+          "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-vence-italia-no-tie-break-e-se-classifica-para-final-da-vnl-feminina/"
         },
         {
           "rank": 4,
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
-        },
-        {
-          "rank": 3,
           "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
           "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Fachin rebate ataque de Milei a Alexandre de Moraes e defende STF",
           "url": "https://www.estadao.com.br/politica/fachin-rebate-ataque-de-milei-a-alexandre-de-moraes-e-defende-stf/"
+        },
+        {
+          "rank": 4,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         },
         {
           "rank": 5,

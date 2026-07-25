@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 06:37",
+  "atualizado_em": "25/07/2026 06:46",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         },
         {
+          "rank": 4,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Habib’s pede à Justiça proteção contra credores; dívidas somam R$ 312,4 milhões",
-          "url": "https://www.estadao.com.br/economia/negocios/habibs-protecao-justica-contra-credores/"
+          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
+          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
         }
       ],
       "erro": null
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
+          "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his ‘last decision’",
+          "url": "https://apnews.com/article/lebron-james-76ers-1db738a3a8c29aab2be24b1bc8082ae9"
+        },
+        {
+          "rank": 3,
           "title": "Trump says US will investigate EU trade practices for ‘unethical’ fines on Google and Apple",
           "url": "https://apnews.com/live/trump-tariffs-iran-updates-07-24-2026"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "New US tariffs linked to claims of foreign forced labor dismay and anger trading partners",
           "url": "https://apnews.com/article/us-tariffs-trump-labor-reaction-china-asia-b178ead12f022009817c60010ac07eb3"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Laura Loomer meets Zelenskyy in Ukraine after her major reversal on the war",
           "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce"
-        },
-        {
-          "rank": 5,
-          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
-          "url": "https://apnews.com/article/military-veteran-truckers-cdl-license-waiver-immigrants-e06bfe13fbc3aa0c13e58c212746229f"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj9d27v70j1o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         },
         {
           "rank": 5,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
+          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Y ahora, ¿quién podrá defendernos?",
-          "url": "https://www.clarin.com/deportes/ahora-podra-defendernos_0_oaxMZiQ1e9.html"
+          "title": "El vocero habló de un dólar a $1.800 y levantó críticas en la interna oficialista",
+          "url": "https://www.clarin.com/politica/vocero-hablo-dolar-1800-levanto-criticas-interna-oficialista_0_5iCg30Fnxj.html"
         },
         {
           "rank": 5,
-          "title": "El vocero habló de un dólar a $1.800 y levantó críticas en la interna oficialista",
-          "url": "https://www.clarin.com/politica/vocero-hablo-dolar-1800-levanto-criticas-interna-oficialista_0_5iCg30Fnxj.html"
+          "title": "Y ahora, ¿quién podrá defendernos?",
+          "url": "https://www.clarin.com/deportes/ahora-podra-defendernos_0_oaxMZiQ1e9.html"
         }
       ],
       "erro": null

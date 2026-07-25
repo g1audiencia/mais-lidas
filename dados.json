@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 11:47",
+  "atualizado_em": "25/07/2026 11:52",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Brasil vence Itália por 3 sets a 2, vai à final e busca título inédito da Liga das Nações",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/brasil-italia-liga-nas-nacoes.ghtm"
+          "title": "Governo Lula nega visto a diplomatas dos EUA para falar com autoridades eleitorais",
+          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/25/governo-negou-visto-a-dois-funcionarios-do-departamento-de-estado-dos-eua.htm"
         },
         {
           "rank": 2,
+          "title": "Governo Trump prepara ataque às urnas brasileiras, diz Washington Post",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/25/trump---urnas-eletronicas.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Grupo mata professora e arranca dedos dela para sacar dinheiro na Bahia",
           "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/25/homem-mata-professora-arranca-dedos-dela-e-faz-saques-em-banco-da-ba-veja.htm"
         },
         {
-          "rank": 3,
-          "title": "Milei é recebido por Tarcísio com tapete azul e maior honraria de São Paulo",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/25/tarcisio-milei-palacio-dos-bandeirantes-sao-paulo-25-julho-2026.htm"
-        },
-        {
           "rank": 4,
-          "title": "Luis Roberto revela sintoma que o alertou para câncer; veja sinais comuns",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/24/luis-roberto-revela-sintoma-que-o-alertou-para-cancer-veja-sinais-comuns.ghtm"
+          "title": "Brasil vence Itália por 3 sets a 2, vai à final e busca título inédito da Liga das Nações",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/brasil-italia-liga-nas-nacoes.ghtm"
         },
         {
           "rank": 5,
-          "title": "Suruba, nu frontal e fetiches: série sobre futebol tem cenas +18",
-          "url": "https://www.uol.com.br/flash/?c=d8362d20e667ecb7398d588209dccb620260724"
+          "title": "Milei é recebido por Tarcísio com tapete azul e maior honraria de São Paulo",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/25/tarcisio-milei-palacio-dos-bandeirantes-sao-paulo-25-julho-2026.htm"
         }
       ],
       "erro": null

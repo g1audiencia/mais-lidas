@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 07:19",
+  "atualizado_em": "25/07/2026 07:25",
   "portais": [
     {
       "portal": "Folha",
@@ -54,13 +54,13 @@
         },
         {
           "rank": 4,
-          "title": "Inmet alerta para tempestades e chance de granizo em sete estados",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/24/avisos-chuvas.ghtm"
+          "title": "BA: homem flagrado se masturbando em academia de condomínio é preso",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/24/homem-flagrado-se-masturbando-em-academia-de-condominio-e-preso-na-bahia.ghtm"
         },
         {
           "rank": 5,
-          "title": "Brasileirão: após o 1º turno, veja chances de ser campeão, rebaixado ou ir à Libertadores",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/24/chances-brasileirao-titulo-rebaixamento-libertadores.ghtm"
+          "title": "Quem é a ex-atriz pornô que foi eleita senadora na Colômbia: 'Geramos emprego'",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/24/quem-e-a-senadora-ex-atriz-porno-que-luta-pelos-produtores-de-conteudo.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+        },
+        {
+          "rank": 2,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
-          "rank": 2,
-          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
-          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
-        },
-        {
           "rank": 3,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         },
         {
           "rank": 4,
-          "title": "Flávio deve explicações ao País",
-          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
         },
         {
           "rank": 5,
-          "title": "O PCC está dentro da PM de SP",
-          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
+          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj9d27v70j1o"
+          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
+          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
         }
       ],
       "erro": null

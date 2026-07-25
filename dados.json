@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 14:42",
+  "atualizado_em": "25/07/2026 14:48",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump tenta enviar assessores ao Brasil para questionar eleições, mas Itamaraty nega vistos",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Milei chama Alexandre de Moraes de 'lixo careca' em evento de Flávio Bolsonaro",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-chama-alexandre-de-moraes-de-lixo-careca-em-evento-de-flavio-bolsonaro.shtml"
         },
         {
+          "rank": 2,
+          "title": "Trump tenta enviar assessores ao Brasil para questionar eleições, mas Itamaraty nega vistos",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Paula Fernandes termina namoro com piloto após poucos meses de relação",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paula-fernandes-termina-namoro-com-piloto-apos-poucos-meses-de-relacao.shtml"
+          "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
+          "title": "Paula Fernandes termina namoro com piloto após poucos meses de relação",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paula-fernandes-termina-namoro-com-piloto-apos-poucos-meses-de-relacao.shtml"
         }
       ],
       "erro": null

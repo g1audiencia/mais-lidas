@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 05:25",
+  "atualizado_em": "25/07/2026 05:32",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
+          "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
         },
         {
           "rank": 4,
-          "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
+          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "As três caras de Marco Rubio e a farsa da transição da Venezuela para a democracia",
-          "url": "https://www.estadao.com.br/internacional/as-tres-caras-de-marco-rubio-e-a-farsa-da-transicao-da-venezuela-para-a-democracia/"
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
           "rank": 2,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 3,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
+          "rank": 3,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
           "rank": 4,
-          "title": "Simulação do Cenipa mostra voo da Voepass que caiu em Vinhedo; veja vídeo",
-          "url": "https://www.estadao.com.br/brasil/simulacao-do-cenipa-mostra-voo-da-voepass-que-caiu-em-vinhedo-veja-video/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 5,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "Flávio deve explicações ao País",
+          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
-        },
-        {
-          "rank": 3,
           "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
           "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
+          "rank": 3,
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+        },
+        {
           "rank": 4,
-          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
-          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
+          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+          "url": "https://www.bbc.com/news/articles/cj9d27v70j1o"
         },
         {
           "rank": 5,
-          "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-          "url": "https://www.bbc.com/news/articles/cj9d27v70j1o"
+          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
+          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
         }
       ],
       "erro": null

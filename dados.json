@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 18:19",
+  "atualizado_em": "25/07/2026 18:24",
   "portais": [
     {
       "portal": "Folha",
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
+          "title": "Gastón Edul vs Edu Aguirre en La Velada del Año VI: el periodista argentino cayó en una pelea caliente, con cargadas por el Mundial y guiños a Malvinas y Messi",
+          "url": "https://www.clarin.com/deportes/gaston-edul-vs-eduardo-aguirre-velada-ano-vi-periodista-argentino-subio-ring-remera-malvinas_0_FXgTqh0FsZ.html"
+        },
+        {
+          "rank": 4,
           "title": "Armados y con máscaras de payaso entraron a robar a la casa de Daniel Scioli en La Ñata: detuvieron a un ex custodio",
           "url": "https://www.clarin.com/policiales/violenta-entradera-daniel-scioli-banda-armada-mascaras-payaso-metio-predio-villa-nata_0_DnwKU34wpC.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "La NASA sorprendió con el modelo físico y matemático que representa la estructura real de la Tierra: es geoide",
           "url": "https://www.clarin.com/internacional/nasa-sorprendio-modelo-fisico-matematico-representa-estructura-real-tierra-geoide_0_II4mLzgJXG.html"
-        },
-        {
-          "rank": 5,
-          "title": "Gastón Edul vs Edu Aguirre en La Velada del Año VI: el periodista argentino cayó en una pelea caliente, con cargadas por el Mundial y guiños a Malvinas y Messi",
-          "url": "https://www.clarin.com/deportes/gaston-edul-vs-eduardo-aguirre-velada-ano-vi-periodista-argentino-subio-ring-remera-malvinas_0_FXgTqh0FsZ.html"
         }
       ],
       "erro": null

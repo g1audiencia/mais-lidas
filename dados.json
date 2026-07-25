@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 00:08",
+  "atualizado_em": "25/07/2026 00:17",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
-        },
-        {
-          "rank": 3,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
+          "rank": 3,
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+        },
+        {
           "rank": 4,
-          "title": "Anitta sobre novo álbum e passo atrás na carreira internacional: ‘Feliz eu sou mesmo é no Brasil’",
-          "url": "https://www.estadao.com.br/cultura/musica/anitta-sobre-novo-album-e-passo-atras-na-carreira-internacional-feliz-eu-sou-mesmo-e-no-brasil/"
+          "title": "Quer se mudar para o Paraguai? Veja 3 motivos para não sair correndo para o país vizinho",
+          "url": "https://www.estadao.com.br/economia/duquesa-de-tax/quer-mudar-para-o-paraguai-veja-3-motivos-para-nao-sair-correndo-para-o-pais-vizinho/"
         },
         {
           "rank": 5,
-          "title": "Quais são os passaportes mais fortes do mundo? Veja a posição do Brasil no ranking global",
-          "url": "https://www.estadao.com.br/internacional/quais-sao-os-passaportes-mais-fortes-do-mundo-veja-a-posicao-do-brasil-no-ranking-global-npr/"
+          "title": "He-Man, Elize Matsunaga e Shakespeare: As estreias da semana no streaming",
+          "url": "https://www.estadao.com.br/cultura/cinema/de-he-man-a-elize-matsunaga-confira-as-estreias-da-semana-no-streaming-nprec/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
-          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
+          "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
+          "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
         },
         {
           "rank": 5,
-          "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
-          "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
+          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
+          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 08:25",
+  "atualizado_em": "25/07/2026 08:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 2,
           "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         },
         {
-          "rank": 3,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
           "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
         },
         {
+          "rank": 3,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "Flávio deve explicações ao País",
+          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
+        },
+        {
           "rank": 5,
-          "title": "Seleção feminina vence a Itália no tie-break e vai à final da Liga das Nações de Vôlei",
-          "url": "https://www.estadao.com.br/esportes/volei/selecao-feminina-vence-a-italia-no-tie-break-e-vai-a-final-da-liga-das-nacoes-de-volei/"
+          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
+          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
         }
       ],
       "erro": null
@@ -300,8 +300,8 @@
         },
         {
           "rank": 4,
-          "title": "La NASA sorprendió con el modelo físico y matemático que representa la estructura real de la Tierra: es geoide",
-          "url": "https://www.clarin.com/internacional/nasa-sorprendio-modelo-fisico-matematico-representa-estructura-real-tierra-geoide_0_II4mLzgJXG.html"
+          "title": "Bardem, Rosalía, Samuel Jackson y otros oportunistas",
+          "url": "https://www.clarin.com/opinion/bardem-rosalia-samuel-jackson-oportunistas_0_RAO73CPtCA.html"
         },
         {
           "rank": 5,

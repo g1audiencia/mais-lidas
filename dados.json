@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 14:24",
+  "atualizado_em": "25/07/2026 14:30",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
+          "title": "Charleaux: 'Milei discursa com alta dose de grosseria e ignora protocolos'",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/25/milei-atropela-protocolo-e-ignora-lula-diz-charleaux.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Governo Lula nega visto a diplomatas dos EUA para falar com autoridades eleitorais",
           "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/25/governo-negou-visto-a-dois-funcionarios-do-departamento-de-estado-dos-eua.htm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Governo Trump prepara ataque às urnas brasileiras, diz Washington Post",
           "url": "https://noticias.uol.com.br/eleicoes/2026/07/25/trump---urnas-eletronicas.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Giulia Costa, filha de Flávia Alessandra, posa de fio-dental em viagem",
           "url": "https://cenapop.uol.com.br/noticias/famosos/giulia-costa-biquini-porto-rico.html"
-        },
-        {
-          "rank": 5,
-          "title": "Norris faz a pole no GP da Hungria de Fórmula 1; Bortoleto larga em 14º",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/classificatorio-gp-da-hungria.ghtm"
         }
       ],
       "erro": null
@@ -145,13 +145,13 @@
         },
         {
           "rank": 3,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
         },
         {
           "rank": 4,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 5,
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
-          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85"
+          "title": "502 students lose spots at Howard University over tuition payments just weeks before classes start",
+          "url": "https://apnews.com/article/howard-university-unenrolled-students-tuition-d17f77d0fcdb16fa6262378fcad4aa5c"
         },
         {
           "rank": 5,
-          "title": "502 students lose spots at Howard University over tuition payments just weeks before classes start",
-          "url": "https://apnews.com/article/howard-university-unenrolled-students-tuition-d17f77d0fcdb16fa6262378fcad4aa5c"
+          "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
+          "url": "https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
-        },
-        {
-          "rank": 4,
           "title": "Tourists tell BBC how their holiday turned into race to escape fires",
           "url": "https://www.bbc.com/news/articles/c80ny93xlrvo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
           "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+        },
+        {
+          "rank": 5,
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         }
       ],
       "erro": null

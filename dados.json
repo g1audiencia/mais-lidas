@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 18:30",
+  "atualizado_em": "25/07/2026 18:35",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Evento superlotado na Flip com Cármen Lúcia e Conceição Evaristo acaba em confusão",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-tem-confusao-em-mesa-com-carmen-lucia-e-conceicao-evaristo.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Viagra pode combater metástase de células cancerígenas, aponta estudo",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/viagra-pode-combater-metastase-de-celulas-cancerigenas-aponta-estudo.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
         },
         {
-          "rank": 4,
-          "title": "Milei chama Alexandre de Moraes de 'lixo careca' em evento de Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-chama-alexandre-de-moraes-de-lixo-careca-em-evento-de-flavio-bolsonaro.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Engenheira brasileira desaparece em Lyon, na França, e família busca apoio consular",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/engenheira-brasileira-desaparece-em-lyon-na-franca-e-familia-busca-apoio-consular.shtml"
+          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Several injured in incident at Berlin Pride event, police say",
+          "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
           "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
         },
         {

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 12:43",
+  "atualizado_em": "25/07/2026 12:48",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump tenta enviar oficiais para questionar eleições, mas Itamaraty nega vistos",
+          "title": "Trump tenta enviar assessores ao Brasil para questionar eleições, mas Itamaraty nega vistos",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
         },
         {
           "rank": 2,
-          "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Milei recebe de Tarcísio mais alta honraria do estado de São Paulo",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-recebe-de-tarcisio-mais-alta-honraria-do-estado-de-sao-paulo.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Will Smith se emociona ao ganhar obra inédita de Eduardo Kobra em evento em São Paulo",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/will-smith-se-emociona-ao-ganhar-obra-inedita-de-eduardo-kobra-em-evento-em-sao-paulo.shtml"
         },
         {
+          "rank": 3,
+          "title": "Em alta, mercado de aluguel se prepara para novas regras da reforma tributária",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/em-alta-mercado-de-aluguel-se-prepara-para-novas-regras-da-reforma-tributaria.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
-          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
+          "title": "Vozinha, herói de Cabo Verde na Copa, é anunciado pelo Colo-Colo",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/vozinha-heroi-de-cabo-verde-na-copa-e-anunciado-pelo-colo-colo.shtml"
         }
       ],
       "erro": null
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
           "rank": 2,
-          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
-          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
+          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
         },
         {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
+          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
         }
       ],
       "erro": null

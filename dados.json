@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 00:50",
+  "atualizado_em": "25/07/2026 00:57",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+        },
+        {
+          "rank": 2,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
-          "rank": 2,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
           "rank": 3,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "Simulação do Cenipa mostra voo da Voepass que caiu em Vinhedo; veja vídeo",
+          "url": "https://www.estadao.com.br/brasil/simulacao-do-cenipa-mostra-voo-da-voepass-que-caiu-em-vinhedo-veja-video/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/quais-alimentos-preparados-na-airfryer-podem-formar-acrilamida-ligada-a-prejuizos-a-saude-nprm/"
+          "title": "He-Man, Elize Matsunaga e Shakespeare: As estreias da semana no streaming",
+          "url": "https://www.estadao.com.br/cultura/cinema/de-he-man-a-elize-matsunaga-confira-as-estreias-da-semana-no-streaming-nprec/"
         }
       ],
       "erro": null
@@ -253,8 +253,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
         },
         {
           "rank": 2,
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
           "rank": 4,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
         },
         {
           "rank": 5,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "El multimillonario que confesó una infidelidad en una carta pública y terminó pagando US$ 644 millones en un divorcio que sacude a un país",
-          "url": "https://www.clarin.com/internacional/multimillonario-confeso-infidelidad-carta-publica-termino-pagando-us-644-millones-divorcio-sacude-pais_0_K3WrC3w4Dw.html"
-        },
-        {
-          "rank": 4,
           "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
           "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
           "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
+        },
+        {
+          "rank": 5,
+          "title": "Arsenal prepara una oferta récord y va con todo por Julián Álvarez: 100 millones de euros y un goleador top como parte de pago",
+          "url": "https://www.clarin.com/deportes/arsenal-prepara-oferta-record-van-julian-alvarez-100-millones-euros-goleador-top-parte-pago_0_LbZ96S64R3.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 18:24",
+  "atualizado_em": "25/07/2026 18:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 2,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
-          "rank": 3,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
+          "rank": 2,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 3,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
           "rank": 4,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
+          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
         },
         {
           "rank": 5,
-          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
-          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+          "title": "Several injured in incident at Berlin Pride event, police say",
+          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
         },
         {
           "rank": 2,
-          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
-        },
-        {
-          "rank": 3,
           "title": "More than 250,000 flee wildfires in France and Spain",
           "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
+          "rank": 3,
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+        },
+        {
           "rank": 4,
-          "title": "'Most people are lovely, but we do get irresponsible visitors'",
-          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
         },
         {
           "rank": 5,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
         }
       ],
       "erro": null

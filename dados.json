@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 22:13",
+  "atualizado_em": "24/07/2026 22:18",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Datafolha: Inferno astral de Flávio mantém vantagem de Lula, mas petista testa seu teto",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-inferno-astral-de-flavio-mantem-vantagem-de-lula-mas-petista-testa-seu-teto.shtml"
+          "title": "Justiça suspende decisão que liberava mototáxi da Uber em São Paulo",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/justica-suspende-decisao-que-liberava-mototaxi-da-uber-em-sao-paulo.shtml"
         },
         {
           "rank": 5,
-          "title": "Justiça suspende decisão que liberava mototáxi da Uber em São Paulo",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/justica-suspende-decisao-que-liberava-mototaxi-da-uber-em-sao-paulo.shtml"
+          "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 2,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
-          "rank": 3,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
-        },
-        {
-          "rank": 4,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
-          "rank": 5,
+          "rank": 2,
           "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
           "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
+        },
+        {
+          "rank": 3,
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
+        },
+        {
+          "rank": 4,
+          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+        },
+        {
+          "rank": 5,
+          "title": "Simulação do Cenipa mostra voo da Voepass que caiu em Vinhedo; veja vídeo",
+          "url": "https://www.estadao.com.br/brasil/simulacao-do-cenipa-mostra-voo-da-voepass-que-caiu-em-vinhedo-veja-video/"
         }
       ],
       "erro": null

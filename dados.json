@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 21:27",
+  "atualizado_em": "24/07/2026 21:32",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
+          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
+        },
+        {
+          "rank": 2,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
+        },
+        {
+          "rank": 4,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
-          "rank": 3,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
-        },
-        {
-          "rank": 4,
-          "title": "Foie gras passa a ser proibido no Brasil; restaurantes discutem sobre a medida",
-          "url": "https://www.estadao.com.br/paladar/comida/foei-gras-passa-a-ser-proibido-no-brasil-apos-sancao-de-lei-restaurantes-debatem-sobre-a-medida/"
-        },
-        {
           "rank": 5,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+          "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado",
+          "url": "https://www.estadao.com.br/politica/empresa-para-a-qual-flavio-bolsonaro-emitiu-r-1-milhao-em-notas-nao-existe-no-endereco-informado/"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
-          "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
+          "title": "Arsenal prepara una oferta récord y va con todo por Julián Álvarez: 100 millones de euros y un goleador top como parte de pago",
+          "url": "https://www.clarin.com/deportes/arsenal-prepara-oferta-record-van-julian-alvarez-100-millones-euros-goleador-top-parte-pago_0_LbZ96S64R3.html"
         },
         {
           "rank": 4,
-          "title": "El vocero habló de un dólar a $1.800 y levantó críticas en la interna oficialista",
-          "url": "https://www.clarin.com/politica/vocero-hablo-dolar-1800-levanto-criticas-interna-oficialista_0_5iCg30Fnxj.html"
+          "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
+          "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
         },
         {
           "rank": 5,

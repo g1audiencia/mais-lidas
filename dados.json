@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 09:27",
+  "atualizado_em": "25/07/2026 09:32",
   "portais": [
     {
       "portal": "Folha",
@@ -17,8 +17,8 @@
         },
         {
           "rank": 3,
-          "title": "Datafolha: Inferno astral de Flávio mantém vantagem de Lula, mas petista testa seu teto",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-inferno-astral-de-flavio-mantem-vantagem-de-lula-mas-petista-testa-seu-teto.shtml"
+          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Meu irmão viveu e morreu em seu próprio mundo",
-          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
+          "title": "Datafolha revela que eleitores de centro seguem sem candidato definido",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/datafolha-revela-que-eleitores-de-centro-seguem-sem-candidato-definido.shtml"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
+          "title": "Trump brinca que vai se candidatar a presidente dos EUA em 2028",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-vai-se-candidatar-a-presidente-dos-eua-em-2028/"
         },
         {
           "rank": 5,
-          "title": "Trump brinca que vai se candidatar a presidente dos EUA em 2028",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-vai-se-candidatar-a-presidente-dos-eua-em-2028/"
+          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
+          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
+        },
+        {
+          "rank": 2,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
-          "rank": 3,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
           "rank": 4,

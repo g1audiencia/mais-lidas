@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 09:15",
+  "atualizado_em": "25/07/2026 09:21",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Datafolha: Inferno astral de Flávio mantém vantagem de Lula, mas petista testa seu teto",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-inferno-astral-de-flavio-mantem-vantagem-de-lula-mas-petista-testa-seu-teto.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Jon Bon Jovi interrompe show e pede desculpas aos fãs em Nova York",
           "url": "https://f5.folha.uol.com.br/musica/2026/07/jon-bon-jovi-interrompe-show-e-pede-desculpas-aos-fas-em-nova-york.shtml"
         },
         {
-          "rank": 4,
-          "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
-          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
+          "title": "Meu irmão viveu e morreu em seu próprio mundo",
+          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
         }
       ],
       "erro": null
@@ -67,9 +67,35 @@
     },
     {
       "portal": "CNN Brasil",
-      "ok": false,
-      "items": [],
-      "erro": "403 Client Error: Forbidden for url: https://www.cnnbrasil.com.br/"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
+          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
+        },
+        {
+          "rank": 2,
+          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
+        },
+        {
+          "rank": 3,
+          "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
+        },
+        {
+          "rank": 4,
+          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
+        },
+        {
+          "rank": 5,
+          "title": "Trump brinca que vai se candidatar a presidente dos EUA em 2028",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-vai-se-candidatar-a-presidente-dos-eua-em-2028/"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "O Globo",
@@ -109,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
-          "rank": 2,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
+          "rank": 2,
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
+        },
+        {
           "rank": 3,
-          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
-          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
+          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
+          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
         },
         {
           "rank": 4,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 5,
-          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
-          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 08:30",
+  "atualizado_em": "25/07/2026 08:36",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Datafolha: Lula tem 48%, e Flávio Bolsonaro, 43% no segundo turno",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Brasil fica fora de isenções extras dos EUA para tarifa e deve perder mais competitividade",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/brasil-fica-fora-de-isencoes-extras-dos-eua-para-tarifa-e-deve-perder-mais-competitividade.shtml"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Jon Bon Jovi interrompe show e pede desculpas aos fãs em Nova York",
           "url": "https://f5.folha.uol.com.br/musica/2026/07/jon-bon-jovi-interrompe-show-e-pede-desculpas-aos-fas-em-nova-york.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
+          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
         }
       ],
       "erro": null
@@ -44,13 +44,13 @@
         },
         {
           "rank": 2,
-          "title": "Luis Roberto revela sintoma que o alertou para câncer; veja sinais comuns",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/24/luis-roberto-revela-sintoma-que-o-alertou-para-cancer-veja-sinais-comuns.ghtm"
+          "title": "Grupo mata professora e arranca dedos dela para sacar dinheiro na Bahia",
+          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/25/homem-mata-professora-arranca-dedos-dela-e-faz-saques-em-banco-da-ba-veja.htm"
         },
         {
           "rank": 3,
-          "title": "Chuva esperada para 4 anos cai em 4 dias no deserto mais seco do mundo",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/24/chuva-de-quatro-anos-cai-em-quatro-dias-e-coloca-atacama-em-alerta-no-chile.ghtm"
+          "title": "Luis Roberto revela sintoma que o alertou para câncer; veja sinais comuns",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/24/luis-roberto-revela-sintoma-que-o-alertou-para-cancer-veja-sinais-comuns.ghtm"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "BA: homem flagrado se masturbando em academia de condomínio é preso",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/24/homem-flagrado-se-masturbando-em-academia-de-condominio-e-preso-na-bahia.ghtm"
+          "title": "Procedimento no rosto de Vini Jr. exige pausa no futebol? Entenda",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/25/procedimento-no-rosto-de-vini-jr-exige-pausa-no-futebol-entenda.ghtm"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Flávio deve explicações ao País",
-          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
           "rank": 5,
-          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
-          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
           "rank": 4,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         },
         {
           "rank": 5,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
-          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
-        },
-        {
-          "rank": 4,
           "title": "Bardem, Rosalía, Samuel Jackson y otros oportunistas",
           "url": "https://www.clarin.com/opinion/bardem-rosalia-samuel-jackson-oportunistas_0_RAO73CPtCA.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "El multimillonario que confesó una infidelidad en una carta pública y terminó pagando US$ 644 millones en un divorcio que sacude a un país",
           "url": "https://www.clarin.com/internacional/multimillonario-confeso-infidelidad-carta-publica-termino-pagando-us-644-millones-divorcio-sacude-pais_0_K3WrC3w4Dw.html"
+        },
+        {
+          "rank": 5,
+          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
+          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
         }
       ],
       "erro": null

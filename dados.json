@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 13:13",
+  "atualizado_em": "25/07/2026 13:18",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Em alta, mercado de aluguel se prepara para novas regras da reforma tributária",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/em-alta-mercado-de-aluguel-se-prepara-para-novas-regras-da-reforma-tributaria.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Vozinha, herói de Cabo Verde na Copa, é anunciado pelo Colo-Colo",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/vozinha-heroi-de-cabo-verde-na-copa-e-anunciado-pelo-colo-colo.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
+          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
         }
       ],
       "erro": null
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula nega visto a diplomatas dos EUA para falar com autoridades eleitorais",
-          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/25/governo-negou-visto-a-dois-funcionarios-do-departamento-de-estado-dos-eua.htm"
-        },
-        {
-          "rank": 2,
-          "title": "Governo Trump prepara ataque às urnas brasileiras, diz Washington Post",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/07/25/trump---urnas-eletronicas.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Grupo mata professora e arranca dedos dela para sacar dinheiro na Bahia",
           "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/07/25/homem-mata-professora-arranca-dedos-dela-e-faz-saques-em-banco-da-ba-veja.htm"
         },
         {
+          "rank": 2,
+          "title": "Governo Lula nega visto a diplomatas dos EUA para falar com autoridades eleitorais",
+          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/25/governo-negou-visto-a-dois-funcionarios-do-departamento-de-estado-dos-eua.htm"
+        },
+        {
+          "rank": 3,
+          "title": "Governo Trump prepara ataque às urnas brasileiras, diz Washington Post",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/25/trump---urnas-eletronicas.ghtm"
+        },
+        {
           "rank": 4,
-          "title": "Brasil vence Itália por 3 sets a 2, vai à final e busca título inédito da Liga das Nações",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/brasil-italia-liga-nas-nacoes.ghtm"
+          "title": "Norris faz a pole no GP da Hungria de Fórmula 1; Bortoleto larga em 14º",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/classificatorio-gp-da-hungria.ghtm"
         },
         {
           "rank": 5,
-          "title": "Milei é recebido por Tarcísio com tapete azul e maior honraria de São Paulo",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/25/tarcisio-milei-palacio-dos-bandeirantes-sao-paulo-25-julho-2026.htm"
+          "title": "Giulia Costa, filha de Flávia Alessandra, posa de fio-dental em viagem",
+          "url": "https://cenapop.uol.com.br/noticias/famosos/giulia-costa-biquini-porto-rico.html"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 2,
           "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
           "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
+          "rank": 2,
+          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
+          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
+        },
+        {
           "rank": 3,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 4,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
-        },
-        {
-          "rank": 5,
-          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
-          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
         }
       ],
       "erro": null

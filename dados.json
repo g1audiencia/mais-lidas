@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 14:53",
+  "atualizado_em": "25/07/2026 14:59",
   "portais": [
     {
       "portal": "Folha",
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
-          "title": "Nearly 150,000 mail ballots rejected in California’s primary despite efforts to count every vote",
-          "url": "https://apnews.com/article/california-primary-rejected-mail-ballots-voting-2291684fe4544cab2301f8965abc8f79"
-        },
-        {
-          "rank": 4,
           "title": "502 students lose spots at Howard University over tuition payments just weeks before classes start",
           "url": "https://apnews.com/article/howard-university-unenrolled-students-tuition-d17f77d0fcdb16fa6262378fcad4aa5c"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
           "url": "https://apnews.com/article/iran-us-hormuz-strait-war-24-july-2026-78c2dbf538f6e61ab816479a4d9bdd85"
+        },
+        {
+          "rank": 5,
+          "title": "Nearly 150,000 mail ballots rejected in California’s primary despite efforts to count every vote",
+          "url": "https://apnews.com/article/california-primary-rejected-mail-ballots-voting-2291684fe4544cab2301f8965abc8f79"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         },
         {
           "rank": 5,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "Tourists tell BBC how their holiday turned into race to escape fires",
+          "url": "https://www.bbc.com/news/articles/c80ny93xlrvo"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 22:24",
+  "atualizado_em": "24/07/2026 22:29",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
+          "rank": 3,
           "title": "Descoberto mais um câncer infeccioso",
           "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
-          "rank": 3,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
           "rank": 4,
-          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
-          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
+          "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado",
+          "url": "https://www.estadao.com.br/politica/empresa-para-a-qual-flavio-bolsonaro-emitiu-r-1-milhao-em-notas-nao-existe-no-endereco-informado/"
         },
         {
           "rank": 5,
-          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
-          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
-          "url": "https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e"
+          "title": "New US tariffs linked to claims of foreign forced labor dismay and anger trading partners",
+          "url": "https://apnews.com/article/us-tariffs-trump-labor-reaction-china-asia-b178ead12f022009817c60010ac07eb3"
         },
         {
           "rank": 5,
-          "title": "New US tariffs linked to claims of foreign forced labor dismay and anger trading partners",
-          "url": "https://apnews.com/article/us-tariffs-trump-labor-reaction-china-asia-b178ead12f022009817c60010ac07eb3"
+          "title": "US health officials are investigating a new outbreak of a diarrhea-causing parasite",
+          "url": "https://apnews.com/article/cyclospora-outbreak-fda-diarrhea-8eb2e66498136ea4dd170118ef1a8a4e"
         }
       ],
       "erro": null
@@ -258,7 +258,7 @@
         },
         {
           "rank": 2,
-          "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+          "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
           "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
         },
         {
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-          "url": "https://www.bbc.com/news/articles/cj637zd1k1ko"
+          "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+          "url": "https://www.bbc.com/news/articles/czxqnwzqqw8o"
         }
       ],
       "erro": null

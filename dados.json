@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 13:29",
+  "atualizado_em": "25/07/2026 13:35",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
+          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Vozinha, herói de Cabo Verde na Copa, é anunciado pelo Colo-Colo",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/vozinha-heroi-de-cabo-verde-na-copa-e-anunciado-pelo-colo-colo.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Forma contagiosa de câncer se espalha entre peixes em lago na fronteira entre EUA e Canadá",
-          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/forma-contagiosa-de-cancer-se-espalha-entre-peixes-em-lago-na-fronteira-entre-eua-e-canada.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
-          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
-        },
-        {
-          "rank": 2,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
-          "rank": 3,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
+          "rank": 2,
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+        },
+        {
+          "rank": 3,
+          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
+          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
+        },
+        {
           "rank": 4,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 5,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         },
         {
           "rank": 4,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
           "rank": 5,

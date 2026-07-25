@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 00:03",
+  "atualizado_em": "25/07/2026 00:08",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 2,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
-          "rank": 3,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
-        },
-        {
-          "rank": 4,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 2,
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+        },
+        {
+          "rank": 3,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "Anitta sobre novo álbum e passo atrás na carreira internacional: ‘Feliz eu sou mesmo é no Brasil’",
+          "url": "https://www.estadao.com.br/cultura/musica/anitta-sobre-novo-album-e-passo-atras-na-carreira-internacional-feliz-eu-sou-mesmo-e-no-brasil/"
+        },
+        {
           "rank": 5,
-          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
-          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
+          "title": "Quais são os passaportes mais fortes do mundo? Veja a posição do Brasil no ranking global",
+          "url": "https://www.estadao.com.br/internacional/quais-sao-os-passaportes-mais-fortes-do-mundo-veja-a-posicao-do-brasil-no-ranking-global-npr/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-          "url": "https://www.bbc.com/news/articles/cj637zd1k1ko"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
           "rank": 5,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "url": "https://www.bbc.com/news/articles/cj637zd1k1ko"
         }
       ],
       "erro": null

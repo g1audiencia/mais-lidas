@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 20:46",
+  "atualizado_em": "25/07/2026 20:51",
   "portais": [
     {
       "portal": "Folha",
@@ -39,8 +39,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Neymar marca em retorno, mas Santos só empata com a lanterna Chapecoense",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/25/santos-e-chapecoense-na-vila.ghtm"
+          "title": "Veja a classificação, os resultados e todos os confrontos do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         },
         {
           "rank": 2,
@@ -49,8 +49,8 @@
         },
         {
           "rank": 3,
-          "title": "Veja a classificação, os resultados e todos os confrontos do Campeonato Brasileiro",
-          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
+          "title": "Neymar marca em retorno, mas Santos só empata com a lanterna Chapecoense",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/25/santos-e-chapecoense-na-vila.ghtm"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
-        },
-        {
-          "rank": 2,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
-        },
-        {
-          "rank": 3,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 4,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 2,
+          "title": "The Economist: Do perturbador ao francamente bizarro, esta é a visão do futuro de Elon Musk",
+          "url": "https://www.estadao.com.br/economia/the-economist-a-visao-de-futuro-de-elon-musk/"
+        },
+        {
+          "rank": 3,
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+        },
+        {
+          "rank": 4,
+          "title": "Roubos de carros elétricos e híbridos sobem quase 130% em São Paulo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/roubos-de-carros-eletricos-e-hibridos-sobem-quase-130-em-sao-paulo/"
+        },
+        {
           "rank": 5,
-          "title": "Quem são os dois funcionários de Rubio que Trump quer mandar ao Brasil para questionar as urnas",
-          "url": "https://www.estadao.com.br/politica/quem-sao-os-dois-funcionarios-de-rubio-que-trump-quer-mandar-ao-brasil-para-questionar-as-urnas/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+          "title": "One dead, 16 injured at Berlin Pride event after vehicle crashes into crowd, police say",
           "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
         },
         {

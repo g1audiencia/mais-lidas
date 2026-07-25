@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 09:09",
+  "atualizado_em": "25/07/2026 09:15",
   "portais": [
     {
       "portal": "Folha",
@@ -67,35 +67,9 @@
     },
     {
       "portal": "CNN Brasil",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
-          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
-        },
-        {
-          "rank": 2,
-          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
-        },
-        {
-          "rank": 3,
-          "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
-        },
-        {
-          "rank": 4,
-          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
-        },
-        {
-          "rank": 5,
-          "title": "Trump brinca que vai se candidatar a presidente dos EUA em 2028",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-vai-se-candidatar-a-presidente-dos-eua-em-2028/"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "403 Client Error: Forbidden for url: https://www.cnnbrasil.com.br/"
     },
     {
       "portal": "O Globo",
@@ -108,18 +82,18 @@
         },
         {
           "rank": 2,
+          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
+          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
+        },
+        {
+          "rank": 3,
           "title": "Morre Káh Felipe, influenciadora de Fortaleza que compartilhava luta contra doença rara e câncer terminal",
           "url": "https://oglobo.globo.com/ela/noticia/2026/07/24/morre-kah-felipe-influenciadora-de-fortaleza-que-compartilhava-luta-contra-doenca-rara-e-cancer-terminal.ghtml"
         },
         {
-          "rank": 3,
-          "title": "Colo-Colo anuncia contratação de goleiro Vozinha",
-          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/24/colo-colo-anuncia-contratacao-de-goleiro-vozinha.ghtml"
-        },
-        {
           "rank": 4,
-          "title": "Quem é a influencer que viralizou nas redes após montar uma barbearia nudista",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/07/23/quem-e-dani-motta-influenciadora-que-criou-uma-barbearia-com-proposta-inusitada-em-florianopolis.ghtml"
+          "title": "O que fez a diferença para a trégua entre Michelle e Flávio Bolsonaro",
+          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/07/o-que-fez-a-diferenca-para-a-tregua-entre-michelle-e-flavio-bolsonaro.ghtml"
         },
         {
           "rank": 5,
@@ -135,28 +109,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O PCC está dentro da PM de SP",
-          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
-        },
-        {
-          "rank": 2,
-          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
-          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         },
         {
+          "rank": 2,
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+        },
+        {
+          "rank": 3,
+          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
+          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
+        },
+        {
           "rank": 4,
-          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
-          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
           "rank": 5,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
+          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 07:51",
+  "atualizado_em": "25/07/2026 07:57",
   "portais": [
     {
       "portal": "Folha",
@@ -67,35 +67,9 @@
     },
     {
       "portal": "CNN Brasil",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
-          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
-        },
-        {
-          "rank": 2,
-          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
-        },
-        {
-          "rank": 3,
-          "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
-        },
-        {
-          "rank": 4,
-          "title": "\"Quilos Mortais\": como está Samantha, um dos casos mais difíceis do reality",
-          "url": "https://www.cnnbrasil.com.br/pop/realities/quilos-mortais-como-esta-samantha-um-dos-casos-mais-dificeis-do-reality/"
-        },
-        {
-          "rank": 5,
-          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "portal": "O Globo",
@@ -140,23 +114,23 @@
         },
         {
           "rank": 2,
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+        },
+        {
+          "rank": 3,
+          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
+          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
+        },
+        {
+          "rank": 4,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
-          "rank": 3,
-          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
-          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
-        },
-        {
-          "rank": 4,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
           "rank": 5,
-          "title": "‘Não é proximidade com bandidos que vai ajudar a imagem do Judiciário’, diz pesquisadora",
-          "url": "https://www.estadao.com.br/brasil/nao-e-proximidade-com-bandidos-que-vai-ajudar-a-imagem-do-judiciario-diz-pesquisadora/"
+          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
+          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
         }
       ],
       "erro": null

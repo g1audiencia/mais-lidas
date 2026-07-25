@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 03:46",
+  "atualizado_em": "25/07/2026 03:51",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 2,
           "title": "Descoberto mais um câncer infeccioso",
           "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
+          "rank": 2,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
           "rank": 3,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
+          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
         },
         {
           "rank": 4,
-          "title": "He-Man, Elize Matsunaga e Shakespeare: As estreias da semana no streaming",
-          "url": "https://www.estadao.com.br/cultura/cinema/de-he-man-a-elize-matsunaga-confira-as-estreias-da-semana-no-streaming-nprec/"
+          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
+          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
         },
         {
           "rank": 5,
-          "title": "Flávio deve explicações ao País",
-          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         }
       ],
       "erro": null

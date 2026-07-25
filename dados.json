@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 21:43",
+  "atualizado_em": "24/07/2026 21:49",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Meu irmão viveu e morreu em seu próprio mundo",
-          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
+          "title": "Justiça suspende decisão que liberava mototáxi da Uber em São Paulo",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/justica-suspende-decisao-que-liberava-mototaxi-da-uber-em-sao-paulo.shtml"
         }
       ],
       "erro": null
@@ -76,13 +76,13 @@
         },
         {
           "rank": 2,
-          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
+          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
+          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
         },
         {
           "rank": 3,
-          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
-          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
+          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
         },
         {
           "rank": 4,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
+          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
+        },
+        {
+          "rank": 3,
           "title": "SpaceX lança Starship com sucesso após dois adiamentos",
           "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
         },
         {
-          "rank": 3,
-          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
-        },
-        {
           "rank": 4,
-          "title": "Foie gras passa a ser proibido no Brasil; restaurantes discutem sobre a medida",
-          "url": "https://www.estadao.com.br/paladar/comida/foei-gras-passa-a-ser-proibido-no-brasil-apos-sancao-de-lei-restaurantes-debatem-sobre-a-medida/"
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
           "rank": 5,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+          "title": "Lula tem 48% e Flávio Bolsonaro soma 43% no segundo turno, aponta pesquisa Datafolha",
+          "url": "https://www.estadao.com.br/politica/lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno-aponta-pesquisa-datafolha/"
         }
       ],
       "erro": null

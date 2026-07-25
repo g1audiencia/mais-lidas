@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 19:43",
+  "atualizado_em": "25/07/2026 19:49",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
+          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+        },
+        {
+          "rank": 2,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 2,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
-        },
-        {
           "rank": 3,
-          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
-          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         }
       ],
       "erro": null

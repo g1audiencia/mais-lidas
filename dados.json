@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 23:52",
+  "atualizado_em": "24/07/2026 23:57",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Quer se mudar para o Paraguai? Veja 3 motivos para não sair correndo para o país vizinho",
-          "url": "https://www.estadao.com.br/economia/duquesa-de-tax/quer-mudar-para-o-paraguai-veja-3-motivos-para-nao-sair-correndo-para-o-pais-vizinho/"
+          "title": "‘Atingimos o Irã de forma muito forte e só sobraram alguns poucos drones’, diz Trump em discurso",
+          "url": "https://www.estadao.com.br/internacional/trump-discurso-jantar-correspondentes-casa-branca-npr/"
         },
         {
           "rank": 5,
-          "title": "‘Não me entrego, não’, afirma Marcos Breda após passar pela 10ª cirurgia em 4 anos",
-          "url": "https://www.estadao.com.br/emais/gente/nao-me-entrego-nao-afirma-marcos-breda-apos-passar-pela-10-cirurgia-em-4-anos-nprec/"
+          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
+          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
-          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
-        },
-        {
-          "rank": 3,
           "title": "More than 220,000 evacuated in France and Spain due to wildfires",
           "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
         },
         {
+          "rank": 3,
+          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
+          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
+        },
+        {
           "rank": 4,
-          "title": "How Jimothy the raccoon became the internet's latest animal obsession",
-          "url": "https://www.bbc.com/news/articles/cd0xnge2zx7o"
+          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+          "url": "https://www.bbc.com/news/articles/cj637zd1k1ko"
         },
         {
           "rank": 5,
-          "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-          "url": "https://www.bbc.com/news/articles/cj637zd1k1ko"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         }
       ],
       "erro": null

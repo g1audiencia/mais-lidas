@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 04:30",
+  "atualizado_em": "25/07/2026 04:35",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
+          "title": "Datafolha: Lula tem 48%, e Flávio Bolsonaro, 43% no segundo turno",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno.shtml"
         },
         {
           "rank": 2,
-          "title": "Datafolha: Lula tem 48%, e Flávio Bolsonaro, 43% no segundo turno",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-lula-tem-48-e-flavio-bolsonaro-43-no-segundo-turno.shtml"
+          "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
         },
         {
           "rank": 3,
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
+          "title": "SpaceX lança Starship com sucesso e abre caminho para voo orbital",
+          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/spacex-lanca-starship-com-sucesso-e-abre-caminho-para-voo-orbital.shtml"
         },
         {
           "rank": 5,
-          "title": "Datafolha: Inferno astral de Flávio mantém vantagem de Lula, mas petista testa seu teto",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-inferno-astral-de-flavio-mantem-vantagem-de-lula-mas-petista-testa-seu-teto.shtml"
+          "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
         }
       ],
       "erro": null
@@ -76,13 +76,13 @@
         },
         {
           "rank": 2,
-          "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
+          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
         },
         {
           "rank": 3,
-          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
+          "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Flávio deve explicações ao País",
+          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
+        },
+        {
+          "rank": 2,
           "title": "O PCC está dentro da PM de SP",
           "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
+          "rank": 4,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
-          "rank": 3,
-          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
-          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
-        },
-        {
-          "rank": 4,
-          "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
-        },
-        {
           "rank": 5,
-          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
-          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
         },
         {
           "rank": 4,
-          "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-          "url": "https://www.bbc.com/news/articles/czjlenp0xk8o"
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
         },
         {
           "rank": 5,

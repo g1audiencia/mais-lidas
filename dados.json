@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 12:48",
+  "atualizado_em": "25/07/2026 12:56",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
-        },
-        {
-          "rank": 2,
           "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
           "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
           "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
         },
         {
+          "rank": 4,
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+        },
+        {
           "rank": 5,
-          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
-          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         },
         {
           "rank": 4,
-          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
+          "title": "'We might as well not bother growing things'",
+          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
         },
         {
           "rank": 5,
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Una cariñosa foto de dos campeones del mundo generó revuelo en España",
-          "url": "https://www.clarin.com/deportes/carinosa-foto-campeones-mundo-genero-revuelo-espana_0_kqAThdupvB.html"
+          "title": "Se escapó a la montaña con dos maestras del jardín de su hijo, quedaron varados por una tormenta de nieve y tras el rescate se desató un escándalo",
+          "url": "https://www.clarin.com/internacional/escapo-montana-maestras-jardin-hijo-quedaron-varados-tormenta-nieve-rescate-desato-escandalo_0_gZn345JP67.html"
         },
         {
           "rank": 2,
-          "title": "Se escapó a la montaña con dos maestras del jardín de su hijo, quedaron varados por una tormenta de nieve y tras el rescate se desató un escándalo",
-          "url": "https://www.clarin.com/internacional/escapo-montana-maestras-jardin-hijo-quedaron-varados-tormenta-nieve-rescate-desato-escandalo_0_gZn345JP67.html"
+          "title": "Una cariñosa foto de dos campeones del mundo generó revuelo en España",
+          "url": "https://www.clarin.com/deportes/carinosa-foto-campeones-mundo-genero-revuelo-espana_0_kqAThdupvB.html"
         },
         {
           "rank": 3,

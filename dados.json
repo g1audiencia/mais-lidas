@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 03:18",
+  "atualizado_em": "25/07/2026 03:24",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "\"Quilos Mortais\": como está Samantha, um dos casos mais difíceis do reality",
-          "url": "https://www.cnnbrasil.com.br/pop/realities/quilos-mortais-como-esta-samantha-um-dos-casos-mais-dificeis-do-reality/"
+          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
         },
         {
           "rank": 4,
-          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
+          "title": "\"Quilos Mortais\": como está Samantha, um dos casos mais difíceis do reality",
+          "url": "https://www.cnnbrasil.com.br/pop/realities/quilos-mortais-como-esta-samantha-um-dos-casos-mais-dificeis-do-reality/"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
+          "rank": 3,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
-          "rank": 3,
-          "title": "He-Man, Elize Matsunaga e Shakespeare: As estreias da semana no streaming",
-          "url": "https://www.estadao.com.br/cultura/cinema/de-he-man-a-elize-matsunaga-confira-as-estreias-da-semana-no-streaming-nprec/"
-        },
-        {
           "rank": 4,
-          "title": "Flávio Bolsonaro emitiu 41 notas fiscais e quer ser candidato sem dizer quanto recebeu e quem pagou",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/flavio-bolsonaro-emitiu-41-notas-fiscais-e-quer-ser-candidato-sem-dizer-quanto-recebeu-e-quem-pagou/"
+          "title": "Doce, mas sem leite condensado: chef ensina receita de canjica tradicional",
+          "url": "https://www.estadao.com.br/paladar/receita/esqueca-o-leite-condensado-a-chef-mineira-que-ensina-a-resgatar-o-sabor-original-da-canjica/"
         },
         {
           "rank": 5,
-          "title": "O prato que Anthony Bourdain não perdoou",
-          "url": "https://www.estadao.com.br/paladar/devoravel/amado-por-daniel-boulud-e-odiado-por-bourdain-a-historia-do-prato-que-fez-claude-troisgros-gelar/"
+          "title": "Qual o melhor creme de leite fresco do Brasil?",
+          "url": "https://www.estadao.com.br/paladar/comida/qual-o-melhor-creme-de-leite-fresco-do-brasil/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "'It eats away at my body': The human cost of S Korea's ultra-convenient overnight deliveries",
-          "url": "https://www.bbc.com/news/articles/cq6dgz7e4m8o"
+          "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+          "url": "https://www.bbc.com/news/articles/cj9d27v70j1o"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "El multimillonario que confesó una infidelidad en una carta pública y terminó pagando US$ 644 millones en un divorcio que sacude a un país",
-          "url": "https://www.clarin.com/internacional/multimillonario-confeso-infidelidad-carta-publica-termino-pagando-us-644-millones-divorcio-sacude-pais_0_K3WrC3w4Dw.html"
-        },
-        {
-          "rank": 4,
           "title": "Descubren que la píldora más famosa para combatir la disfunción eréctil podría ser útil contra el cáncer",
           "url": "https://www.clarin.com/sociedad/descubren-pildora-famosa-combatir-disfuncion-erectil-podria-util-cancer_0_nY1sgu4hXM.html"
         },
         {
+          "rank": 4,
+          "title": "El vocero habló de un dólar a $1.800 y levantó críticas en la interna oficialista",
+          "url": "https://www.clarin.com/politica/vocero-hablo-dolar-1800-levanto-criticas-interna-oficialista_0_5iCg30Fnxj.html"
+        },
+        {
           "rank": 5,
-          "title": "Investigan posibles irregularidades en las apuestas del Mundial: España tiene dos partidos sospechados y está bajo la lupa",
-          "url": "https://www.clarin.com/deportes/investigan-posibles-irregularidades-apuestas-mundial-espana-lupa-partidos-sospechados_0_O3wT2r4F3B.html"
+          "title": "Cómo murió la nena de dos años de Villa Gesell y qué medidas toman para investigar a su madre",
+          "url": "https://www.clarin.com/policiales/murio-nena-anos-villa-gesell-medidas-toman-investigar-madre_0_wfWN8wN7wk.html"
         }
       ],
       "erro": null

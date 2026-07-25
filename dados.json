@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 23:41",
+  "atualizado_em": "24/07/2026 23:47",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 2,
           "title": "Descoberto mais um câncer infeccioso",
           "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
-          "rank": 3,
-          "title": "Foie gras passa a ser proibido no Brasil; restaurantes discutem sobre a medida",
-          "url": "https://www.estadao.com.br/paladar/comida/foei-gras-passa-a-ser-proibido-no-brasil-apos-sancao-de-lei-restaurantes-debatem-sobre-a-medida/"
+          "rank": 2,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
           "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Simulação do Cenipa mostra voo da Voepass que caiu em Vinhedo; veja vídeo",
           "url": "https://www.estadao.com.br/brasil/simulacao-do-cenipa-mostra-voo-da-voepass-que-caiu-em-vinhedo-veja-video/"
+        },
+        {
+          "rank": 5,
+          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
+          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
         }
       ],
       "erro": null
@@ -199,13 +199,13 @@
         },
         {
           "rank": 3,
-          "title": "Polícia revela causa da morte de príncipe saudita achado em hotel",
-          "url": "https://noticias.r7.com/internacional/abdullah-bin-fahad-policia-revela-causa-da-morte-de-principe-saudita-encontrado-em-hotel-24072026/"
+          "title": "Cosme: 'Treta' entre Neymar e o Craque Neto ganha novo capítulo",
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-contra-neto-palavroes-ironias-ataques-a-briga-em-praca-publica-que-so-traz-desgaste-ao-dois-idolos-e-a-quem-ainda-acredita-no-futebol-24072026/"
         },
         {
           "rank": 4,
-          "title": "Mulher contrai ‘diarreia explosiva’ durante lua de mel",
-          "url": "https://noticias.r7.com/internacional/na-saude-e-na-doenca-mulher-contrai-parasita-da-diarreia-explosiva-em-lua-de-mel-24072026/"
+          "title": "Polícia revela causa da morte de príncipe saudita achado em hotel",
+          "url": "https://noticias.r7.com/internacional/abdullah-bin-fahad-policia-revela-causa-da-morte-de-principe-saudita-encontrado-em-hotel-24072026/"
         },
         {
           "rank": 5,

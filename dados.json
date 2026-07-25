@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 16:16",
+  "atualizado_em": "25/07/2026 16:21",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Milei chama Alexandre de Moraes de 'lixo careca' em evento de Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-chama-alexandre-de-moraes-de-lixo-careca-em-evento-de-flavio-bolsonaro.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Trump tenta enviar assessores ao Brasil para questionar eleições, mas Itamaraty nega vistos",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-trump-vai-enviar-dois-oficiais-para-acompanhar-as-eleicoes-no-brasil-diz-jornal-americano.shtml"
         },
         {
+          "rank": 2,
+          "title": "Milei chama Alexandre de Moraes de 'lixo careca' em evento de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-chama-alexandre-de-moraes-de-lixo-careca-em-evento-de-flavio-bolsonaro.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
+          "title": "Engenheira brasileira desaparece em Lyon, na França, e família busca apoio consular",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/engenheira-brasileira-desaparece-em-lyon-na-franca-e-familia-busca-apoio-consular.shtml"
         },
         {
           "rank": 4,
-          "title": "Paula Fernandes termina namoro com piloto após poucos meses de relação",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paula-fernandes-termina-namoro-com-piloto-apos-poucos-meses-de-relacao.shtml"
+          "title": "Sombra de Bolsonaro e Milei refletem isolamento de Flávio",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/sombra-de-bolsonaro-e-milei-refletem-isolamento-de-flavio.shtml"
         },
         {
           "rank": 5,
-          "title": "Em convenção nacional, Flávio aposta em memória de Bolsonaro e recado de IA",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/tarcisio-diz-que-flavio-bolsonaro-nao-esta-aqui-pelo-sobrenome-e-que-sera-o-maior-presidente-da-historia.shtml"
+          "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "'We might as well not bother growing things'",
-          "url": "https://www.bbc.com/news/articles/c0qvw91ejp1o"
+          "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+          "url": "https://www.bbc.com/news/articles/c1w10gwnj74o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 07:57",
+  "atualizado_em": "25/07/2026 08:03",
   "portais": [
     {
       "portal": "Folha",
@@ -67,9 +67,35 @@
     },
     {
       "portal": "CNN Brasil",
-      "ok": false,
-      "items": [],
-      "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
+          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
+        },
+        {
+          "rank": 2,
+          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
+        },
+        {
+          "rank": 3,
+          "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
+        },
+        {
+          "rank": 4,
+          "title": "Juiz exclui Virginia, Deolane e Carlinhos Maia de ação sobre perda com bets",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/juiz-exclui-virginia-deolane-e-carlinhos-maia-de-acao-sobre-perda-com-bets/"
+        },
+        {
+          "rank": 5,
+          "title": "\"Quilos Mortais\": como está Samantha, um dos casos mais difíceis do reality",
+          "url": "https://www.cnnbrasil.com.br/pop/realities/quilos-mortais-como-esta-samantha-um-dos-casos-mais-dificeis-do-reality/"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "O Globo",
@@ -129,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
-          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 19:07",
+  "atualizado_em": "25/07/2026 19:13",
   "portais": [
     {
       "portal": "Folha",
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "More than 250,000 flee wildfires in France and Spain",
-          "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
-        },
-        {
-          "rank": 3,
           "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
           "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Trump takes swipes at press during White House Correspondents' Dinner",
           "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
+        },
+        {
+          "rank": 4,
+          "title": "More than 250,000 flee wildfires in France and Spain",
+          "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
           "rank": 5,

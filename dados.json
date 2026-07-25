@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 02:28",
+  "atualizado_em": "25/07/2026 02:33",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Lamine Yamal troca bairros de luxo por cidade tranquila para a mãe",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/lamine-yamal-troca-bairros-de-luxo-por-cidade-tranquila-para-a-mae.shtml"
         },
         {
+          "rank": 3,
+          "title": "Após desistência de Barbosa, DC anuncia advogada como candidata a presidente",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/apos-desistencia-de-barbosa-dc-anuncia-advogada-como-candidata-a-presidente.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Meu irmão viveu e morreu em seu próprio mundo",
-          "url": "https://www1.folha.uol.com.br/blogs/morte-sem-tabu/2026/07/meu-irmao-viveu-e-morreu-em-seu-proprio-mundo.shtml"
+          "title": "Bárbara Borges lamenta ausência em turnê de Xuxa: 'Pago um preço alto'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/barbara-borges-lamenta-ausencia-em-turne-de-xuxa-pago-um-preco-alto.shtml"
         },
         {
           "rank": 5,
-          "title": "Jon Bon Jovi interrompe show e pede desculpas aos fãs em Nova York",
-          "url": "https://f5.folha.uol.com.br/musica/2026/07/jon-bon-jovi-interrompe-show-e-pede-desculpas-aos-fas-em-nova-york.shtml"
+          "title": "'Não tivemos a chance de saber se ela ia viver', diz neta de idosa morta após cirurgia por engano",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/nao-tivemos-a-chance-de-saber-se-ela-ia-viver-diz-neta-de-idosa-morta-apos-cirurgia-por-engano.shtml"
         }
       ],
       "erro": null
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "SpaceX lança Starship com sucesso após dois adiamentos",
-          "url": "https://www.estadao.com.br/ciencia/spacex-nova-tentativa-lancamento-starship-sexta-feira-ao-vivo-npr/"
+          "title": "Quais são os passaportes mais fortes do mundo? Veja a posição do Brasil no ranking global",
+          "url": "https://www.estadao.com.br/internacional/quais-sao-os-passaportes-mais-fortes-do-mundo-veja-a-posicao-do-brasil-no-ranking-global-npr/"
         },
         {
           "rank": 2,
-          "title": "‘Não me entrego, não’, afirma Marcos Breda após passar pela 10ª cirurgia em 4 anos",
-          "url": "https://www.estadao.com.br/emais/gente/nao-me-entrego-nao-afirma-marcos-breda-apos-passar-pela-10-cirurgia-em-4-anos-nprec/"
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "title": "O outro ângulo da disputa CazéTV x Globo: a destruição do SporTV",
+          "url": "https://www.estadao.com.br/esportes/rodrigo-capelo/o-outro-angulo-da-disputa-cazetv-x-globo-a-destruicao-do-sportv/"
         },
         {
           "rank": 5,
-          "title": "Da romana à argentina, o prato favorito do paulistano",
-          "url": "https://www.estadao.com.br/paladar/da-romana-a-argentina-o-prato-favorito-do-paulistano/"
+          "title": "Receita de chef para a moqueca perfeita em casa",
+          "url": "https://www.estadao.com.br/paladar/receita/o-erro-comum-que-arruina-o-sabor-da-moqueca-e-como-o-chef-do-capitanea-resolve-o-caldo/"
         }
       ],
       "erro": null

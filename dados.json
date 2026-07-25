@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 13:51",
+  "atualizado_em": "25/07/2026 13:57",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump brinca que vai se candidatar a presidente dos EUA em 2028",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-vai-se-candidatar-a-presidente-dos-eua-em-2028/"
+          "title": "A Argentina perdeu o título e as redes na Copa do Mundo",
+          "url": "https://www.cnnbrasil.com.br/colunas/renato-dolci/tecnologia/a-argentina-perdeu-o-titulo-e-as-redes-na-copa-do-mundo/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
-          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
-        },
-        {
-          "rank": 3,
           "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
           "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
+          "rank": 3,
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+        },
+        {
           "rank": 4,
-          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
-          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
+          "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
+          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
         },
         {
           "rank": 5,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
+          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
         },
         {
           "rank": 2,
-          "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-          "url": "https://www.bbc.com/news/articles/cr592qdj1ldo"
+          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "url": "https://www.bbc.com/news/articles/cd7le4ylev2o"
         },
         {
           "rank": 3,

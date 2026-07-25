@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 04:19",
+  "atualizado_em": "25/07/2026 04:24",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+        },
+        {
+          "rank": 2,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
-          "rank": 2,
-          "title": "Descoberto mais um câncer infeccioso",
-          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
+          "rank": 3,
+          "title": "Haddad se lança candidato com desafio de vencer resistência no interior e favoritismo de Tarcísio",
+          "url": "https://www.estadao.com.br/politica/haddad-se-lanca-candidato-com-desafio-de-vencer-resistencia-no-interior-e-favoritismo-de-tarcisio/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "O telefonema de Flávio Bolsonaro a Garotinho sobre a ‘noite das astronautas’ de Vorcaro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-telefonema-de-flavio-bolsonaro-a-garotinho-sobre-a-noite-das-astronautas-de-vorcaro/"
         },
         {
-          "rank": 4,
-          "title": "Quer se mudar para o Paraguai? Veja 3 motivos para não sair correndo para o país vizinho",
-          "url": "https://www.estadao.com.br/economia/duquesa-de-tax/quer-mudar-para-o-paraguai-veja-3-motivos-para-nao-sair-correndo-para-o-pais-vizinho/"
-        },
-        {
           "rank": 5,
-          "title": "Fórum dos Leitores",
-          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-25-7-2026/"
+          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
+          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
         }
       ],
       "erro": null

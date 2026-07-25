@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 18:13",
+  "atualizado_em": "25/07/2026 18:19",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "TSE diz que foi procurado por governo Trump, mas que tema da agenda não foi informado",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/tse-diz-que-foi-procurado-por-governo-trump-mas-que-tema-da-agenda-nao-foi-informado.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Viagra pode combater metástase de células cancerígenas, aponta estudo",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/viagra-pode-combater-metastase-de-celulas-cancerigenas-aponta-estudo.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Influenciadores brasileiros promovem canetas paraguaias e podem pagar multa de até R$ 1,5 milhão",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/influenciadores-brasileiros-promovem-canetas-paraguaias-e-podem-pagar-multa-de-ate-r-15-milhao.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Milei chama Alexandre de Moraes de 'lixo careca' em evento de Flávio Bolsonaro",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-chama-alexandre-de-moraes-de-lixo-careca-em-evento-de-flavio-bolsonaro.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Republicanos oficializa Garotinho como candidato a governador do RJ",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/republicanos-oficializa-garotinho-como-candidato-a-governador-do-rj.shtml"
         },
         {
           "rank": 5,
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "'Quem ama cuida': passado e circunstâncias da morte de Francesca virão à tona",
-          "url": "https://oglobo.globo.com/play/novelas/noticia/2026/07/25/quem-ama-cuida-passado-e-circunstancias-da-morte-de-francesca-virao-a-tona.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Em convenção, PT formaliza apostas de Lula para São Paulo, estado-chave para a eleição presidencial contra Flávio",
           "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/em-convencao-pt-formaliza-apostas-de-lula-para-sao-paulo-estado-chave-para-a-eleicao-presidencial-contra-flavio.ghtml"
         },
         {
+          "rank": 4,
+          "title": "'Quem ama cuida': passado e circunstâncias da morte de Francesca virão à tona",
+          "url": "https://oglobo.globo.com/play/novelas/noticia/2026/07/25/quem-ama-cuida-passado-e-circunstancias-da-morte-de-francesca-virao-a-tona.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "Luciano Huck, Angélica, Maisa e Livia Andrade são recebidos por Ronaldo em Ibiza: 'Bonde divertido'",
-          "url": "https://oglobo.globo.com/play/noticia/2026/07/25/luciano-huck-angelica-maisa-e-livia-andrade-sao-recebidos-por-ronaldo-em-ibiza.ghtml"
+          "title": "Ao lançar candidatura, Flávio acena a mulheres, diz que Jair vai ‘subir rampa do Planalto’ com ele e ataca Lula",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/ao-lancar-candidatura-flavio-acena-a-mulheres-diz-que-jair-vai-subir-rampa-do-planalto-com-ele-e-ataca-lula.ghtml"
         }
       ],
       "erro": null
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
-          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "O PCC está dentro da PM de SP",
-          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         },
         {
           "rank": 5,
-          "title": "Exército da Ucrânia atinge navio de guerra russo com carga ligada ao Irã no Mar Cáspio",
-          "url": "https://www.estadao.com.br/internacional/exercito-da-ucrania-atinge-navio-de-guerra-russo-com-carga-ligada-ao-ira-no-mar-caspio/"
+          "title": "PL lança Flávio ao Planalto com IA de Bolsonaro, vídeo de Michelle e ataques de Milei contra Lula",
+          "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
         }
       ],
       "erro": null

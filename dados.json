@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 13:40",
+  "atualizado_em": "25/07/2026 13:46",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 2,
           "title": "Governo Trump pretende enviar oficiais ao Brasil para questionar sistema eleitoral, diz jornal",
           "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
         },
         {
-          "rank": 2,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
-        },
-        {
           "rank": 3,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
         }
       ],
       "erro": null

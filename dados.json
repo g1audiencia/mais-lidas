@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 00:33",
+  "atualizado_em": "25/07/2026 00:39",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Descoberto mais um câncer infeccioso",
           "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
+          "rank": 3,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
           "rank": 4,
-          "title": "‘Achar que cadeia não resolve a violência é uma ilusão’, diz ex-capitão do Bope",
-          "url": "https://www.estadao.com.br/brasil/achar-que-cadeia-nao-resolve-a-violencia-e-uma-ilusao-diz-ex-capitao-do-bope/"
+          "title": "Flávio Bolsonaro chega a convenção com cartas na manga, mas sem coligação e empacado nas pesquisas",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-chega-a-convencao-com-cartas-na-manga-mas-sem-coligacao-e-empacado-nas-pesquisas/"
         },
         {
           "rank": 5,
-          "title": "‘Atingimos o Irã de forma muito forte e só sobraram alguns poucos drones’, diz Trump em discurso",
-          "url": "https://www.estadao.com.br/internacional/trump-discurso-jantar-correspondentes-casa-branca-npr/"
+          "title": "Governo Lula vai dar ‘chá de cadeira’ em indicado por Trump para embaixada dos EUA no Brasil",
+          "url": "https://www.estadao.com.br/economia/governo-lula-vai-dar-cha-de-cadeira-em-indicado-por-trump-para-embaixada-dos-eua-no-brasil/"
         }
       ],
       "erro": null

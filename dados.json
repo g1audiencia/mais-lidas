@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 16:33",
+  "atualizado_em": "25/07/2026 16:38",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
-        },
-        {
-          "rank": 3,
           "title": "PL lança Flávio ao Planalto com IA de Bolsonaro para declarar apoio ao filho e vídeo de Michelle",
           "url": "https://www.estadao.com.br/politica/pl-lanca-flavio-a-presidencia-com-pedido-de-uniao-da-direita-video-de-michelle-e-aceno-a-mulheres/"
         },
         {
+          "rank": 3,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
           "rank": 4,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "The Economist: Do perturbador ao francamente bizarro, esta é a visão do futuro de Elon Musk",
+          "url": "https://www.estadao.com.br/economia/the-economist-a-visao-de-futuro-de-elon-musk/"
         },
         {
           "rank": 5,
-          "title": "The Economist: Do perturbador ao francamente bizarro, esta é a visão do futuro de Elon Musk",
-          "url": "https://www.estadao.com.br/economia/the-economist-a-visao-de-futuro-de-elon-musk/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null

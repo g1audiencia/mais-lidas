@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 20:54",
+  "atualizado_em": "24/07/2026 21:00",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
-          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
-        },
-        {
-          "rank": 2,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 2,
+          "title": "Inquérito revela causa da morte de príncipe saudita encontrado sem vida em hotel de luxo em Londres",
+          "url": "https://www.estadao.com.br/internacional/inquerito-revela-causa-morte-principe-saudita-encontrado-sem-vida-hotel-luxo-londres-npr/"
+        },
+        {
           "rank": 3,
-          "title": "Simulação do Cenipa mostra voo da Voepass que caiu em Vinhedo; veja vídeo",
-          "url": "https://www.estadao.com.br/brasil/simulacao-do-cenipa-mostra-voo-da-voepass-que-caiu-em-vinhedo-veja-video/"
+          "title": "Descoberto mais um câncer infeccioso",
+          "url": "https://www.estadao.com.br/pulsa/fernando-reinach/descoberto-mais-um-cancer-infeccioso/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "He-Man, Elize Matsunaga e Shakespeare: As estreias da semana no streaming",
-          "url": "https://www.estadao.com.br/cultura/cinema/de-he-man-a-elize-matsunaga-confira-as-estreias-da-semana-no-streaming-nprec/"
+          "title": "‘A vida não tem sentido. A natureza é impiedosa’, diz Drauzio Varella na Flip 2026",
+          "url": "https://www.estadao.com.br/cultura/literatura/a-vida-nao-tem-sentido-a-natureza-e-impiedosa-diz-drauzio-varella-na-flip-2026/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "New US tariffs linked to claims of foreign forced labor dismay and anger trading partners",
-          "url": "https://apnews.com/article/us-tariffs-trump-labor-reaction-china-asia-b178ead12f022009817c60010ac07eb3"
+          "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
+          "url": "https://apnews.com/article/usmediatimesair-force-one-42429e4d4da8accc42b6c3ddf3f4fed5"
         }
       ],
       "erro": null

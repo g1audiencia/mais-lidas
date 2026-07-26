@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 11:08",
+  "atualizado_em": "26/07/2026 11:14",
   "portais": [
     {
       "portal": "Folha",
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
+          "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+          "url": "https://apnews.com/article/hot-weather-temperatures-climate-heat-dome-65d34e4c520472c7bb1f46cd133b7952"
+        },
+        {
+          "rank": 3,
           "title": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
           "url": "https://apnews.com/article/europe-wildfires-france-spain-93678a31ff53fc46564b6dfd9934eae1"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
           "url": "https://apnews.com/article/maine-senate-susan-collins-platner-troy-jackson-a5f89f03b6a9aace01f4e829befb7809"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Bridges and infrastructure hit as US struck deeper inside Iran",
           "url": "https://apnews.com/article/us-iran-war-strait-of-hormuz-d7744d3063116944d49a616c007d669c"
-        },
-        {
-          "rank": 5,
-          "title": "Trump returns to correspondents’ dinner for a rambling, insult-filled speech 3 months after shooting",
-          "url": "https://apnews.com/article/correspondents-dinner-trump-shooting-white-house-dfa0ecdbe3552910903d5c23a8e96a35"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
-        },
-        {
-          "rank": 3,
-          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
-        },
-        {
-          "rank": 4,
           "title": "Record 2,500 e-bikes and e-scooters seized by Met",
           "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         },
         {
+          "rank": 3,
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
+        },
+        {
+          "rank": 4,
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
+        },
+        {
           "rank": 5,
-          "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
-          "url": "https://www.bbc.com/news/articles/clye651yzdjo"
+          "title": "Rental searches for pet friendly properties drop after law change",
+          "url": "https://www.bbc.com/news/articles/cj3gd312d8yo"
         }
       ],
       "erro": null

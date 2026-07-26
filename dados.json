@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 05:00",
+  "atualizado_em": "26/07/2026 05:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
-        },
-        {
-          "rank": 2,
-          "title": "Com Milei e Trump, Flávio pede ‘união da direita nacional’, mas age com a direita internacional",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/com-milei-e-trump-flavio-pede-uniao-da-direita-nacional-mas-age-com-a-direita-internacional/"
-        },
-        {
-          "rank": 3,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
+          "rank": 2,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
+          "rank": 3,
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+        },
+        {
           "rank": 4,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
         },
         {
           "rank": 5,
-          "title": "Quem são os dois funcionários de Rubio que Trump quer mandar ao Brasil para questionar as urnas",
-          "url": "https://www.estadao.com.br/politica/quem-sao-os-dois-funcionarios-de-rubio-que-trump-quer-mandar-ao-brasil-para-questionar-as-urnas/"
+          "title": "Xuxa faz show nostálgico para baixinhos crescidos em despedida de sua nave",
+          "url": "https://www.estadao.com.br/cultura/musica/xuxa-faz-show-nostalgico-para-baixinhos-crescidos-em-despedida-de-sua-nave/"
         }
       ],
       "erro": null

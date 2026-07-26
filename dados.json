@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 22:41",
+  "atualizado_em": "25/07/2026 22:47",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "Infantino escreve carta à seleção argentina após a derrota na final da Copa para a Espanha; leia o texto",
-          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/25/infantino-escreve-carta-a-selecao-argentina-apos-a-derrota-na-final-da-copa-para-a-espanha-leia-o-texto.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Milei faz discurso duro, xinga Moraes e diz que ‘somente Flávio pode parar Lula’; presidente reage: 'que ninguém venha de fora meter o dedo nas eleições'",
           "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/milei-diz-que-somente-flavio-pode-parar-lula-e-atrela-petista-ao-socialismo.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Infantino escreve carta à seleção argentina após a derrota na final da Copa para a Espanha; leia o texto",
+          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/25/infantino-escreve-carta-a-selecao-argentina-apos-a-derrota-na-final-da-copa-para-a-espanha-leia-o-texto.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Em convenção, PT formaliza apostas de Lula para São Paulo, estado-chave para a eleição presidencial contra Flávio",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/em-convencao-pt-formaliza-apostas-de-lula-para-sao-paulo-estado-chave-para-a-eleicao-presidencial-contra-flavio.ghtml"
+          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
+          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
         },
         {
           "rank": 5,
-          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
-          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
+          "title": "Em convenção, PT formaliza apostas de Lula para São Paulo, estado-chave para a eleição presidencial contra Flávio",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/em-convencao-pt-formaliza-apostas-de-lula-para-sao-paulo-estado-chave-para-a-eleicao-presidencial-contra-flavio.ghtml"
         }
       ],
       "erro": null

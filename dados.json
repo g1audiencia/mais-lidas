@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 13:44",
+  "atualizado_em": "26/07/2026 13:49",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Vitórias na América Latina estimularam governo Trump a antagonizar Brasil, avaliam especialistas",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/vitorias-na-america-latina-estimularam-governo-trump-a-antagonizar-brasil-avaliam-especialistas.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Lula tem a campanha dos sonhos com Flávio nas cordas",
           "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/07/lula-tem-a-campanha-dos-sonhos-com-flavio-nas-cordas.shtml"
         },
         {
+          "rank": 4,
+          "title": "Viagra pode combater metástase de células cancerígenas, aponta estudo",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/viagra-pode-combater-metastase-de-celulas-cancerigenas-aponta-estudo.shtml"
+        },
+        {
           "rank": 5,
-          "title": "'Patrulha Canina' e Festival Brilha Sonhos são destaques para as crianças em agosto",
-          "url": "https://www1.folha.uol.com.br/folhinha/2026/07/patrulha-canina-e-festival-brilha-sonhos-sao-destaques-para-as-criancas-em-agosto.shtml"
+          "title": "Governo Lula convoca embaixador na Argentina após ataque de Milei a Moraes",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-lula-convoca-embaixador-na-argentina-apos-ataque-de-milei-a-moraes.shtml"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Após quatro vices, Brasil encara Turquia por título inédito da VLN Feminina",
-          "url": "https://www.cnnbrasil.com.br/esportes/volei/apos-quatro-vices-brasil-encara-turquia-por-titulo-inedito-da-vln-feminina/"
+          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
+          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
         },
         {
           "rank": 5,
-          "title": "Causa da morte de João Signorelli, de \"Caminho das Índias\", é revelada",
-          "url": "https://www.cnnbrasil.com.br/pop/tv/causa-da-morte-de-joao-signorelli-de-caminho-das-indias-e-revelada/"
+          "title": "Após quatro vices, Brasil encara Turquia por título inédito da VLN Feminina",
+          "url": "https://www.cnnbrasil.com.br/esportes/volei/apos-quatro-vices-brasil-encara-turquia-por-titulo-inedito-da-vln-feminina/"
         }
       ],
       "erro": null
@@ -172,7 +172,7 @@
         },
         {
           "rank": 2,
-          "title": "\"Comigo, bandido não se cria\", diz Caiado em convenção do PSD em SP.",
+          "title": "\"Comigo, bandido não se cria\", diz Caiado em convenção do PSD em SP",
           "url": "https://www.metropoles.com/sao-paulo/comigo-bandido-nao-se-cria-diz-caiado-antes-de-convencao-do-psd-em-sp"
         },
         {

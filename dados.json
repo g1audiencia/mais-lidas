@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 12:28",
+  "atualizado_em": "26/07/2026 12:37",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Vitórias na América Latina estimularam governo Trump a antagonizar Brasil, avaliam especialistas",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/vitorias-na-america-latina-estimularam-governo-trump-a-antagonizar-brasil-avaliam-especialistas.shtml"
         },
         {
+          "rank": 3,
+          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Longevidade muda dinâmica das famílias, e avós assumem mais cuidados e gastos com netos",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/longevidade-muda-dinamica-das-familias-e-avos-assumem-mais-cuidados-e-gastos-com-netos.shtml"
+          "title": "Lula tem a campanha dos sonhos com Flávio nas cordas",
+          "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/07/lula-tem-a-campanha-dos-sonhos-com-flavio-nas-cordas.shtml"
         },
         {
           "rank": 5,
-          "title": "Mega-Sena 3036 acumula e poderá pagar R$ 78 milhões na terça (28); confira o resultado",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/confira-a-partir-das-11h-deste-domingo-26-o-resultado-do-concurso-3036-da-mega-sena.shtml"
+          "title": "Brasil perde quinta final da Liga das Nações de Vôlei feminino e prolonga jejum",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/brasil-perde-quinta-final-da-liga-das-nacoes-de-volei-feminino-e-prolonga-jejum.shtml"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
+          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
         },
         {
           "rank": 5,
-          "title": "Renda extra fica no passado: motoristas de aplicativo fazem jornadas de 12 horas para bater meta",
-          "url": "https://www.estadao.com.br/jornal-do-carro/renda-extra-fica-no-passado-motoristas-de-aplicativo-fazem-jornadas-de-12-horas-para-bater-meta/"
+          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
+          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
         }
       ],
       "erro": null
@@ -231,13 +231,13 @@
         },
         {
           "rank": 3,
-          "title": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
-          "url": "https://apnews.com/article/europe-wildfires-france-spain-93678a31ff53fc46564b6dfd9934eae1"
+          "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
+          "url": "https://apnews.com/article/maine-senate-susan-collins-platner-troy-jackson-a5f89f03b6a9aace01f4e829befb7809"
         },
         {
           "rank": 4,
-          "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
-          "url": "https://apnews.com/article/maine-senate-susan-collins-platner-troy-jackson-a5f89f03b6a9aace01f4e829befb7809"
+          "title": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
+          "url": "https://apnews.com/article/europe-wildfires-france-spain-93678a31ff53fc46564b6dfd9934eae1"
         },
         {
           "rank": 5,
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
+          "url": "https://www.bbc.com/news/articles/ckg41vn8x7ko"
+        },
+        {
+          "rank": 4,
           "title": "Record 2,500 e-bikes and e-scooters seized by Met",
           "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         },
         {
-          "rank": 4,
-          "title": "The little-known Victorian sex cult where members were never allowed to leave",
-          "url": "https://www.bbc.com/news/articles/cvgv4r568emo"
-        },
-        {
           "rank": 5,
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
         }
       ],
       "erro": null

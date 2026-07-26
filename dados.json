@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 02:27",
+  "atualizado_em": "26/07/2026 02:32",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Exército da Ucrânia atinge navio de guerra russo com carga ligada ao Irã no Mar Cáspio",
+          "url": "https://www.estadao.com.br/internacional/exercito-da-ucrania-atinge-navio-de-guerra-russo-com-carga-ligada-ao-ira-no-mar-caspio/"
+        },
+        {
+          "rank": 2,
+          "title": "Roubos de carros elétricos e híbridos sobem quase 130% em São Paulo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/roubos-de-carros-eletricos-e-hibridos-sobem-quase-130-em-sao-paulo/"
+        },
+        {
+          "rank": 3,
           "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
           "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         },
         {
-          "rank": 2,
-          "title": "Flávio deve explicações ao País",
-          "url": "https://www.estadao.com.br/opiniao/flavio-deve-explicacoes-ao-pais/"
-        },
-        {
-          "rank": 3,
-          "title": "Quem são os dois funcionários de Rubio que Trump quer mandar ao Brasil para questionar as urnas",
-          "url": "https://www.estadao.com.br/politica/quem-sao-os-dois-funcionarios-de-rubio-que-trump-quer-mandar-ao-brasil-para-questionar-as-urnas/"
-        },
-        {
           "rank": 4,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 5,
-          "title": "Governo Trump tenta enviar oficiais ao Brasil para questionar sistema eleitoral, mas Itamaraty barra",
-          "url": "https://www.estadao.com.br/politica/governo-trump-quer-enviar-oficiais-ao-brasil-para-questionar-sistema-eleitoral-diz-jornal/"
+          "title": "Com Milei e Trump, Flávio pede ‘união da direita nacional’, mas age com a direita internacional",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/com-milei-e-trump-flavio-pede-uniao-da-direita-nacional-mas-age-com-a-direita-internacional/"
         }
       ],
       "erro": null
@@ -227,28 +227,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+          "url": "https://www.bbc.com/news/articles/clye651yzdjo"
+        },
+        {
+          "rank": 2,
           "title": "Would you pay $58.5m to live in this iconic New York building?",
           "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
           "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "More than 300,000 flee wildfires in France and Spain",
           "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "One dead, 16 injured at Berlin Pride event after vehicle driven into crowd",
           "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
-        },
-        {
-          "rank": 5,
-          "title": "Parents warned as hundreds of squishy toys seized",
-          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
         }
       ],
       "erro": null

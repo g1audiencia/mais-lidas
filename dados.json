@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 08:42",
+  "atualizado_em": "26/07/2026 08:47",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Confira a partir das 11h deste domingo (26) o resultado do concurso 3036 da Mega-Sena",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/confira-a-partir-das-11h-deste-domingo-26-o-resultado-do-concurso-3036-da-mega-sena.shtml"
         },
         {
+          "rank": 2,
+          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
+        },
+        {
           "rank": 3,
+          "title": "Longevidade muda dinâmica das famílias, e avós assumem mais cuidados e gastos com netos",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/longevidade-muda-dinamica-das-familias-e-avos-assumem-mais-cuidados-e-gastos-com-netos.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Evento superlotado na Flip com Cármen Lúcia e Conceição Evaristo acaba em confusão",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/flip-tem-confusao-em-mesa-com-carmen-lucia-e-conceicao-evaristo.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "'Tivemos que fazer rifa para pagar o tratamento da minha filha': como sistema de saúde do Paraguai leva pacientes a se endividarem",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/tivemos-que-fazer-rifa-para-pagar-o-tratamento-da-minha-filha-como-sistema-de-saude-do-paraguai-leva-pacientes-a-se-endividarem.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
-          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
+          "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+          "url": "https://www.bbc.com/news/articles/clye651yzdjo"
         },
         {
           "rank": 3,
-          "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
-          "url": "https://www.bbc.com/news/articles/clye651yzdjo"
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
         }
       ],
       "erro": null

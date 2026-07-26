@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 11:43",
+  "atualizado_em": "26/07/2026 11:48",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Longevidade muda dinâmica das famílias, e avós assumem mais cuidados e gastos com netos",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/longevidade-muda-dinamica-das-familias-e-avos-assumem-mais-cuidados-e-gastos-com-netos.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Confira o resultado do concurso 3036 da Mega-Sena sorteado neste domingo (26)",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/confira-a-partir-das-11h-deste-domingo-26-o-resultado-do-concurso-3036-da-mega-sena.shtml"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Vitórias na América Latina estimularam governo Trump a antagonizar Brasil, avaliam especialistas",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/vitorias-na-america-latina-estimularam-governo-trump-a-antagonizar-brasil-avaliam-especialistas.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Longevidade muda dinâmica das famílias, e avós assumem mais cuidados e gastos com netos",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/longevidade-muda-dinamica-das-familias-e-avos-assumem-mais-cuidados-e-gastos-com-netos.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
-          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
-        },
-        {
-          "rank": 2,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
-        },
-        {
-          "rank": 3,
           "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
           "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
         },
         {
+          "rank": 2,
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
+        },
+        {
+          "rank": 3,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
           "rank": 4,
-          "title": "Inteligência artificial sem ideologia",
-          "url": "https://www.estadao.com.br/opiniao/inteligencia-artificial-sem-ideologia/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
           "rank": 5,
-          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
+          "title": "Brasil deve fazer com tarifaço o oposto do que está pensando: abandonar protecionismo e não retaliar",
+          "url": "https://www.estadao.com.br/internacional/lourival-santanna/brasil-deve-fazer-com-tarifaco-o-oposto-do-que-esta-pensando-abandonar-protecionismo-e-nao-retaliar/"
         }
       ],
       "erro": null

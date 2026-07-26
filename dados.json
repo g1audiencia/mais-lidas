@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 23:37",
+  "atualizado_em": "25/07/2026 23:42",
   "portais": [
     {
       "portal": "Folha",
@@ -248,23 +248,23 @@
         },
         {
           "rank": 2,
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
-        },
-        {
-          "rank": 3,
-          "title": "One dead, 16 injured at Berlin Pride event after vehicle crashes into crowd, police say",
-          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
-        },
-        {
-          "rank": 4,
           "title": "More than 300,000 flee wildfires in France and Spain",
           "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
+          "rank": 3,
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
+        },
+        {
+          "rank": 4,
+          "title": "One dead, 16 injured at Berlin Pride event after vehicle crashes into crowd, police say",
+          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
+        },
+        {
           "rank": 5,
-          "title": "Parents warned as hundreds of squishy toys seized",
-          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
         }
       ],
       "erro": null

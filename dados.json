@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 22:30",
+  "atualizado_em": "25/07/2026 22:36",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "'Tivemos que fazer rifa para pagar o tratamento da minha filha': como sistema de saúde do Paraguai leva pacientes a se endividarem",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/tivemos-que-fazer-rifa-para-pagar-o-tratamento-da-minha-filha-como-sistema-de-saude-do-paraguai-leva-pacientes-a-se-endividarem.shtml"
+          "title": "Governo americano nega intenção de 'minar' eleições no Brasil",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-americano-nega-intencao-de-minar-eleicoes-no-brasil.shtml"
         },
         {
           "rank": 5,
-          "title": "Por que está tão difícil ver 'A Odisseia' no formato Imax, como Nolan quer?",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/por-que-esta-tao-dificil-ver-a-odisseia-no-formato-imax-como-nolan-quer.shtml"
+          "title": "'Tivemos que fazer rifa para pagar o tratamento da minha filha': como sistema de saúde do Paraguai leva pacientes a se endividarem",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/tivemos-que-fazer-rifa-para-pagar-o-tratamento-da-minha-filha-como-sistema-de-saude-do-paraguai-leva-pacientes-a-se-endividarem.shtml"
         }
       ],
       "erro": null
@@ -233,6 +233,11 @@
           "rank": 3,
           "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
           "url": "https://apnews.com/article/military-veteran-truckers-cdl-license-waiver-immigrants-e06bfe13fbc3aa0c13e58c212746229f"
+        },
+        {
+          "rank": 4,
+          "title": "502 students lose spots at Howard University over tuition payments just weeks before classes start",
+          "url": "https://apnews.com/article/howard-university-unenrolled-students-tuition-d17f77d0fcdb16fa6262378fcad4aa5c"
         }
       ],
       "erro": null

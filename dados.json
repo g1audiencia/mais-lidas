@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 21:59",
+  "atualizado_em": "25/07/2026 22:04",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 2,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
-          "rank": 3,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
+          "rank": 2,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 3,
+          "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
+          "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
+        },
+        {
           "rank": 4,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+          "title": "Roubos de carros elétricos e híbridos sobem quase 130% em São Paulo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/roubos-de-carros-eletricos-e-hibridos-sobem-quase-130-em-sao-paulo/"
         },
         {
           "rank": 5,
-          "title": "Com Milei e Trump, Flávio pede ‘união da direita nacional’, mas age com a direita internacional",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/com-milei-e-trump-flavio-pede-uniao-da-direita-nacional-mas-age-com-a-direita-internacional/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null

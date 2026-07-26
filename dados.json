@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 02:51",
+  "atualizado_em": "26/07/2026 02:57",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Exército da Ucrânia atinge navio de guerra russo com carga ligada ao Irã no Mar Cáspio",
-          "url": "https://www.estadao.com.br/internacional/exercito-da-ucrania-atinge-navio-de-guerra-russo-com-carga-ligada-ao-ira-no-mar-caspio/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 2,
+          "title": "Quem são os dois funcionários de Rubio que Trump quer mandar ao Brasil para questionar as urnas",
+          "url": "https://www.estadao.com.br/politica/quem-sao-os-dois-funcionarios-de-rubio-que-trump-quer-mandar-ao-brasil-para-questionar-as-urnas/"
+        },
+        {
+          "rank": 3,
+          "title": "Dia da avó: redescubra 9 receitas de bolo que aquecem o coração de qualquer um",
+          "url": "https://www.estadao.com.br/paladar/caderno-de-receitas/fuba-cozido-maca-rustica-e-cenoura-9-receitas-de-bolo-com-gosto-de-casa-de-avo/"
+        },
+        {
+          "rank": 4,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 3,
-          "title": "Xuxa faz show nostálgico para baixinhos crescidos em despedida de sua nave",
-          "url": "https://www.estadao.com.br/cultura/musica/xuxa-faz-show-nostalgico-para-baixinhos-crescidos-em-despedida-de-sua-nave/"
-        },
-        {
-          "rank": 4,
-          "title": "Gols, comemoração com pôquer e suspensão: saiba como foi o primeiro jogo de Neymar após a Copa",
-          "url": "https://www.estadao.com.br/esportes/futebol/gols-comemoracao-com-poquer-e-suspensao-saiba-como-foi-o-primeiro-jogo-de-neymar-apos-a-copa/"
-        },
-        {
           "rank": 5,
-          "title": "Por que a Europa não se defende sozinha?",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-a-europa-nao-se-defende-sozinha/"
+          "title": "Lula usa convenção de Haddad para mandar recado: quem tentar interferir nas eleições vai ‘apanhar’",
+          "url": "https://www.estadao.com.br/politica/ao-lado-de-lula-e-alckmin-haddad-oficializa-candidatura-ao-governo-paulista/"
         }
       ],
       "erro": null
@@ -248,13 +248,13 @@
         },
         {
           "rank": 2,
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
+          "title": "More than 300,000 flee wildfires in France and Spain",
+          "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
           "rank": 3,
-          "title": "More than 300,000 flee wildfires in France and Spain",
-          "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         },
         {
           "rank": 4,
@@ -263,8 +263,8 @@
         },
         {
           "rank": 5,
-          "title": "One dead, 16 injured at Berlin Pride event after vehicle driven into crowd",
-          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
+          "title": "Rental searches for pet friendly properties drop after law change",
+          "url": "https://www.bbc.com/news/articles/cj3gd312d8yo"
         }
       ],
       "erro": null

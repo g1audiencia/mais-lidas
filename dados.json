@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 05:38",
+  "atualizado_em": "26/07/2026 05:43",
   "portais": [
     {
       "portal": "Folha",
@@ -135,53 +135,37 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 2,
           "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
           "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         },
         {
-          "rank": 3,
-          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
           "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         },
         {
+          "rank": 3,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 4,
+          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
+        },
+        {
           "rank": 5,
-          "title": "Engenheira civil brasileira está desaparecida há três dias na França; polícia e amigos fazem buscas",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-esta-desaparecida-ha-tres-dias-na-franca-policia-e-amigos-fazem-buscas/"
+          "title": "Brasil deve fazer com tarifaço o oposto do que está pensando: abandonar protecionismo e não retaliar",
+          "url": "https://www.estadao.com.br/internacional/lourival-santanna/brasil-deve-fazer-com-tarifaco-o-oposto-do-que-esta-pensando-abandonar-protecionismo-e-nao-retaliar/"
         }
       ],
       "erro": null
     },
     {
       "portal": "Metrópoles",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Ex-presidente da Jequiti questiona faturamento da empresa de Virginia",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/ex-presidente-da-jequiti-questiona-faturamento-da-empresa-de-virginia"
-        },
-        {
-          "rank": 2,
-          "title": "Veja fotos reais de Elize e Marcos Matsunaga antes de crime brutal",
-          "url": "https://www.metropoles.com/entretenimento/televisao/fotos-reais-elize-matsunaga"
-        },
-        {
-          "rank": 3,
-          "title": "Deputado aciona PGR contra vídeo de IA de Bolsonaro na convenção do PL",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/deputado-pgr-video-bolsonaro-convencao-pl"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "502 Server Error: Bad Gateway for url: https://www.metropoles.com/"
     },
     {
       "portal": "R7",

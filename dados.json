@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 03:49",
+  "atualizado_em": "26/07/2026 03:55",
   "portais": [
     {
       "portal": "Folha",
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Quem é Fernanda Bolsonaro, que disse não aguentar 'mais quatro anos de PT' ao apresentar candidatura de Flávio em convenção do PL",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/25/quem-e-fernanda-bolsonaro-que-disse-nao-aguentar-mais-quatro-anos-de-pt-ao-apresentar-candidatura-de-flavio-em-convencao-do-pl.ghtml"
+          "title": "Namorada de Senesi revela presente personalizado que Messi deu aos seus companheiros da Argentina, antes da Copa",
+          "url": "https://oglobo.globo.com/esportes/copa-do-mundo-2026/noticia/2026/07/25/namorada-de-senesi-revela-presente-personalizado-que-messi-deu-aos-seus-companheiros-da-argentina-antes-da-copa.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+        },
+        {
+          "rank": 2,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
+          "rank": 3,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 4,
           "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
           "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 3,
-          "title": "Inteligência artificial sem ideologia",
-          "url": "https://www.estadao.com.br/opiniao/inteligencia-artificial-sem-ideologia/"
-        },
-        {
-          "rank": 4,
-          "title": "Os riscos fiscais ignorados na campanha",
-          "url": "https://www.estadao.com.br/opiniao/os-riscos-fiscais-ignorados-na-campanha/"
-        },
-        {
-          "rank": 5,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         }
       ],
       "erro": null

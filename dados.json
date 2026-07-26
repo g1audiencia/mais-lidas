@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 20:57",
+  "atualizado_em": "25/07/2026 21:02",
   "portais": [
     {
       "portal": "Folha",
@@ -163,25 +163,9 @@
     },
     {
       "portal": "Metrópoles",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Ex-presidente da Jequiti questiona faturamento da empresa de Virginia",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/ex-presidente-da-jequiti-questiona-faturamento-da-empresa-de-virginia"
-        },
-        {
-          "rank": 2,
-          "title": "“Vou servir ao seu lado”, diz cotada a vice de Flávio Bolsonaro",
-          "url": "https://www.metropoles.com/colunas/grande-angular/vou-servir-ao-seu-lado-diz-cotada-a-vice-de-flavio-bolsonaro"
-        },
-        {
-          "rank": 3,
-          "title": "Vídeo de Michelle e Bolsonaro de IA: o que marcou lançamento de Flávio à Presidência",
-          "url": "https://www.metropoles.com/sao-paulo/video-de-michelle-e-bolsonaro-de-ia-o-que-marcou-lancamento-de-flavio-a-presidencia"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "HTTPSConnectionPool(host='www.metropoles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
     },
     {
       "portal": "R7",
@@ -258,18 +242,18 @@
         },
         {
           "rank": 2,
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
+        },
+        {
+          "rank": 3,
           "title": "More than 250,000 flee wildfires in France and Spain",
           "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "'Most people are lovely, but we do get irresponsible visitors'",
           "url": "https://www.bbc.com/news/articles/c141ldl24zko"
-        },
-        {
-          "rank": 4,
-          "title": "Parents warned as hundreds of squishy toys seized",
-          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
         },
         {
           "rank": 5,

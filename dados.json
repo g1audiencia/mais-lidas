@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 05:05",
+  "atualizado_em": "26/07/2026 05:10",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
-        },
-        {
-          "rank": 3,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
+          "rank": 3,
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+        },
+        {
           "rank": 4,
-          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
+          "title": "Xuxa faz show nostálgico para baixinhos crescidos em despedida de sua nave",
+          "url": "https://www.estadao.com.br/cultura/musica/xuxa-faz-show-nostalgico-para-baixinhos-crescidos-em-despedida-de-sua-nave/"
         },
         {
           "rank": 5,
-          "title": "Xuxa faz show nostálgico para baixinhos crescidos em despedida de sua nave",
-          "url": "https://www.estadao.com.br/cultura/musica/xuxa-faz-show-nostalgico-para-baixinhos-crescidos-em-despedida-de-sua-nave/"
+          "title": "Engenheira civil brasileira está desaparecida há três dias na França; polícia e amigos fazem buscas",
+          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-esta-desaparecida-ha-tres-dias-na-franca-policia-e-amigos-fazem-buscas/"
         }
       ],
       "erro": null
@@ -189,28 +189,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Marcella Kozinski é coroada Miss Universe Brasil 2026",
+          "url": "https://record.r7.com/miss-universe-brasil/marcella-kozinski-e-coroada-miss-universe-brasil-2026-26072026/"
+        },
+        {
+          "rank": 2,
           "title": "Cachorro sumido há cinco anos reencontra família e surpreende",
           "url": "https://entretenimento.r7.com/rpet/cachorro-desaparecido-ha-cinco-anos-reencontra-familia-e-reacao-emociona-abrigo-24072026/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Chuva extrema provoca desastre na região mais seca do planeta, no Chile",
           "url": "https://noticias.r7.com/internacional/chuva-de-quatro-anos-cai-em-quatro-dias-e-provoca-desastre-na-regiao-mais-seca-do-planeta-24072026/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Cosme: 'Treta' entre Neymar e o Craque Neto ganha novo capítulo",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-contra-neto-palavroes-ironias-ataques-a-briga-em-praca-publica-que-so-traz-desgaste-ao-dois-idolos-e-a-quem-ainda-acredita-no-futebol-24072026/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Jornal espanhol ironiza Flamengo após acerto verbal por Almada",
           "url": "https://esportes.r7.com/prisma/blog-do-nicola/jornal-espanhol-ironiza-flamengo-apos-acerto-verbal-por-almada-23072026/"
-        },
-        {
-          "rank": 5,
-          "title": "Hoje em Dia recebe a vencedora do 'Miss Universe Brasil 2026'",
-          "url": "https://record.r7.com/hoje-em-dia/novidades/o-hoje-em-dia-recebe-a-vencedora-do-miss-universe-brasil-2026-na-segunda-feira-27-24072026/"
         }
       ],
       "erro": null
@@ -253,23 +253,23 @@
         },
         {
           "rank": 2,
-          "title": "Rental searches for pet friendly properties drop after law change",
-          "url": "https://www.bbc.com/news/articles/cj3gd312d8yo"
-        },
-        {
-          "rank": 3,
           "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
           "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         },
         {
+          "rank": 3,
+          "title": "Rental searches for pet friendly properties drop after law change",
+          "url": "https://www.bbc.com/news/articles/cj3gd312d8yo"
+        },
+        {
           "rank": 4,
-          "title": "More than 300,000 flee wildfires in France and Spain",
-          "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
+          "title": "Would you pay $58.5m to live in this iconic New York building?",
+          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
           "rank": 5,
-          "title": "Would you pay $58.5m to live in this iconic New York building?",
-          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
         }
       ],
       "erro": null

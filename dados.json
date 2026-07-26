@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 07:41",
+  "atualizado_em": "26/07/2026 07:47",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Governo americano nega intenção de 'minar' eleições no Brasil",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-americano-nega-intencao-de-minar-eleicoes-no-brasil.shtml"
+          "title": "Confira a partir das 11h deste domingo (26) o resultado do concurso 3036 da Mega-Sena",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/confira-a-partir-das-11h-deste-domingo-26-o-resultado-do-concurso-3036-da-mega-sena.shtml"
         },
         {
           "rank": 5,
-          "title": "Confira a partir das 11h deste domingo (26) o resultado do concurso 3036 da Mega-Sena",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/confira-a-partir-das-11h-deste-domingo-26-o-resultado-do-concurso-3036-da-mega-sena.shtml"
+          "title": "Governo americano nega intenção de 'minar' eleições no Brasil",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-americano-nega-intencao-de-minar-eleicoes-no-brasil.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
+          "rank": 2,
           "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
           "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
         },
         {
-          "rank": 2,
-          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
-          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
-        },
-        {
           "rank": 3,
-          "title": "OAB faz convênio com empresa de tecnologia de condenado por roubo de dados e golpes virtuais",
-          "url": "https://www.estadao.com.br/politica/oab-faz-convenio-com-empresa-de-tecnologia-de-condenado-por-roubo-de-dados-e-golpes-virtuais/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 4,
-          "title": "Com Milei e Trump, Flávio pede ‘união da direita nacional’, mas age com a direita internacional",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/com-milei-e-trump-flavio-pede-uniao-da-direita-nacional-mas-age-com-a-direita-internacional/"
+          "title": "Inteligência artificial sem ideologia",
+          "url": "https://www.estadao.com.br/opiniao/inteligencia-artificial-sem-ideologia/"
         },
         {
           "rank": 5,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
+          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
         }
       ],
       "erro": null

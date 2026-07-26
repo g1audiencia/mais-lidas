@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 07:33",
+  "atualizado_em": "26/07/2026 07:41",
   "portais": [
     {
       "portal": "Folha",
@@ -35,9 +35,35 @@
     },
     {
       "portal": "UOL",
-      "ok": false,
-      "items": [],
-      "erro": "403 Client Error: Forbidden for url: https://www.uol.com.br/"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Representante da Ilha do Mel é eleita a Miss Universe Brasil 2026",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/25/final-miss-universe-brasil-2026.htm"
+        },
+        {
+          "rank": 2,
+          "title": "Jogadora chuta cabeça de rival em partida de futsal no Ceará e é suspensa por 5 anos",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/jogadora-futsal-agressao-suspensao-ceara.ghtm"
+        },
+        {
+          "rank": 3,
+          "title": "Veja a classificação, os resultados e todos os confrontos do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
+        },
+        {
+          "rank": 4,
+          "title": "Vídeo de inteligência artificial pode levar à punição de Flávio e de Jair Bolsonaro, diz especialista",
+          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/07/25/video-de-ia-de-bolsonaro-em-convencao-de-flavio-e-ilegal-diz-especialista.htm"
+        },
+        {
+          "rank": 5,
+          "title": "Giulia Costa, filha de Flávia Alessandra, posa de fio-dental em viagem",
+          "url": "https://cenapop.uol.com.br/noticias/famosos/giulia-costa-biquini-porto-rico.html"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "CNN Brasil",
@@ -207,11 +233,6 @@
           "rank": 3,
           "title": "France and Spain battle wildfires as more than 250,000 people are forced to flee homes",
           "url": "https://apnews.com/article/europe-wildfires-france-spain-93678a31ff53fc46564b6dfd9934eae1"
-        },
-        {
-          "rank": 4,
-          "title": "Water hauling is the new chore no rancher asked for",
-          "url": "https://apnews.com/article/ranchers-water-hauling-bb468aa92a821c3fe20a381eda9762d7"
         }
       ],
       "erro": null
@@ -222,13 +243,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
-          "url": "https://www.bbc.com/news/articles/clye651yzdjo"
+          "title": "Would you pay $58.5m to live in this iconic New York building?",
+          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
           "rank": 2,
-          "title": "Would you pay $58.5m to live in this iconic New York building?",
-          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
+          "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+          "url": "https://www.bbc.com/news/articles/clye651yzdjo"
         },
         {
           "rank": 3,

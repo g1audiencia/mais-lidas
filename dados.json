@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 01:02",
+  "atualizado_em": "26/07/2026 01:07",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 3,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
+          "rank": 4,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
-          "rank": 4,
-          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
-          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
-        },
-        {
           "rank": 5,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "Quais alimentos preparados na airfryer podem formar acrilamida, ligada a prejuízos à saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/quais-alimentos-preparados-na-airfryer-podem-formar-acrilamida-ligada-a-prejuizos-a-saude-nprm/"
         }
       ],
       "erro": null

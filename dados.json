@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 14:50",
+  "atualizado_em": "26/07/2026 14:56",
   "portais": [
     {
       "portal": "Folha",
@@ -49,8 +49,8 @@
         },
         {
           "rank": 3,
-          "title": "GP da Hungria de F1: Norris vence a primeira corrida do ano, e Bortoleto é 11º",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/26/gp-da-hungria.ghtm"
+          "title": "Dublador faz leitura labial de provocação e reclamações de Neymar em empate",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/neymar-leitura-labial-santos-chapecoense.ghtm"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Brasil leva virada da Turquia e amarga quinto vice da Liga das Nações feminina",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/26/brasil-turquia-final-liga-das-nacoes.ghtm"
+          "title": "Quem é Marcella Kozinski, paranaense coroada Miss Universe Brasil 2026",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/26/quem-e-marcella-kozinski-eleita-miss-universe-brasil.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
-          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
+          "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
+          "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
         },
         {
           "rank": 2,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
-        },
-        {
-          "rank": 3,
           "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
+          "rank": 3,
+          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
+          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
+        },
+        {
           "rank": 4,
-          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
-          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
+          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
         },
         {
           "rank": 5,
-          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
-          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
         },
         {
           "rank": 3,
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
-        },
-        {
-          "rank": 4,
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
         },
         {
+          "rank": 4,
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+        },
+        {
           "rank": 5,
-          "title": "What we know so far about the Berlin Pride ramming attack",
-          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         }
       ],
       "erro": null

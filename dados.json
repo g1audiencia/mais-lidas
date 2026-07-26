@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 19:57",
+  "atualizado_em": "26/07/2026 20:02",
   "portais": [
     {
       "portal": "Folha",
@@ -231,6 +231,11 @@
         },
         {
           "rank": 3,
+          "title": "A forced-labor crackdown or an end-run around Congress? Dissecting Trump’s new tariffs",
+          "url": "https://apnews.com/article/trump-tariffs-forced-labor-8ea8114c6893a6062cf1addc3518660b"
+        },
+        {
+          "rank": 4,
           "title": "Supreme Court litigator gets 6 years in prison for tax evasion case after gambling millions on poker",
           "url": "https://apnews.com/article/thomas-goldstein-supreme-court-blog-tax-evasion-618a0a2f1bdf9643886b607073fee91d"
         }
@@ -263,8 +268,8 @@
         },
         {
           "rank": 5,
-          "title": "What we know so far about the Berlin Pride ramming attack",
-          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
+          "title": "Parents warned as hundreds of squishy toys seized",
+          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
         }
       ],
       "erro": null

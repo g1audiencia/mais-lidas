@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 00:55",
+  "atualizado_em": "26/07/2026 01:02",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 2,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
           "rank": 3,
-          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
-        },
-        {
-          "rank": 4,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
+          "rank": 4,
+          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
+          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
+        },
+        {
           "rank": 5,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         }
       ],
       "erro": null
@@ -237,18 +237,18 @@
         },
         {
           "rank": 3,
-          "title": "One dead, 16 injured at Berlin Pride event after vehicle driven into crowd",
-          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
-        },
-        {
-          "rank": 4,
           "title": "More than 300,000 flee wildfires in France and Spain",
           "url": "https://www.bbc.com/news/articles/cd7le0d53y2o"
         },
         {
+          "rank": 4,
+          "title": "One dead, 16 injured at Berlin Pride event after vehicle driven into crowd",
+          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
+        },
+        {
           "rank": 5,
-          "title": "Rental searches for pet friendly properties drop after law change",
-          "url": "https://www.bbc.com/news/articles/cj3gd312d8yo"
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
         }
       ],
       "erro": null

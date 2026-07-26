@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 12:37",
+  "atualizado_em": "26/07/2026 12:42",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
-          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
-        },
-        {
-          "rank": 3,
           "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
           "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
         },
         {
+          "rank": 3,
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
+        },
+        {
           "rank": 4,
-          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
-          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 5,
-          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
-          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
+          "title": "Renda extra fica no passado: motoristas de aplicativo fazem jornadas de 12 horas para bater meta",
+          "url": "https://www.estadao.com.br/jornal-do-carro/renda-extra-fica-no-passado-motoristas-de-aplicativo-fazem-jornadas-de-12-horas-para-bater-meta/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
         },
         {
           "rank": 5,
-          "title": "What we know so far about the Berlin Pride ramming attack",
-          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         }
       ],
       "erro": null

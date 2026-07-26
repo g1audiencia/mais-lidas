@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 06:52",
+  "atualizado_em": "26/07/2026 07:03",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Representante da Ilha do Mel é eleita a Miss Universe Brasil 2026",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/25/final-miss-universe-brasil-2026.htm"
+        },
+        {
+          "rank": 2,
           "title": "Veja a classificação, os resultados e todos os confrontos do Campeonato Brasileiro",
           "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Jogadora chuta cabeça de rival em partida de futsal no Ceará e é suspensa por 5 anos",
           "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/jogadora-futsal-agressao-suspensao-ceara.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Vídeo de inteligência artificial pode levar à punição de Flávio e de Jair Bolsonaro, diz especialista",
           "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/07/25/video-de-ia-de-bolsonaro-em-convencao-de-flavio-e-ilegal-diz-especialista.htm"
         },
         {
-          "rank": 4,
-          "title": "Três plantas que atraem escorpiões e exigem cuidado no jardim de casa",
-          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/07/24/3-plantas-que-atraem-escorpioes-e-exigem-cuidado-no-jardim-de-casa.ghtm"
-        },
-        {
           "rank": 5,
-          "title": "Neymar marca em retorno, mas Santos só empata com a lanterna Chapecoense",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/25/santos-e-chapecoense-na-vila.ghtm"
+          "title": "Giulia Costa, filha de Flávia Alessandra, posa de fio-dental em viagem",
+          "url": "https://cenapop.uol.com.br/noticias/famosos/giulia-costa-biquini-porto-rico.html"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 4,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 4,
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
+        },
+        {
           "rank": 5,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Inteligência artificial sem ideologia",
+          "url": "https://www.estadao.com.br/opiniao/inteligencia-artificial-sem-ideologia/"
         }
       ],
       "erro": null
@@ -172,8 +172,8 @@
         },
         {
           "rank": 2,
-          "title": "Veja fotos reais de Elize e Marcos Matsunaga antes de crime brutal",
-          "url": "https://www.metropoles.com/entretenimento/televisao/fotos-reais-elize-matsunaga"
+          "title": "Caiado oficializa candidatura de olho em críticas a Flávio e Lula",
+          "url": "https://www.metropoles.com/brasil/caiado-oficializa-candidatura-de-olho-em-criticas-a-flavio-e-lula"
         },
         {
           "rank": 3,

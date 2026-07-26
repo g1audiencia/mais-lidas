@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 00:22",
+  "atualizado_em": "26/07/2026 00:28",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Jogadora de futsal é suspensa por 5 anos no Ceará após chutar cabeça de adversária; veja vídeo",
-          "url": "https://www.estadao.com.br/esportes/futebol/jogadora-de-futsal-e-suspensa-por-5-anos-no-ceara-apos-chutar-cabeca-de-adversaria-veja-video/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 2,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
           "rank": 3,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
+          "rank": 4,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 4,
-          "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
-          "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
-        },
-        {
           "rank": 5,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
         }
       ],
       "erro": null
@@ -217,25 +217,9 @@
     },
     {
       "portal": "AP",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Trump returns to correspondents’ dinner for a rambling, insult-filled speech 3 months after shooting",
-          "url": "https://apnews.com/article/correspondents-dinner-trump-shooting-white-house-dfa0ecdbe3552910903d5c23a8e96a35"
-        },
-        {
-          "rank": 2,
-          "title": "Trump orders new signs outside Smithsonian saying some exhibits are inaccurate",
-          "url": "https://apnews.com/article/trump-smithsonian-history-exhibit-signs-d04879c33b518fe3acb91a4fb41c6a30"
-        },
-        {
-          "rank": 3,
-          "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
-          "url": "https://apnews.com/article/military-veteran-truckers-cdl-license-waiver-immigrants-e06bfe13fbc3aa0c13e58c212746229f"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "esperava ao menos 3 itens, achei 2"
     },
     {
       "portal": "BBC News",
@@ -263,8 +247,8 @@
         },
         {
           "rank": 5,
-          "title": "Parents warned as hundreds of squishy toys seized",
-          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
+          "title": "Rental searches for pet friendly properties drop after law change",
+          "url": "https://www.bbc.com/news/articles/cj3gd312d8yo"
         }
       ],
       "erro": null

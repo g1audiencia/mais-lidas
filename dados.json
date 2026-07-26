@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 20:46",
+  "atualizado_em": "26/07/2026 20:51",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
-          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Além de engenheira brasileira, adolescente de Goiânia e amiga de Cabo Verde desapareceram na França na semana passada",
           "url": "https://oglobo.globo.com/brasil/noticia/2026/07/26/alem-de-engenheira-brasileira-adolescente-de-goiania-e-amiga-de-cabo-verde-desapareceram-na-franca-na-semana-passada.ghtml"
         },
         {
+          "rank": 4,
+          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
+          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "'Ninguém nos derrotará com mentiras', diz Lula a Trump em artigo no Washington Post sobre tarifaço",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/26/ninguem-nos-derrotara-com-mentiras-diz-lula-a-trump-em-artigo-no-washington-post-sobre-tarifaco.ghtml"
+          "title": "Conheça a mulher que está perto de herdar US$ 100 milhões de Jeffrey Epstein, financista e criminoso sexual",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/26/conheca-a-mulher-que-esta-perto-de-herdar-us-100-milhoes-de-jeffrey-epstein-financista-e-criminoso-sexual.ghtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
-          "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
-        },
-        {
-          "rank": 4,
           "title": "O psyllium realmente faz bem para a saúde?",
           "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
+          "rank": 4,
+          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
+          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
+        },
+        {
           "rank": 5,
-          "title": "Caiado diz que, se eleito, vai dar indulto a Bolsonaro: ‘Quero pacificar o País’",
-          "url": "https://www.estadao.com.br/politica/caiado-diz-que-se-eleito-vai-dar-indulto-a-bolsonaro-quero-pacificar-o-pais/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null

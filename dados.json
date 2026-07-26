@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 14:06",
+  "atualizado_em": "26/07/2026 14:12",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
-          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
+          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
+          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
         },
         {
           "rank": 5,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "Quem são os dois funcionários de Rubio que Trump quer mandar ao Brasil para questionar as urnas",
+          "url": "https://www.estadao.com.br/politica/quem-sao-os-dois-funcionarios-de-rubio-que-trump-quer-mandar-ao-brasil-para-questionar-as-urnas/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
-        },
-        {
-          "rank": 3,
-          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
-        },
-        {
-          "rank": 4,
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "What we know so far about the Berlin Pride ramming attack",
           "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
+        },
+        {
+          "rank": 4,
+          "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+          "url": "https://www.bbc.com/news/articles/c33y3151vydo"
+        },
+        {
+          "rank": 5,
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         }
       ],
       "erro": null

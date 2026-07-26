@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 17:09",
+  "atualizado_em": "26/07/2026 17:14",
   "portais": [
     {
       "portal": "Folha",
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
-          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
-        },
-        {
-          "rank": 2,
           "title": "Jornais argentinos repercutem discurso de Milei em convenção do PL: 'Tensão com o Brasil está mais alta do que nunca'",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/26/jornais-argentinos-repercutem-discurso-de-milei-em-convencao-do-pl-tensao-com-o-brasil-esta-mais-alta-do-que-nunca.ghtml"
         },
         {
-          "rank": 3,
-          "title": "'Ninguém nos derrotará com mentiras', diz Lula a Trump em artigo no Washington Post sobre tarifaço",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/26/ninguem-nos-derrotara-com-mentiras-diz-lula-a-trump-em-artigo-no-washington-post-sobre-tarifaco.ghtml"
+          "rank": 2,
+          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
+          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Versão IA de Bolsonaro em Convenção do PL levanta debate sobre uso em campanha eleitoral; veja quais são as regras",
           "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/26/versao-ia-de-bolsonaro-em-convencao-do-pl-levanta-debate-sobre-uso-em-campanha-eleitoral-veja-quais-sao-as-regras.ghtml"
         },
         {
+          "rank": 4,
+          "title": "'Ninguém nos derrotará com mentiras', diz Lula a Trump em artigo no Washington Post sobre tarifaço",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/26/ninguem-nos-derrotara-com-mentiras-diz-lula-a-trump-em-artigo-no-washington-post-sobre-tarifaco.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "'Quem ama cuida': Pedro descobre segredo de André",
-          "url": "https://oglobo.globo.com/play/novelas/noticia/2026/07/26/quem-ama-cuida-pedro-descobre-segredo-de-andre.ghtml"
+          "title": "Quem é a filha de Ana Maria Braga que pediu medida protetiva contra o ex-marido",
+          "url": "https://oglobo.globo.com/cultura/noticia/2026/07/26/quem-e-a-filha-de-ana-maria-braga-que-pediu-medida-protetiva-contra-o-ex-marido.ghtml"
         }
       ],
       "erro": null
@@ -253,8 +253,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-          "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
           "rank": 2,
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+          "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
+        },
+        {
+          "rank": 4,
           "title": "Would you pay $58.5m to live in this iconic New York building?",
           "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
-        },
-        {
-          "rank": 5,
-          "title": "Teen charged over record crossing on 'mega dinghy'",
-          "url": "https://www.bbc.com/news/articles/clyq5nqw13lo"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 16:29",
+  "atualizado_em": "26/07/2026 16:36",
   "portais": [
     {
       "portal": "Folha",
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Teen charged over record crossing on 'mega dinghy'",
-          "url": "https://www.bbc.com/news/articles/clyq5nqw13lo"
-        },
-        {
-          "rank": 4,
           "title": "Would you pay $58.5m to live in this iconic New York building?",
           "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Record 2,500 e-bikes and e-scooters seized by Met",
           "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+        },
+        {
+          "rank": 5,
+          "title": "Parents warned as hundreds of squishy toys seized",
+          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
         }
       ],
       "erro": null

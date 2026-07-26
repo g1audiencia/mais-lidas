@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 00:28",
+  "atualizado_em": "26/07/2026 00:33",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "'Tivemos que fazer rifa para pagar o tratamento da minha filha': como sistema de saúde do Paraguai leva pacientes a se endividarem",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/tivemos-que-fazer-rifa-para-pagar-o-tratamento-da-minha-filha-como-sistema-de-saude-do-paraguai-leva-pacientes-a-se-endividarem.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Na Flip, Angela Davis diz que Brasil não pode eleger Bolsonaros",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/na-flip-angela-davis-diz-que-brasil-nao-pode-eleger-bolsonaros.shtml"
         },
         {
+          "rank": 4,
+          "title": "Governo americano nega intenção de 'minar' eleições no Brasil",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-americano-nega-intencao-de-minar-eleicoes-no-brasil.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Viagra pode combater metástase de células cancerígenas, aponta estudo",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/viagra-pode-combater-metastase-de-celulas-cancerigenas-aponta-estudo.shtml"
+          "title": "'Tivemos que fazer rifa para pagar o tratamento da minha filha': como sistema de saúde do Paraguai leva pacientes a se endividarem",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/tivemos-que-fazer-rifa-para-pagar-o-tratamento-da-minha-filha-como-sistema-de-saude-do-paraguai-leva-pacientes-a-se-endividarem.shtml"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 15:34",
+  "atualizado_em": "26/07/2026 15:40",
   "portais": [
     {
       "portal": "Folha",
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula convoca embaixador na Argentina após ataques de Milei",
-          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/26/ataques-de-milei-a-lula-governo-poderia-convocar-embaixador-na-argentina.htm"
-        },
-        {
-          "rank": 2,
-          "title": "Golpe de R$ 4 bi forjou dados de gigantes do mercado, descobriu Fazenda de SP",
-          "url": "https://tab.uol.com.br/noticias/redacao/2026/07/26/como-a-secretaria-da-fazenda-de-sp-descobriu-um-rombo-de-r-4-bilhoes.htm"
-        },
-        {
-          "rank": 3,
           "title": "Dublador faz leitura labial de provocação e reclamações de Neymar em empate",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/neymar-leitura-labial-santos-chapecoense.ghtm"
         },
         {
+          "rank": 2,
+          "title": "Governo Lula convoca embaixador na Argentina após ataques de Milei",
+          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/26/ataques-de-milei-a-lula-governo-poderia-convocar-embaixador-na-argentina.htm"
+        },
+        {
+          "rank": 3,
+          "title": "Golpe de R$ 4 bi forjou dados de gigantes do mercado, descobriu Fazenda de SP",
+          "url": "https://tab.uol.com.br/noticias/redacao/2026/07/26/como-a-secretaria-da-fazenda-de-sp-descobriu-um-rombo-de-r-4-bilhoes.htm"
+        },
+        {
           "rank": 4,
-          "title": "Mega-Sena sorteia prêmio acumulado de R$ 69,54 milhões; veja as dezenas",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/07/26/mega-sena-concurso-3036-sorteio-26-de-julho.ghtm"
+          "title": "Sem treinar, Neymar deixa CT após poucos minutos e vira dúvida no Santos",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/sem-treinar-neymar-deixa-ct-apos-poucos-minutos-e-vira-duvida-no-santos.ghtm"
         },
         {
           "rank": 5,
@@ -238,11 +238,6 @@
           "rank": 4,
           "title": "Maine Democratic delegates choose Troy Jackson as new nominee to face US Sen. Susan Collins",
           "url": "https://apnews.com/article/maine-senate-susan-collins-platner-troy-jackson-a5f89f03b6a9aace01f4e829befb7809"
-        },
-        {
-          "rank": 5,
-          "title": "Bridges and infrastructure hit as US struck deeper inside Iran",
-          "url": "https://apnews.com/article/us-iran-war-strait-of-hormuz-d7744d3063116944d49a616c007d669c"
         }
       ],
       "erro": null
@@ -253,23 +248,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Would you pay $58.5m to live in this iconic New York building?",
-          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
-        },
-        {
-          "rank": 2,
           "title": "What we know so far about the Berlin Pride ramming attack",
           "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
         },
         {
+          "rank": 2,
+          "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+          "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
+        },
+        {
           "rank": 3,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
         },
         {
           "rank": 4,
-          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         },
         {
           "rank": 5,
@@ -285,8 +280,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lionel Scaloni se fue de Pujato: el sencillo cartel con el que anunció su partida tras una semana a puro cariño de la gente",
-          "url": "https://www.clarin.com/deportes/lionel-scaloni-pujato-sencillo-cartel-anuncio-partida-semana-puro-carino-gente_0_3dAIrYcOMl.html"
+          "title": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
+          "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html"
         },
         {
           "rank": 2,
@@ -295,18 +290,18 @@
         },
         {
           "rank": 3,
+          "title": "Lionel Scaloni se fue de Pujato: el sencillo cartel con el que anunció su partida tras una semana a puro cariño de la gente",
+          "url": "https://www.clarin.com/deportes/lionel-scaloni-pujato-sencillo-cartel-anuncio-partida-semana-puro-carino-gente_0_3dAIrYcOMl.html"
+        },
+        {
+          "rank": 4,
           "title": "12.819.532.788.614.400.000%",
           "url": "https://www.clarin.com/economia/12819532788614400000_0_DSqxjTqvy2.html"
         },
         {
-          "rank": 4,
-          "title": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
-          "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html"
-        },
-        {
           "rank": 5,
-          "title": "Llega al país la primera marca china de autos de súper lujo: cómo es la Maextro V800",
-          "url": "https://www.clarin.com/autos/llega-pais-primera-marca-china-autos-super-lujo-maextro-v800_0_80JyPjlf75.html"
+          "title": "\"Progre hipócrita con déficit de IQ\" e \"inquilino del poder\": el duro cruce de Javier Milei y Federico Sturzenegger con Luis Novaresio por la derogación de una ley sobre libros",
+          "url": "https://www.clarin.com/politica/crueldad-inquilino-poder-adjetivos-nacidos-soberbia-duro-cruce-federico-sturzenegger-luis-novaresio-derogacion-ley-libros_0_Lbjx0ivE0P.html"
         }
       ],
       "erro": null

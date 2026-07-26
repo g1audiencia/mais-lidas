@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 04:16",
+  "atualizado_em": "26/07/2026 04:22",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+        },
+        {
+          "rank": 2,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
-          "rank": 2,
-          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
-        },
-        {
           "rank": 3,
-          "title": "Fachin rebate ataque de Milei a Alexandre de Moraes e defende STF",
-          "url": "https://www.estadao.com.br/politica/fachin-rebate-ataque-de-milei-a-alexandre-de-moraes-e-defende-stf/"
+          "title": "Gols, comemoração com pôquer e suspensão: saiba como foi o primeiro jogo de Neymar após a Copa",
+          "url": "https://www.estadao.com.br/esportes/futebol/gols-comemoracao-com-poquer-e-suspensao-saiba-como-foi-o-primeiro-jogo-de-neymar-apos-a-copa/"
         },
         {
           "rank": 4,
-          "title": "Roubos de carros elétricos e híbridos sobem quase 130% em São Paulo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/roubos-de-carros-eletricos-e-hibridos-sobem-quase-130-em-sao-paulo/"
+          "title": "Engenheira civil brasileira está desaparecida há três dias na França; polícia e amigos fazem buscas",
+          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-esta-desaparecida-ha-tres-dias-na-franca-policia-e-amigos-fazem-buscas/"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 15:51",
+  "atualizado_em": "26/07/2026 15:56",
   "portais": [
     {
       "portal": "Folha",
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
-        },
-        {
-          "rank": 4,
           "title": "Record 2,500 e-bikes and e-scooters seized by Met",
           "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         },
         {
+          "rank": 4,
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
+        },
+        {
           "rank": 5,
-          "title": "Parents warned as hundreds of squishy toys seized",
-          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
+          "title": "Teen charged over record crossing on 'mega dinghy'",
+          "url": "https://www.bbc.com/news/articles/clyq5nqw13lo"
         }
       ],
       "erro": null

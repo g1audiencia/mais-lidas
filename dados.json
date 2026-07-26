@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 10:44",
+  "atualizado_em": "26/07/2026 10:49",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Longevidade muda dinâmica das famílias, e avós assumem mais cuidados e gastos com netos",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/longevidade-muda-dinamica-das-familias-e-avos-assumem-mais-cuidados-e-gastos-com-netos.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Fachin, presidente do STF, reage a Milei após argentino atacar Moraes em convenção de Flávio Bolsonaro",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/presidente-do-stf-rechaca-fala-de-milei-sobre-moraes.shtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
           "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Longevidade muda dinâmica das famílias, e avós assumem mais cuidados e gastos com netos",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/longevidade-muda-dinamica-das-familias-e-avos-assumem-mais-cuidados-e-gastos-com-netos.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Flávio prova que Ustra e Banco Master são faces da mesma moeda",
-          "url": "https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/07/flavio-prova-que-ustra-e-banco-master-sao-faces-da-mesma-moeda.shtml"
+          "title": "Vitórias na América Latina estimularam governo Trump a antagonizar Brasil, avaliam especialistas",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/vitorias-na-america-latina-estimularam-governo-trump-a-antagonizar-brasil-avaliam-especialistas.shtml"
         }
       ],
       "erro": null
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
-        },
-        {
-          "rank": 2,
-          "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
-          "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
-        },
-        {
-          "rank": 3,
           "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
           "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
         },
         {
+          "rank": 2,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
+          "rank": 3,
+          "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
+          "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
+        },
+        {
           "rank": 4,
-          "title": "Inteligência artificial sem ideologia",
-          "url": "https://www.estadao.com.br/opiniao/inteligencia-artificial-sem-ideologia/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 5,

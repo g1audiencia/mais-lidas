@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 00:17",
+  "atualizado_em": "26/07/2026 00:22",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "Jogadora de futsal é suspensa por 5 anos no Ceará após chutar cabeça de adversária; veja vídeo",
+          "url": "https://www.estadao.com.br/esportes/futebol/jogadora-de-futsal-e-suspensa-por-5-anos-no-ceara-apos-chutar-cabeca-de-adversaria-veja-video/"
         },
         {
           "rank": 2,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 3,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
           "rank": 4,
-          "title": "O PCC está dentro da PM de SP",
-          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+          "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
+          "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
         },
         {
           "rank": 5,
-          "title": "Com Milei e Trump, Flávio pede ‘união da direita nacional’, mas age com a direita internacional",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/com-milei-e-trump-flavio-pede-uniao-da-direita-nacional-mas-age-com-a-direita-internacional/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         }
       ],
       "erro": null

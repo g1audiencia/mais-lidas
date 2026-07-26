@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 02:39",
+  "atualizado_em": "26/07/2026 02:45",
   "portais": [
     {
       "portal": "Folha",
@@ -217,9 +217,25 @@
     },
     {
       "portal": "AP",
-      "ok": false,
-      "items": [],
-      "erro": "esperava ao menos 3 itens, achei 2"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Trump returns to correspondents’ dinner for a rambling, insult-filled speech 3 months after shooting",
+          "url": "https://apnews.com/article/correspondents-dinner-trump-shooting-white-house-dfa0ecdbe3552910903d5c23a8e96a35"
+        },
+        {
+          "rank": 2,
+          "title": "Van slams into crowd at Berlin Pride festival, killing 1 and injuring 16, as police identify suspect",
+          "url": "https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f"
+        },
+        {
+          "rank": 3,
+          "title": "Trump orders new signs outside Smithsonian saying some exhibits are inaccurate",
+          "url": "https://apnews.com/article/trump-smithsonian-history-exhibit-signs-d04879c33b518fe3acb91a4fb41c6a30"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "BBC News",

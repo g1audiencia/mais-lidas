@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 19:18",
+  "atualizado_em": "26/07/2026 19:24",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+        },
+        {
+          "rank": 4,
           "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
           "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
         },
         {
-          "rank": 4,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
-        },
-        {
           "rank": 5,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -248,13 +248,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
           "rank": 2,
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
         },
         {
           "rank": 3,
@@ -263,8 +263,8 @@
         },
         {
           "rank": 4,
-          "title": "Parents warned as hundreds of squishy toys seized",
-          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
+          "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
+          "url": "https://www.bbc.com/news/articles/ckg41vn8x7ko"
         },
         {
           "rank": 5,

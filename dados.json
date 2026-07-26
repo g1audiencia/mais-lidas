@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 04:27",
+  "atualizado_em": "26/07/2026 04:32",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "'Tivemos que fazer rifa para pagar o tratamento da minha filha': como sistema de saúde do Paraguai leva pacientes a se endividarem",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/tivemos-que-fazer-rifa-para-pagar-o-tratamento-da-minha-filha-como-sistema-de-saude-do-paraguai-leva-pacientes-a-se-endividarem.shtml"
+          "title": "Governo americano nega intenção de 'minar' eleições no Brasil",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-americano-nega-intencao-de-minar-eleicoes-no-brasil.shtml"
         },
         {
           "rank": 4,
-          "title": "Governo americano nega intenção de 'minar' eleições no Brasil",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-americano-nega-intencao-de-minar-eleicoes-no-brasil.shtml"
+          "title": "'Tivemos que fazer rifa para pagar o tratamento da minha filha': como sistema de saúde do Paraguai leva pacientes a se endividarem",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/tivemos-que-fazer-rifa-para-pagar-o-tratamento-da-minha-filha-como-sistema-de-saude-do-paraguai-leva-pacientes-a-se-endividarem.shtml"
         },
         {
           "rank": 5,
@@ -163,25 +163,9 @@
     },
     {
       "portal": "Metrópoles",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Ex-presidente da Jequiti questiona faturamento da empresa de Virginia",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/ex-presidente-da-jequiti-questiona-faturamento-da-empresa-de-virginia"
-        },
-        {
-          "rank": 2,
-          "title": "Veja fotos reais de Elize e Marcos Matsunaga antes de crime brutal",
-          "url": "https://www.metropoles.com/entretenimento/televisao/fotos-reais-elize-matsunaga"
-        },
-        {
-          "rank": 3,
-          "title": "Deputado aciona PGR contra vídeo de IA de Bolsonaro na convenção do PL",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/deputado-pgr-video-bolsonaro-convencao-pl"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "502 Server Error: Bad Gateway for url: https://www.metropoles.com/"
     },
     {
       "portal": "R7",

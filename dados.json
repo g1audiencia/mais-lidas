@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 12:23",
+  "atualizado_em": "26/07/2026 12:28",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Governo Lula convoca embaixador na Argentina após ataques de Milei",
+          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/26/ataques-de-milei-a-lula-governo-poderia-convocar-embaixador-na-argentina.htm"
+        },
+        {
+          "rank": 2,
           "title": "Golpe de R$ 4 bi forjou dados de gigantes do mercado, descobriu Fazenda de SP",
           "url": "https://tab.uol.com.br/noticias/redacao/2026/07/26/como-a-secretaria-da-fazenda-de-sp-descobriu-um-rombo-de-r-4-bilhoes.htm"
         },
         {
-          "rank": 2,
-          "title": "Brasil leva virada da Turquia e amarga quinto vice da Liga das Nações feminina",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/26/brasil-turquia-final-liga-das-nacoes.ghtm"
+          "rank": 3,
+          "title": "GP da Hungria de F1: Norris vence a primeira corrida do ano, e Bortoleto é 11º",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/26/gp-da-hungria.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Mega-Sena sorteia prêmio acumulado de R$ 69,54 milhões; veja as dezenas",
           "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/07/26/mega-sena-concurso-3036-sorteio-26-de-julho.ghtm"
         },
         {
-          "rank": 4,
-          "title": "Letícia Casado: Evento de Flávio Bolsonaro gera dúvida sobre militância",
-          "url": "https://noticias.uol.com.br/colunas/leticia-casado/2026/07/26/evento-de-flavio-vai-da-lotacao-ao-esvaziamento.htm"
-        },
-        {
           "rank": 5,
-          "title": "Representante da Ilha do Mel é eleita a Miss Universe Brasil 2026",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/25/final-miss-universe-brasil-2026.htm"
+          "title": "Brasil leva virada da Turquia e amarga quinto vice da Liga das Nações feminina",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/26/brasil-turquia-final-liga-das-nacoes.ghtm"
         }
       ],
       "erro": null

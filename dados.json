@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 04:32",
+  "atualizado_em": "26/07/2026 04:38",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Miss Universe Brasil 2026: saiba onde assistir ao concurso",
-          "url": "https://www.cnnbrasil.com.br/lifestyle/miss-universe-brasil-2026-saiba-onde-assistir-ao-concurso/"
+          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
         }
       ],
       "erro": null
@@ -135,37 +135,53 @@
       "items": [
         {
           "rank": 1,
+          "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
+          "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
+        },
+        {
+          "rank": 2,
           "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
           "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         },
         {
-          "rank": 2,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
           "rank": 3,
-          "title": "Gols, comemoração com pôquer e suspensão: saiba como foi o primeiro jogo de Neymar após a Copa",
-          "url": "https://www.estadao.com.br/esportes/futebol/gols-comemoracao-com-poquer-e-suspensao-saiba-como-foi-o-primeiro-jogo-de-neymar-apos-a-copa/"
+          "title": "Roubos de carros elétricos e híbridos sobem quase 130% em São Paulo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/roubos-de-carros-eletricos-e-hibridos-sobem-quase-130-em-sao-paulo/"
         },
         {
           "rank": 4,
-          "title": "Engenheira civil brasileira está desaparecida há três dias na França; polícia e amigos fazem buscas",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-esta-desaparecida-ha-tres-dias-na-franca-policia-e-amigos-fazem-buscas/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
           "rank": 5,
-          "title": "Xuxa faz show nostálgico para baixinhos crescidos em despedida de sua nave",
-          "url": "https://www.estadao.com.br/cultura/musica/xuxa-faz-show-nostalgico-para-baixinhos-crescidos-em-despedida-de-sua-nave/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         }
       ],
       "erro": null
     },
     {
       "portal": "Metrópoles",
-      "ok": false,
-      "items": [],
-      "erro": "502 Server Error: Bad Gateway for url: https://www.metropoles.com/"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Ex-presidente da Jequiti questiona faturamento da empresa de Virginia",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/ex-presidente-da-jequiti-questiona-faturamento-da-empresa-de-virginia"
+        },
+        {
+          "rank": 2,
+          "title": "Veja fotos reais de Elize e Marcos Matsunaga antes de crime brutal",
+          "url": "https://www.metropoles.com/entretenimento/televisao/fotos-reais-elize-matsunaga"
+        },
+        {
+          "rank": 3,
+          "title": "Deputado aciona PGR contra vídeo de IA de Bolsonaro na convenção do PL",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/deputado-pgr-video-bolsonaro-convencao-pl"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "R7",

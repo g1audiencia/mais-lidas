@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 10:49",
+  "atualizado_em": "26/07/2026 10:55",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
-          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
-        },
-        {
-          "rank": 2,
           "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
           "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
         },
         {
+          "rank": 3,
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
+        },
+        {
           "rank": 4,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
+          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
         },
         {
           "rank": 5,
-          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
-          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Llega al país la primera marca china de autos de súper lujo: cómo es la Maextro V800",
-          "url": "https://www.clarin.com/autos/llega-pais-primera-marca-china-autos-super-lujo-maextro-v800_0_80JyPjlf75.html"
+          "title": "Las urgencias de los hermanos Milei y la presión sobre Caputo",
+          "url": "https://www.clarin.com/politica/urgencias-hermanos-milei-presion-caputo_0_6OxIE5cYI3.html"
         },
         {
           "rank": 5,
-          "title": "Las urgencias de los hermanos Milei y la presión sobre Caputo",
-          "url": "https://www.clarin.com/politica/urgencias-hermanos-milei-presion-caputo_0_6OxIE5cYI3.html"
+          "title": "Llega al país la primera marca china de autos de súper lujo: cómo es la Maextro V800",
+          "url": "https://www.clarin.com/autos/llega-pais-primera-marca-china-autos-super-lujo-maextro-v800_0_80JyPjlf75.html"
         }
       ],
       "erro": null

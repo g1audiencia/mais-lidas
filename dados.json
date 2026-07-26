@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 17:32",
+  "atualizado_em": "26/07/2026 17:38",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
-        },
-        {
-          "rank": 3,
           "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
           "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
+          "rank": 4,
+          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+        },
+        {
           "rank": 5,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         }
       ],
       "erro": null

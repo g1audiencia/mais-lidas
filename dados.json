@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 01:13",
+  "atualizado_em": "26/07/2026 01:21",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem são os dois funcionários de Rubio que Trump quer mandar ao Brasil para questionar as urnas",
-          "url": "https://www.estadao.com.br/politica/quem-sao-os-dois-funcionarios-de-rubio-que-trump-quer-mandar-ao-brasil-para-questionar-as-urnas/"
+          "title": "Fachin rebate ataque de Milei a Alexandre de Moraes e defende STF",
+          "url": "https://www.estadao.com.br/politica/fachin-rebate-ataque-de-milei-a-alexandre-de-moraes-e-defende-stf/"
         },
         {
           "rank": 2,
-          "title": "Deem uma chance a nossas crianças",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+          "title": "Toyota Corolla será elétrico, mas montadora pode não sobreviver se não mudar, alerta Akio Toyoda",
+          "url": "https://www.estadao.com.br/jornal-do-carro/toyota-corolla-sera-eletrico-mas-montadora-pode-nao-sobreviver-se-nao-mudar-alerta-akio-toyoda/"
         },
         {
           "rank": 3,
+          "title": "‘O problema não é ela, é o Flávio’: o diagnóstico da Faria Lima após périplo de Daniella Marques",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/o-problema-nao-e-ela-e-o-flavio-o-diagnostico-da-faria-lima-apos-periplo-de-daniella-marques/"
+        },
+        {
+          "rank": 4,
           "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
           "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         },
         {
-          "rank": 4,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
           "rank": 5,
-          "title": "Roubos de carros elétricos e híbridos sobem quase 130% em São Paulo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/roubos-de-carros-eletricos-e-hibridos-sobem-quase-130-em-sao-paulo/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null

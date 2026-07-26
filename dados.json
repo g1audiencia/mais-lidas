@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 02:07",
+  "atualizado_em": "26/07/2026 02:13",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         },
         {
           "rank": 2,
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
+        },
+        {
+          "rank": 3,
+          "title": "O PCC está dentro da PM de SP",
+          "url": "https://www.estadao.com.br/opiniao/o-pcc-esta-dentro-da-pm-de-sp/"
+        },
+        {
+          "rank": 4,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 3,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
-          "rank": 4,
-          "title": "‘Não me entrego, não’, afirma Marcos Breda após passar pela 10ª cirurgia em 4 anos",
-          "url": "https://www.estadao.com.br/emais/gente/nao-me-entrego-nao-afirma-marcos-breda-apos-passar-pela-10-cirurgia-em-4-anos-nprec/"
-        },
-        {
           "rank": 5,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "Exército da Ucrânia atinge navio de guerra russo com carga ligada ao Irã no Mar Cáspio",
+          "url": "https://www.estadao.com.br/internacional/exercito-da-ucrania-atinge-navio-de-guerra-russo-com-carga-ligada-ao-ira-no-mar-caspio/"
         }
       ],
       "erro": null

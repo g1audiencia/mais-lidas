@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 23:03",
+  "atualizado_em": "25/07/2026 23:09",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 2,
-          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
-        },
-        {
-          "rank": 3,
           "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
           "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
+          "rank": 3,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
+          "rank": 4,
+          "title": "Com Milei e Trump, Flávio pede ‘união da direita nacional’, mas age com a direita internacional",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/com-milei-e-trump-flavio-pede-uniao-da-direita-nacional-mas-age-com-a-direita-internacional/"
+        },
+        {
           "rank": 5,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "Xuxa faz show nostálgico para baixinhos crescidos em despedida de sua nave",
+          "url": "https://www.estadao.com.br/cultura/musica/xuxa-faz-show-nostalgico-para-baixinhos-crescidos-em-despedida-de-sua-nave/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "“Vou servir ao seu lado”, diz cotada a vice de Flávio Bolsonaro",
-          "url": "https://www.metropoles.com/colunas/grande-angular/vou-servir-ao-seu-lado-diz-cotada-a-vice-de-flavio-bolsonaro"
+          "title": "Veja fotos reais de Elize e Marcos Matsunaga antes de crime brutal",
+          "url": "https://www.metropoles.com/entretenimento/televisao/fotos-reais-elize-matsunaga"
         },
         {
           "rank": 3,
-          "title": "Vídeo de Michelle e Bolsonaro de IA: o que marcou lançamento de Flávio à Presidência",
-          "url": "https://www.metropoles.com/sao-paulo/video-de-michelle-e-bolsonaro-de-ia-o-que-marcou-lancamento-de-flavio-a-presidencia"
+          "title": "Deputado aciona PGR contra vídeo de IA de Bolsonaro na convenção do PL",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/deputado-pgr-video-bolsonaro-convencao-pl"
         }
       ],
       "erro": null
@@ -248,13 +248,13 @@
         },
         {
           "rank": 2,
-          "title": "Would you pay $58.5m to live in this iconic New York building?",
-          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
+          "title": "One dead, 16 injured at Berlin Pride event after vehicle crashes into crowd, police say",
+          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
         },
         {
           "rank": 3,
-          "title": "One dead, 16 injured at Berlin Pride event after vehicle crashes into crowd, police say",
-          "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
+          "title": "Would you pay $58.5m to live in this iconic New York building?",
+          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
           "rank": 4,
@@ -263,8 +263,8 @@
         },
         {
           "rank": 5,
-          "title": "'Most people are lovely, but we do get irresponsible visitors'",
-          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
+          "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+          "url": "https://www.bbc.com/news/articles/c3v0lyrndn7o"
         }
       ],
       "erro": null

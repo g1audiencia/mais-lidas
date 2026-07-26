@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 14:34",
+  "atualizado_em": "26/07/2026 14:39",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
-        },
-        {
-          "rank": 2,
           "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
           "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
         },
         {
+          "rank": 3,
+          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
+          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
+        },
+        {
           "rank": 4,
-          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
-          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
         },
         {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
+          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
         }
       ],
       "erro": null

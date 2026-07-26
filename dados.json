@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 13:55",
+  "atualizado_em": "26/07/2026 14:00",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
+          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
         },
         {
           "rank": 2,
-          "title": "Caiado se lança ao Planalto e chama Lula e Flávio de ‘maiores rejeitados da política nacional’",
-          "url": "https://www.estadao.com.br/internacional/caiado-se-lanca-ao-planalto-critica-lula-e-flavio-e-diz-que-sua-candidatura-nao-tem-surpresinha/"
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
-          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 5,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "Incêndio florestal chega a 15 km de Bordeaux e prefeito não descarta esvaziar a cidade",
+          "url": "https://www.estadao.com.br/internacional/incendio-florestal-chega-a-15-km-de-bordeaux-e-prefeito-nao-descarta-esvaziar-a-cidade-npr/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+        },
+        {
+          "rank": 3,
           "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
           "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "What we know so far about the Berlin Pride ramming attack",
           "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
-        },
-        {
-          "rank": 5,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "\"Progre hipócrita con déficit de IQ\" e \"inquilino del poder\": el duro cruce de Javier Milei y Federico Sturzenegger con Luis Novaresio por la derogación de una ley sobre libros",
-          "url": "https://www.clarin.com/politica/crueldad-inquilino-poder-adjetivos-nacidos-soberbia-duro-cruce-federico-sturzenegger-luis-novaresio-derogacion-ley-libros_0_Lbjx0ivE0P.html"
+          "title": "Lionel Scaloni se fue de Pujato: el sencillo cartel con el que anunció su partida tras una semana a puro cariño de la gente",
+          "url": "https://www.clarin.com/deportes/lionel-scaloni-pujato-sencillo-cartel-anuncio-partida-semana-puro-carino-gente_0_3dAIrYcOMl.html"
         },
         {
           "rank": 5,
-          "title": "Llega al país la primera marca china de autos de súper lujo: cómo es la Maextro V800",
-          "url": "https://www.clarin.com/autos/llega-pais-primera-marca-china-autos-super-lujo-maextro-v800_0_80JyPjlf75.html"
+          "title": "\"Progre hipócrita con déficit de IQ\" e \"inquilino del poder\": el duro cruce de Javier Milei y Federico Sturzenegger con Luis Novaresio por la derogación de una ley sobre libros",
+          "url": "https://www.clarin.com/politica/crueldad-inquilino-poder-adjetivos-nacidos-soberbia-duro-cruce-federico-sturzenegger-luis-novaresio-derogacion-ley-libros_0_Lbjx0ivE0P.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 07:52",
+  "atualizado_em": "26/07/2026 07:57",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Golpe de R$ 4 bi forjou dados de gigantes do mercado, descobriu Fazenda de SP",
+          "url": "https://tab.uol.com.br/noticias/redacao/2026/07/26/como-a-secretaria-da-fazenda-de-sp-descobriu-um-rombo-de-r-4-bilhoes.htm"
+        },
+        {
+          "rank": 2,
           "title": "Representante da Ilha do Mel é eleita a Miss Universe Brasil 2026",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/25/final-miss-universe-brasil-2026.htm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Jogadora chuta cabeça de rival em partida de futsal no Ceará e é suspensa por 5 anos",
           "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/25/jogadora-futsal-agressao-suspensao-ceara.ghtm"
         },
         {
-          "rank": 3,
-          "title": "Veja a classificação, os resultados e todos os confrontos do Campeonato Brasileiro",
-          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
-        },
-        {
           "rank": 4,
-          "title": "Vídeo de inteligência artificial pode levar à punição de Flávio e de Jair Bolsonaro, diz especialista",
+          "title": "Vídeo de IA pode levar à punição de Flávio e de Jair Bolsonaro, diz especialista",
           "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/07/25/video-de-ia-de-bolsonaro-em-convencao-de-flavio-e-ilegal-diz-especialista.htm"
         },
         {
           "rank": 5,
-          "title": "Giulia Costa, filha de Flávia Alessandra, posa de fio-dental em viagem",
-          "url": "https://cenapop.uol.com.br/noticias/famosos/giulia-costa-biquini-porto-rico.html"
+          "title": "Veja a classificação, os resultados e todos os confrontos do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
-          "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
-        },
-        {
-          "rank": 2,
           "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
+          "rank": 2,
+          "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
+          "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
+        },
+        {
           "rank": 3,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "Como comprar roupas de qualidade sem gastar uma fortuna? Especialistas dão conselhos e dicas",
+          "url": "https://www.estadao.com.br/cultura/moda/como-comprar-roupas-de-qualidade-sem-gastar-uma-fortuna-especialistas-dao-conselhos-e-dicas/"
         },
         {
           "rank": 4,
-          "title": "Inteligência artificial sem ideologia",
-          "url": "https://www.estadao.com.br/opiniao/inteligencia-artificial-sem-ideologia/"
+          "title": "PSD oficializa chapa Caiado e Kassab neste domingo e expõe limites da ‘nova via’ ao Planalto",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/psd-oficializa-chapa-caiado-e-kassab-neste-domingo-e-expoe-limites-da-nova-via-ao-planalto/"
         },
         {
           "rank": 5,
-          "title": "Brasil deve fazer com tarifaço o oposto do que está pensando: abandonar protecionismo e não retaliar",
-          "url": "https://www.estadao.com.br/internacional/lourival-santanna/brasil-deve-fazer-com-tarifaco-o-oposto-do-que-esta-pensando-abandonar-protecionismo-e-nao-retaliar/"
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
         }
       ],
       "erro": null
@@ -300,8 +300,8 @@
         },
         {
           "rank": 5,
-          "title": "El viaje que despertó sospechas en Ezeiza y terminó con una mujer detenida por reclutar argentinos para combatir en Ucrania",
-          "url": "https://www.clarin.com/policiales/viaje-desperto-sospechas-ezeiza-termino-mujer-detenida-reclutar-argentinos-combatir-ucrania_0_ZMnfgC7qAt.html"
+          "title": "12.819.532.788.614.400.000%",
+          "url": "https://www.clarin.com/economia/12819532788614400000_0_DSqxjTqvy2.html"
         }
       ],
       "erro": null

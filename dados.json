@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 23:25",
+  "atualizado_em": "25/07/2026 23:31",
   "portais": [
     {
       "portal": "Folha",
@@ -22,8 +22,8 @@
         },
         {
           "rank": 4,
-          "title": "Viagra pode combater metástase de células cancerígenas, aponta estudo",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/viagra-pode-combater-metastase-de-celulas-cancerigenas-aponta-estudo.shtml"
+          "title": "Na Flip, Angela Davis diz que Brasil não pode eleger Bolsonaros",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/na-flip-angela-davis-diz-que-brasil-nao-pode-eleger-bolsonaros.shtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
-          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
+          "title": "Deem uma chance a nossas crianças",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
           "rank": 2,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
-        },
-        {
-          "rank": 3,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
-          "rank": 4,
           "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
           "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
+          "rank": 4,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
+          "rank": 5,
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         }
       ],
       "erro": null
@@ -243,18 +243,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Would you pay $58.5m to live in this iconic New York building?",
+          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
+        },
+        {
+          "rank": 2,
           "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
           "url": "https://www.bbc.com/news/articles/c33y3151vydo"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "One dead, 16 injured at Berlin Pride event after vehicle crashes into crowd, police say",
           "url": "https://www.bbc.com/news/articles/clyqzylz3zno"
-        },
-        {
-          "rank": 3,
-          "title": "Would you pay $58.5m to live in this iconic New York building?",
-          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
           "rank": 4,
@@ -263,8 +263,8 @@
         },
         {
           "rank": 5,
-          "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
-          "url": "https://www.bbc.com/news/articles/c3v0lyrndn7o"
+          "title": "Parents warned as hundreds of squishy toys seized",
+          "url": "https://www.bbc.com/news/articles/cy8e72162qno"
         }
       ],
       "erro": null

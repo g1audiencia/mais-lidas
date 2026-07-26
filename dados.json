@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 09:49",
+  "atualizado_em": "26/07/2026 09:54",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 4,
           "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
           "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
         },
         {
+          "rank": 4,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
           "rank": 5,
-          "title": "Renda extra fica no passado: motoristas de aplicativo fazem jornadas de 12 horas para bater meta",
-          "url": "https://www.estadao.com.br/jornal-do-carro/renda-extra-fica-no-passado-motoristas-de-aplicativo-fazem-jornadas-de-12-horas-para-bater-meta/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null

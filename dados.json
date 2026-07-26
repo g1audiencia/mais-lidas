@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 16:07",
+  "atualizado_em": "26/07/2026 16:13",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
-          "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Uma peça básica de 100 dólares: o que explica o preço da camiseta do The Bear?",
-          "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/uma-peca-basica-de-100-dolares-o-que-explica-o-preco-da-camiseta-do-the-bear/"
+          "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
+          "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
         },
         {
           "rank": 4,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 5,
-          "title": "Carro usado ou híbrido novo: qual vale a pena financeiramente? Veja custos que entram na conta",
-          "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/carro-usado-ou-hibrido-novo-qual-vale-a-pena-financeiramente-veja-custos-que-entram-na-conta/"
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "What we know so far about the Berlin Pride ramming attack",
-          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
-        },
-        {
-          "rank": 2,
           "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
           "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
         },
         {
+          "rank": 2,
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
+        },
+        {
           "rank": 3,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+          "title": "Teen charged over record crossing on 'mega dinghy'",
+          "url": "https://www.bbc.com/news/articles/clyq5nqw13lo"
         },
         {
           "rank": 4,
-          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-          "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
+          "title": "Would you pay $58.5m to live in this iconic New York building?",
+          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
         },
         {
           "rank": 5,
-          "title": "Teen charged over record crossing on 'mega dinghy'",
-          "url": "https://www.bbc.com/news/articles/clyq5nqw13lo"
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         }
       ],
       "erro": null

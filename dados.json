@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 05:10",
+  "atualizado_em": "26/07/2026 05:16",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
+          "title": "Marcella Kozinski é coroada Miss Universe Brasil 2026",
+          "url": "https://www.cnnbrasil.com.br/lifestyle/marcella-kozinski-e-coroada-miss-universe-brasil-2026/"
+        },
+        {
+          "rank": 4,
           "title": "Neymar faz dois gols, mas Santos fica só no empate com a Chapecoense",
           "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/neymar-faz-dois-gols-mas-santos-fica-so-no-empate-com-a-chapecoense/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Testamento de Dennis Carvalho: especialista explica como fazer documento",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/testamento-de-dennis-carvalho-especialista-explica-como-fazer-documento/"
-        },
-        {
-          "rank": 5,
-          "title": "Vozinha, astro de Cabo Verde, acerta com gigante sul-americano",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-astro-de-cabo-verde-acerta-com-gigante-sul-americano/"
         }
       ],
       "erro": null
@@ -189,28 +189,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Quem são os dois funcionários dos EUA que Trump quer mandar ao Brasil para questionar urnas",
+          "url": "https://noticias.r7.com/eleicoes/2026/quem-sao-os-dois-funcionarios-dos-eua-que-trump-quer-mandar-ao-brasil-para-questionar-as-urnas-25072026/"
+        },
+        {
+          "rank": 2,
           "title": "Marcella Kozinski é coroada Miss Universe Brasil 2026",
           "url": "https://record.r7.com/miss-universe-brasil/marcella-kozinski-e-coroada-miss-universe-brasil-2026-26072026/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Cachorro sumido há cinco anos reencontra família e surpreende",
           "url": "https://entretenimento.r7.com/rpet/cachorro-desaparecido-ha-cinco-anos-reencontra-familia-e-reacao-emociona-abrigo-24072026/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Chuva extrema provoca desastre na região mais seca do planeta, no Chile",
           "url": "https://noticias.r7.com/internacional/chuva-de-quatro-anos-cai-em-quatro-dias-e-provoca-desastre-na-regiao-mais-seca-do-planeta-24072026/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Cosme: 'Treta' entre Neymar e o Craque Neto ganha novo capítulo",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-contra-neto-palavroes-ironias-ataques-a-briga-em-praca-publica-que-so-traz-desgaste-ao-dois-idolos-e-a-quem-ainda-acredita-no-futebol-24072026/"
-        },
-        {
-          "rank": 5,
-          "title": "Jornal espanhol ironiza Flamengo após acerto verbal por Almada",
-          "url": "https://esportes.r7.com/prisma/blog-do-nicola/jornal-espanhol-ironiza-flamengo-apos-acerto-verbal-por-almada-23072026/"
         }
       ],
       "erro": null

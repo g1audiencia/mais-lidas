@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 22:15",
+  "atualizado_em": "25/07/2026 22:24",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+        },
+        {
+          "rank": 2,
           "title": "Deem uma chance a nossas crianças",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/deem-uma-chance-a-nossas-criancas/"
         },
         {
-          "rank": 2,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
-        },
-        {
           "rank": 3,
-          "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
-          "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 4,
-          "title": "Roubos de carros elétricos e híbridos sobem quase 130% em São Paulo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/roubos-de-carros-eletricos-e-hibridos-sobem-quase-130-em-sao-paulo/"
+          "title": "Brasil nega visto a oficiais dos Estados Unidos que pretendiam questionar urnas eleitorais",
+          "url": "https://www.estadao.com.br/politica/brasil-nega-visto-a-oficiais-dos-estados-unidos-que-pretendiam-questionar-urnas-eleitorais/"
         },
         {
           "rank": 5,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Por que ‘paquitas’ Andréa Sorvetão e Bárbara Borges não foram convidadas para show de Xuxa",
+          "url": "https://www.estadao.com.br/emais/gente/por-que-paquitas-andrea-sorvetao-e-barbara-borges-nao-foram-convidadas-para-show-de-xuxa-nprec/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
         },
         {
           "rank": 2,
-          "title": "Se escapó a la montaña con dos maestras del jardín de su hijo, quedaron varados por una tormenta de nieve y tras el rescate se desató un escándalo",
-          "url": "https://www.clarin.com/internacional/escapo-montana-maestras-jardin-hijo-quedaron-varados-tormenta-nieve-rescate-desato-escandalo_0_gZn345JP67.html"
+          "title": "River vs Barracas Central, por el Torneo Clausura: resultado, goles y cómo quedó el partido",
+          "url": "https://www.clarin.com/deportes/river-vs-barracas-central-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_rq0nkDv4Jn.html"
         },
         {
           "rank": 3,
-          "title": "River vs Barracas Central, por el Torneo Clausura: resultado, goles y cómo quedó el partido",
-          "url": "https://www.clarin.com/deportes/river-vs-barracas-central-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_rq0nkDv4Jn.html"
+          "title": "Se escapó a la montaña con dos maestras del jardín de su hijo, quedaron varados por una tormenta de nieve y tras el rescate se desató un escándalo",
+          "url": "https://www.clarin.com/internacional/escapo-montana-maestras-jardin-hijo-quedaron-varados-tormenta-nieve-rescate-desato-escandalo_0_gZn345JP67.html"
         },
         {
           "rank": 4,

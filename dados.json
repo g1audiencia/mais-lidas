@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 12:26",
+  "atualizado_em": "27/07/2026 12:32",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
         },
         {
           "rank": 2,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
-        },
-        {
-          "rank": 3,
-          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
-        },
-        {
-          "rank": 4,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
+          "rank": 3,
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+        },
+        {
+          "rank": 4,
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+        },
+        {
           "rank": 5,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+          "title": "Marcelo Gasparino pede renúncia do Conselho da Vale após denúncia de vazamento de informações",
+          "url": "https://www.estadao.com.br/economia/negocios/marcelo-gasparino-renuncia-conselho-vale-destituicao-npr/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Carly Simon reveals Parkinson's diagnosis",
-          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
-        },
-        {
-          "rank": 2,
           "title": "Devastating European wildfires in maps - and how they're being tackled",
           "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
           "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+        },
+        {
+          "rank": 3,
+          "title": "Carly Simon reveals Parkinson's diagnosis",
+          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
         },
         {
           "rank": 4,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 05:20",
+  "atualizado_em": "27/07/2026 05:25",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
         },
         {
           "rank": 4,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
           "rank": 5,
-          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
-          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
+          "title": "PT entra com ações no TSE e no STF contra mensagem de Bolsonaro em vídeo de IA",
+          "url": "https://www.estadao.com.br/politica/pt-entra-com-acoes-no-tse-e-no-stf-contra-mensagem-de-bolsonaro-em-video-de-ia/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-          "url": "https://www.bbc.com/news/articles/cvgx91vdedno"
-        },
-        {
-          "rank": 2,
           "title": "Shein swings to $99m loss as Trump tariffs hit sales",
           "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
           "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Berlin Pride attack suspect shot and killed during police operation",
           "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
+          "rank": 4,
+          "title": "Bill drafted to remove Freedom honour from Andrew",
+          "url": "https://www.bbc.com/news/articles/c0qv1dlqlp8o"
+        },
+        {
           "rank": 5,
-          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-          "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
         }
       ],
       "erro": null

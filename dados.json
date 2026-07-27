@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 02:10",
+  "atualizado_em": "27/07/2026 02:16",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 2,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
-          "rank": 2,
-          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
+          "rank": 3,
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "O psyllium realmente faz bem para a saúde?",
           "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
-          "rank": 4,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
-        },
-        {
           "rank": 5,
-          "title": "Miss Universe Brasil 2026: ‘Sonhos nunca envelhecem e eu sou a prova viva’, diz Marcella Kozinski",
-          "url": "https://www.estadao.com.br/brasil/miss-universe-brasil-2026-sonhos-nunca-envelhecem-e-eu-sou-a-prova-viva-diz-marcella-kozinski/"
+          "title": "Como educar os filhos antes que os algoritmos cheguem primeiro? Livro decifra desafio das famílias",
+          "url": "https://www.estadao.com.br/educacao/como-educar-os-filhos-antes-que-os-algoritmos-cheguem-primeiro-livro-decifra-desafio-das-familias/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-          "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
-        },
-        {
-          "rank": 3,
           "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
           "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
         },
         {
+          "rank": 3,
+          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+          "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
+        },
+        {
           "rank": 4,
-          "title": "'Most people are lovely, but we do get irresponsible visitors'",
-          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
           "rank": 5,
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Tragedia en las playas de Necochea: volcó un jeep en la arena y murió su conductor",
-          "url": "https://www.clarin.com/sociedad/tragedia-playas-necochea-volco-jeep-arena-murio-conductor_0_ltClPb3t82.html"
+          "title": "Querido Samuel",
+          "url": "https://www.clarin.com/opinion/querido-samuel_0_GbkfKA0IwO.html"
         },
         {
           "rank": 5,
-          "title": "Querido Samuel",
-          "url": "https://www.clarin.com/opinion/querido-samuel_0_GbkfKA0IwO.html"
+          "title": "Tragedia en las playas de Necochea: volcó un jeep en la arena y murió su conductor",
+          "url": "https://www.clarin.com/sociedad/tragedia-playas-necochea-volco-jeep-arena-murio-conductor_0_ltClPb3t82.html"
         }
       ],
       "erro": null

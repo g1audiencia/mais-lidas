@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 10:42",
+  "atualizado_em": "27/07/2026 10:47",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Faria Lima torce por desembarque de Flávio Bolsonaro em favor de Caiado",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/faria-lima-torce-por-desembarque-de-flavio-bolsonaro-em-favor-de-caiado.shtml"
-        },
-        {
-          "rank": 2,
           "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erotizacao-desmedida-diz-jornalista-sobre-figurino-de-xuxa.shtml"
         },
         {
+          "rank": 2,
+          "title": "Faria Lima torce por desembarque de Flávio Bolsonaro em favor de Caiado",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/faria-lima-torce-por-desembarque-de-flavio-bolsonaro-em-favor-de-caiado.shtml"
+        },
+        {
           "rank": 3,
+          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Outro Canal: Preocupada com audiência abaixo do esperado, Globo relança reprise de 'Avenida Brasil'",
           "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/preocupada-com-audiencia-abaixo-do-esperado-globo-relanca-reprise-de-avenida-brasil.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ministro da Fazenda chama Milei de palhaço e rebate críticas sobre economia brasileira",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/ministro-da-fazenda-chama-milei-de-palhaco-e-rebate-criticas-sobre-economia-brasileira.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Empregadores dos EUA temem escassez de mão de obra com a perda de proteção de imigrantes",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/empregadores-temem-escassez-de-mao-de-obra-com-a-perda-de-protecao-de-imigrantes.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
-        },
-        {
-          "rank": 3,
           "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
           "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
+          "rank": 4,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
           "rank": 5,
-          "title": "Vietnã está virando o destino mais desejado no Sudeste Asiático. Mas quer evitar erros da Tailândia",
-          "url": "https://www.estadao.com.br/viagem/vietna-tem-se-tornado-o-destino-mais-desejado-no-sudeste-asiatico-e-quer-evitar-erros-da-tailandia/"
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         }
       ],
       "erro": null

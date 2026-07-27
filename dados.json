@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 12:37",
+  "atualizado_em": "27/07/2026 12:43",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
           "rank": 3,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
-        },
-        {
-          "rank": 4,
           "title": "Durigan chama Milei de ‘palhaço’ e diz que indicadores da Argentina são piores do que os do Brasil",
           "url": "https://www.estadao.com.br/politica/durigan-chama-milei-de-palhaco-e-diz-que-indicadores-da-argentina-sao-piores-do-que-os-do-brasil/"
         },
         {
+          "rank": 4,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
           "rank": 5,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         }
       ],
       "erro": null

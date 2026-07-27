@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 12:04",
+  "atualizado_em": "27/07/2026 12:10",
   "portais": [
     {
       "portal": "Folha",
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Resposta de Miss Roraima em concurso de beleza viraliza nas redes sociais",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/26/resposta-de-miss-roraima-em-concurso-de-beleza-viraliza-nas-redes-sociais.ghtm"
+          "title": "'Carro mais bonito do Brasil' reaparece em São Paulo após sumir por décadas",
+          "url": "https://www.uol.com.br/flash/?c=764eb8b57dc6d7814c483e902074b020260724"
         }
       ],
       "erro": null
@@ -91,7 +91,7 @@
         },
         {
           "rank": 5,
-          "title": "Brasileira que desapareceu na França é encontrada após cinco dias",
+          "title": "Brasileira que desapareceu em Lyon, na França, é encontrada após cinco dias",
           "url": "https://www.cnnbrasil.com.br/nacional/brasileira-que-desapareceu-na-franca-e-encontrada-apos-cinco-dias/"
         }
       ],
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
-        },
-        {
-          "rank": 3,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
+          "rank": 3,
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+        },
+        {
           "rank": 4,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         },
         {
           "rank": 5,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
-        },
-        {
-          "rank": 2,
           "title": "Carly Simon reveals Parkinson's diagnosis",
           "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
         },
         {
-          "rank": 3,
-          "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
-          "url": "https://www.bbc.com/news/articles/c5y4w5nwk00o"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Devastating European wildfires in maps - and how they're being tackled",
           "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
         },
         {
+          "rank": 3,
+          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+        },
+        {
+          "rank": 4,
+          "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
+          "url": "https://www.bbc.com/news/articles/c5y4w5nwk00o"
+        },
+        {
           "rank": 5,
-          "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-          "url": "https://www.bbc.com/news/articles/cy9wv74qje9o"
+          "title": "Oil price dives as US and Iran pause attacks",
+          "url": "https://www.bbc.com/news/articles/clyj834jn5lo"
         }
       ],
       "erro": null

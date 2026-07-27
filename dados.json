@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 22:37",
+  "atualizado_em": "26/07/2026 22:43",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
-        },
-        {
-          "rank": 3,
-          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
-          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
-        },
-        {
-          "rank": 4,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 3,
+          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+        },
+        {
+          "rank": 4,
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+        },
+        {
           "rank": 5,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         }
       ],
       "erro": null
@@ -236,6 +236,11 @@
         },
         {
           "rank": 4,
+          "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+          "url": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72"
+        },
+        {
+          "rank": 5,
           "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
           "url": "https://apnews.com/article/hot-weather-temperatures-climate-heat-dome-65d34e4c520472c7bb1f46cd133b7952"
         }
@@ -268,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
-          "url": "https://www.bbc.com/news/articles/ckg41vn8x7ko"
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
         }
       ],
       "erro": null

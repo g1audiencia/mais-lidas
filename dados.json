@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 10:25",
+  "atualizado_em": "27/07/2026 10:31",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Especialistas discutem legalidade de uso de IA de Jair Bolsonaro em convenção do PL",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/07/27/especialistas-discutem-legalidade-de-uso-de-ia-de-jair-bolsonaro-em-convencao-do-pl.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Susto com tubarão, perrengue em carrinho e luxo em resort: como estão sendo as férias de Virgínia e Vini Jr. na Jamaica",
           "url": "https://oglobo.globo.com/cultura/noticia/2026/07/27/susto-com-tubarao-perrengue-em-carrinho-e-luxo-em-resort-como-estao-sendo-as-ferias-de-virginia-e-vini-jr-na-jamaica.ghtml"
         },
         {
+          "rank": 4,
+          "title": "Especialistas discutem legalidade de uso de IA de Jair Bolsonaro em convenção do PL",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/27/especialistas-discutem-legalidade-de-uso-de-ia-de-jair-bolsonaro-em-convencao-do-pl.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "Após risco de perder a visão, jovem passa a viajar o mundo sozinha e fica presa em caverna por três dias",
-          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/26/apos-risco-de-perder-a-visao-jovem-passa-a-viajar-o-mundo-sozinha-e-fica-presa-em-caverna-por-tres-dias.ghtml"
+          "title": "Genial/Quaest: Moro lidera todos os cenários de 1° e 2° turno ao governo do Paraná",
+          "url": "https://oglobo.globo.com/blogs/pulso/post/2026/07/genialquaest-moro-lidera-todos-os-cenarios-de-1-e-2-turno-ao-governo-do-parana.ghtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
-        },
-        {
-          "rank": 4,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
+          "rank": 4,
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+        },
+        {
           "rank": 5,
-          "title": "Vietnã está virando o destino mais desejado no Sudeste Asiático. Mas quer evitar erros da Tailândia",
-          "url": "https://www.estadao.com.br/viagem/vietna-tem-se-tornado-o-destino-mais-desejado-no-sudeste-asiatico-e-quer-evitar-erros-da-tailandia/"
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-          "url": "https://www.bbc.com/news/articles/c1l1m6e08e2o"
-        },
-        {
-          "rank": 4,
           "title": "Oil price dives as US and Iran pause attacks",
           "url": "https://www.bbc.com/news/articles/clyj834jn5lo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Bill drafted to remove Freedom honour from Andrew",
           "url": "https://www.bbc.com/news/articles/c0qv1dlqlp8o"
+        },
+        {
+          "rank": 5,
+          "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+          "url": "https://www.bbc.com/news/articles/c1l1m6e08e2o"
         }
       ],
       "erro": null

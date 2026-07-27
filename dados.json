@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 19:06",
+  "atualizado_em": "27/07/2026 19:12",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Câncer transmissível: entenda a doença identificada pela 1ª vez em peixes de lago entre EUA e Canadá",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/cancer-transmissivel-entenda-a-doenca-identificada-pela-1a-vez-entre-peixes-no-canada.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Fátima Bernardes revela conselho que recebeu da filha quando contou sobre namoro com Túlio Gadêlha, que ela define como 'leve'; assista",
           "url": "https://oglobo.globo.com/cultura/noticia/2026/07/27/fatima-bernardes-revela-conselho-que-recebeu-da-filha-quando-contou-sobre-namoro-com-tulio-gadelha-que-ela-define-como-leve.ghtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Botafogo abre conversas com Zenit para repatriar Luiz Henrique, mas negociação desperta receio nos bastidores da SAF",
           "url": "https://oglobo.globo.com/esportes/futebol/botafogo/noticia/2026/07/27/botafogo-abre-conversas-com-o-zenit-para-repatriar-luiz-henrique-mas-negociacao-gera-ceticismo-nos-bastidores-da-saf.ghtml"
+        },
+        {
+          "rank": 5,
+          "title": "Câncer transmissível: entenda a doença identificada pela 1ª vez em peixes de lago entre EUA e Canadá",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/cancer-transmissivel-entenda-a-doenca-identificada-pela-1a-vez-entre-peixes-no-canada.ghtml"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Aníbal Fernández, contra Máximo Kirchner y la campaña de La Cámpora: \"No me vas a ver como un pelotudo con el cartel 'Cristina libre'\"",
-          "url": "https://www.clarin.com/politica/anibal-fernandez-maximo-kirchner-campana-campora-vas-ver-pelotudo-cartel-cristina-libre_0_NmxwNA1p0P.html"
+          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
+          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
         },
         {
           "rank": 5,
-          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
-          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
+          "title": "\"Carne de cañón\" argentina: alerta de Interpol por una red que recluta ex policías y militares para la guerra en Ucrania",
+          "url": "https://www.clarin.com/policiales/carne-canon-argentina-alerta-interpol-red-recluta-ex-policias-militares-guerra-ucrania_0_Ta6V1e0KEE.html"
         }
       ],
       "erro": null

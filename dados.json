@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 03:27",
+  "atualizado_em": "27/07/2026 03:32",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Nissan Versa 2027 chega ao Brasil sem reestilização e com preços mais altos",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-versa-2027-chega-ao-brasil-sem-reestilizacao-e-com-precos-mais-altos/"
+        },
+        {
+          "rank": 3,
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+        },
+        {
+          "rank": 4,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
-          "rank": 3,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 4,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
-        },
-        {
           "rank": 5,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "A história do Bolo Divino: ele conquistou o público - mas não está disponível em nenhuma doceria",
+          "url": "https://www.estadao.com.br/paladar/comida/bolo-divino-da-bibla-conheca-a-historia-da-receita-que-transformou-uma-livraria-em-point-gastronomico/"
         }
       ],
       "erro": null
@@ -231,11 +231,16 @@
         },
         {
           "rank": 3,
+          "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux",
+          "url": "https://apnews.com/article/europe-wildfires-france-spain-bordeaux-5b9b063bdcf9b69867fa71ba31be8aa5"
+        },
+        {
+          "rank": 4,
           "title": "Scrutiny of WNBA intensifies as mounting discord around the league looms over All-Star festivities",
           "url": "https://apnews.com/article/wnba-allstar-race-caitlin-clark-angel-reese-df5ab15ce147704b31aa5880226c402f"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "As Trump boosts nuclear power, regulators seek to eliminate a longstanding radiation safety practice",
           "url": "https://apnews.com/article/nuclear-regulatory-commission-radiation-protection-cancer-exposure-e826975521db31e166e8d291ef355908"
         }

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 21:41",
+  "atualizado_em": "26/07/2026 21:47",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Veja a tabela do Campeonato Brasileiro",
+          "title": "Veja a classificação e todos os resultados da 20ª rodada do Brasileirão",
           "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         },
         {
           "rank": 2,
-          "title": "Flamengo sai na frente, mas São Paulo arranca empate e ajuda o Palmeiras",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/brasileiro---flamengo-x-sao-paulo---como-foi-o-jogo.ghtm"
+          "title": "Atlético-MG aproveita falhas e vence o Palmeiras, que perde chance de disparar",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/palmeiras-x-atletico-mg-como-foi-o-jogo-pelo-brasileirao.ghtm"
         },
         {
           "rank": 3,
-          "title": "Governo Lula convoca embaixador de Milei em escalada de crise diplomática",
-          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/26/governo-convocou-embaixador-da-argentina-por-ataques-de-milei-a-lula.htm"
+          "title": "Carlos Miguel, do Palmeiras, falha feio e entrega gol ao Atlético-MG",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/carlos-miguel-do-palmeiras-falha-e-entrega-gol-do-atletico-mg.ghtm"
         },
         {
           "rank": 4,
-          "title": "Paciente descobre gravidez avançada e dá à luz em Noronha, onde parto é proibido",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/26/paciente-nega-gravidez-e-da-a-luz-em-noronha-onde-parto-e-proibido.ghtm"
+          "title": "Resposta de Miss Roraima em concurso de beleza viraliza nas redes sociais",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/26/resposta-de-miss-roraima-em-concurso-de-beleza-viraliza-nas-redes-sociais.ghtm"
         },
         {
           "rank": 5,
-          "title": "Resposta de Miss Roraima em concurso de beleza viraliza nas redes sociais",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/26/resposta-de-miss-roraima-em-concurso-de-beleza-viraliza-nas-redes-sociais.ghtm"
+          "title": "Paciente descobre gravidez avançada e dá à luz em Noronha, onde parto é proibido",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/26/paciente-nega-gravidez-e-da-a-luz-em-noronha-onde-parto-e-proibido.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 3,
           "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
           "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
         },
         {
+          "rank": 3,
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+        },
+        {
           "rank": 4,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 5,
-          "title": "São Paulo joga bem, busca empate com o Flamengo, mas segue com jejum de vitórias no Brasileirão",
-          "url": "https://www.estadao.com.br/esportes/futebol/flamengo-x-sao-paulo-brasileirao-2026-20a-rodada-analise/"
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
         },
         {
           "rank": 3,
-          "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
-          "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
-        },
-        {
-          "rank": 4,
           "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
           "url": "https://www.bbc.com/news/articles/ckg41vn8x7ko"
         },
         {
+          "rank": 4,
+          "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+          "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
+        },
+        {
           "rank": 5,
-          "title": "Would you pay $58.5m to live in this iconic New York building?",
-          "url": "https://www.bbc.com/news/articles/c20e5r1pvvdo"
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
         }
       ],
       "erro": null

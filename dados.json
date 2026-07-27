@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 22:48",
+  "atualizado_em": "26/07/2026 22:54",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 2,
           "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
           "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Acidente da Voepass: ‘Empresa nos enviava informações falsas’, diz presidente da Anac",
           "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-empresa-nos-enviava-informacoes-falsas-diz-presidente-da-anac/"
+        },
+        {
+          "rank": 3,
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "Riestra, con un primer tiempo perfecto y un golazo de colección, le dio un enorme llamado de atención al Boca de Arruabarrena",
-          "url": "https://www.clarin.com/deportes/deportivo-riestra-vs-boca-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_BYriQqxvl9.html"
+          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
+          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
         },
         {
           "rank": 3,
-          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
-          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
+          "title": "Riestra, con un primer tiempo perfecto y un golazo de colección, le dio un enorme llamado de atención al Boca de Arruabarrena",
+          "url": "https://www.clarin.com/deportes/deportivo-riestra-vs-boca-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_BYriQqxvl9.html"
         },
         {
           "rank": 4,

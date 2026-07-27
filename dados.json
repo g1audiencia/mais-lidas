@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 16:40",
+  "atualizado_em": "27/07/2026 16:46",
   "portais": [
     {
       "portal": "Folha",
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
+          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
+          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Quem é o eleitor que não quer nem Lula nem Bolsonaro e defende ‘nova via’, segundo a BTG/Nexus",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/quem-e-o-eleitor-que-nao-quer-nem-lula-nem-bolsonaro-e-defende-nova-via-segundo-a-btgnexus/"
+          "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
+          "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
         }
       ],
       "erro": null
@@ -236,7 +236,7 @@
         },
         {
           "rank": 4,
-          "title": "US appeals court upholds injunction that blocks Trump’s order to create federal voter list",
+          "title": "Trump praises his sweeping tariffs while in Michigan for a speech on the economy",
           "url": "https://apnews.com/live/donald-trump-news-updates-07-27-2026"
         },
         {
@@ -281,35 +281,9 @@
     },
     {
       "portal": "Clarín",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
-          "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
-        },
-        {
-          "rank": 2,
-          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
-          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
-        },
-        {
-          "rank": 3,
-          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
-          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
-        },
-        {
-          "rank": 4,
-          "title": "Los cuatro problemas que dejó el \"mazazo\" que recibió Boca ante Riestra: el arco, los suplentes, el \"9\" y la actitud",
-          "url": "https://www.clarin.com/deportes/problemas-dejo-mazazo-recibio-boca-riestra-arco-suplentes-9-actitud_0_XfgmATuQmC.html"
-        },
-        {
-          "rank": 5,
-          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
-          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "esperava ao menos 3 itens, achei 2"
     }
   ]
 }

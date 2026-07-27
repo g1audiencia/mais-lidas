@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 13:26",
+  "atualizado_em": "27/07/2026 13:32",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
-        },
-        {
-          "rank": 2,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
-          "rank": 3,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
+          "rank": 3,
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
+        },
+        {
+          "rank": 4,
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+        },
+        {
           "rank": 5,
-          "title": "Durigan chama Milei de ‘palhaço’ e diz que indicadores da Argentina são piores do que os do Brasil",
-          "url": "https://www.estadao.com.br/politica/durigan-chama-milei-de-palhaco-e-diz-que-indicadores-da-argentina-sao-piores-do-que-os-do-brasil/"
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "Exclusive: In a Ukrainian bomb shelter, Laura Loomer explains shift on Russia’s war",
+          "url": "https://apnews.com/article/laura-loomer-trump-ukraine-russia-interview-101852f6deab17e1d8d215fdde675ee5"
+        },
+        {
+          "rank": 4,
           "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
           "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "As Trump boosts nuclear power, regulators seek to eliminate a longstanding radiation safety practice",
           "url": "https://apnews.com/article/nuclear-regulatory-commission-radiation-protection-cancer-exposure-e826975521db31e166e8d291ef355908"
-        },
-        {
-          "rank": 5,
-          "title": "US appeals court upholds injunction that blocks Trump’s order to create a federal voter list",
-          "url": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-8bfb1f787f84fc60f9b6b284794b18b5"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Carly Simon reveals Parkinson's diagnosis",
-          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
+          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
         },
         {
           "rank": 3,
-          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+          "title": "Carly Simon reveals Parkinson's diagnosis",
+          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
         },
         {
           "rank": 4,

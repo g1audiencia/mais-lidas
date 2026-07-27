@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 06:52",
+  "atualizado_em": "27/07/2026 06:58",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Atlético-MG aproveita falhas e vence o Palmeiras, que perde chance de disparar",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/palmeiras-x-atletico-mg-como-foi-o-jogo-pelo-brasileirao.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Carlos Miguel, do Palmeiras, falha feio e entrega gol ao Atlético-MG",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/carlos-miguel-do-palmeiras-falha-e-entrega-gol-do-atletico-mg.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Resposta de Miss Roraima em concurso de beleza viraliza nas redes sociais",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/26/resposta-de-miss-roraima-em-concurso-de-beleza-viraliza-nas-redes-sociais.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Paciente descobre gravidez avançada e dá à luz em Noronha, onde parto é proibido",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/26/paciente-nega-gravidez-e-da-a-luz-em-noronha-onde-parto-e-proibido.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "Governador de Buenos Aires chama de 'vergonha' ofensas de Milei no Brasil",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/governador-de-buenos-aires-chama-de-vergonha-ofensas-de-milei-no-brasil.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Corredor passa mal e morre após participar de maratona em São Paulo",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/26/morre-julio-barreto-corredor-maratona.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
-        },
-        {
-          "rank": 2,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 3,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 4,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
+          "rank": 2,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 3,
+          "title": "Se não fizer ajuste fiscal no primeiro ano, vai pegar fogo na mão de Lula, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevsita-mendonca-de-barros-ajuste-fiscal-primeiro-ano-fogo-mao-lula/"
+        },
+        {
+          "rank": 4,
+          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
+        },
+        {
           "rank": 5,
-          "title": "Lula aumenta gastos com publicidade em ano eleitoral e bate recorde da Presidência",
-          "url": "https://www.estadao.com.br/politica/lula-aumenta-gastos-com-publicidade-em-ano-eleitoral-e-bate-recorde-da-presidencia/"
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 10:03",
+  "atualizado_em": "27/07/2026 10:09",
   "portais": [
     {
       "portal": "Folha",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Lula aumenta gastos com publicidade em ano eleitoral e bate recorde da Presidência",
-          "url": "https://www.estadao.com.br/politica/lula-aumenta-gastos-com-publicidade-em-ano-eleitoral-e-bate-recorde-da-presidencia/"
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Una nueva encuesta electoral midió el voto anti Milei vs. el voto anti peronista: 2,6 puntos de diferencia",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-midio-voto-anti-milei-vs-voto-anti-peronista-26-puntos-diferencia_0_QtFZVjYXS1.html"
-        },
-        {
-          "rank": 4,
           "title": "La intimidad en el palco de Palermo: Javier Milei aclamado y Sandra Pettovello, tan popular como Luis Caputo y Patricia Bullrich",
           "url": "https://www.clarin.com/economia/intimidad-palco-palermo-pettovello-popular-caputo-bullrich_0_8oRYE6TRIG.html"
         },
         {
+          "rank": 4,
+          "title": "Una nueva encuesta electoral midió el voto anti Milei vs. el voto anti peronista: 2,6 puntos de diferencia",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-midio-voto-anti-milei-vs-voto-anti-peronista-26-puntos-diferencia_0_QtFZVjYXS1.html"
+        },
+        {
           "rank": 5,
-          "title": "Lo contrataron por un mes para atender el teléfono en Radio Mitre y hoy brilla con Ariel Tarico y Rolo Villar",
-          "url": "https://www.clarin.com/historias/contrataron-mes-atender-telefono-radio-mitre-hoy-brilla-ariel-tarico-rolo-villar_0_8e9xaLesgH.html"
+          "title": "Análisis del nuevo Fiat 600: cómo anda el \"Fitito\" que cambió de formato y es híbrido",
+          "url": "https://www.clarin.com/autos/analisis-nuevo-fiat-600-anda-fitito-cambio-formato-hibrido_0_iiHRwKJE90.html"
         }
       ],
       "erro": null

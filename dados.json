@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 06:25",
+  "atualizado_em": "27/07/2026 06:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 3,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
           "rank": 4,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         },
         {
           "rank": 5,
-          "title": "Com US$ 9 trilhões em jogo no Brasil, bancos e family offices disputam novas gerações de herdeiros",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/com-us-9-trilhoes-em-jogo-no-brasil-bancos-e-family-offices-disputam-novas-geracoes-de-herdeiros/"
+          "title": "Se não fizer ajuste fiscal no primeiro ano, vai pegar fogo na mão de Lula, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevsita-mendonca-de-barros-ajuste-fiscal-primeiro-ano-fogo-mao-lula/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
+          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+        },
+        {
+          "rank": 3,
           "title": "A 75-year All-Ireland wait, an infamous curse, and an American president",
           "url": "https://www.bbc.com/news/articles/cqx74qw9ggjo"
         },
         {
-          "rank": 3,
-          "title": "'Most people are lovely, but we do get irresponsible visitors'",
-          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
-        },
-        {
           "rank": 4,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
           "rank": 5,
-          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+          "title": "'Most people are lovely, but we do get irresponsible visitors'",
+          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
         }
       ],
       "erro": null

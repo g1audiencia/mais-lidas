@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 07:30",
+  "atualizado_em": "27/07/2026 07:36",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
-        },
-        {
-          "rank": 3,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 4,
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+        },
+        {
           "rank": 5,
-          "title": "Moro lidera cenários de 1º e 2º turno no Paraná, aponta Genial/Quaest",
-          "url": "https://www.estadao.com.br/politica/moro-lidera-cenarios-de-1-e-2-turno-no-parana-aponta-genialquaest/"
+          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Police arrest 1 person and search for another after Seattle festival shooting that killed 3",
+          "url": "https://apnews.com/article/seattle-shooting-space-needle-92628a1f1597e32ba44d6a2de3272646"
+        },
+        {
+          "rank": 2,
           "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
           "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux",
           "url": "https://apnews.com/article/europe-wildfires-france-spain-bordeaux-5b9b063bdcf9b69867fa71ba31be8aa5"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Scrutiny of WNBA intensifies as mounting discord around the league looms over All-Star festivities",
           "url": "https://apnews.com/article/wnba-allstar-race-caitlin-clark-angel-reese-df5ab15ce147704b31aa5880226c402f"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "As Trump boosts nuclear power, regulators seek to eliminate a longstanding radiation safety practice",
           "url": "https://apnews.com/article/nuclear-regulatory-commission-radiation-protection-cancer-exposure-e826975521db31e166e8d291ef355908"
-        },
-        {
-          "rank": 5,
-          "title": "Van slams into crowd at Berlin Pride festival, killing 1 and injuring 16, as police identify suspect",
-          "url": "https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f"
         }
       ],
       "erro": null

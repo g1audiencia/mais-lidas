@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 14:16",
+  "atualizado_em": "27/07/2026 14:21",
   "portais": [
     {
       "portal": "Folha",
@@ -22,8 +22,8 @@
         },
         {
           "rank": 4,
-          "title": "O show de Milei",
-          "url": "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/07/o-show-de-milei.shtml"
+          "title": "Ex de filha de Ana Maria Braga questiona medida protetiva e se recusa a assinar divórcio",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/ex-de-filha-de-ana-maria-braga-desafia-medida-protetiva-e-se-recusa-a-assinar-divorcio.shtml"
         },
         {
           "rank": 5,
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
+          "title": "Câncer transmissível: entenda a doença identificada pela 1ª vez em peixes de lago entre EUA e Canadá",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/cancer-transmissivel-entenda-a-doenca-identificada-pela-1a-vez-entre-peixes-no-canada.ghtml"
+        },
+        {
+          "rank": 4,
           "title": "Susto com tubarão, perrengue em carrinho e luxo em resort: como estão sendo as férias de Virgínia e Vini Jr. na Jamaica",
           "url": "https://oglobo.globo.com/cultura/noticia/2026/07/27/susto-com-tubarao-perrengue-em-carrinho-e-luxo-em-resort-como-estao-sendo-as-ferias-de-virginia-e-vini-jr-na-jamaica.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Genial/Quaest: Moro lidera todos os cenários de 1° e 2° turno ao governo do Paraná",
           "url": "https://oglobo.globo.com/blogs/pulso/post/2026/07/genialquaest-moro-lidera-todos-os-cenarios-de-1-e-2-turno-ao-governo-do-parana.ghtml"
-        },
-        {
-          "rank": 5,
-          "title": "Câncer transmissível: entenda a doença identificada pela 1ª vez em peixes de lago entre EUA e Canadá",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/cancer-transmissivel-entenda-a-doenca-identificada-pela-1a-vez-entre-peixes-no-canada.ghtml"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "BRB pagou R$ 12 bilhões ao Master e recebeu guardanapo, diz Durigan",
-          "url": "https://www.metropoles.com/colunas/grande-angular/brb-pagou-r-12-bilhoes-ao-master-e-recebeu-guardanapo-diz-ministro"
+          "title": "Candidato oficial do Novo à Presidência, Zema elege PT e STF como adversários",
+          "url": "https://www.metropoles.com/brasil/novo-oficializa-a-candidatura-de-romeu-zema-a-presidencia-da-republica"
         },
         {
           "rank": 3,
-          "title": "Candidato oficial do Novo à Presidência, Zema elege PT e STF como adversários",
-          "url": "https://www.metropoles.com/brasil/novo-oficializa-a-candidatura-de-romeu-zema-a-presidencia-da-republica"
+          "title": "Forças de segurança simulam queda de avião na área central de Brasília",
+          "url": "https://www.metropoles.com/distrito-federal/forcas-de-seguranca-simulam-queda-de-aviao-na-area-central-de-brasilia"
         }
       ],
       "erro": null

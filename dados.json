@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 05:41",
+  "atualizado_em": "27/07/2026 05:47",
   "portais": [
     {
       "portal": "Folha",
@@ -35,35 +35,9 @@
     },
     {
       "portal": "UOL",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Veja a classificação e todos os resultados da 20ª rodada do Brasileirão",
-          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
-        },
-        {
-          "rank": 2,
-          "title": "Atlético-MG aproveita falhas e vence o Palmeiras, que perde chance de disparar",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/palmeiras-x-atletico-mg-como-foi-o-jogo-pelo-brasileirao.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Carlos Miguel, do Palmeiras, falha feio e entrega gol ao Atlético-MG",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/26/carlos-miguel-do-palmeiras-falha-e-entrega-gol-do-atletico-mg.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Resposta de Miss Roraima em concurso de beleza viraliza nas redes sociais",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/26/resposta-de-miss-roraima-em-concurso-de-beleza-viraliza-nas-redes-sociais.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Paciente descobre gravidez avançada e dá à luz em Noronha, onde parto é proibido",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/26/paciente-nega-gravidez-e-da-a-luz-em-noronha-onde-parto-e-proibido.ghtm"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "403 Client Error: Forbidden for url: https://www.uol.com.br/"
     },
     {
       "portal": "CNN Brasil",
@@ -135,28 +109,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
-          "rank": 3,
-          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
-          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
+          "rank": 3,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 4,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
           "rank": 5,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         }
       ],
       "erro": null
@@ -258,18 +232,18 @@
         },
         {
           "rank": 2,
+          "title": "A 75-year All-Ireland wait, an infamous curse, and an American president",
+          "url": "https://www.bbc.com/news/articles/cqx74qw9ggjo"
+        },
+        {
+          "rank": 3,
           "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
           "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Berlin Pride attack suspect shot and killed during police operation",
           "url": "https://www.bbc.com/news/articles/c62eg899l99o"
-        },
-        {
-          "rank": 4,
-          "title": "Bill drafted to remove Freedom honour from Andrew",
-          "url": "https://www.bbc.com/news/articles/c0qv1dlqlp8o"
         },
         {
           "rank": 5,

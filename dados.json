@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 18:00",
+  "atualizado_em": "27/07/2026 18:06",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
+          "title": "Mais de 30 deputados argentinos repudiam Milei por ataques ao Brasil",
+          "url": "https://noticias.uol.com.br/colunas/joao-paulo-charleaux/2026/07/27/mais-de-30-deputados-argentinos-repudiam-milei-por-ataques-ao-brasil.htm"
+        },
+        {
+          "rank": 4,
           "title": "Menina prometida em casamento para quitar dívida é resgatada em Lisboa",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/policia-de-portugal-resgata-menina-de-12-anos-em-lisboa-e-prende-mulher.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ex-presidente argentino chama Milei de 'energúmeno' após visita ao Brasil",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/alberto-fernandez-chama-milei-de-energumeno-apos-visita-ao-brasil.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Amiga de mulher desaparecida em trilha no Paraná fraturou a coluna, diz família",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/27/amiga-de-mulher-desaparecida-em-trilha-no-parana-fraturou-a-coluna.ghtm"
         }
       ],
       "erro": null
@@ -177,8 +177,8 @@
         },
         {
           "rank": 3,
-          "title": "Aliados de Zema admitem que Joaquim Barbosa não deve ser vice",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-zema-admitem-que-joaquim-barbosa-nao-deve-ser-vice"
+          "title": "Preso na Farra do INSS faz vaquinha por advogados e arrecada 0,25%",
+          "url": "https://www.metropoles.com/colunas/tacio-lorran/preso-na-farra-do-inss-faz-vaquinha-por-advogados-mas-arrecada-025"
         }
       ],
       "erro": null

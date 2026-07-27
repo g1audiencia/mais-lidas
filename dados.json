@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 20:13",
+  "atualizado_em": "27/07/2026 20:19",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Em crise, Itália enfrenta dificuldades para encontrar treinador, e brasileiro vira opção",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/em-crise-italia-enfrenta-dificuldades-para-encontrar-treinador-e-brasileiro-vira-opcao.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
-        },
-        {
-          "rank": 2,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
+          "rank": 2,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
           "rank": 3,
-          "title": "‘Quem é esse cara?’, reage Lula sobre declarações de Milei no Brasil",
-          "url": "https://www.estadao.com.br/politica/quem-e-esse-cara-reage-lula-sobre-declaracoes-de-milei-no-brasil/"
+          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null
@@ -231,13 +231,13 @@
         },
         {
           "rank": 3,
-          "title": "Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children",
-          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-b70bfa592ea1c0fbdc62792e4e7b9be6"
+          "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police",
+          "url": "https://apnews.com/article/germany-berlin-lgbtq-pride-parade-van-ramming-3ba5e3f1becffd0da5f47b29aa08da9d"
         },
         {
           "rank": 4,
-          "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police",
-          "url": "https://apnews.com/article/germany-berlin-lgbtq-pride-parade-van-ramming-3ba5e3f1becffd0da5f47b29aa08da9d"
+          "title": "Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children",
+          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-b70bfa592ea1c0fbdc62792e4e7b9be6"
         },
         {
           "rank": 5,

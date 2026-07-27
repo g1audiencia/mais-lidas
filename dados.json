@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 06:36",
+  "atualizado_em": "27/07/2026 06:41",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 3,
           "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
         },
         {
+          "rank": 2,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 3,
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+        },
+        {
           "rank": 4,
-          "title": "‘Usar IA para fazer campanha é lícito, mas não pode usar para prejudicar alguém’, diz Nunes Marques",
-          "url": "https://www.estadao.com.br/politica/usar-ia-para-fazer-campanha-e-licito-mas-nao-pode-usar-para-prejudicar-alguem-diz-nunes-marques/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
           "rank": 5,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
         }
       ],
       "erro": null
@@ -253,23 +253,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-          "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
-        },
-        {
-          "rank": 2,
           "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
           "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
         },
         {
+          "rank": 2,
+          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+          "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
+        },
+        {
           "rank": 3,
-          "title": "A 75-year All-Ireland wait, an infamous curse, and an American president",
-          "url": "https://www.bbc.com/news/articles/cqx74qw9ggjo"
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
           "rank": 4,
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
+          "title": "'Don't sit under trees' alert as hot spell goes on",
+          "url": "https://www.bbc.com/news/articles/cy4km121rjdo"
         },
         {
           "rank": 5,

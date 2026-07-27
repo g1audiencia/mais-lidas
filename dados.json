@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 21:08",
+  "atualizado_em": "26/07/2026 21:13",
   "portais": [
     {
       "portal": "Folha",
@@ -108,18 +108,18 @@
         },
         {
           "rank": 2,
-          "title": "Versão IA de Bolsonaro em Convenção do PL levanta debate sobre uso em campanha eleitoral; veja quais são as regras",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/26/versao-ia-de-bolsonaro-em-convencao-do-pl-levanta-debate-sobre-uso-em-campanha-eleitoral-veja-quais-sao-as-regras.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Além de engenheira brasileira, adolescente de Goiânia e amiga de Cabo Verde desapareceram na França na semana passada",
           "url": "https://oglobo.globo.com/brasil/noticia/2026/07/26/alem-de-engenheira-brasileira-adolescente-de-goiania-e-amiga-de-cabo-verde-desapareceram-na-franca-na-semana-passada.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
           "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "Versão IA de Bolsonaro em Convenção do PL levanta debate sobre uso em campanha eleitoral; veja quais são as regras",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/26/versao-ia-de-bolsonaro-em-convencao-do-pl-levanta-debate-sobre-uso-em-campanha-eleitoral-veja-quais-sao-as-regras.ghtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
+          "rank": 3,
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+        },
+        {
+          "rank": 4,
           "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
           "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
           "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
-        },
-        {
-          "rank": 4,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
-        },
-        {
-          "rank": 5,
-          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
-          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
         }
       ],
       "erro": null

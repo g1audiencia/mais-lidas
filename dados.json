@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 18:33",
+  "atualizado_em": "27/07/2026 18:39",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 2,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
-        },
-        {
-          "rank": 3,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
+          "rank": 2,
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
+        },
+        {
+          "rank": 3,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
           "rank": 4,
-          "title": "Flávio vê espólio de Jair Bolsonaro derreter no berço político da família",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/flavio-ve-espolio-de-jair-bolsonaro-derreter-no-berco-politico-da-familia/"
+          "title": "Erosão no Lulismo e denúncias contra Flávio podem favorecer 3º via, apontam institutos",
+          "url": "https://www.estadao.com.br/politica/erosao-no-lulismo-e-denuncias-contra-flavio-podem-favorecer-3-via-apontam-institutos/"
         },
         {
           "rank": 5,
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "McConnell out of hospital but not yet cleared to return to work, doctors say",
-          "url": "https://www.bbc.com/news/articles/c5yd8k3rgj7o"
+          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
           "rank": 3,
-          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
+          "title": "McConnell out of hospital but not yet cleared to return to work, doctors say",
+          "url": "https://www.bbc.com/news/articles/c5yd8k3rgj7o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Carly Simon reveals Parkinson's diagnosis",
-          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
         }
       ],
       "erro": null

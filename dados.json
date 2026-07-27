@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 19:17",
+  "atualizado_em": "27/07/2026 19:23",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Morre sobrevivente do acidente com o césio-137 em Goiás",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/morre-sobrevivente-do-acidente-com-o-cesio-137-em-goias.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Dois novos casos de pessoas consideradas curadas do HIV são anunciados",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/dois-novos-casos-de-pessoas-consideradas-curadas-do-hiv-sao-anunciados.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Em crise, Itália enfrenta dificuldades para encontrar treinador, e brasileiro vira opção",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/em-crise-italia-enfrenta-dificuldades-para-encontrar-treinador-e-brasileiro-vira-opcao.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
         }
       ],
       "erro": null

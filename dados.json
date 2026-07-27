@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 01:43",
+  "atualizado_em": "27/07/2026 01:48",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erotizacao-desmedida-diz-jornalista-sobre-figurino-de-xuxa.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Faria Lima torce por desembarque de Flávio Bolsonaro em favor de Caiado",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/faria-lima-torce-por-desembarque-de-flavio-bolsonaro-em-favor-de-caiado.shtml"
         },
         {
+          "rank": 2,
+          "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erotizacao-desmedida-diz-jornalista-sobre-figurino-de-xuxa.shtml"
+        },
+        {
           "rank": 3,
-          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
-          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
+          "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
         },
         {
           "rank": 4,
-          "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
+          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
+          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
-        },
-        {
-          "rank": 3,
           "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
           "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
+          "rank": 3,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
           "rank": 4,
-          "title": "Dia da avó: redescubra 9 receitas de bolo que aquecem o coração de qualquer um",
-          "url": "https://www.estadao.com.br/paladar/caderno-de-receitas/fuba-cozido-maca-rustica-e-cenoura-9-receitas-de-bolo-com-gosto-de-casa-de-avo/"
+          "title": "Ex-ministro do STF Octavio Gallotti morre aos 95 anos",
+          "url": "https://www.estadao.com.br/politica/ex-ministro-do-stf-octavio-gallotti-morre-aos-95-anos/"
         },
         {
           "rank": 5,
-          "title": "Incêndio florestal chega a 15 km de Bordeaux e prefeito não descarta esvaziar a cidade",
-          "url": "https://www.estadao.com.br/internacional/incendio-florestal-chega-a-15-km-de-bordeaux-e-prefeito-nao-descarta-esvaziar-a-cidade-npr/"
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         }
       ],
       "erro": null

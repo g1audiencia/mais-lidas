@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 22:14",
+  "atualizado_em": "26/07/2026 22:19",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Vídeo de IA só viola prisão domiciliar se Bolsonaro participou ou consentiu, diz advogado",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/video-de-ia-so-viola-prisao-domiciliar-se-bolsonaro-participou-ou-consentiu-diz-advogado.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Zé Felipe aparece de mãos dadas com Lara Jucá após show no Rio; conheça influenciadora",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/ze-felipe-aparece-de-maos-dadas-com-lara-juca-apos-show-no-rio-conheca-influenciadora.shtml"
         },
         {
-          "rank": 3,
-          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
-          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
-        },
-        {
           "rank": 4,
-          "title": "Após pausa, Ronaldo planeja nova SAF com Roberto Carlos no interior de SP",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/apos-pausa-ronaldo-planeja-nova-saf-com-roberto-carlos-no-interior-de-sp.shtml"
+          "title": "Calderano vence tri no Brasil, quebra jejum de um ano no WTT e é aclamado no país",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/calderano-vence-tri-no-brasil-quebra-jejum-de-um-ano-no-wtt-e-e-aclamado-em-seu-pais.shtml"
         },
         {
           "rank": 5,
-          "title": "De luto, Berlim discute homofobia e uso político de atentado contra parada LGBT+",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/de-luto-berlim-discute-homofobia-e-uso-politico-de-atentado-contra-parada-lgbt.shtml"
+          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
+          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
           "rank": 3,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
           "rank": 4,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
+          "title": "Acidente da Voepass: ‘Empresa nos enviava informações falsas’, diz presidente da Anac",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-empresa-nos-enviava-informacoes-falsas-diz-presidente-da-anac/"
         },
         {
           "rank": 5,
-          "title": "Como educar os filhos antes que os algoritmos cheguem primeiro? Livro decifra desafio das famílias",
-          "url": "https://www.estadao.com.br/educacao/como-educar-os-filhos-antes-que-os-algoritmos-cheguem-primeiro-livro-decifra-desafio-das-familias/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null
@@ -217,9 +217,25 @@
     },
     {
       "portal": "AP",
-      "ok": false,
-      "items": [],
-      "erro": "esperava ao menos 3 itens, achei 2"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
+          "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1"
+        },
+        {
+          "rank": 2,
+          "title": "Van slams into crowd at Berlin Pride festival, killing 1 and injuring 16, as police identify suspect",
+          "url": "https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f"
+        },
+        {
+          "rank": 3,
+          "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
+          "url": "https://apnews.com/article/hot-weather-temperatures-climate-heat-dome-65d34e4c520472c7bb1f46cd133b7952"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "BBC News",

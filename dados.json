@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 19:51",
+  "atualizado_em": "27/07/2026 19:56",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 4,
           "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
           "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
           "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
+        },
+        {
+          "rank": 5,
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
+          "title": "Pentagon’s official Iran war death toll no longer lists 4 troops killed during renewed fighting",
+          "url": "https://apnews.com/article/iran-war-casualty-count-pentagon-us-troops-4c578fc74746052627b1c87845fdc0d5"
+        },
+        {
+          "rank": 3,
           "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police",
           "url": "https://apnews.com/article/germany-berlin-lgbtq-pride-parade-van-ramming-3ba5e3f1becffd0da5f47b29aa08da9d"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children",
           "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-b70bfa592ea1c0fbdc62792e4e7b9be6"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump praises his sweeping tariffs while in Michigan for a speech on the economy",
           "url": "https://apnews.com/live/donald-trump-news-updates-07-27-2026"
-        },
-        {
-          "rank": 5,
-          "title": "Exclusive: In a Ukrainian bomb shelter, Laura Loomer explains shift on Russia’s war",
-          "url": "https://apnews.com/article/laura-loomer-trump-ukraine-russia-interview-101852f6deab17e1d8d215fdde675ee5"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 01:02",
+  "atualizado_em": "27/07/2026 01:08",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
-          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 2,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
           "rank": 3,
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+        },
+        {
+          "rank": 4,
           "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
           "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
-        },
-        {
-          "rank": 5,
-          "title": "Incêndio florestal chega a 15 km de Bordeaux e prefeito não descarta esvaziar a cidade",
-          "url": "https://www.estadao.com.br/internacional/incendio-florestal-chega-a-15-km-de-bordeaux-e-prefeito-nao-descarta-esvaziar-a-cidade-npr/"
         }
       ],
       "erro": null
@@ -238,11 +238,6 @@
           "rank": 4,
           "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
           "url": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72"
-        },
-        {
-          "rank": 5,
-          "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
-          "url": "https://apnews.com/article/hot-weather-temperatures-climate-heat-dome-65d34e4c520472c7bb1f46cd133b7952"
         }
       ],
       "erro": null

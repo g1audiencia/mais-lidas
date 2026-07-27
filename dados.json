@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 05:58",
+  "atualizado_em": "27/07/2026 06:03",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "PT entra com ações no TSE e no STF contra mensagem de Bolsonaro em vídeo de IA",
-          "url": "https://www.estadao.com.br/politica/pt-entra-com-acoes-no-tse-e-no-stf-contra-mensagem-de-bolsonaro-em-video-de-ia/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
           "rank": 3,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
-        },
-        {
-          "rank": 4,
           "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
           "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
         },
         {
+          "rank": 4,
+          "title": "Acidente da Voepass: ‘Empresa nos enviava informações falsas’, diz presidente da Anac",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-empresa-nos-enviava-informacoes-falsas-diz-presidente-da-anac/"
+        },
+        {
           "rank": 5,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null

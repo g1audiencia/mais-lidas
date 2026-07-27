@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 09:52",
+  "atualizado_em": "27/07/2026 09:58",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
-        },
-        {
-          "rank": 3,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
-        },
-        {
-          "rank": 4,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
+          "rank": 3,
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+        },
+        {
+          "rank": 4,
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+        },
+        {
           "rank": 5,
-          "title": "Moro lidera cenários de 1º e 2º turno no Paraná, aponta Genial/Quaest",
-          "url": "https://www.estadao.com.br/politica/moro-lidera-cenarios-de-1-e-2-turno-no-parana-aponta-genialquaest/"
+          "title": "Lula aumenta gastos com publicidade em ano eleitoral e bate recorde da Presidência",
+          "url": "https://www.estadao.com.br/politica/lula-aumenta-gastos-com-publicidade-em-ano-eleitoral-e-bate-recorde-da-presidencia/"
         }
       ],
       "erro": null

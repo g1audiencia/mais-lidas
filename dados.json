@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 11:04",
+  "atualizado_em": "27/07/2026 11:09",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Corredor morre ao passar mal em corrida de rua em SP",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corredor-morre-ao-passar-mal-em-corrida-de-rua-em-sp/"
+          "title": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade",
+          "url": "https://www.cnnbrasil.com.br/saude/um-ano-apos-chegar-ao-brasil-mounjaro-muda-tratamento-da-obesidade/"
         },
         {
           "rank": 5,
-          "title": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade",
-          "url": "https://www.cnnbrasil.com.br/saude/um-ano-apos-chegar-ao-brasil-mounjaro-muda-tratamento-da-obesidade/"
+          "title": "Corredor morre ao passar mal em corrida de rua em SP",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corredor-morre-ao-passar-mal-em-corrida-de-rua-em-sp/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
-        },
-        {
-          "rank": 3,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
           "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
+          "rank": 4,
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+        },
+        {
           "rank": 5,
-          "title": "Vietnã está virando o destino mais desejado no Sudeste Asiático. Mas quer evitar erros da Tailândia",
-          "url": "https://www.estadao.com.br/viagem/vietna-tem-se-tornado-o-destino-mais-desejado-no-sudeste-asiatico-e-quer-evitar-erros-da-tailandia/"
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         }
       ],
       "erro": null

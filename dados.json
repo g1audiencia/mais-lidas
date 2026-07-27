@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 12:32",
+  "atualizado_em": "27/07/2026 12:37",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+        },
+        {
+          "rank": 3,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
-          "rank": 3,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
-        },
-        {
           "rank": 4,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+          "title": "Durigan chama Milei de ‘palhaço’ e diz que indicadores da Argentina são piores do que os do Brasil",
+          "url": "https://www.estadao.com.br/politica/durigan-chama-milei-de-palhaco-e-diz-que-indicadores-da-argentina-sao-piores-do-que-os-do-brasil/"
         },
         {
           "rank": 5,
-          "title": "Marcelo Gasparino pede renúncia do Conselho da Vale após denúncia de vazamento de informações",
-          "url": "https://www.estadao.com.br/economia/negocios/marcelo-gasparino-renuncia-conselho-vale-destituicao-npr/"
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux",
-          "url": "https://apnews.com/article/europe-wildfires-france-spain-bordeaux-5b9b063bdcf9b69867fa71ba31be8aa5"
+          "title": "US appeals court upholds injunction that blocks Trump’s order to create a federal voter list",
+          "url": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-8bfb1f787f84fc60f9b6b284794b18b5"
         }
       ],
       "erro": null

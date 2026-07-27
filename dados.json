@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 21:58",
+  "atualizado_em": "26/07/2026 22:03",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
           "rank": 5,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null
@@ -243,28 +243,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
-        },
-        {
-          "rank": 2,
           "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "url": "https://www.bbc.com/news/articles/clyj8k4nn5jo"
         },
         {
-          "rank": 3,
-          "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
-          "url": "https://www.bbc.com/news/articles/ckg41vn8x7ko"
+          "rank": 2,
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
           "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
         },
         {
+          "rank": 4,
+          "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
+          "url": "https://www.bbc.com/news/articles/ckg41vn8x7ko"
+        },
+        {
           "rank": 5,
-          "title": "What we know so far about the Berlin Pride ramming attack",
-          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
         }
       ],
       "erro": null

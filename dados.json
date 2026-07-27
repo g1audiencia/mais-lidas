@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 16:24",
+  "atualizado_em": "27/07/2026 16:29",
   "portais": [
     {
       "portal": "Folha",
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vieira se reúne com embaixador da Argentina e transmite repúdio às declarações de Milei",
-          "url": "https://www.metropoles.com/brasil/vieira-se-reune-com-embaixador-da-argentina-e-repudia-falas-de-milei"
-        },
-        {
-          "rank": 2,
           "title": "Pré-candidata do PL registra B.O. ao ser impedida de entrar em casa",
           "url": "https://www.metropoles.com/colunas/grande-angular/pre-candidata-do-pl-registra-bo-ao-ser-impedida-de-entrar-em-casa"
         },
         {
+          "rank": 2,
+          "title": "Moraes quer esclarecer se Débora do Batom violou monitoramento",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-quer-esclarecer-se-debora-do-batom-violou-monitoramento"
+        },
+        {
           "rank": 3,
-          "title": "Veja momento em que motorista morre ao atingir estrutura de pedágio em SP.",
-          "url": "https://www.metropoles.com/sao-paulo/veja-momento-em-que-motorista-atinge-estrutura-de-pedagio-em-sp"
+          "title": "Aliados de Zema admitem que Joaquim Barbosa não deve ser vice",
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/aliados-de-zema-admitem-que-joaquim-barbosa-nao-deve-ser-vice"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "US appeals court upholds injunction that blocks Trump’s order to create a federal voter list",
-          "url": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-8bfb1f787f84fc60f9b6b284794b18b5"
+          "title": "US appeals court upholds injunction that blocks Trump’s order to create federal voter list",
+          "url": "https://apnews.com/live/donald-trump-news-updates-07-27-2026"
         },
         {
           "rank": 5,
-          "title": "US appeals court upholds injunction that blocks Trump’s order to create federal voter list",
-          "url": "https://apnews.com/live/donald-trump-news-updates-07-27-2026"
+          "title": "US appeals court upholds injunction that blocks Trump’s order to create a federal voter list",
+          "url": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-8bfb1f787f84fc60f9b6b284794b18b5"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+          "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
         },
         {
           "rank": 4,
-          "title": "Carly Simon reveals Parkinson's diagnosis",
-          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
+          "title": "Police still searching for second suspect in fatal Seattle food festival shooting",
+          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
         },
         {
           "rank": 5,
-          "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
-          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
+          "title": "Carly Simon reveals Parkinson's diagnosis",
+          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
         }
       ],
       "erro": null

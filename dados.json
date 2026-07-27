@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 17:04",
+  "atualizado_em": "27/07/2026 17:10",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
+          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
+        },
+        {
+          "rank": 4,
           "title": "Amiga de mulher desaparecida em trilha no Paraná fraturou a coluna, diz família",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/27/amiga-de-mulher-desaparecida-em-trilha-no-parana-fraturou-a-coluna.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Vídeo mostra acidente em praça de pedágio no interior de São Paulo; motorista morreu",
           "url": "https://www.uol.com.br/flash/?c=ecad9f5c8c7ef290aff7d99411fc237420260727"
-        },
-        {
-          "rank": 5,
-          "title": "Maneira de despejar a água ao passar café pode mudar o resultado final",
-          "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/07/27/voce-pode-estar-passando-cafe-do-jeito-errado-veja-como-despejar-a-agua.ghtm"
         }
       ],
       "erro": null
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
-        },
-        {
-          "rank": 2,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
+          "rank": 2,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
           "rank": 3,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
+          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
         },
         {
           "rank": 4,
-          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
-          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
         },
         {
           "rank": 5,

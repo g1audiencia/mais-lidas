@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 15:17",
+  "atualizado_em": "27/07/2026 15:22",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Novo momento do Miss Universe e o desafio de representar um país em inglês",
-          "url": "https://www.cnnbrasil.com.br/blogs/leonardo-reis/lifestyle/novo-momento-do-miss-universe-e-o-desafio-de-representar-o-pais-em-ingles/"
+          "title": "Arsenal prepara o maior salário da história por Vinicius Júnior, diz jornal",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/arsenal-prepara-o-maior-salario-da-historia-por-vinicius-junior-diz-jornal/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
+          "rank": 3,
+          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
+          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
+        },
+        {
+          "rank": 4,
           "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
           "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
           "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
-        },
-        {
-          "rank": 4,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 5,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "Candidato oficial do Novo à Presidência, Zema elege PT e STF como adversários",
-          "url": "https://www.metropoles.com/brasil/novo-oficializa-a-candidatura-de-romeu-zema-a-presidencia-da-republica"
+          "title": "Pré-candidata do PL registra BO ao ser impedida de entrar em casa",
+          "url": "https://www.metropoles.com/colunas/grande-angular/pre-candidata-do-pl-registra-bo-ao-ser-impedida-de-entrar-em-casa"
         },
         {
           "rank": 3,
-          "title": "Forças de segurança simulam queda de avião na área central de Brasília",
-          "url": "https://www.metropoles.com/distrito-federal/forcas-de-seguranca-simulam-queda-de-aviao-na-area-central-de-brasilia"
+          "title": "Veja momento em que motorista morre ao atingir estrutura de pedágio em SP.",
+          "url": "https://www.metropoles.com/sao-paulo/veja-momento-em-que-motorista-atinge-estrutura-de-pedagio-em-sp"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
-          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
+          "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
+          "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
         },
         {
           "rank": 2,
-          "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
-          "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
+          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
+          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
         },
         {
           "rank": 3,

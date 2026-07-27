@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 04:47",
+  "atualizado_em": "27/07/2026 04:52",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
+          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
         },
         {
           "rank": 4,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
+          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
         },
         {
           "rank": 5,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Exclusive: In a Ukrainian bomb shelter, Laura Loomer explains shift on Russia’s war",
-          "url": "https://apnews.com/article/laura-loomer-trump-ukraine-russia-interview-101852f6deab17e1d8d215fdde675ee5"
-        },
-        {
-          "rank": 2,
           "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
           "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux",
           "url": "https://apnews.com/article/europe-wildfires-france-spain-bordeaux-5b9b063bdcf9b69867fa71ba31be8aa5"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Scrutiny of WNBA intensifies as mounting discord around the league looms over All-Star festivities",
           "url": "https://apnews.com/article/wnba-allstar-race-caitlin-clark-angel-reese-df5ab15ce147704b31aa5880226c402f"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Van slams into crowd at Berlin Pride festival, killing 1 and injuring 16, as police identify suspect",
           "url": "https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f"
+        },
+        {
+          "rank": 5,
+          "title": "As Trump boosts nuclear power, regulators seek to eliminate a longstanding radiation safety practice",
+          "url": "https://apnews.com/article/nuclear-regulatory-commission-radiation-protection-cancer-exposure-e826975521db31e166e8d291ef355908"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
-        },
-        {
-          "rank": 3,
-          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-          "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
-        },
-        {
-          "rank": 4,
           "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
           "url": "https://www.bbc.com/news/articles/cvgx91vdedno"
         },
         {
+          "rank": 3,
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
+        },
+        {
+          "rank": 4,
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
+        },
+        {
           "rank": 5,
-          "title": "Bill drafted to remove Freedom honour from Andrew",
-          "url": "https://www.bbc.com/news/articles/c0qv1dlqlp8o"
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         }
       ],
       "erro": null

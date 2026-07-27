@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 11:37",
+  "atualizado_em": "27/07/2026 11:42",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
-        },
-        {
-          "rank": 2,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
-        },
-        {
-          "rank": 3,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
-        },
-        {
-          "rank": 4,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
+          "rank": 2,
+          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+        },
+        {
+          "rank": 3,
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+        },
+        {
+          "rank": 4,
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+        },
+        {
           "rank": 5,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "El desgarrador mensaje de Nicolás Cabré por la muerte de su hermano: “Jamás te voy a olvidar”",
-          "url": "https://www.clarin.com/fama/desgarrador-mensaje-nicolas-cabre-muerte-hermano-jamas-voy-olvidar_0_uiVAKrxrf2.html"
+          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
+          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
         },
         {
           "rank": 3,
-          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
-          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
+          "title": "El desgarrador mensaje de Nicolás Cabré por la muerte de su hermano: “Jamás te voy a olvidar”",
+          "url": "https://www.clarin.com/fama/desgarrador-mensaje-nicolas-cabre-muerte-hermano-jamas-voy-olvidar_0_uiVAKrxrf2.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Corrupción en AFA: Chiqui Tapia busca un blindaje con el fútbol argentino, pero en la primera fecha lo insultaron en varias canchas",
-          "url": "https://www.clarin.com/deportes/corrupcion-afa-chiqui-tapia-busca-blindaje-futbol-argentino-primera-fecha-insultaron-varias-canchas_0_CzKJFFvwpG.html"
+          "title": "Lo contrataron por un mes para atender el teléfono en Radio Mitre y hoy brilla con Ariel Tarico y Rolo Villar",
+          "url": "https://www.clarin.com/historias/contrataron-mes-atender-telefono-radio-mitre-hoy-brilla-ariel-tarico-rolo-villar_0_8e9xaLesgH.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 23:10",
+  "atualizado_em": "26/07/2026 23:16",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 3,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
+          "rank": 3,
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
+        },
+        {
+          "rank": 4,
+          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
+          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
+        },
+        {
           "rank": 5,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         }
       ],
       "erro": null

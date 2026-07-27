@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 09:20",
+  "atualizado_em": "27/07/2026 09:25",
   "portais": [
     {
       "portal": "Folha",
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "IA: Por que ela sempre diz que sua ideia é ótima ou a pergunta é excelente (ou o efeito sicofante)",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/ia-por-que-ela-sempre-diz-que-sua-ideia-e-otima-ou-a-pergunta-e-excelente-ou-o-efeito-sicofante.ghtml"
+        },
+        {
+          "rank": 2,
           "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
           "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Especialistas discutem legalidade de uso de IA de Jair Bolsonaro em convenção do PL",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/27/especialistas-discutem-legalidade-de-uso-de-ia-de-jair-bolsonaro-em-convencao-do-pl.ghtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Susto com tubarão, perrengue em carrinho e luxo em resort: como estão sendo as férias de Virgínia e Vini Jr. na Jamaica",
           "url": "https://oglobo.globo.com/cultura/noticia/2026/07/27/susto-com-tubarao-perrengue-em-carrinho-e-luxo-em-resort-como-estao-sendo-as-ferias-de-virginia-e-vini-jr-na-jamaica.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Após risco de perder a visão, jovem passa a viajar o mundo sozinha e fica presa em caverna por três dias",
           "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/26/apos-risco-de-perder-a-visao-jovem-passa-a-viajar-o-mundo-sozinha-e-fica-presa-em-caverna-por-tres-dias.ghtml"
-        },
-        {
-          "rank": 5,
-          "title": "IA: Por que ela sempre diz que sua ideia é ótima ou a pergunta é excelente (ou o efeito sicofante)",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/ia-por-que-ela-sempre-diz-que-sua-ideia-e-otima-ou-a-pergunta-e-excelente-ou-o-efeito-sicofante.ghtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
-        },
-        {
-          "rank": 3,
           "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
           "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         },
         {
+          "rank": 3,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
           "rank": 4,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+          "title": "Moro lidera cenários de 1º e 2º turno no Paraná, aponta Genial/Quaest",
+          "url": "https://www.estadao.com.br/politica/moro-lidera-cenarios-de-1-e-2-turno-no-parana-aponta-genialquaest/"
         },
         {
           "rank": 5,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         }
       ],
       "erro": null
@@ -204,13 +204,13 @@
         },
         {
           "rank": 4,
-          "title": "'Prêmio Jovem Brasileiro': Qual o jovem revelação do ano? Vote na categoria",
-          "url": "https://entretenimento.r7.com/premio-jovem/vote-no-pjb/qual-o-jovem-revelacao-do-ano-25072026/"
+          "title": "FGTS decide nesta terça (28) distribuição de lucro; veja quem pode receber",
+          "url": "https://noticias.r7.com/brasilia/fgts-decide-nesta-terca-distribuicao-de-lucro-veja-quem-recebe-e-como-calcular-o-valor-26072026/"
         },
         {
           "rank": 5,
-          "title": "FGTS decide nesta terça (28) distribuição de lucro; veja quem pode receber",
-          "url": "https://noticias.r7.com/brasilia/fgts-decide-nesta-terca-distribuicao-de-lucro-veja-quem-recebe-e-como-calcular-o-valor-26072026/"
+          "title": "Surto de diarreia causado por parasita avança: o que comer e o que evitar",
+          "url": "https://noticias.r7.com/internacional/surto-de-diarreia-causado-por-parasita-avanca-o-que-comer-e-o-que-evitar-27072026/"
         }
       ],
       "erro": null

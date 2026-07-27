@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 12:59",
+  "atualizado_em": "27/07/2026 13:04",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
+          "rank": 2,
           "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
           "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
         },
         {
-          "rank": 2,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
-        },
-        {
           "rank": 3,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+          "title": "Durigan chama Milei de ‘palhaço’ e diz que indicadores da Argentina são piores do que os do Brasil",
+          "url": "https://www.estadao.com.br/politica/durigan-chama-milei-de-palhaco-e-diz-que-indicadores-da-argentina-sao-piores-do-que-os-do-brasil/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Durigan chama Milei de ‘palhaço’ e diz que indicadores da Argentina são piores do que os do Brasil",
-          "url": "https://www.estadao.com.br/politica/durigan-chama-milei-de-palhaco-e-diz-que-indicadores-da-argentina-sao-piores-do-que-os-do-brasil/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 18:06",
+  "atualizado_em": "27/07/2026 18:11",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 2,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
+          "rank": 2,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
           "rank": 3,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Exclusive: In a Ukrainian bomb shelter, Laura Loomer explains shift on Russia’s war",
-          "url": "https://apnews.com/article/laura-loomer-trump-ukraine-russia-interview-101852f6deab17e1d8d215fdde675ee5"
+          "title": "Trump praises his sweeping tariffs while in Michigan for a speech on the economy",
+          "url": "https://apnews.com/live/donald-trump-news-updates-07-27-2026"
         },
         {
           "rank": 5,
-          "title": "Trump praises his sweeping tariffs while in Michigan for a speech on the economy",
-          "url": "https://apnews.com/live/donald-trump-news-updates-07-27-2026"
+          "title": "Exclusive: In a Ukrainian bomb shelter, Laura Loomer explains shift on Russia’s war",
+          "url": "https://apnews.com/article/laura-loomer-trump-ukraine-russia-interview-101852f6deab17e1d8d215fdde675ee5"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Police still searching for second suspect in fatal Seattle food festival shooting",
-          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+          "title": "Carly Simon reveals Parkinson's diagnosis",
+          "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
         },
         {
           "rank": 5,
-          "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-          "url": "https://www.bbc.com/news/articles/cy9wv74qje9o"
+          "title": "Police still searching for second suspect in fatal Seattle food festival shooting",
+          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
         }
       ],
       "erro": null

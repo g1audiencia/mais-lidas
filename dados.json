@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 22:03",
+  "atualizado_em": "26/07/2026 22:09",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 3,
           "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
           "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 3,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
+          "rank": 4,
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+        },
+        {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 4,
-          "title": "Querido Samuel",
-          "url": "https://www.clarin.com/opinion/querido-samuel_0_GbkfKA0IwO.html"
+          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
+          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
         },
         {
           "rank": 5,
-          "title": "La intimidad en el palco de Palermo: Javier Milei aclamado y Sandra Pettovello, tan popular como Luis Caputo y Patricia Bullrich",
-          "url": "https://www.clarin.com/economia/intimidad-palco-palermo-pettovello-popular-caputo-bullrich_0_8oRYE6TRIG.html"
+          "title": "Querido Samuel",
+          "url": "https://www.clarin.com/opinion/querido-samuel_0_GbkfKA0IwO.html"
         }
       ],
       "erro": null

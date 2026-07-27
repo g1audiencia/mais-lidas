@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 14:32",
+  "atualizado_em": "27/07/2026 14:38",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "SP trava batalha contra o mar e usa nova engenharia para impedir que ilha se forme no litoral",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-trava-batalha-contra-o-mar-e-usa-engenharia-para-impedir-que-nova-ilha-se-forme-no-litoral/"
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
           "rank": 3,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 4,
           "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
           "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
         },
         {
+          "rank": 4,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
           "rank": 5,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+          "title": "Durigan chama Milei de ‘palhaço’ e diz que indicadores da Argentina são piores do que os do Brasil",
+          "url": "https://www.estadao.com.br/politica/durigan-chama-milei-de-palhaco-e-diz-que-indicadores-da-argentina-sao-piores-do-que-os-do-brasil/"
         }
       ],
       "erro": null

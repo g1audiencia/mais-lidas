@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 00:55",
+  "atualizado_em": "27/07/2026 01:02",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
+          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
         },
         {
           "rank": 2,
-          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
-        },
-        {
-          "rank": 3,
           "title": "O psyllium realmente faz bem para a saúde?",
           "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
+          "rank": 3,
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+        },
+        {
           "rank": 4,
-          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
-          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         },
         {
           "rank": 5,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "Incêndio florestal chega a 15 km de Bordeaux e prefeito não descarta esvaziar a cidade",
+          "url": "https://www.estadao.com.br/internacional/incendio-florestal-chega-a-15-km-de-bordeaux-e-prefeito-nao-descarta-esvaziar-a-cidade-npr/"
         }
       ],
       "erro": null

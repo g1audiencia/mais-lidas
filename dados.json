@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 02:46",
+  "atualizado_em": "27/07/2026 02:52",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Jacarés mordem sacos plásticos em busca de comida na zona oeste do Rio",
-          "url": "https://www1.folha.uol.com.br/ambiente/2026/07/jacares-mordem-sacos-plasticos-em-busca-de-comida-na-zona-oeste-do-rio.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
           "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Vídeo de IA só viola prisão domiciliar se Bolsonaro participou ou consentiu, diz advogado",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/video-de-ia-so-viola-prisao-domiciliar-se-bolsonaro-participou-ou-consentiu-diz-advogado.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Ríspidas, grosseiras e inaceitáveis’, diz chanceler brasileiro sobre declarações de Milei",
-          "url": "https://www.estadao.com.br/politica/rispidas-grosseiras-e-inaceitaveis-diz-mauro-vieira-sobre-declaracoes-de-milei/"
+          "title": "Dia da avó: redescubra 9 receitas de bolo que aquecem o coração de qualquer um",
+          "url": "https://www.estadao.com.br/paladar/caderno-de-receitas/fuba-cozido-maca-rustica-e-cenoura-9-receitas-de-bolo-com-gosto-de-casa-de-avo/"
         },
         {
           "rank": 3,
-          "title": "‘Ozempic natural’: até onde vai o poder da fibra que viralizou como método para emagrecer?",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/ozempic-natural-ate-onde-vai-o-poder-da-fibra-que-viralizou-como-metodo-para-emagrecer/"
-        },
-        {
-          "rank": 4,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 4,
+          "title": "Da romana à argentina, o prato favorito do paulistano",
+          "url": "https://www.estadao.com.br/paladar/da-romana-a-argentina-o-prato-favorito-do-paulistano/"
+        },
+        {
           "rank": 5,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
+          "title": "Como a Stella Artois transformou a tradição de Wimbledon em experiência de marca",
+          "url": "https://www.estadao.com.br/economia/negocios/como-a-stella-artois-transformou-a-tradicao-de-wimbledon-em-experiencia-de-marca/"
         }
       ],
       "erro": null
@@ -238,11 +238,6 @@
           "rank": 4,
           "title": "As Trump boosts nuclear power, regulators seek to eliminate a longstanding radiation safety practice",
           "url": "https://apnews.com/article/nuclear-regulatory-commission-radiation-protection-cancer-exposure-e826975521db31e166e8d291ef355908"
-        },
-        {
-          "rank": 5,
-          "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-          "url": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72"
         }
       ],
       "erro": null

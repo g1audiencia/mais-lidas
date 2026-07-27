@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 07:36",
+  "atualizado_em": "27/07/2026 07:41",
   "portais": [
     {
       "portal": "Folha",
@@ -76,13 +76,13 @@
         },
         {
           "rank": 2,
-          "title": "Deputados pedem investigação por Milei e IA de Bolsonaro em convenção do PL",
-          "url": "https://www.cnnbrasil.com.br/politica/deputados-pedem-investigacao-por-milei-e-ia-de-bolsonaro-em-convencao-do-pl/"
+          "title": "“Dia D”: novo filme de Steven Spielberg estreia no streaming",
+          "url": "https://www.cnnbrasil.com.br/pop/streaming/dia-d-novo-filme-de-steven-spielberg-estreia-no-streaming/"
         },
         {
           "rank": 3,
-          "title": "“Dia D”: novo filme de Steven Spielberg estreia no streaming",
-          "url": "https://www.cnnbrasil.com.br/pop/streaming/dia-d-novo-filme-de-steven-spielberg-estreia-no-streaming/"
+          "title": "Deputados pedem investigação por Milei e IA de Bolsonaro em convenção do PL",
+          "url": "https://www.cnnbrasil.com.br/politica/deputados-pedem-investigacao-por-milei-e-ia-de-bolsonaro-em-convencao-do-pl/"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
         },
         {
           "rank": 2,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
-        },
-        {
-          "rank": 3,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 4,
           "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
           "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         },
         {
+          "rank": 3,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
+          "rank": 4,
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+        },
+        {
           "rank": 5,
-          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
+          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
         }
       ],
       "erro": null

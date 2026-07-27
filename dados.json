@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 17:10",
+  "atualizado_em": "27/07/2026 17:15",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
+        },
+        {
+          "rank": 2,
           "title": "Professor usa comando oculto em prova e reprova 32 alunos que usaram IA",
           "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/07/27/professor-usa-truque-em-teste-e-reprova-32-alunos-que-usaram-ia-para-colar.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Menina prometida em casamento para quitar dívida é resgatada em Lisboa",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/policia-de-portugal-resgata-menina-de-12-anos-em-lisboa-e-prende-mulher.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
         },
         {
           "rank": 4,
@@ -71,13 +71,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Nexus/BTG: Lula empata com Flávio, Caiado e Zema no 2º turno",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-caiado-e-zema-no-2o-turno/"
+          "title": "Marcella Kozinski é coroada Miss Universe Brasil 2026",
+          "url": "https://www.cnnbrasil.com.br/lifestyle/marcella-kozinski-e-coroada-miss-universe-brasil-2026/"
         },
         {
           "rank": 2,
-          "title": "Marcella Kozinski é coroada Miss Universe Brasil 2026",
-          "url": "https://www.cnnbrasil.com.br/lifestyle/marcella-kozinski-e-coroada-miss-universe-brasil-2026/"
+          "title": "Nexus/BTG: Lula empata com Flávio, Caiado e Zema no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-caiado-e-zema-no-2o-turno/"
         },
         {
           "rank": 3,
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Gestão Trump prepara resposta ao Brasil após negativa de vistos para funcionários dos EUA",
+          "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/07/gestao-trump-prepara-resposta-ao-brasil-apos-negativa-de-vistos-para-funcionarios-dos-eua.ghtml"
+        },
+        {
+          "rank": 2,
           "title": "Câncer transmissível: entenda a doença identificada pela 1ª vez em peixes de lago entre EUA e Canadá",
           "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/cancer-transmissivel-entenda-a-doenca-identificada-pela-1a-vez-entre-peixes-no-canada.ghtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "A quebra de protocolo diplom﻿ático por Milei teve ajuda de Tarcísio e Flávio Bolsonaro",
           "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/07/a-quebra-de-protocolo-diplom-atico-por-milei-teve-ajuda-de-tarcisio-e-flavio-bolsonaro.ghtml"
         },
         {
-          "rank": 3,
-          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
-          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
-        },
-        {
           "rank": 4,
-          "title": "IA: Por que ela sempre diz que sua ideia é ótima ou a pergunta é excelente (ou o efeito sicofante)",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/07/27/ia-por-que-ela-sempre-diz-que-sua-ideia-e-otima-ou-a-pergunta-e-excelente-ou-o-efeito-sicofante.ghtml"
+          "title": "Maldini e Leonardo renunciam a cargos na direção da Federação italiana, diz imprensa europeia",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/27/maldini-e-leonardo-renunciam-cargos-na-direcao-da-italia-diz-imprensa-europeia.ghtml"
         },
         {
           "rank": 5,
-          "title": "‘Tenho alma jovem, disposta a descobrir’, diz Fátima Bernardes",
-          "url": "https://oglobo.globo.com/cultura/noticia/2026/07/27/tenho-alma-jovem-disposta-a-descobrir-diz-fatima-bernardes.ghtml"
+          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
+          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "US appeals court upholds injunction that blocks Trump’s order to create a federal voter list",
-          "url": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-8bfb1f787f84fc60f9b6b284794b18b5"
+          "title": "Major hurricane Genevieve roars in the Pacific as Hurricane Fausto nears Hawaii",
+          "url": "https://apnews.com/article/tropical-weather-hurricane-genevieve-fausto-158b8d651c09f90145efdfad09cd099d"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
-          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
+          "title": "Aníbal Fernández, contra Máximo Kirchner y la campaña de La Cámpora: \"No me vas a ver como un pelotudo con el cartel 'Cristina libre'\"",
+          "url": "https://www.clarin.com/politica/anibal-fernandez-maximo-kirchner-campana-campora-vas-ver-pelotudo-cartel-cristina-libre_0_NmxwNA1p0P.html"
         },
         {
           "rank": 4,
-          "title": "Aníbal Fernández, contra Máximo Kirchner y la campaña de La Cámpora: \"No me vas a ver como un pelotudo con el cartel 'Cristina libre'\"",
-          "url": "https://www.clarin.com/politica/anibal-fernandez-maximo-kirchner-campana-campora-vas-ver-pelotudo-cartel-cristina-libre_0_NmxwNA1p0P.html"
+          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
+          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
         },
         {
           "rank": 5,

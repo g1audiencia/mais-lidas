@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 06:41",
+  "atualizado_em": "27/07/2026 06:47",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 3,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
-        },
-        {
-          "rank": 4,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 3,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 4,
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+        },
+        {
           "rank": 5,
-          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+          "title": "Lula aumenta gastos com publicidade em ano eleitoral e bate recorde da Presidência",
+          "url": "https://www.estadao.com.br/politica/lula-aumenta-gastos-com-publicidade-em-ano-eleitoral-e-bate-recorde-da-presidencia/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
-          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
+          "title": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
+          "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html"
         },
         {
           "rank": 2,
-          "title": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
-          "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html"
+          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
+          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
         },
         {
           "rank": 3,

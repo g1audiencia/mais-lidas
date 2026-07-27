@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 08:20",
+  "atualizado_em": "27/07/2026 08:25",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
-        },
-        {
-          "rank": 2,
           "title": "Se não fizer ajuste fiscal no primeiro ano, vai pegar fogo na mão de Lula, diz Mendonça de Barros",
           "url": "https://www.estadao.com.br/economia/entrevsita-mendonca-de-barros-ajuste-fiscal-primeiro-ano-fogo-mao-lula/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
           "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
         },
         {
+          "rank": 3,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
           "rank": 4,
-          "title": "Lula aumenta gastos com publicidade em ano eleitoral e bate recorde da Presidência",
-          "url": "https://www.estadao.com.br/politica/lula-aumenta-gastos-com-publicidade-em-ano-eleitoral-e-bate-recorde-da-presidencia/"
+          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
         },
         {
           "rank": 5,
-          "title": "Moro lidera cenários de 1º e 2º turno no Paraná, aponta Genial/Quaest",
-          "url": "https://www.estadao.com.br/politica/moro-lidera-cenarios-de-1-e-2-turno-no-parana-aponta-genialquaest/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "La intimidad en el palco de Palermo: Javier Milei aclamado y Sandra Pettovello, tan popular como Luis Caputo y Patricia Bullrich",
-          "url": "https://www.clarin.com/economia/intimidad-palco-palermo-pettovello-popular-caputo-bullrich_0_8oRYE6TRIG.html"
-        },
-        {
-          "rank": 3,
           "title": "El desgarrador mensaje de Nicolás Cabré por la muerte de su hermano: “Jamás te voy a olvidar”",
           "url": "https://www.clarin.com/fama/desgarrador-mensaje-nicolas-cabre-muerte-hermano-jamas-voy-olvidar_0_uiVAKrxrf2.html"
         },
         {
+          "rank": 3,
+          "title": "La intimidad en el palco de Palermo: Javier Milei aclamado y Sandra Pettovello, tan popular como Luis Caputo y Patricia Bullrich",
+          "url": "https://www.clarin.com/economia/intimidad-palco-palermo-pettovello-popular-caputo-bullrich_0_8oRYE6TRIG.html"
+        },
+        {
           "rank": 4,
-          "title": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
-          "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html"
+          "title": "Una nueva encuesta electoral midió el voto anti Milei vs. el voto anti peronista: 2,6 puntos de diferencia",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-midio-voto-anti-milei-vs-voto-anti-peronista-26-puntos-diferencia_0_QtFZVjYXS1.html"
         },
         {
           "rank": 5,
-          "title": "\"Si lloraba, me pegaban más\": uno de los hijos de la mujer investigada en Villa Gesell por la muerte de su bebé reveló cómo era vivir con ella",
-          "url": "https://www.clarin.com/sociedad/lloraba-pegaban-hijos-mujer-investigada-villa-gesell-muerte-bebe-revelo-vivir_0_dvU6dBFBCr.html"
+          "title": "Lo contrataron por un mes para atender el teléfono en Radio Mitre y hoy brilla con Ariel Tarico y Rolo Villar",
+          "url": "https://www.clarin.com/historias/contrataron-mes-atender-telefono-radio-mitre-hoy-brilla-ariel-tarico-rolo-villar_0_8e9xaLesgH.html"
         }
       ],
       "erro": null

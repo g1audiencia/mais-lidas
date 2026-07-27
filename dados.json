@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 17:27",
+  "atualizado_em": "27/07/2026 17:32",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 4,
           "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
           "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
         },
         {
+          "rank": 4,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
           "rank": 5,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 01:32",
+  "atualizado_em": "27/07/2026 01:37",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
+          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
+          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
         },
         {
           "rank": 4,
-          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
-          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
+          "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
           "rank": 3,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
           "rank": 4,
-          "title": "Incêndio florestal chega a 15 km de Bordeaux e prefeito não descarta esvaziar a cidade",
-          "url": "https://www.estadao.com.br/internacional/incendio-florestal-chega-a-15-km-de-bordeaux-e-prefeito-nao-descarta-esvaziar-a-cidade-npr/"
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
           "rank": 5,
-          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
+          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
+          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
         }
       ],
       "erro": null
@@ -221,21 +221,26 @@
       "items": [
         {
           "rank": 1,
+          "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police",
+          "url": "https://apnews.com/article/germany-berlin-lgbtq-pride-parade-van-ramming-3ba5e3f1becffd0da5f47b29aa08da9d"
+        },
+        {
+          "rank": 2,
           "title": "Americans rewire their grocery shopping routines while digesting the biggest price jump in 50 years",
           "url": "https://apnews.com/article/grocery-shopping-prices-food-affordability-8468c1d6532ca762bbcfa17e3c7707d1"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Van slams into crowd at Berlin Pride festival, killing 1 and injuring 16, as police identify suspect",
           "url": "https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Scrutiny of WNBA intensifies as mounting discord around the league looms over All-Star festivities",
           "url": "https://apnews.com/article/wnba-allstar-race-caitlin-clark-angel-reese-df5ab15ce147704b31aa5880226c402f"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
           "url": "https://apnews.com/article/iran-war-trump-diplomacy-netanyahu-d491158a4c9a1d3429a87a6ed58f2f72"
         }

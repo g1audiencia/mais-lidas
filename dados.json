@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 07:52",
+  "atualizado_em": "27/07/2026 07:58",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Estatal do governo Lula abriga 'exército' eleitoral em contrato de R$ 35 mi",
+          "url": "https://tab.uol.com.br/noticias/redacao/2026/07/27/estatal-do-governo-lula-abriga-exercito-eleitoral-em-contrato-de-r-35-mi.htm"
+        },
+        {
+          "rank": 2,
           "title": "Resposta de Miss Roraima em concurso de beleza viraliza nas redes sociais",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/26/resposta-de-miss-roraima-em-concurso-de-beleza-viraliza-nas-redes-sociais.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Paciente descobre gravidez avançada e dá à luz em Noronha, onde parto é proibido",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/26/paciente-nega-gravidez-e-da-a-luz-em-noronha-onde-parto-e-proibido.ghtm"
         },
         {
-          "rank": 3,
-          "title": "Veja a classificação e todos os resultados da 20ª rodada do Brasileirão",
-          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
-        },
-        {
           "rank": 4,
-          "title": "Corredor passa mal e morre após participar de maratona em São Paulo",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/07/26/morre-julio-barreto-corredor-maratona.ghtm"
+          "title": "Genial/Quaest: Paes lidera com folga no Rio; Garotinho e Ruas empatam em 2º",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/27/genialquaest-rio.ghtm"
         },
         {
           "rank": 5,
-          "title": "Celso Portiolli reage após ser citado em 1º lugar na Globo: 'Manda uma DM'",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/26/celso-portiolli-reage-apos-ser-citado-em-1-lugar-na-globo-manda-uma-dm.ghtm"
+          "title": "Veja a classificação e todos os resultados da 20ª rodada do Brasileirão",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         }
       ],
       "erro": null
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Se não fizer ajuste fiscal no primeiro ano, vai pegar fogo na mão de Lula, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevsita-mendonca-de-barros-ajuste-fiscal-primeiro-ano-fogo-mao-lula/"
+        },
+        {
+          "rank": 4,
           "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
           "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
         },
         {
-          "rank": 4,
-          "title": "Lula aumenta gastos com publicidade em ano eleitoral e bate recorde da Presidência",
-          "url": "https://www.estadao.com.br/politica/lula-aumenta-gastos-com-publicidade-em-ano-eleitoral-e-bate-recorde-da-presidencia/"
-        },
-        {
           "rank": 5,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 22:43",
+  "atualizado_em": "26/07/2026 22:48",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Calderano vence tri no Brasil, quebra jejum de um ano no WTT e é aclamado no país",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/calderano-vence-tri-no-brasil-quebra-jejum-de-um-ano-no-wtt-e-e-aclamado-em-seu-pais.shtml"
+        },
+        {
+          "rank": 4,
           "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
           "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
         },
         {
-          "rank": 4,
-          "title": "Zé Felipe aparece de mãos dadas com Lara Jucá após show no Rio; conheça influenciadora",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/ze-felipe-aparece-de-maos-dadas-com-lara-juca-apos-show-no-rio-conheca-influenciadora.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Calderano vence tri no Brasil, quebra jejum de um ano no WTT e é aclamado no país",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/calderano-vence-tri-no-brasil-quebra-jejum-de-um-ano-no-wtt-e-e-aclamado-em-seu-pais.shtml"
+          "title": "Jacarés mordem sacos plásticos em busca de comida na zona oeste do Rio",
+          "url": "https://www1.folha.uol.com.br/ambiente/2026/07/jacares-mordem-sacos-plasticos-em-busca-de-comida-na-zona-oeste-do-rio.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 2,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
           "rank": 3,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "Acidente da Voepass: ‘Empresa nos enviava informações falsas’, diz presidente da Anac",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-empresa-nos-enviava-informacoes-falsas-diz-presidente-da-anac/"
         },
         {
           "rank": 4,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
           "rank": 5,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null

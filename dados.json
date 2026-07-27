@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 19:39",
+  "atualizado_em": "27/07/2026 19:45",
   "portais": [
     {
       "portal": "Folha",
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
+        },
+        {
+          "rank": 2,
           "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
           "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Devastating European wildfires in maps - and how they're being tackled",
           "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
-        },
-        {
-          "rank": 3,
-          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
           "rank": 4,

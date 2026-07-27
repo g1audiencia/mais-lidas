@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 02:52",
+  "atualizado_em": "27/07/2026 02:57",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
-        },
-        {
-          "rank": 2,
-          "title": "Dia da avó: redescubra 9 receitas de bolo que aquecem o coração de qualquer um",
-          "url": "https://www.estadao.com.br/paladar/caderno-de-receitas/fuba-cozido-maca-rustica-e-cenoura-9-receitas-de-bolo-com-gosto-de-casa-de-avo/"
-        },
-        {
-          "rank": 3,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 2,
+          "title": "Como a normalização da dor pélvica feminina atrasa diagnósticos e tratamentos: ‘Me incapacitava’",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/como-a-normalizacao-da-dor-pelvica-feminina-atrasa-diagnosticos-e-tratamentos-me-incapacitava/"
+        },
+        {
+          "rank": 3,
+          "title": "Chega de buscar o hexa: o futebol brasileiro precisa reinar como se fosse a 1ª vez",
+          "url": "https://www.estadao.com.br/esportes/mauro-beting/chega-de-buscar-o-hexa-o-futebol-brasileiro-precisa-reinar-como-se-fosse-a-1-vez/"
+        },
+        {
           "rank": 4,
-          "title": "Da romana à argentina, o prato favorito do paulistano",
-          "url": "https://www.estadao.com.br/paladar/da-romana-a-argentina-o-prato-favorito-do-paulistano/"
+          "title": "Como a Stella Artois transformou a tradição de Wimbledon em experiência de marca",
+          "url": "https://www.estadao.com.br/economia/negocios/como-a-stella-artois-transformou-a-tradicao-de-wimbledon-em-experiencia-de-marca/"
         },
         {
           "rank": 5,
-          "title": "Como a Stella Artois transformou a tradição de Wimbledon em experiência de marca",
-          "url": "https://www.estadao.com.br/economia/negocios/como-a-stella-artois-transformou-a-tradicao-de-wimbledon-em-experiencia-de-marca/"
+          "title": "O ingrediente mais subestimado da pizza",
+          "url": "https://www.estadao.com.br/paladar/o-ingrediente-mais-subestimado-da-pizza/"
         }
       ],
       "erro": null

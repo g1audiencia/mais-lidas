@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 16:35",
+  "atualizado_em": "27/07/2026 16:40",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "Estatal do governo Lula abriga 'exército' eleitoral em contrato de R$ 35 mi",
-          "url": "https://tab.uol.com.br/noticias/redacao/2026/07/27/estatal-do-governo-lula-abriga-exercito-eleitoral-em-contrato-de-r-35-mi.htm"
-        },
-        {
-          "rank": 4,
           "title": "Amiga de mulher desaparecida em trilha no Paraná fraturou a coluna, diz família",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/27/amiga-de-mulher-desaparecida-em-trilha-no-parana-fraturou-a-coluna.ghtm"
         },
         {
+          "rank": 4,
+          "title": "Vídeo mostra acidente em praça de pedágio no interior de São Paulo; motorista morreu",
+          "url": "https://www.uol.com.br/flash/?c=ecad9f5c8c7ef290aff7d99411fc237420260727"
+        },
+        {
           "rank": 5,
-          "title": "Maierovitch: Truque de IA põe em risco elegibilidade de Flávio Bolsonaro",
-          "url": "https://noticias.uol.com.br/colunas/walter-maierovitch/2026/07/27/convencao-pl-video-bolsonaro-ia.htm"
+          "title": "Estatal do governo Lula abriga 'exército' eleitoral em contrato de R$ 35 mi",
+          "url": "https://tab.uol.com.br/noticias/redacao/2026/07/27/estatal-do-governo-lula-abriga-exercito-eleitoral-em-contrato-de-r-35-mi.htm"
         }
       ],
       "erro": null

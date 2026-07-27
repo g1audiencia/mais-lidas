@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 13:48",
+  "atualizado_em": "27/07/2026 13:54",
   "portais": [
     {
       "portal": "Folha",
@@ -49,8 +49,8 @@
         },
         {
           "rank": 3,
-          "title": "Ministro da Fazenda chama Milei de 'palhaço' após declarações do presidente argentino",
-          "url": "https://jc.uol.com.br/politica/2026/07/27/ministro-da-fazenda-chama-milei-de-palhaco-apos-declaracoes-do-presidente-argentino.html"
+          "title": "'Carro mais bonito do Brasil' reaparece em São Paulo após sumir por décadas",
+          "url": "https://www.uol.com.br/flash/?c=764eb8b57dc6d7814c483e902074b020260724"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "'Carro mais bonito do Brasil' reaparece em São Paulo após sumir por décadas",
-          "url": "https://www.uol.com.br/flash/?c=764eb8b57dc6d7814c483e902074b020260724"
+          "title": "Ministro da Fazenda chama Milei de 'palhaço' após declarações do presidente argentino",
+          "url": "https://jc.uol.com.br/politica/2026/07/27/ministro-da-fazenda-chama-milei-de-palhaco-apos-declaracoes-do-presidente-argentino.html"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
-        },
-        {
-          "rank": 2,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
-        },
-        {
-          "rank": 3,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 4,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
-          "rank": 5,
+          "rank": 2,
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+        },
+        {
+          "rank": 3,
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+        },
+        {
+          "rank": 4,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
+          "rank": 5,
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Una nueva encuesta electoral midió el voto anti Milei vs. el voto anti peronista: 2,6 puntos de diferencia",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-midio-voto-anti-milei-vs-voto-anti-peronista-26-puntos-diferencia_0_QtFZVjYXS1.html"
+          "title": "Un gol que sufrió la Selección Argentina fue elegido como el mejor del Mundial 2026",
+          "url": "https://www.clarin.com/deportes/gol-sufrio-seleccion-argentina-elegido-mejor-mundial-2026_0_uKOzwCMjou.html"
         },
         {
           "rank": 5,
-          "title": "Lo contrataron por un mes para atender el teléfono en Radio Mitre y hoy brilla con Ariel Tarico y Rolo Villar",
-          "url": "https://www.clarin.com/historias/contrataron-mes-atender-telefono-radio-mitre-hoy-brilla-ariel-tarico-rolo-villar_0_8e9xaLesgH.html"
+          "title": "Una nueva encuesta electoral midió el voto anti Milei vs. el voto anti peronista: 2,6 puntos de diferencia",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-midio-voto-anti-milei-vs-voto-anti-peronista-26-puntos-diferencia_0_QtFZVjYXS1.html"
         }
       ],
       "erro": null

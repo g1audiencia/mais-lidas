@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 15:11",
+  "atualizado_em": "27/07/2026 15:17",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Zema é confirmado candidato sem definição do vice e com promessa de indulto a Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/novo-confirma-candidatura-de-zema-a-presidencia-mas-adia-anuncio-de-vice.shtml"
+          "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erotizacao-desmedida-diz-jornalista-sobre-figurino-de-xuxa.shtml"
         }
       ],
       "erro": null
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 3,
           "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
           "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
+          "rank": 3,
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+        },
+        {
           "rank": 4,
-          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
-          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         },
         {
           "rank": 5,
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "As Trump boosts nuclear power, regulators seek to eliminate a longstanding radiation safety practice",
-          "url": "https://apnews.com/article/nuclear-regulatory-commission-radiation-protection-cancer-exposure-e826975521db31e166e8d291ef355908"
+          "title": "US appeals court upholds injunction that blocks Trump’s order to create a federal voter list",
+          "url": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-8bfb1f787f84fc60f9b6b284794b18b5"
         },
         {
           "rank": 5,
-          "title": "US appeals court upholds injunction that blocks Trump’s order to create a federal voter list",
-          "url": "https://apnews.com/article/trump-mail-voting-appeal-executive-order-8bfb1f787f84fc60f9b6b284794b18b5"
+          "title": "As Trump boosts nuclear power, regulators seek to eliminate a longstanding radiation safety practice",
+          "url": "https://apnews.com/article/nuclear-regulatory-commission-radiation-protection-cancer-exposure-e826975521db31e166e8d291ef355908"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "McConnell out of hospital but not yet cleared to return to work, doctors say",
+          "url": "https://www.bbc.com/news/articles/c5yd8k3rgj7o"
+        },
+        {
+          "rank": 4,
           "title": "Carly Simon reveals Parkinson's diagnosis",
           "url": "https://www.bbc.com/news/articles/c5y3gymn6p6o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Musk takes 'crusade' to Europe with Armie Hammer film",
           "url": "https://www.bbc.com/news/articles/c5y4w5nwk00o"
-        },
-        {
-          "rank": 5,
-          "title": "McConnell out of hospital but not yet cleared to return to work, doctors say",
-          "url": "https://www.bbc.com/news/articles/c5yd8k3rgj7o"
         }
       ],
       "erro": null

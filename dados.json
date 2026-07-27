@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 01:54",
+  "atualizado_em": "27/07/2026 01:59",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
-        },
-        {
-          "rank": 3,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
-          "rank": 4,
           "title": "O psyllium realmente faz bem para a saúde?",
           "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
+          "rank": 3,
+          "title": "Acidente da Voepass: ‘Empresa nos enviava informações falsas’, diz presidente da Anac",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-empresa-nos-enviava-informacoes-falsas-diz-presidente-da-anac/"
+        },
+        {
+          "rank": 4,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
           "rank": 5,
-          "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
-          "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
+          "title": "Como educar os filhos antes que os algoritmos cheguem primeiro? Livro decifra desafio das famílias",
+          "url": "https://www.estadao.com.br/educacao/como-educar-os-filhos-antes-que-os-algoritmos-cheguem-primeiro-livro-decifra-desafio-das-familias/"
         }
       ],
       "erro": null

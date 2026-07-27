@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 13:59",
+  "atualizado_em": "27/07/2026 14:05",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "'Carro mais bonito do Brasil' reaparece em São Paulo após sumir por décadas",
-          "url": "https://www.uol.com.br/flash/?c=764eb8b57dc6d7814c483e902074b020260724"
-        },
-        {
-          "rank": 4,
           "title": "Engenheira brasileira que sumiu na França é encontrada após quatro dias",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/engenheira-brasileira-desaparecida-na-franca-e-encontrada-viva.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Ministro da Fazenda chama Milei de 'palhaço' após declarações do presidente argentino",
           "url": "https://jc.uol.com.br/politica/2026/07/27/ministro-da-fazenda-chama-milei-de-palhaco-apos-declaracoes-do-presidente-argentino.html"
+        },
+        {
+          "rank": 5,
+          "title": "Lula líder no PA, Flávio em 1º no PR e empate no RJ: a Quaest nos estados",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/27/lula-x-flavio-bolsonaro-a-genialquaest-entre-eleitores-do-rj-pr-e-pa.ghtm"
         }
       ],
       "erro": null
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
-        },
-        {
-          "rank": 3,
           "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
           "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
+          "rank": 4,
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
           "rank": 5,

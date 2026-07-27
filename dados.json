@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 03:58",
+  "atualizado_em": "27/07/2026 04:03",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
-          "title": "Miss Universe Brasil 2026: ‘Sonhos nunca envelhecem e eu sou a prova viva’, diz Marcella Kozinski",
-          "url": "https://www.estadao.com.br/brasil/miss-universe-brasil-2026-sonhos-nunca-envelhecem-e-eu-sou-a-prova-viva-diz-marcella-kozinski/"
-        },
-        {
-          "rank": 3,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
+          "rank": 2,
+          "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
+          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
+        },
+        {
+          "rank": 3,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
           "rank": 4,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+          "title": "‘Ríspidas, grosseiras e inaceitáveis’, diz chanceler brasileiro sobre declarações de Milei",
+          "url": "https://www.estadao.com.br/politica/rispidas-grosseiras-e-inaceitaveis-diz-mauro-vieira-sobre-declaracoes-de-milei/"
         },
         {
           "rank": 5,
-          "title": "Toga não é escudo",
-          "url": "https://www.estadao.com.br/opiniao/toga-nao-e-escudo/"
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 04:36",
+  "atualizado_em": "27/07/2026 04:41",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Cristais e plumas dominam trajes de gala no Miss Universe Brasil 2026; veja",
-          "url": "https://www.cnnbrasil.com.br/lifestyle/cristais-e-plumas-dominam-trajes-de-gala-no-miss-universe-brasil-2026-veja/"
+          "title": "“Dia D”: novo filme de Steven Spielberg estreia no streaming",
+          "url": "https://www.cnnbrasil.com.br/pop/streaming/dia-d-novo-filme-de-steven-spielberg-estreia-no-streaming/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
-        },
-        {
-          "rank": 3,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 2,
+          "title": "Como educar os filhos antes que os algoritmos cheguem primeiro? Livro decifra desafio das famílias",
+          "url": "https://www.estadao.com.br/educacao/como-educar-os-filhos-antes-que-os-algoritmos-cheguem-primeiro-livro-decifra-desafio-das-familias/"
+        },
+        {
+          "rank": 3,
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+        },
+        {
           "rank": 4,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 5,
-          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
-          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 22:26",
+  "atualizado_em": "26/07/2026 22:32",
   "portais": [
     {
       "portal": "Folha",
@@ -108,13 +108,13 @@
         },
         {
           "rank": 2,
-          "title": "Além de engenheira brasileira, adolescente de Goiânia e amiga de Cabo Verde desapareceram na França na semana passada",
-          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/26/alem-de-engenheira-brasileira-adolescente-de-goiania-e-amiga-de-cabo-verde-desapareceram-na-franca-na-semana-passada.ghtml"
+          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
+          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
         },
         {
           "rank": 3,
-          "title": "Nasa divulga representação inédita da Terra como geoide a partir de 1 bilhão de observações coletadas em 15 anos",
-          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/07/26/nasa-divulga-representacao-inedita-da-terra-como-geoide-a-partir-de-1-bilhao-de-observacoes-coletadas-em-15-anos.ghtml"
+          "title": "Além de engenheira brasileira, adolescente de Goiânia e amiga de Cabo Verde desapareceram na França na semana passada",
+          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/26/alem-de-engenheira-brasileira-adolescente-de-goiania-e-amiga-de-cabo-verde-desapareceram-na-franca-na-semana-passada.ghtml"
         },
         {
           "rank": 4,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         },
         {
           "rank": 4,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
         },
         {
           "rank": 5,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
+          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
         }
       ],
       "erro": null
@@ -231,6 +231,11 @@
         },
         {
           "rank": 3,
+          "title": "Scrutiny of WNBA intensifies as mounting discord around the league looms over All-Star festivities",
+          "url": "https://apnews.com/article/wnba-allstar-race-caitlin-clark-angel-reese-df5ab15ce147704b31aa5880226c402f"
+        },
+        {
+          "rank": 4,
           "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
           "url": "https://apnews.com/article/hot-weather-temperatures-climate-heat-dome-65d34e4c520472c7bb1f46cd133b7952"
         }

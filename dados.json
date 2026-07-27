@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 16:46",
+  "atualizado_em": "27/07/2026 16:52",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Ex de filha de Ana Maria Braga questiona medida protetiva e se recusa a assinar divórcio",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/ex-de-filha-de-ana-maria-braga-desafia-medida-protetiva-e-se-recusa-a-assinar-divorcio.shtml"
+          "title": "Em crise, Itália enfrenta dificuldades para encontrar treinador, e brasileiro vira opção",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/em-crise-italia-enfrenta-dificuldades-para-encontrar-treinador-e-brasileiro-vira-opcao.shtml"
         },
         {
           "rank": 3,
-          "title": "Em crise, Itália enfrenta dificuldades para encontrar treinador, e brasileiro vira opção",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/em-crise-italia-enfrenta-dificuldades-para-encontrar-treinador-e-brasileiro-vira-opcao.shtml"
+          "title": "Ex de filha de Ana Maria Braga questiona medida protetiva e se recusa a assinar divórcio",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/ex-de-filha-de-ana-maria-braga-desafia-medida-protetiva-e-se-recusa-a-assinar-divorcio.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Irã rejeita negociar após fracasso de ataques de Trump, que diz conversar",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/ira-rejeita-negociar-apos-fracasso-de-ataques-de-trump.shtml"
+          "title": "Maria Flor diz que terminou namoro após ex abandonar escova de dentes",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/maria-flor-diz-que-terminou-namoro-apos-ex-abandonar-escova-de-dentes.shtml"
         }
       ],
       "erro": null
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Estatal do governo Lula abriga 'exército' eleitoral em contrato de R$ 35 mi",
-          "url": "https://tab.uol.com.br/noticias/redacao/2026/07/27/estatal-do-governo-lula-abriga-exercito-eleitoral-em-contrato-de-r-35-mi.htm"
+          "title": "Alberto Fernández chama Milei de 'energúmeno' após visita ao Brasil",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/alberto-fernandez-chama-milei-de-energumeno-apos-visita-ao-brasil.ghtm"
         }
       ],
       "erro": null
@@ -145,13 +145,13 @@
         },
         {
           "rank": 3,
-          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
-          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
         },
         {
           "rank": 4,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+          "title": "Quem é o eleitor que não quer nem Lula nem Bolsonaro e defende ‘nova via’, segundo a BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/quem-e-o-eleitor-que-nao-quer-nem-lula-nem-bolsonaro-e-defende-nova-via-segundo-a-btgnexus/"
         },
         {
           "rank": 5,
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "McConnell out of hospital but not yet cleared to return to work, doctors say",
-          "url": "https://www.bbc.com/news/articles/c5yd8k3rgj7o"
+          "title": "Devastating European wildfires in maps - and how they're being tackled",
+          "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
         },
         {
           "rank": 2,
-          "title": "Devastating European wildfires in maps - and how they're being tackled",
-          "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
+          "title": "McConnell out of hospital but not yet cleared to return to work, doctors say",
+          "url": "https://www.bbc.com/news/articles/c5yd8k3rgj7o"
         },
         {
           "rank": 3,
@@ -281,9 +281,35 @@
     },
     {
       "portal": "Clarín",
-      "ok": false,
-      "items": [],
-      "erro": "esperava ao menos 3 itens, achei 2"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
+          "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
+        },
+        {
+          "rank": 2,
+          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
+          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
+        },
+        {
+          "rank": 3,
+          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
+          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
+        },
+        {
+          "rank": 4,
+          "title": "Aníbal Fernández, contra Máximo Kirchner y la campaña de La Cámpora: \"No me vas a ver como un pelotudo con el cartel 'Cristina libre'\"",
+          "url": "https://www.clarin.com/politica/anibal-fernandez-maximo-kirchner-campana-campora-vas-ver-pelotudo-cartel-cristina-libre_0_NmxwNA1p0P.html"
+        },
+        {
+          "rank": 5,
+          "title": "Los cuatro problemas que dejó el \"mazazo\" que recibió Boca ante Riestra: el arco, los suplentes, el \"9\" y la actitud",
+          "url": "https://www.clarin.com/deportes/problemas-dejo-mazazo-recibio-boca-riestra-arco-suplentes-9-actitud_0_XfgmATuQmC.html"
+        }
+      ],
+      "erro": null
     }
   ]
 }

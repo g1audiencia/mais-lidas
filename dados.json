@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 14:05",
+  "atualizado_em": "27/07/2026 14:10",
   "portais": [
     {
       "portal": "Folha",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 3,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
           "rank": 4,
-          "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
+          "title": "SP trava batalha contra o mar e usa nova engenharia para impedir que ilha se forme no litoral",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-trava-batalha-contra-o-mar-e-usa-engenharia-para-impedir-que-nova-ilha-se-forme-no-litoral/"
         },
         {
           "rank": 5,
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
-          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
-        },
-        {
-          "rank": 2,
           "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
           "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
         },
         {
-          "rank": 3,
-          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
-          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
+          "rank": 2,
+          "title": "\"Un pobre imbécil\": Alberto Fernández cruzó otra vez a Milei y aseguró que la sociedad argentina lo \"canceló\" tras dejar la Presidencia",
+          "url": "https://www.clarin.com/politica/pobre-imbecil-alberto-fernandez-cruzo-vez-milei-aseguro-sociedad-argentina-cancelo-dejar-presidencia_0_QIt6cC5S8P.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Un gol que sufrió la Selección Argentina fue elegido como el mejor del Mundial 2026",
           "url": "https://www.clarin.com/deportes/gol-sufrio-seleccion-argentina-elegido-mejor-mundial-2026_0_uKOzwCMjou.html"
         },
         {
+          "rank": 4,
+          "title": "Los cuatro problemas que dejó el \"mazazo\" que recibió Boca ante Riestra: el arco, los suplentes, el \"9\" y la actitud",
+          "url": "https://www.clarin.com/deportes/problemas-dejo-mazazo-recibio-boca-riestra-arco-suplentes-9-actitud_0_XfgmATuQmC.html"
+        },
+        {
           "rank": 5,
-          "title": "Una nueva encuesta electoral midió el voto anti Milei vs. el voto anti peronista: 2,6 puntos de diferencia",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-midio-voto-anti-milei-vs-voto-anti-peronista-26-puntos-diferencia_0_QtFZVjYXS1.html"
+          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
+          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
         }
       ],
       "erro": null

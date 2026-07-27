@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 06:47",
+  "atualizado_em": "27/07/2026 06:52",
   "portais": [
     {
       "portal": "Folha",
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
-        },
-        {
-          "rank": 4,
           "title": "'Don't sit under trees' alert as hot spell goes on",
           "url": "https://www.bbc.com/news/articles/cy4km121rjdo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "'Most people are lovely, but we do get irresponsible visitors'",
           "url": "https://www.bbc.com/news/articles/c141ldl24zko"
+        },
+        {
+          "rank": 5,
+          "title": "A 75-year All-Ireland wait, an infamous curse, and an American president",
+          "url": "https://www.bbc.com/news/articles/cqx74qw9ggjo"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
-          "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html"
+          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
+          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
         },
         {
           "rank": 2,
-          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
-          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
+          "title": "\"Vos, ladrón, vos arruinaste el país\", Milei reconoció a un ex funcionario peronista durante una entrevista y lo acusó en vivo",
+          "url": "https://www.clarin.com/politica/vos-ladron-vos-arruinaste-pais-milei-reconocio-ex-funcionario-peronista-entrevista-acuso-vivo_0_0MT1JgbaN7.html"
         },
         {
           "rank": 3,

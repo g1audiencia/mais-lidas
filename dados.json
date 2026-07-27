@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 08:58",
+  "atualizado_em": "27/07/2026 09:03",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
+          "title": "Deputados pedem investigação por Milei e IA de Bolsonaro em convenção do PL",
+          "url": "https://www.cnnbrasil.com.br/politica/deputados-pedem-investigacao-por-milei-e-ia-de-bolsonaro-em-convencao-do-pl/"
+        },
+        {
+          "rank": 4,
           "title": "Corredor morre ao passar mal em corrida de rua em SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corredor-morre-ao-passar-mal-em-corrida-de-rua-em-sp/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Miss Universe Brasil 2026 é eleita com fala sobre autenticidade feminina",
           "url": "https://www.cnnbrasil.com.br/lifestyle/miss-universe-brasil-2026-e-eleita-com-discurso-sobre-forca-feminina/"
-        },
-        {
-          "rank": 5,
-          "title": "Deputados pedem investigação por Milei e IA de Bolsonaro em convenção do PL",
-          "url": "https://www.cnnbrasil.com.br/politica/deputados-pedem-investigacao-por-milei-e-ia-de-bolsonaro-em-convencao-do-pl/"
         }
       ],
       "erro": null
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+          "title": "Mais policiais morrem por suicídio do que em confrontos: ‘Cenário preocupante de saúde mental’",
+          "url": "https://www.estadao.com.br/sao-paulo/mais-policiais-morrem-por-suicidio-do-que-em-confrontos-cenario-preocupante-de-saude-mental/"
         },
         {
           "rank": 5,
-          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
+          "title": "Moro lidera cenários de 1º e 2º turno no Paraná, aponta Genial/Quaest",
+          "url": "https://www.estadao.com.br/politica/moro-lidera-cenarios-de-1-e-2-turno-no-parana-aponta-genialquaest/"
         }
       ],
       "erro": null

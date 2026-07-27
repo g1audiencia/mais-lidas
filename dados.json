@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 03:21",
+  "atualizado_em": "27/07/2026 03:27",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
           "rank": 2,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
           "rank": 3,
-          "title": "A corrida espacial chega à América Latina",
-          "url": "https://www.estadao.com.br/internacional/a-corrida-espacial-chega-a-america-latina/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 4,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
+          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
         },
         {
           "rank": 5,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         }
       ],
       "erro": null
@@ -248,23 +248,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-          "url": "https://www.bbc.com/news/articles/c2350zlyy1yo"
-        },
-        {
-          "rank": 2,
           "title": "Shein swings to $99m loss as Trump tariffs hit sales",
           "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
           "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Berlin Pride attack suspect shot and killed during police operation",
           "url": "https://www.bbc.com/news/articles/c62eg899l99o"
+        },
+        {
+          "rank": 4,
+          "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
+          "url": "https://www.bbc.com/news/articles/c2350zlyy1yo"
         },
         {
           "rank": 5,

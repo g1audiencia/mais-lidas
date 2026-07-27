@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 02:04",
+  "atualizado_em": "27/07/2026 02:10",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
+          "rank": 2,
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
+        },
+        {
           "rank": 3,
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+        },
+        {
+          "rank": 4,
           "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
           "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
         },
         {
-          "rank": 4,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
-        },
-        {
           "rank": 5,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+          "title": "Miss Universe Brasil 2026: ‘Sonhos nunca envelhecem e eu sou a prova viva’, diz Marcella Kozinski",
+          "url": "https://www.estadao.com.br/brasil/miss-universe-brasil-2026-sonhos-nunca-envelhecem-e-eu-sou-a-prova-viva-diz-marcella-kozinski/"
         }
       ],
       "erro": null

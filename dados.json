@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 07:25",
+  "atualizado_em": "27/07/2026 07:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+        },
+        {
+          "rank": 2,
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+        },
+        {
+          "rank": 3,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
-          "rank": 3,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 4,
-          "title": "Se não fizer ajuste fiscal no primeiro ano, vai pegar fogo na mão de Lula, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevsita-mendonca-de-barros-ajuste-fiscal-primeiro-ano-fogo-mao-lula/"
-        },
-        {
           "rank": 5,
-          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
+          "title": "Moro lidera cenários de 1º e 2º turno no Paraná, aponta Genial/Quaest",
+          "url": "https://www.estadao.com.br/politica/moro-lidera-cenarios-de-1-e-2-turno-no-parana-aponta-genialquaest/"
         }
       ],
       "erro": null

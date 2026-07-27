@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 22:09",
+  "atualizado_em": "26/07/2026 22:14",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
-          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
-        },
-        {
-          "rank": 2,
           "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
           "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
+          "rank": 3,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
           "rank": 4,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
+          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
         },
         {
           "rank": 5,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Como educar os filhos antes que os algoritmos cheguem primeiro? Livro decifra desafio das famílias",
+          "url": "https://www.estadao.com.br/educacao/como-educar-os-filhos-antes-que-os-algoritmos-cheguem-primeiro-livro-decifra-desafio-das-familias/"
         }
       ],
       "erro": null
@@ -217,25 +217,9 @@
     },
     {
       "portal": "AP",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Van slams into crowd at Berlin Pride festival, killing 1 and injuring 16, as police identify suspect",
-          "url": "https://apnews.com/article/germany-berling-lgbtq-pride-parade-8b3c8ded8033ab246cb55f7bd1c47e2f"
-        },
-        {
-          "rank": 2,
-          "title": "Heat dome expands across the central United States, creating dangerous conditions for millions",
-          "url": "https://apnews.com/article/hot-weather-temperatures-climate-heat-dome-65d34e4c520472c7bb1f46cd133b7952"
-        },
-        {
-          "rank": 3,
-          "title": "A forced-labor crackdown or an end-run around Congress? Dissecting Trump’s new tariffs",
-          "url": "https://apnews.com/article/trump-tariffs-forced-labor-8ea8114c6893a6062cf1addc3518660b"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "esperava ao menos 3 itens, achei 2"
     },
     {
       "portal": "BBC News",
@@ -253,18 +237,18 @@
         },
         {
           "rank": 3,
+          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+          "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
+        },
+        {
+          "rank": 4,
           "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
           "url": "https://www.bbc.com/news/articles/c5y45kdkynpo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
           "url": "https://www.bbc.com/news/articles/ckg41vn8x7ko"
-        },
-        {
-          "rank": 5,
-          "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-          "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
         }
       ],
       "erro": null

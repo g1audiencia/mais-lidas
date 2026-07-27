@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 21:29",
+  "atualizado_em": "26/07/2026 21:35",
   "portais": [
     {
       "portal": "Folha",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Governo brasileiro convoca embaixador na Argentina após ataques de Milei a Lula e a Moraes",
-          "url": "https://www.estadao.com.br/politica/governo-brasileiro-convoca-embaixador-na-argentina-apos-ataques-de-milei-a-lula-e-a-moraes/"
+          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
+          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os apelidos que Caiado usa para se referir a Flávio Bolsonaro",
-          "url": "https://www.metropoles.com/colunas/grande-angular/os-apelidos-que-caiado-usa-para-se-referir-a-flavio-bolsonaro"
-        },
-        {
-          "rank": 2,
           "title": "Rio de Janeiro vê receita com bets cair 98,5% após decisão do STF",
           "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/rio-de-janeiro-ve-receita-com-bets-cair-985-apos-decisao-do-stf"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Zambelli rebate deputado italiano e garante que não fugiu da Justiça",
           "url": "https://www.metropoles.com/mundo/zambelli-rebate-deputado-italiano-e-garante-que-nao-fugiu-da-justica"
+        },
+        {
+          "rank": 3,
+          "title": "Exame de DNA definiu destino da filha de Elize Matsunaga: entenda",
+          "url": "https://www.metropoles.com/entretenimento/televisao/exame-de-dna-definiu-destino-da-filha-de-elize-matsunaga-entenda"
         }
       ],
       "erro": null

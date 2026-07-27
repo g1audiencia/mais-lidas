@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 05:36",
+  "atualizado_em": "27/07/2026 05:41",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "Montanha de roupas descartadas que a Europa envia para o Chile já ultrapassa 60 mil toneladas e é visível do espaço",
-          "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/25/montanha-de-roupas-descartadas-que-a-europa-envia-para-o-chile-ja-ultrapassa-60-mil-toneladas-e-e-visivel-do-espaco.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Jornais argentinos repercutem discurso de Milei em convenção do PL: 'Tensão com o Brasil está mais alta do que nunca'",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/26/jornais-argentinos-repercutem-discurso-de-milei-em-convencao-do-pl-tensao-com-o-brasil-esta-mais-alta-do-que-nunca.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Após risco de perder a visão, jovem passa a viajar o mundo sozinha e fica presa em caverna por três dias",
           "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/26/apos-risco-de-perder-a-visao-jovem-passa-a-viajar-o-mundo-sozinha-e-fica-presa-em-caverna-por-tres-dias.ghtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Além de engenheira brasileira, adolescente de Goiânia e amiga de Cabo Verde desapareceram na França na semana passada",
           "url": "https://oglobo.globo.com/brasil/noticia/2026/07/26/alem-de-engenheira-brasileira-adolescente-de-goiania-e-amiga-de-cabo-verde-desapareceram-na-franca-na-semana-passada.ghtml"
+        },
+        {
+          "rank": 5,
+          "title": "Especialistas discutem legalidade de uso de IA de Jair Bolsonaro em convenção do PL",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/27/especialistas-discutem-legalidade-de-uso-de-ia-de-jair-bolsonaro-em-convencao-do-pl.ghtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
-        },
-        {
-          "rank": 3,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
+          "rank": 3,
+          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
+          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
+        },
+        {
           "rank": 4,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
           "rank": 5,
-          "title": "Como educar os filhos antes que os algoritmos cheguem primeiro? Livro decifra desafio das famílias",
-          "url": "https://www.estadao.com.br/educacao/como-educar-os-filhos-antes-que-os-algoritmos-cheguem-primeiro-livro-decifra-desafio-das-familias/"
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
         }
       ],
       "erro": null

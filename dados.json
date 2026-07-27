@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 04:14",
+  "atualizado_em": "27/07/2026 04:19",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+        },
+        {
+          "rank": 2,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 3,
           "title": "Por que o pediatra é essencial nos plantões",
           "url": "https://www.estadao.com.br/opiniao/espaco-aberto/por-que-o-pediatra-e-essencial-nos-plantoes/"
         },
         {
-          "rank": 2,
-          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
-          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
-        },
-        {
-          "rank": 3,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
-        },
-        {
           "rank": 4,
-          "title": "Incêndio florestal chega a 15 km de Bordeaux e prefeito não descarta esvaziar a cidade",
-          "url": "https://www.estadao.com.br/internacional/incendio-florestal-chega-a-15-km-de-bordeaux-e-prefeito-nao-descarta-esvaziar-a-cidade-npr/"
+          "title": "Acidente da Voepass: ‘Empresa nos enviava informações falsas’, diz presidente da Anac",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-empresa-nos-enviava-informacoes-falsas-diz-presidente-da-anac/"
         },
         {
           "rank": 5,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         }
       ],
       "erro": null

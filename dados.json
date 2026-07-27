@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 04:58",
+  "atualizado_em": "27/07/2026 05:03",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
-          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
+          "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
+          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
         },
         {
           "rank": 3,
+          "title": "Acidente da Voepass: ‘Empresa nos enviava informações falsas’, diz presidente da Anac",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-empresa-nos-enviava-informacoes-falsas-diz-presidente-da-anac/"
+        },
+        {
+          "rank": 4,
           "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
           "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
-          "rank": 4,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
-        },
-        {
           "rank": 5,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         }
       ],
       "erro": null

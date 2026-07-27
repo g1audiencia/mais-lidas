@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 04:30",
+  "atualizado_em": "27/07/2026 04:36",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Faria Lima torce por desembarque de Flávio Bolsonaro em favor de Caiado",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/faria-lima-torce-por-desembarque-de-flavio-bolsonaro-em-favor-de-caiado.shtml"
+          "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erotizacao-desmedida-diz-jornalista-sobre-figurino-de-xuxa.shtml"
         },
         {
           "rank": 2,
-          "title": "'Erotização desmedida', diz jornalista sobre figurino de Xuxa",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erotizacao-desmedida-diz-jornalista-sobre-figurino-de-xuxa.shtml"
+          "title": "Faria Lima torce por desembarque de Flávio Bolsonaro em favor de Caiado",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/faria-lima-torce-por-desembarque-de-flavio-bolsonaro-em-favor-de-caiado.shtml"
         },
         {
           "rank": 3,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 2,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+        },
+        {
+          "rank": 4,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
-          "rank": 3,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
-        },
-        {
-          "rank": 4,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
-        },
-        {
           "rank": 5,
-          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
-          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
+          "title": "Vídeo de Bolsonaro por IA pode ser punido pela justiça eleitoral? Entenda",
+          "url": "https://www.estadao.com.br/politica/video-de-bolsonaro-por-ia-pode-ser-punido-pela-justica-eleitoral-entenda/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 05:30",
+  "atualizado_em": "27/07/2026 05:36",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Vídeo de IA só viola prisão domiciliar se Bolsonaro participou ou consentiu, diz advogado",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/video-de-ia-so-viola-prisao-domiciliar-se-bolsonaro-participou-ou-consentiu-diz-advogado.shtml"
+          "title": "Calderano vence tri no Brasil, quebra jejum de um ano no WTT e é aclamado no país",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/calderano-vence-tri-no-brasil-quebra-jejum-de-um-ano-no-wtt-e-e-aclamado-em-seu-pais.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+        },
+        {
+          "rank": 3,
           "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
           "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
-          "rank": 3,
-          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
-          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
-        },
-        {
           "rank": 4,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         },
         {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Como educar os filhos antes que os algoritmos cheguem primeiro? Livro decifra desafio das famílias",
+          "url": "https://www.estadao.com.br/educacao/como-educar-os-filhos-antes-que-os-algoritmos-cheguem-primeiro-livro-decifra-desafio-das-familias/"
         }
       ],
       "erro": null

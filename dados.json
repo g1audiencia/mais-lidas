@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 03:52",
+  "atualizado_em": "27/07/2026 03:58",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Ríspidas, grosseiras e inaceitáveis’, diz chanceler brasileiro sobre declarações de Milei",
-          "url": "https://www.estadao.com.br/politica/rispidas-grosseiras-e-inaceitaveis-diz-mauro-vieira-sobre-declaracoes-de-milei/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 2,
+          "title": "Miss Universe Brasil 2026: ‘Sonhos nunca envelhecem e eu sou a prova viva’, diz Marcella Kozinski",
+          "url": "https://www.estadao.com.br/brasil/miss-universe-brasil-2026-sonhos-nunca-envelhecem-e-eu-sou-a-prova-viva-diz-marcella-kozinski/"
+        },
+        {
+          "rank": 3,
           "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
           "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         },
         {
-          "rank": 3,
-          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
-        },
-        {
           "rank": 4,
-          "title": "Toga não é escudo",
-          "url": "https://www.estadao.com.br/opiniao/toga-nao-e-escudo/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
           "rank": 5,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+          "title": "Toga não é escudo",
+          "url": "https://www.estadao.com.br/opiniao/toga-nao-e-escudo/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
-          "url": "https://www.bbc.com/news/articles/cvgx91vdedno"
-        },
-        {
-          "rank": 2,
           "title": "Shein swings to $99m loss as Trump tariffs hit sales",
           "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
           "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
+        },
+        {
+          "rank": 3,
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
-          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
+          "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+          "url": "https://www.bbc.com/news/articles/cvgx91vdedno"
         }
       ],
       "erro": null

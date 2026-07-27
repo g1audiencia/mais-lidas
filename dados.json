@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 08:52",
+  "atualizado_em": "27/07/2026 08:58",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
-          "title": "Deputados pedem investigação por Milei e IA de Bolsonaro em convenção do PL",
-          "url": "https://www.cnnbrasil.com.br/politica/deputados-pedem-investigacao-por-milei-e-ia-de-bolsonaro-em-convencao-do-pl/"
-        },
-        {
-          "rank": 4,
           "title": "Corredor morre ao passar mal em corrida de rua em SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corredor-morre-ao-passar-mal-em-corrida-de-rua-em-sp/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Miss Universe Brasil 2026 é eleita com fala sobre autenticidade feminina",
           "url": "https://www.cnnbrasil.com.br/lifestyle/miss-universe-brasil-2026-e-eleita-com-discurso-sobre-forca-feminina/"
+        },
+        {
+          "rank": 5,
+          "title": "Deputados pedem investigação por Milei e IA de Bolsonaro em convenção do PL",
+          "url": "https://www.cnnbrasil.com.br/politica/deputados-pedem-investigacao-por-milei-e-ia-de-bolsonaro-em-convencao-do-pl/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
-        },
-        {
-          "rank": 2,
-          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
-        },
-        {
-          "rank": 3,
           "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
           "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+        },
+        {
+          "rank": 3,
           "title": "A equipe econômica perdeu o pudor",
           "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
+          "rank": 4,
+          "title": "Carlos Andreazza: ‘A convenção nacional de Jair Bolsonaro e o cavalo Flávio’ | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-a-convencao-nacional-de-jair-bolsonaro-e-o-cavalo-flavio-estadao-analisa/"
+        },
+        {
           "rank": 5,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         }
       ],
       "erro": null
@@ -258,8 +258,8 @@
         },
         {
           "rank": 2,
-          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
+          "title": "Oil price dives as US and Iran pause attacks",
+          "url": "https://www.bbc.com/news/articles/clyj834jn5lo"
         },
         {
           "rank": 3,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Oil price dives as US and Iran pause attacks",
-          "url": "https://www.bbc.com/news/articles/clyj834jn5lo"
+          "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+          "url": "https://www.bbc.com/news/articles/c1l1m6e08e2o"
         },
         {
           "rank": 5,
-          "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-          "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
+          "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+          "url": "https://www.bbc.com/news/articles/c78gjyx4q2yo"
         }
       ],
       "erro": null

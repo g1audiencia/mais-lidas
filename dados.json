@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 11:59",
+  "atualizado_em": "27/07/2026 12:04",
   "portais": [
     {
       "portal": "Folha",
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
-          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
-        },
-        {
-          "rank": 2,
           "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
           "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
         },
         {
-          "rank": 3,
-          "title": "El desgarrador mensaje de Nicolás Cabré por la muerte de su hermano: “Jamás te voy a olvidar”",
-          "url": "https://www.clarin.com/fama/desgarrador-mensaje-nicolas-cabre-muerte-hermano-jamas-voy-olvidar_0_uiVAKrxrf2.html"
+          "rank": 2,
+          "title": "Corrupción en la AFA: la conexión con Santiago del Estero y los negocios millonarios entre Zamora y Toviggino",
+          "url": "https://www.clarin.com/politica/corrupcion-afa-conexion-santiago-estero-negocios-millonarios-zamora-toviggino_0_POaOahhIdi.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Una nueva encuesta electoral midió el voto anti Milei vs. el voto anti peronista: 2,6 puntos de diferencia",
           "url": "https://www.clarin.com/politica/nueva-encuesta-electoral-midio-voto-anti-milei-vs-voto-anti-peronista-26-puntos-diferencia_0_QtFZVjYXS1.html"
         },
         {
+          "rank": 4,
+          "title": "El desgarrador mensaje de Nicolás Cabré por la muerte de su hermano: “Jamás te voy a olvidar”",
+          "url": "https://www.clarin.com/fama/desgarrador-mensaje-nicolas-cabre-muerte-hermano-jamas-voy-olvidar_0_uiVAKrxrf2.html"
+        },
+        {
           "rank": 5,
-          "title": "Lo contrataron por un mes para atender el teléfono en Radio Mitre y hoy brilla con Ariel Tarico y Rolo Villar",
-          "url": "https://www.clarin.com/historias/contrataron-mes-atender-telefono-radio-mitre-hoy-brilla-ariel-tarico-rolo-villar_0_8e9xaLesgH.html"
+          "title": "Corrupción en AFA: Chiqui Tapia busca un blindaje con el fútbol argentino, pero en la primera fecha lo insultaron en varias canchas",
+          "url": "https://www.clarin.com/deportes/corrupcion-afa-chiqui-tapia-busca-blindaje-futbol-argentino-primera-fecha-insultaron-varias-canchas_0_CzKJFFvwpG.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 00:50",
+  "atualizado_em": "27/07/2026 00:55",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
-        },
-        {
-          "rank": 3,
           "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
           "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
         },
         {
+          "rank": 3,
+          "title": "O psyllium realmente faz bem para a saúde?",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
+        },
+        {
           "rank": 4,
-          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
+          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
+          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
         },
         {
           "rank": 5,
-          "title": "Saiba quais são os municípios brasileiros mais afetados pelo novo tarifaço de Trump",
-          "url": "https://www.estadao.com.br/economia/saiba-quais-sao-os-municipios-brasileiros-mais-afetados-pelo-novo-tarifaco-de-trump/"
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Berlin Pride attack suspect shot and killed during police operation",
-          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
-        },
-        {
-          "rank": 4,
           "title": "Shein swings to $99m loss as Trump tariffs hit sales",
           "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
         },
         {
+          "rank": 4,
+          "title": "Berlin Pride attack suspect shot and killed during police operation",
+          "url": "https://www.bbc.com/news/articles/c62eg899l99o"
+        },
+        {
           "rank": 5,
-          "title": "'Most people are lovely, but we do get irresponsible visitors'",
-          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
+          "title": "What we know so far about the Berlin Pride ramming attack",
+          "url": "https://www.bbc.com/news/articles/cevmdxz4872o"
         }
       ],
       "erro": null

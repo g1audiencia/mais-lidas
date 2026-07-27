@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 19:01",
+  "atualizado_em": "27/07/2026 19:06",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
-        },
-        {
-          "rank": 2,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
+          "rank": 2,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
           "rank": 3,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
+          "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
+          "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
-          "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null

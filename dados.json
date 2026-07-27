@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 23:43",
+  "atualizado_em": "26/07/2026 23:48",
   "portais": [
     {
       "portal": "Folha",
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
         },
         {
           "rank": 3,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
-          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
+          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
+          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Riestra, con un primer tiempo perfecto y un golazo de colección, le dio un enorme llamado de atención al Boca de Arruabarrena",
-          "url": "https://www.clarin.com/deportes/deportivo-riestra-vs-boca-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_BYriQqxvl9.html"
-        },
-        {
-          "rank": 4,
           "title": "La intimidad en el palco de Palermo: Javier Milei aclamado y Sandra Pettovello, tan popular como Luis Caputo y Patricia Bullrich",
           "url": "https://www.clarin.com/economia/intimidad-palco-palermo-pettovello-popular-caputo-bullrich_0_8oRYE6TRIG.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Tragedia en las playas de Necochea: volcó un jeep en la arena y murió su conductor",
           "url": "https://www.clarin.com/sociedad/tragedia-playas-necochea-volco-jeep-arena-murio-conductor_0_ltClPb3t82.html"
+        },
+        {
+          "rank": 5,
+          "title": "Riestra, con un primer tiempo perfecto y un golazo de colección, le dio un enorme llamado de atención al Boca de Arruabarrena",
+          "url": "https://www.clarin.com/deportes/deportivo-riestra-vs-boca-torneo-clausura-vivo-hora-juegan-formaciones-ver-partido_0_BYriQqxvl9.html"
         }
       ],
       "erro": null

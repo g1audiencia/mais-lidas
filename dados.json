@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 20:02",
+  "atualizado_em": "27/07/2026 20:08",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 2,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
+          "rank": 2,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
           "rank": 3,
-          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
+          "title": "‘Quem é esse cara?’, reage Lula sobre declarações de Milei no Brasil",
+          "url": "https://www.estadao.com.br/politica/quem-e-esse-cara-reage-lula-sobre-declaracoes-de-milei-no-brasil/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
+          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
         }
       ],
       "erro": null
@@ -177,8 +177,8 @@
         },
         {
           "rank": 3,
-          "title": "Preso na Farra do INSS faz vaquinha por advogados e arrecada 0,25%",
-          "url": "https://www.metropoles.com/colunas/tacio-lorran/preso-na-farra-do-inss-faz-vaquinha-por-advogados-mas-arrecada-025"
+          "title": "Filha de Elize Matsunaga: entenda autorização para viajar",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/filha-de-elize-matsunaga-entenda-autorizacao-para-viajar"
         }
       ],
       "erro": null

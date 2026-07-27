@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 06:30",
+  "atualizado_em": "27/07/2026 06:36",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Faria Lima torce por desembarque de Flávio Bolsonaro em favor de Caiado",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/faria-lima-torce-por-desembarque-de-flavio-bolsonaro-em-favor-de-caiado.shtml"
+          "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
         },
         {
           "rank": 3,
-          "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
+          "title": "Faria Lima torce por desembarque de Flávio Bolsonaro em favor de Caiado",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/faria-lima-torce-por-desembarque-de-flavio-bolsonaro-em-favor-de-caiado.shtml"
         },
         {
           "rank": 4,
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Eleitor pode ‘pular para outro’ se Flávio continuar tendo ‘sequência de más notícias’, diz Lavareda",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/eleitor-pode-pular-para-outro-se-flavio-continuar-tendo-sequencia-de-mas-noticias-diz-lavareda/"
         },
         {
           "rank": 4,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+          "title": "‘Usar IA para fazer campanha é lícito, mas não pode usar para prejudicar alguém’, diz Nunes Marques",
+          "url": "https://www.estadao.com.br/politica/usar-ia-para-fazer-campanha-e-licito-mas-nao-pode-usar-para-prejudicar-alguem-diz-nunes-marques/"
         },
         {
           "rank": 5,
-          "title": "Se não fizer ajuste fiscal no primeiro ano, vai pegar fogo na mão de Lula, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevsita-mendonca-de-barros-ajuste-fiscal-primeiro-ano-fogo-mao-lula/"
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         }
       ],
       "erro": null

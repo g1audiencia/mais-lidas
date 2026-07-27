@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 11:26",
+  "atualizado_em": "27/07/2026 11:31",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Ministro da Fazenda chama Milei de palhaço e rebate críticas sobre economia brasileira",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/ministro-da-fazenda-chama-milei-de-palhaco-e-rebate-criticas-sobre-economia-brasileira.shtml"
+          "title": "Empregadores dos EUA temem escassez de mão de obra com a perda de proteção de imigrantes",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/empregadores-temem-escassez-de-mao-de-obra-com-a-perda-de-protecao-de-imigrantes.shtml"
         },
         {
           "rank": 5,
-          "title": "Estou pronto para ir embora, não tenho apego, diz Heitor Martins, presidente do Masp",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/estou-pronto-para-ir-embora-nao-tenho-apego-diz-heitor-martins-presidente-do-masp.shtml"
+          "title": "Ministro da Fazenda chama Milei de palhaço e rebate críticas sobre economia brasileira",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/ministro-da-fazenda-chama-milei-de-palhaco-e-rebate-criticas-sobre-economia-brasileira.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+        },
+        {
+          "rank": 2,
           "title": "A lição do Gaeco que políticos precisam aprender sobre a captura do serviço público pelo PCC",
           "url": "https://www.estadao.com.br/politica/marcelo-godoy/a-licao-do-gaeco-que-politicos-precisam-aprender-sobre-a-captura-do-servico-publico-pelo-pcc/"
         },
         {
-          "rank": 2,
-          "title": "A equipe econômica perdeu o pudor",
-          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
-        },
-        {
           "rank": 3,
-          "title": "Boreout: quando a falta de desafios no trabalho faz mal à saúde",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/boreout-quando-a-falta-de-desafios-no-trabalho-faz-mal-a-saude/"
+          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
+          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         }
       ],
       "erro": null
@@ -167,8 +167,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fraude milionária do INSS abasteceu garagem de carros de luxo",
-          "url": "https://www.metropoles.com/distrito-federal/fraude-milionaria-do-inss-abasteceu-garagem-de-carros-de-luxo"
+          "title": "Governo Milei não pretende se desculpar por ataques a Lula, diz jornal",
+          "url": "https://www.metropoles.com/mundo/governo-milei-nao-pretende-se-desculpar-por-ataques-a-lula-diz-jornal"
         },
         {
           "rank": 2,
@@ -177,8 +177,8 @@
         },
         {
           "rank": 3,
-          "title": "Repasses do Exército ao Master cresceram até eleição e caíram sob Lula",
-          "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/repasses-do-exercito-ao-master-cresceram-ate-eleicao-e-cairam-sob-lula"
+          "title": "Fraude milionária do INSS abasteceu garagem de carros de luxo",
+          "url": "https://www.metropoles.com/distrito-federal/fraude-milionaria-do-inss-abasteceu-garagem-de-carros-de-luxo"
         }
       ],
       "erro": null

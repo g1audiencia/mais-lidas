@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 02:33",
+  "atualizado_em": "27/07/2026 02:41",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 2,
           "title": "O psyllium realmente faz bem para a saúde?",
           "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
+          "rank": 2,
+          "title": "‘Ríspidas, grosseiras e inaceitáveis’, diz chanceler brasileiro sobre declarações de Milei",
+          "url": "https://www.estadao.com.br/politica/rispidas-grosseiras-e-inaceitaveis-diz-mauro-vieira-sobre-declaracoes-de-milei/"
+        },
+        {
           "rank": 3,
-          "title": "Pênalti, expulsão e gol anulado: os erros e acertos de Daronco em Flamengo x São Paulo",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/penalti-expulsao-e-gol-anulado-os-erros-e-acertos-de-daronco-em-flamengo-x-sao-paulo/"
+          "title": "‘Ozempic natural’: até onde vai o poder da fibra que viralizou como método para emagrecer?",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/ozempic-natural-ate-onde-vai-o-poder-da-fibra-que-viralizou-como-metodo-para-emagrecer/"
         },
         {
           "rank": 4,
-          "title": "Da romana à argentina, o prato favorito do paulistano",
-          "url": "https://www.estadao.com.br/paladar/da-romana-a-argentina-o-prato-favorito-do-paulistano/"
+          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
+          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
         },
         {
           "rank": 5,
-          "title": "Dia da avó: redescubra 9 receitas de bolo que aquecem o coração de qualquer um",
-          "url": "https://www.estadao.com.br/paladar/caderno-de-receitas/fuba-cozido-maca-rustica-e-cenoura-9-receitas-de-bolo-com-gosto-de-casa-de-avo/"
+          "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
+          "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
         }
       ],
       "erro": null

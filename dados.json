@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 03:32",
+  "atualizado_em": "27/07/2026 03:38",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Jacarés mordem sacos plásticos em busca de comida na zona oeste do Rio",
+          "url": "https://www1.folha.uol.com.br/ambiente/2026/07/jacares-mordem-sacos-plasticos-em-busca-de-comida-na-zona-oeste-do-rio.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Paolla Oliveira joga futevôlei na praia e impressiona fãs com habilidade: 'Faz de tudo'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/paolla-oliveira-joga-futevolei-na-praia-e-impressiona-fas-com-habilidade-faz-de-tudo.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Vídeo de IA só viola prisão domiciliar se Bolsonaro participou ou consentiu, diz advogado",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/video-de-ia-so-viola-prisao-domiciliar-se-bolsonaro-participou-ou-consentiu-diz-advogado.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
-          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
         }
       ],
       "erro": null
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
-          "title": "Cristais e plumas dominam trajes de gala no Miss Universe Brasil 2026; veja",
-          "url": "https://www.cnnbrasil.com.br/lifestyle/cristais-e-plumas-dominam-trajes-de-gala-no-miss-universe-brasil-2026-veja/"
-        },
-        {
-          "rank": 4,
           "title": "Miss Universe Brasil 2026 é eleita com fala sobre autenticidade feminina",
           "url": "https://www.cnnbrasil.com.br/lifestyle/miss-universe-brasil-2026-e-eleita-com-discurso-sobre-forca-feminina/"
         },
         {
+          "rank": 4,
+          "title": "Cristais e plumas dominam trajes de gala no Miss Universe Brasil 2026; veja",
+          "url": "https://www.cnnbrasil.com.br/lifestyle/cristais-e-plumas-dominam-trajes-de-gala-no-miss-universe-brasil-2026-veja/"
+        },
+        {
           "rank": 5,
-          "title": "EUA: Pentágono altera registro e militares feridos na guerra passam de 600",
-          "url": "https://www.cnnbrasil.com.br/internacional/eua-pentagono-altera-registro-e-militares-feridos-na-guerra-passam-de-600/"
+          "title": "Corredor morre ao passar mal em corrida de rua em SP",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corredor-morre-ao-passar-mal-em-corrida-de-rua-em-sp/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
+          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+        },
+        {
+          "rank": 2,
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+        },
+        {
+          "rank": 3,
           "title": "O psyllium realmente faz bem para a saúde?",
           "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
         },
         {
-          "rank": 2,
-          "title": "Nissan Versa 2027 chega ao Brasil sem reestilização e com preços mais altos",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-versa-2027-chega-ao-brasil-sem-reestilizacao-e-com-precos-mais-altos/"
-        },
-        {
-          "rank": 3,
-          "title": "Policial civil é encontrada morta dentro do carro no RJ; companheira e sogros são presos",
-          "url": "https://www.estadao.com.br/brasil/policial-civil-e-encontrada-morta-dentro-de-carro-no-rj-companheira-e-sogros-sao-presos-npr/"
-        },
-        {
           "rank": 4,
-          "title": "Itamaraty convoca embaixador da Argentina para prestar esclarecimentos após críticas de Milei",
-          "url": "https://www.estadao.com.br/politica/itamaraty-convoca-embaixador-da-argentina-para-prestar-esclarecimentos-apos-criticas-de-milei/"
+          "title": "Carlos Miguel tem falha grotesca, Palmeiras perde para o Atlético-MG e vê Flamengo se aproximar",
+          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-x-atletic-mg-brasileirao-2026-20a-rodada-analise/"
         },
         {
           "rank": 5,
-          "title": "A história do Bolo Divino: ele conquistou o público - mas não está disponível em nenhuma doceria",
-          "url": "https://www.estadao.com.br/paladar/comida/bolo-divino-da-bibla-conheca-a-historia-da-receita-que-transformou-uma-livraria-em-point-gastronomico/"
+          "title": "Na cola de Pinheiros, Butantã entra na mira das incorporadoras e preços de imóveis chegam a R$ 2 mi",
+          "url": "https://www.estadao.com.br/economia/negocios/butanta-mira-incorporadoras-precos-imoveis-dois-milhoes/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+          "url": "https://www.bbc.com/news/articles/cvgx91vdedno"
+        },
+        {
+          "rank": 2,
           "title": "Shein swings to $99m loss as Trump tariffs hit sales",
           "url": "https://www.bbc.com/news/articles/clyj8v0rek8o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
           "url": "https://www.bbc.com/news/articles/c5yegvd9ddeo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Berlin Pride attack suspect shot and killed during police operation",
           "url": "https://www.bbc.com/news/articles/c62eg899l99o"
         },
         {
-          "rank": 4,
-          "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-          "url": "https://www.bbc.com/news/articles/c2350zlyy1yo"
-        },
-        {
           "rank": 5,
-          "title": "'Most people are lovely, but we do get irresponsible visitors'",
-          "url": "https://www.bbc.com/news/articles/c141ldl24zko"
+          "title": "Record 2,500 e-bikes and e-scooters seized by Met",
+          "url": "https://www.bbc.com/news/articles/c89nyk4pz74o"
         }
       ],
       "erro": null

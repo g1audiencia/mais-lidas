@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 20:56",
+  "atualizado_em": "26/07/2026 21:02",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Muro de tarifas erguido por Trump dificilmente será demolido por outros presidentes",
-          "url": "https://www.estadao.com.br/internacional/muro-de-tarifas-erguido-por-trump-dificilmente-sera-demolido-por-outros-presidentes/"
+          "title": "Quem é Marcella Kozinski, coroada Miss Universe Brasil 2026",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marcella-kozinski-coroada-miss-universe-brasil-2026/"
         },
         {
           "rank": 3,
-          "title": "O psyllium realmente faz bem para a saúde?",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/o-psyllium-realmente-faz-bem-para-a-saude/"
-        },
-        {
-          "rank": 4,
           "title": "Suspeito de ataque à Parada LGBT de Berlim é morto pela polícia",
           "url": "https://www.estadao.com.br/internacional/suspeito-de-ataque-a-parada-lgbt-de-berlim-e-morto-pela-policia/"
         },
         {
+          "rank": 4,
+          "title": "The Economist: O Pix é exemplo do desafio global à supremacia financeira dos Estados Unidos",
+          "url": "https://www.estadao.com.br/economia/the-economist-pix-desafio-global-supremacia-financeira-eua/"
+        },
+        {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Milei acusa Brasil, México e democratas dos EUA de financiar ‘campanha anti-argentina’",
+          "url": "https://www.estadao.com.br/politica/milei-acusa-brasil-mexico-e-democratas-dos-eua-de-financiar-campanha-anti-argentina/"
         }
       ],
       "erro": null

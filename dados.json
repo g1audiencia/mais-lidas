@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 03:02",
+  "atualizado_em": "28/07/2026 03:08",
   "portais": [
     {
       "portal": "Folha",
@@ -35,9 +35,35 @@
     },
     {
       "portal": "UOL",
-      "ok": false,
-      "items": [],
-      "erro": "403 Client Error: Forbidden for url: https://www.uol.com.br/"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
+        },
+        {
+          "rank": 2,
+          "title": "Lívia Andrade aposta em fio-dental ao curtir viagem a Ibiza",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/27/livia-andrade-aposta-em-fio-dental-ao-curtir-viagem-luxuosa-em-ibiza.ghtm"
+        },
+        {
+          "rank": 3,
+          "title": "Irmão gêmeo de preso por masturbação se afasta do trabalho na BA",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/27/irmao-gemeo-de-preso-por-masturbacao-em-academia-se-afastou-do-trabalho.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "Ana Hickmann publica fotos de férias com Edu Guedes na Grécia",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/27/ana-hickmann-publica-fotos-de-biquini-durante-ferias-na-grecia.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Menina prometida em casamento para quitar dívida é resgatada em Lisboa",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/policia-de-portugal-resgata-menina-de-12-anos-em-lisboa-e-prende-mulher.ghtm"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "CNN Brasil",
@@ -50,8 +76,8 @@
         },
         {
           "rank": 2,
-          "title": "Nexus/BTG: Lula empata com Flávio, Caiado e Zema no 2º turno",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-caiado-e-zema-no-2o-turno/"
+          "title": "Brasil aciona OMC contra tarifaço imposto pelos EUA",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-aciona-omc-contra-tarifaco-imposto-pelos-eua/"
         },
         {
           "rank": 3,
@@ -60,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Brasileira que desapareceu em Lyon, na França, é encontrada após cinco dias",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasileira-que-desapareceu-na-franca-e-encontrada-apos-cinco-dias/"
+          "title": "Justiça do DF quebra sigilo em processo contra Virginia Fonseca",
+          "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/justica-do-df-quebra-sigilo-em-processo-contra-virginia-fonseca/"
         },
         {
           "rank": 5,
-          "title": "“Dia D”: novo filme de Steven Spielberg estreia no streaming",
-          "url": "https://www.cnnbrasil.com.br/pop/streaming/dia-d-novo-filme-de-steven-spielberg-estreia-no-streaming/"
+          "title": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio",
+          "url": "https://www.cnnbrasil.com.br/saude/cancer-colorretal-medica-alerta-para-sintomas-e-diagnostico-tardio/"
         }
       ],
       "erro": null
@@ -114,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+          "title": "Professor usa truque para identificar uso de IA e reprova 32 alunos que caíram na armadilha",
+          "url": "https://www.estadao.com.br/educacao/professor-usa-truque-para-identificar-uso-de-ia-e-reprova-32-alunos-que-cairam-na-armadilha/"
         },
         {
           "rank": 3,
-          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
+          "title": "Fórum dos Leitores",
+          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-28-7-2026/"
         },
         {
           "rank": 4,
-          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
+          "title": "SP começa a semana com sol antes de chegada de frente fria; veja a previsão completa",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-comeca-semana-com-sol-antes-de-chegada-frente-fria-veja-previsao-completa-npr/"
         },
         {
           "rank": 5,
-          "title": "SP começa a semana com sol antes de chegada de frente fria; veja a previsão completa",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-comeca-semana-com-sol-antes-de-chegada-frente-fria-veja-previsao-completa-npr/"
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         }
       ],
       "erro": null
@@ -205,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "Wisconsin tornado causes extensive damage and cuts power to thousands of homes",
+          "url": "https://apnews.com/article/tornado-wisconsin-power-outages-appleton-menasha-854e3fa75280bb316f6081eaf0443798"
+        },
+        {
+          "rank": 4,
           "title": "Police arrest 1 person and search for another after Seattle festival shooting that killed 3",
           "url": "https://apnews.com/article/seattle-shooting-space-needle-92628a1f1597e32ba44d6a2de3272646"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Pentagon’s official Iran war death toll no longer lists 4 troops killed during renewed fighting",
           "url": "https://apnews.com/article/iran-war-casualty-count-pentagon-us-troops-4c578fc74746052627b1c87845fdc0d5"
-        },
-        {
-          "rank": 5,
-          "title": "Trump praises his sweeping tariffs while in Michigan for a speech on the economy",
-          "url": "https://apnews.com/live/donald-trump-news-updates-07-27-2026"
         }
       ],
       "erro": null

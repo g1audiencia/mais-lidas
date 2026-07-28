@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 06:45",
+  "atualizado_em": "28/07/2026 06:51",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
-        },
-        {
-          "rank": 2,
           "title": "Lívia Andrade aposta em fio-dental ao curtir viagem a Ibiza",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/27/livia-andrade-aposta-em-fio-dental-ao-curtir-viagem-luxuosa-em-ibiza.ghtm"
         },
         {
+          "rank": 2,
+          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
+        },
+        {
           "rank": 3,
+          "title": "Menina prometida em casamento para quitar dívida é resgatada em Lisboa",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/policia-de-portugal-resgata-menina-de-12-anos-em-lisboa-e-prende-mulher.ghtm"
+        },
+        {
+          "rank": 4,
           "title": "Irmão gêmeo de preso por masturbação se afasta do trabalho na BA",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/27/irmao-gemeo-de-preso-por-masturbacao-em-academia-se-afastou-do-trabalho.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ana Hickmann publica fotos de férias com Edu Guedes na Grécia",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/27/ana-hickmann-publica-fotos-de-biquini-durante-ferias-na-grecia.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Menina prometida em casamento para quitar dívida é resgatada em Lisboa",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/policia-de-portugal-resgata-menina-de-12-anos-em-lisboa-e-prende-mulher.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Quem é o eleitor que não quer nem Lula nem Bolsonaro e defende ‘nova via’, segundo a BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/quem-e-o-eleitor-que-nao-quer-nem-lula-nem-bolsonaro-e-defende-nova-via-segundo-a-btgnexus/"
+        },
+        {
+          "rank": 3,
           "title": "Um candidato nanico",
           "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
           "url": "https://www.estadao.com.br/einvestidor/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "SP vira desafio para Flávio Bolsonaro, que pode ter até 1/3 dos prefeitos pedindo voto ‘Carcísio’",
           "url": "https://www.estadao.com.br/politica/sp-vira-desafio-para-flavio-bolsonaro-que-pode-ter-ate-13-dos-prefeitos-pedindo-voto-carcisio/"
-        },
-        {
-          "rank": 5,
-          "title": "Desvalorização da BYD Shark passa de R$ 100 mil; veja como ficam outras picapes híbridas",
-          "url": "https://www.estadao.com.br/jornal-do-carro/desvalorizacao-da-byd-shark-passa-de-r-100-mil-veja-como-ficam-outras-picapes-hibridas/"
         }
       ],
       "erro": null

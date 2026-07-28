@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 21:14",
+  "atualizado_em": "27/07/2026 21:19",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
+          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
         },
         {
           "rank": 2,
-          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
+          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
         },
         {
           "rank": 3,
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "“Dia D”: novo filme de Steven Spielberg estreia no streaming",
-          "url": "https://www.cnnbrasil.com.br/pop/streaming/dia-d-novo-filme-de-steven-spielberg-estreia-no-streaming/"
+          "title": "Salário que goleiro Vozinha receberá no Colo-Colo é revelado; veja",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/salario-que-goleiro-vozinha-recebera-no-colo-colo-e-revelado-veja/"
         },
         {
           "rank": 5,
-          "title": "Salário que goleiro Vozinha receberá no Colo-Colo é revelado; veja",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/salario-que-goleiro-vozinha-recebera-no-colo-colo-e-revelado-veja/"
+          "title": "“Dia D”: novo filme de Steven Spielberg estreia no streaming",
+          "url": "https://www.cnnbrasil.com.br/pop/streaming/dia-d-novo-filme-de-steven-spielberg-estreia-no-streaming/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
-        },
-        {
-          "rank": 3,
           "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
           "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
+          "rank": 4,
+          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
+        },
+        {
           "rank": 5,
-          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
+          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 07:52",
+  "atualizado_em": "28/07/2026 07:57",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
-        },
-        {
-          "rank": 3,
           "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
           "url": "https://www.estadao.com.br/einvestidor/onde-investir/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
         },
         {
+          "rank": 3,
+          "title": "Um candidato nanico",
+          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
+        },
+        {
           "rank": 4,
-          "title": "SP vira desafio para Flávio Bolsonaro, que pode ter até 1/3 dos prefeitos pedindo voto ‘Carcísio’",
-          "url": "https://www.estadao.com.br/politica/sp-vira-desafio-para-flavio-bolsonaro-que-pode-ter-ate-13-dos-prefeitos-pedindo-voto-carcisio/"
+          "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
+          "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
         },
         {
           "rank": 5,
-          "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
-          "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
+          "title": "Desvalorização da BYD Shark passa de R$ 100 mil; veja como ficam outras picapes híbridas",
+          "url": "https://www.estadao.com.br/jornal-do-carro/desvalorizacao-da-byd-shark-passa-de-r-100-mil-veja-como-ficam-outras-picapes-hibridas/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "US walks out of UN Security Council meeting during France's remarks",
-          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
+          "title": "People trapped inside Japan shopping centre after earthquake",
+          "url": "https://www.bbc.com/news/articles/cgewg24qgnjo"
         },
         {
           "rank": 2,
-          "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-          "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
+          "title": "US walks out of UN Security Council meeting during France's remarks",
+          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
         },
         {
           "rank": 3,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Why attachment theory is everywhere right now and how it can help you",
-          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
+          "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+          "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
         },
         {
           "rank": 5,
-          "title": "Devastating European wildfires in maps - and how they're being tackled",
-          "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
+          "title": "Why attachment theory is everywhere right now and how it can help you",
+          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
         }
       ],
       "erro": null

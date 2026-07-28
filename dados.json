@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 03:08",
+  "atualizado_em": "28/07/2026 03:13",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
+          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
+        },
+        {
+          "rank": 2,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
-          "rank": 2,
-          "title": "Professor usa truque para identificar uso de IA e reprova 32 alunos que caíram na armadilha",
-          "url": "https://www.estadao.com.br/educacao/professor-usa-truque-para-identificar-uso-de-ia-e-reprova-32-alunos-que-cairam-na-armadilha/"
-        },
-        {
           "rank": 3,
-          "title": "Fórum dos Leitores",
-          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-28-7-2026/"
+          "title": "Neomercantilismo de Trump custa caro",
+          "url": "https://www.estadao.com.br/opiniao/neomercantilismo-de-trump-custa-caro/"
         },
         {
           "rank": 4,
-          "title": "SP começa a semana com sol antes de chegada de frente fria; veja a previsão completa",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-comeca-semana-com-sol-antes-de-chegada-frente-fria-veja-previsao-completa-npr/"
+          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
         },
         {
           "rank": 5,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+          "title": "SP começa a semana com sol antes de chegada de frente fria; veja a previsão completa",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-comeca-semana-com-sol-antes-de-chegada-frente-fria-veja-previsao-completa-npr/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
+          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
+        },
+        {
+          "rank": 4,
           "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
           "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
           "url": "https://www.bbc.com/news/articles/clyqnz52rp6o"
-        },
-        {
-          "rank": 5,
-          "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Confirmaron la identidad: una mujer que figuraba como desaparecida por la dictadura en Chile está viva y reside en Argentina",
-          "url": "https://www.clarin.com/mundo/confirmaron-identidad-mujer-figuraba-desaparecida-dictadura-chile-viva-reside-argentina_0_j6pd1Ykmao.html"
-        },
-        {
-          "rank": 2,
-          "title": "Rosario Central le mandó una carta documento al canciller Quirno por las críticas a la foto de la Selección sin Messi ni Scaloni: \"Usted tiene y genera odio\"",
-          "url": "https://www.clarin.com/deportes/rosario-central-mando-carta-documento-canciller-quirno-criticas-foto-seleccion-messi-scaloni-usted-genera-odio_0_WPVgpBBgEh.html"
-        },
-        {
-          "rank": 3,
           "title": "Autorizan la venta libre de otras diez drogas y dejan de tener descuento en farmacias",
           "url": "https://www.clarin.com/sociedad/autorizan-venta-libre-drogas-dejan-tener-descuento-farmacias_0_1AyXAnjEuE.html"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Confirmaron la identidad: una mujer que figuraba como desaparecida por la dictadura en Chile está viva y reside en Argentina",
+          "url": "https://www.clarin.com/mundo/confirmaron-identidad-mujer-figuraba-desaparecida-dictadura-chile-viva-reside-argentina_0_j6pd1Ykmao.html"
+        },
+        {
+          "rank": 3,
           "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
           "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "\"Carne de cañón\" argentina: alerta de Interpol por una red que recluta ex policías y militares para la guerra en Ucrania",
           "url": "https://www.clarin.com/policiales/carne-canon-argentina-alerta-interpol-red-recluta-ex-policias-militares-guerra-ucrania_0_Ta6V1e0KEE.html"
+        },
+        {
+          "rank": 5,
+          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
+          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 11:52",
+  "atualizado_em": "28/07/2026 11:57",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
+          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
+          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
+        },
+        {
+          "rank": 4,
           "title": "Fósseis de 2 bilhões de anos são identificados em mármores da UFMG",
           "url": "https://www.cnnbrasil.com.br/ciencia/fosseis-de-2-bilhoes-de-anos-sao-identificados-em-marmores-da-ufmg/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Remissão de HIV em dois novos pacientes é anunciada no Rio de Janeiro",
           "url": "https://www.cnnbrasil.com.br/saude/remissao-de-hiv-em-dois-novos-pacientes-e-anunciada-no-rio-de-janeiro/"
-        },
-        {
-          "rank": 5,
-          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
-          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-          "url": "https://www.bbc.com/news/articles/cd692n215ndo"
+          "title": "French Navy carries out 'shooting drill' mid interview",
+          "url": "https://www.bbc.com/news/articles/cy4ker2y1mko"
         },
         {
           "rank": 3,
-          "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-          "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
+          "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+          "url": "https://www.bbc.com/news/articles/cd692n215ndo"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Why attachment theory is everywhere right now and how it can help you",
-          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
+          "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+          "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Un poderoso terremoto golpea Japón: colapsa un shopping y afirman que hay un número \"considerable\" de muertos en el interior",
-          "url": "https://www.clarin.com/mundo/poderoso-terremoto-golpea-japon-derrumbes-varias-personas-atrapadas-shopping_0_9TsDzhPNVU.html"
+          "title": "\"Ese es el Dibu\": el increíble relato del hombre que \"salvó\" al arquero de la Selección tras un percance con su camioneta",
+          "url": "https://www.clarin.com/deportes/dibu-increible-relato-hombre-salvo-arquero-seleccion-percance-camioneta_0_Bwqil22mNi.html"
         },
         {
           "rank": 2,
-          "title": "\"Ese es el Dibu\": el increíble relato del hombre que \"salvó\" al arquero de la Selección tras un percance con su camioneta",
-          "url": "https://www.clarin.com/deportes/dibu-increible-relato-hombre-salvo-arquero-seleccion-percance-camioneta_0_Bwqil22mNi.html"
+          "title": "Un poderoso terremoto golpea Japón: colapsa un shopping y afirman que hay un número \"considerable\" de muertos en el interior",
+          "url": "https://www.clarin.com/mundo/poderoso-terremoto-golpea-japon-derrumbes-varias-personas-atrapadas-shopping_0_9TsDzhPNVU.html"
         },
         {
           "rank": 3,

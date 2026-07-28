@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 01:28",
+  "atualizado_em": "28/07/2026 01:33",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         },
         {
+          "rank": 4,
+          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
+          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
         }
       ],
       "erro": null

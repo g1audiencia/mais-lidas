@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 02:45",
+  "atualizado_em": "28/07/2026 02:51",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Suri, filha de Katie Holmes e Tom Cruise, retira sobrenome do pai de documentos oficiais",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/suri-filha-de-katie-holmes-e-tom-cruise-retira-sobrenome-do-pai-de-documentos-oficiais.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Milei lota rede social com críticas a Lula em meio a crise diplomática",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-lota-rede-social-com-criticas-a-lula-em-meio-a-crise-diplomatica.shtml"
         },
         {
-          "rank": 3,
-          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
         },
         {
+          "rank": 3,
+          "title": "Suri, filha de Katie Holmes e Tom Cruise, retira sobrenome do pai de documentos oficiais",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/suri-filha-de-katie-holmes-e-tom-cruise-retira-sobrenome-do-pai-de-documentos-oficiais.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
+          "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 2,
           "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
           "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
         },
         {
+          "rank": 2,
+          "title": "Quem é a brasileira que foi encontrada após passar quatro dias desaparecida na França",
+          "url": "https://www.estadao.com.br/brasil/quem-e-brasileira-encontrada-quatro-dias-desaparecida-franca-npr/"
+        },
+        {
           "rank": 3,
-          "title": "Quem é o eleitor que não quer nem Lula nem Bolsonaro e defende ‘nova via’, segundo a BTG/Nexus",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/quem-e-o-eleitor-que-nao-quer-nem-lula-nem-bolsonaro-e-defende-nova-via-segundo-a-btgnexus/"
+          "title": "A equipe econômica perdeu o pudor",
+          "url": "https://www.estadao.com.br/opiniao/a-equipe-economica-perdeu-o-pudor/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Astronauta Marcos Pontes se coloca à disposição para ser vice de Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/astronauta-marcos-pontes-se-coloca-a-disposicao-para-ser-vice-de-flavio-bolsonaro-nprp/"
+          "title": "SP começa a semana com sol antes de chegada de frente fria; veja a previsão completa",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-comeca-semana-com-sol-antes-de-chegada-frente-fria-veja-previsao-completa-npr/"
         }
       ],
       "erro": null

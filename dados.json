@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 00:49",
+  "atualizado_em": "28/07/2026 00:54",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 2,
           "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         },
         {
+          "rank": 2,
+          "title": "Taiwan tenta descobrir como resistir a um cerco marítimo da China que parece cada vez mais provável",
+          "url": "https://www.estadao.com.br/internacional/taiwan-tenta-descobrir-como-resistir-a-um-cerco-maritimo-da-china-que-parece-cada-vez-mais-provavel/"
+        },
+        {
           "rank": 3,
-          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
-          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
+          "title": "Vozinha é proibido de usar apelido em camisa no Colo-Colo e pode achar solução em brasileiro da NBA",
+          "url": "https://www.estadao.com.br/esportes/futebol/vozinha-e-proibido-de-usar-apelido-em-camisa-no-colo-colo-e-pode-achar-solucao-em-brasileiro-da-nba/"
         },
         {
           "rank": 4,
-          "title": "Itaú estreia copiloto financeiro com IA para concentrar negócios dos clientes",
-          "url": "https://www.estadao.com.br/economia/itau-estreia-copiloto-financeiro-ia-negocios-clientes/"
+          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
+          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
         },
         {
           "rank": 5,
-          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         }
       ],
       "erro": null

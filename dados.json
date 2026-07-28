@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 02:57",
+  "atualizado_em": "28/07/2026 03:02",
   "portais": [
     {
       "portal": "Folha",
@@ -35,35 +35,9 @@
     },
     {
       "portal": "UOL",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
-        },
-        {
-          "rank": 2,
-          "title": "Lívia Andrade aposta em fio-dental ao curtir viagem a Ibiza",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/27/livia-andrade-aposta-em-fio-dental-ao-curtir-viagem-luxuosa-em-ibiza.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Irmão gêmeo de preso por masturbação se afasta do trabalho na BA",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/27/irmao-gemeo-de-preso-por-masturbacao-em-academia-se-afastou-do-trabalho.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Ana Hickmann publica fotos de férias com Edu Guedes na Grécia",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/27/ana-hickmann-publica-fotos-de-biquini-durante-ferias-na-grecia.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Menina prometida em casamento para quitar dívida é resgatada em Lisboa",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/policia-de-portugal-resgata-menina-de-12-anos-em-lisboa-e-prende-mulher.ghtm"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "403 Client Error: Forbidden for url: https://www.uol.com.br/"
     },
     {
       "portal": "CNN Brasil",
@@ -135,13 +109,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
           "rank": 2,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
           "rank": 3,
@@ -150,13 +124,13 @@
         },
         {
           "rank": 4,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
+          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
         },
         {
           "rank": 5,
-          "title": "XP pediu que gestoras não falassem sobre ETFs durante a Expert XP",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/xp-pediu-que-gestoras-nao-falassem-sobre-etfs-durante-a-expert-xp/"
+          "title": "SP começa a semana com sol antes de chegada de frente fria; veja a previsão completa",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-comeca-semana-com-sol-antes-de-chegada-frente-fria-veja-previsao-completa-npr/"
         }
       ],
       "erro": null
@@ -268,8 +242,8 @@
         },
         {
           "rank": 4,
-          "title": "A Japanese town wrestles with identity after protests over its first mosque",
-          "url": "https://www.bbc.com/news/articles/c36d79nd5w8o"
+          "title": "Johnson & Johnson offers up to $5.5bn to settle US baby powder lawsuits",
+          "url": "https://www.bbc.com/news/articles/clyqnz52rp6o"
         },
         {
           "rank": 5,

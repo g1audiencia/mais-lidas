@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 05:05",
+  "atualizado_em": "28/07/2026 05:11",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 2,
-          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         },
         {
+          "rank": 2,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
+          "rank": 3,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
           "rank": 4,
-          "title": "Taiwan tenta descobrir como resistir a um cerco marítimo da China que parece cada vez mais provável",
-          "url": "https://www.estadao.com.br/internacional/taiwan-tenta-descobrir-como-resistir-a-um-cerco-maritimo-da-china-que-parece-cada-vez-mais-provavel/"
+          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
         },
         {
           "rank": 5,
-          "title": "A nova fase das pizzarias: três nomes que estão redesenhando a pizza em São Paulo",
-          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/a-nova-geracao-das-pizzarias-tres-nomes-que-estao-redesenhando-a-pizza-brasileira/"
+          "title": "Um candidato nanico",
+          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 10:56",
+  "atualizado_em": "28/07/2026 11:01",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
-          "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
-        },
-        {
-          "rank": 4,
           "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
           "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
         },
         {
+          "rank": 4,
+          "title": "Um candidato nanico",
+          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
+        },
+        {
           "rank": 5,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+          "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
+          "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
         }
       ],
       "erro": null

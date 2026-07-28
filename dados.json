@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 00:27",
+  "atualizado_em": "28/07/2026 00:32",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
+          "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
+          "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
         },
         {
           "rank": 2,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         },
         {
+          "rank": 3,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
           "rank": 4,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+          "title": "Quem é o eleitor que não quer nem Lula nem Bolsonaro e defende ‘nova via’, segundo a BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/quem-e-o-eleitor-que-nao-quer-nem-lula-nem-bolsonaro-e-defende-nova-via-segundo-a-btgnexus/"
         },
         {
           "rank": 5,
-          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
-          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
+          "title": "Emily Wilson, que traduziu ‘A Odisseia’ para o inglês, critica filme de Nolan: ‘Eu teria vergonha’",
+          "url": "https://www.estadao.com.br/cultura/cinema/emily-wilson-que-traduziu-a-odisseia-para-o-ingles-critica-filme-de-nolan-eu-teria-vergonha-nprec/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
         },
         {
           "rank": 2,
-          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
-        },
-        {
-          "rank": 3,
           "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
           "url": "https://www.bbc.com/news/articles/clyqnz52rp6o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
           "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
+        },
+        {
+          "rank": 4,
+          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 13:59",
+  "atualizado_em": "28/07/2026 14:05",
   "portais": [
     {
       "portal": "Folha",
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Paulinho tem lesão no tornozelo e volta a ser desfalque no Palmeiras",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/paulinho-tem-lesao-no-tornozelo-e-volta-a-ser-desfalque-no-palmeiras.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "'Milei errou, e Argentina perderá mais com embate', diz ex-embaixador argentino",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/milei-errou-em-falas-e-a-argentina-perdera-mais-com-embate-diz-ex-embaixador.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Mergulho noturno, futevôlei: Paolla Oliveira mostra dias de folga",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/28/com-mergulho-noturno-e-futevolei-paolla-oliveira-mostra-dias-de-folga.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Negociação de Memphis com Corinthians abala grupo político de Osmar Stabile",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/negociacao-de-memphis-com-corinthians-abala-grupo-politico-de-osmar-stabile.ghtm"
         },
         {
           "rank": 5,
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Salário que goleiro Vozinha receberá no Colo-Colo é revelado; veja",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/salario-que-goleiro-vozinha-recebera-no-colo-colo-e-revelado-veja/"
+          "title": "Análise: China ganha terreno na Argentina e desafia indústria brasileira",
+          "url": "https://www.cnnbrasil.com.br/blogs/lucinda-pinto/economia/macroeconomia/analise-china-ganha-terreno-na-argentina-e-desafia-industria-brasileira/"
         },
         {
           "rank": 4,
-          "title": "Análise: China ganha terreno na Argentina e desafia indústria brasileira",
-          "url": "https://www.cnnbrasil.com.br/blogs/lucinda-pinto/economia/macroeconomia/analise-china-ganha-terreno-na-argentina-e-desafia-industria-brasileira/"
+          "title": "Salário que goleiro Vozinha receberá no Colo-Colo é revelado; veja",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/salario-que-goleiro-vozinha-recebera-no-colo-colo-e-revelado-veja/"
         },
         {
           "rank": 5,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
-          "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Wisconsin tornado causes extensive damage and cuts power to thousands of homes",
-          "url": "https://apnews.com/article/tornado-wisconsin-power-outages-appleton-menasha-854e3fa75280bb316f6081eaf0443798"
+          "title": "Whaling Museum goes viral for ‘worst aquarium ever’ T-shirts, totes",
+          "url": "https://apnews.com/article/new-bedford-whaling-museum-worst-aquarium-tshirts-84b37fbada11e2431ab01f383f913907"
         }
       ],
       "erro": null

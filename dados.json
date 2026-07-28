@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 08:53",
+  "atualizado_em": "28/07/2026 08:59",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
-        },
-        {
-          "rank": 3,
-          "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
-        },
-        {
-          "rank": 4,
           "title": "SP vira desafio para Flávio Bolsonaro, que pode ter até 1/3 dos prefeitos pedindo voto ‘Carcísio’",
           "url": "https://www.estadao.com.br/politica/sp-vira-desafio-para-flavio-bolsonaro-que-pode-ter-ate-13-dos-prefeitos-pedindo-voto-carcisio/"
         },
         {
+          "rank": 3,
+          "title": "Um candidato nanico",
+          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
+        },
+        {
+          "rank": 4,
+          "title": "Desvalorização da BYD Shark passa de R$ 100 mil; veja como ficam outras picapes híbridas",
+          "url": "https://www.estadao.com.br/jornal-do-carro/desvalorizacao-da-byd-shark-passa-de-r-100-mil-veja-como-ficam-outras-picapes-hibridas/"
+        },
+        {
           "rank": 5,
-          "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
-          "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
+          "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
+          "url": "https://www.estadao.com.br/einvestidor/onde-investir/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "Widespread damage from magnitude 7.1 earthquake in south-west Japan",
-          "url": "https://www.bbc.com/news/articles/cgewg24qgnjo"
-        },
-        {
-          "rank": 3,
           "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
           "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
           "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
+        },
+        {
+          "rank": 4,
+          "title": "Widespread damage from magnitude 7.1 earthquake in south-west Japan",
+          "url": "https://www.bbc.com/news/articles/cgewg24qgnjo"
         },
         {
           "rank": 5,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "\"Carne de cañón\" argentina: alerta de Interpol por una red que recluta ex policías y militares para la guerra en Ucrania",
-          "url": "https://www.clarin.com/policiales/carne-canon-argentina-alerta-interpol-red-recluta-ex-policias-militares-guerra-ucrania_0_Ta6V1e0KEE.html"
-        },
-        {
-          "rank": 4,
           "title": "Empleo para jóvenes sin título universitario: los 7 puestos más pedidos hoy y cuánto pagan",
           "url": "https://www.clarin.com/servicios/empleo-jovenes-titulo-universitario-7-puestos-pedidos-hoy-pagan_0_hD1AEop0p0.html"
         },
         {
+          "rank": 4,
+          "title": "\"Carne de cañón\" argentina: alerta de Interpol por una red que recluta ex policías y militares para la guerra en Ucrania",
+          "url": "https://www.clarin.com/policiales/carne-canon-argentina-alerta-interpol-red-recluta-ex-policias-militares-guerra-ucrania_0_Ta6V1e0KEE.html"
+        },
+        {
           "rank": 5,
-          "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
-          "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
+          "title": "Impactante choque en Berazategui: perdió el control por una alcantarilla, el auto se prendió fuego y quedó destrozado",
+          "url": "https://www.clarin.com/sociedad/impactante-choque-berazategui-perdio-control-alcantarilla-auto-prendio-fuego-quedo-destrozado_0_26oSXNovV5.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 14:21",
+  "atualizado_em": "28/07/2026 14:27",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
-          "title": "'Milei errou, e Argentina perderá mais com embate', diz ex-embaixador argentino",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/milei-errou-em-falas-e-a-argentina-perdera-mais-com-embate-diz-ex-embaixador.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Mergulho noturno, futevôlei: Paolla Oliveira mostra dias de folga",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/28/com-mergulho-noturno-e-futevolei-paolla-oliveira-mostra-dias-de-folga.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "'Milei errou, e Argentina perderá mais com embate', diz ex-embaixador argentino",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/milei-errou-em-falas-e-a-argentina-perdera-mais-com-embate-diz-ex-embaixador.ghtm"
         },
         {
           "rank": 5,
@@ -145,13 +145,13 @@
         },
         {
           "rank": 3,
-          "title": "A China está adquirindo conhecimentos militares da Rússia que deveriam preocupar o Ocidente",
-          "url": "https://www.estadao.com.br/internacional/a-china-esta-adquirindo-conhecimentos-militares-da-russia-que-deveriam-preocupar-o-ocidente/"
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         },
         {
           "rank": 4,
-          "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
-          "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
+          "title": "A China está adquirindo conhecimentos militares da Rússia que deveriam preocupar o Ocidente",
+          "url": "https://www.estadao.com.br/internacional/a-china-esta-adquirindo-conhecimentos-militares-da-russia-que-deveriam-preocupar-o-ocidente/"
         },
         {
           "rank": 5,
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Why attachment theory is everywhere right now and how it can help you",
+          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
+        },
+        {
+          "rank": 4,
           "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
           "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
           "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
-        },
-        {
-          "rank": 5,
-          "title": "Why attachment theory is everywhere right now and how it can help you",
-          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 14:38",
+  "atualizado_em": "28/07/2026 14:44",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
-          "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
+          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
         },
         {
           "rank": 5,
-          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
+          "title": "A China está adquirindo conhecimentos militares da Rússia que deveriam preocupar o Ocidente",
+          "url": "https://www.estadao.com.br/internacional/a-china-esta-adquirindo-conhecimentos-militares-da-russia-que-deveriam-preocupar-o-ocidente/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Why attachment theory is everywhere right now and how it can help you",
-          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
-        },
-        {
-          "rank": 4,
           "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
           "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
           "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
+        },
+        {
+          "rank": 5,
+          "title": "Why attachment theory is everywhere right now and how it can help you",
+          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
         }
       ],
       "erro": null

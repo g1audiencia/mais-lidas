@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 17:10",
+  "atualizado_em": "28/07/2026 17:16",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
+          "title": "Nova frente fria deve provocar temporal e intensas rajadas de vento em São Paulo",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/defesa-civil-estadual-alerta-para-chuva-e-ventos-fortes.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Turista holandês morre após embarcação virar nas Cataratas do Iguaçu, no Paraná",
           "url": "https://tnonline.uol.com.br/noticias/parana/embarcacao-com-turistas-vira-e-deixa-um-morto-nas-cataratas-do-iguacu-no-parana-1121653"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "UFRJ suspende pagamento de convênio de R$ 35 milhões após reportagem do UOL",
           "url": "https://tab.uol.com.br/noticias/redacao/2026/07/28/ufrj-barra-pagamentos-de-convenio-de-r-35-mi-que-bancou-rede-eleitoral.htm"
-        },
-        {
-          "rank": 4,
-          "title": "Nova frente fria deve provocar temporal e intensas rajadas de vento em São Paulo",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/defesa-civil-estadual-alerta-para-chuva-e-ventos-fortes.ghtm"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
+          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
+        },
+        {
+          "rank": 4,
           "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
           "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Negativa de vistos para representantes dos EUA mostra lógica eleitoral pautando decisões de Estado",
           "url": "https://www.estadao.com.br/politica/fernando-schuler/negativa-de-vistos-para-representantes-dos-eua-mostra-logica-eleitoral-pautando-decisoes-de-estado/"
-        },
-        {
-          "rank": 5,
-          "title": "Imagens sexualizadas de mulheres feitas com IA impulsionam publicidade irregular no Facebook",
-          "url": "https://www.estadao.com.br/estadao-verifica/imagens-sexualizadas-de-mulheres-feitas-com-ia-impulsionam-publicidade-irregular-no-facebook/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "url": "https://www.bbc.com/news/articles/crk52jk0131o"
+          "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
+          "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
         },
         {
           "rank": 5,
-          "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
-          "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
+          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+          "url": "https://www.bbc.com/news/articles/crk52jk0131o"
         }
       ],
       "erro": null

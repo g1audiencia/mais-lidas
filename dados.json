@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 04:20",
+  "atualizado_em": "28/07/2026 04:26",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
-          "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
+          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         },
         {
           "rank": 2,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
+          "rank": 3,
           "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
           "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
         },
         {
-          "rank": 3,
-          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
-          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
-        },
-        {
           "rank": 4,
-          "title": "Neomercantilismo de Trump custa caro",
-          "url": "https://www.estadao.com.br/opiniao/neomercantilismo-de-trump-custa-caro/"
+          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
+          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
         },
         {
           "rank": 5,
-          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
-          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
+          "title": "Rosario Central le mandó una carta documento al canciller Quirno por las críticas a la foto de la Selección sin Messi ni Scaloni: \"Usted tiene y genera odio\"",
+          "url": "https://www.clarin.com/deportes/rosario-central-mando-carta-documento-canciller-quirno-criticas-foto-seleccion-messi-scaloni-usted-genera-odio_0_WPVgpBBgEh.html"
         }
       ],
       "erro": null

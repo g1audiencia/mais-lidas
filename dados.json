@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 04:03",
+  "atualizado_em": "28/07/2026 04:09",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Brasil aciona OMC contra tarifaço imposto pelos EUA",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-aciona-omc-contra-tarifaco-imposto-pelos-eua/"
+          "title": "Governo Trump pede que Suprema Corte autorize restrições a voto por correio",
+          "url": "https://www.cnnbrasil.com.br/internacional/governo-trump-pede-que-suprema-corte-autorize-restricoes-a-voto-por-correio/"
         },
         {
           "rank": 4,
-          "title": "Governo Trump pede que Suprema Corte autorize restrições a voto por correio",
-          "url": "https://www.cnnbrasil.com.br/internacional/governo-trump-pede-que-suprema-corte-autorize-restricoes-a-voto-por-correio/"
+          "title": "Brasil aciona OMC contra tarifaço imposto pelos EUA",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-aciona-omc-contra-tarifaco-imposto-pelos-eua/"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
-        },
-        {
-          "rank": 2,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
+          "rank": 2,
+          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
+        },
+        {
           "rank": 3,
-          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
+          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
         },
         {
           "rank": 4,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
+          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
         },
         {
           "rank": 5,
-          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         }
       ],
       "erro": null

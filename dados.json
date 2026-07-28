@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 21:25",
+  "atualizado_em": "27/07/2026 21:30",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
-          "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
-        },
-        {
-          "rank": 3,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
+          "rank": 3,
+          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
+          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
+        },
+        {
           "rank": 4,
-          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
+          "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
+          "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
         },
         {
           "rank": 5,
-          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
-          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
+          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
+          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
-          "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
+          "title": "Rosario Central le mandó una carta documento al canciller Quirno por las críticas a la foto de la Selección sin Messi ni Scaloni: \"Usted tiene y genera odio\"",
+          "url": "https://www.clarin.com/deportes/rosario-central-mando-carta-documento-canciller-quirno-criticas-foto-seleccion-messi-scaloni-usted-genera-odio_0_WPVgpBBgEh.html"
         },
         {
           "rank": 2,
-          "title": "Rosario Central le mandó una carta documento al canciller Quirno por las críticas a la foto de la Selección sin Messi ni Scaloni: \"Usted tiene y genera odio\"",
-          "url": "https://www.clarin.com/deportes/rosario-central-mando-carta-documento-canciller-quirno-criticas-foto-seleccion-messi-scaloni-usted-genera-odio_0_WPVgpBBgEh.html"
+          "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
+          "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
-          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
+          "title": "Confirmaron la identidad: una mujer que figuraba como desaparecida por la dictadura en Chile está viva y reside en Argentina",
+          "url": "https://www.clarin.com/mundo/confirmaron-identidad-mujer-figuraba-desaparecida-dictadura-chile-viva-reside-argentina_0_j6pd1Ykmao.html"
         },
         {
           "rank": 5,
-          "title": "Impactante choque en Berazategui: perdió el control por una alcantarilla, el auto se prendió fuego y quedó destrozado",
-          "url": "https://www.clarin.com/sociedad/impactante-choque-berazategui-perdio-control-alcantarilla-auto-prendio-fuego-quedo-destrozado_0_26oSXNovV5.html"
+          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
+          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
         }
       ],
       "erro": null

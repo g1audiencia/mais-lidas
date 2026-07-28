@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 22:03",
+  "atualizado_em": "27/07/2026 22:09",
   "portais": [
     {
       "portal": "Folha",
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Devastating European wildfires in maps - and how they're being tackled",
-          "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
+          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
           "rank": 3,
-          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
+          "title": "Devastating European wildfires in maps - and how they're being tackled",
+          "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
         },
         {
           "rank": 4,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "\"Carne de cañón\" argentina: alerta de Interpol por una red que recluta ex policías y militares para la guerra en Ucrania",
-          "url": "https://www.clarin.com/policiales/carne-canon-argentina-alerta-interpol-red-recluta-ex-policias-militares-guerra-ucrania_0_Ta6V1e0KEE.html"
-        },
-        {
-          "rank": 4,
           "title": "Escala la crisis con Brasil: protesta formal al embajador argentino, un ministro llamó \"payaso\" a Milei y China respaldó al gobierno de Lula",
           "url": "https://www.clarin.com/politica/escala-crisis-brasil-protesta-formal-embajador-argentino-ministro-llamo-payaso-milei-china-respaldo-gobierno-lula_0_2BHnDVKllR.html"
         },
         {
+          "rank": 4,
+          "title": "\"Carne de cañón\" argentina: alerta de Interpol por una red que recluta ex policías y militares para la guerra en Ucrania",
+          "url": "https://www.clarin.com/policiales/carne-canon-argentina-alerta-interpol-red-recluta-ex-policias-militares-guerra-ucrania_0_Ta6V1e0KEE.html"
+        },
+        {
           "rank": 5,
-          "title": "Impactante choque en Berazategui: perdió el control por una alcantarilla, el auto se prendió fuego y quedó destrozado",
-          "url": "https://www.clarin.com/sociedad/impactante-choque-berazategui-perdio-control-alcantarilla-auto-prendio-fuego-quedo-destrozado_0_26oSXNovV5.html"
+          "title": "Un policía porteño mató a un motochorro que trató de robarle en Malvinas Argentinas",
+          "url": "https://www.clarin.com/policiales/policia-porteno-mato-motochorro-trato-robarle-malvinas-argentinas_0_w78FoR3D3C.html"
         }
       ],
       "erro": null

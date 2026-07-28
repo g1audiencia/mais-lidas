@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 22:20",
+  "atualizado_em": "27/07/2026 22:25",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
-          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 2,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
+          "rank": 2,
+          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
+          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
+        },
+        {
           "rank": 3,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
+          "rank": 4,
           "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
           "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
         },
         {
-          "rank": 4,
-          "title": "Taiwan tenta descobrir como resistir a um cerco marítimo da China que parece cada vez mais provável",
-          "url": "https://www.estadao.com.br/internacional/taiwan-tenta-descobrir-como-resistir-a-um-cerco-maritimo-da-china-que-parece-cada-vez-mais-provavel/"
-        },
-        {
           "rank": 5,
-          "title": "Lito, do Aviões e Músicas, diz como acidente da Voepass teria sido evitado: ‘Decepcionado’",
-          "url": "https://www.estadao.com.br/brasil/lito-do-avioes-e-musicas-diz-como-acidente-da-voepass-teria-sido-evitado-decepcionado/"
+          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
+          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
         }
       ],
       "erro": null

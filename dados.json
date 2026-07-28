@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 09:04",
+  "atualizado_em": "28/07/2026 09:10",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Terremoto no Japão: explosão destrói shopping, e polícia fala em mortos",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/terremoto-no-japao-atualizacoes.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Lívia Andrade aposta em fio-dental ao curtir viagem a Ibiza",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/27/livia-andrade-aposta-em-fio-dental-ao-curtir-viagem-luxuosa-em-ibiza.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ana Hickmann publica fotos de férias com Edu Guedes na Grécia",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/27/ana-hickmann-publica-fotos-de-biquini-durante-ferias-na-grecia.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Genial/Quaest: Cleitinho lidera em MG; Kalil, Patrus e Simões empatam em 2º",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/07/28/genialquaest-mg-governo.ghtm"
         },
         {
           "rank": 4,
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
+          "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
+          "url": "https://www.estadao.com.br/einvestidor/onde-investir/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
+          "title": "Um candidato nanico",
+          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
         },
         {
           "rank": 5,
-          "title": "Desvalorização da BYD Shark passa de R$ 100 mil; veja como ficam outras picapes híbridas",
-          "url": "https://www.estadao.com.br/jornal-do-carro/desvalorizacao-da-byd-shark-passa-de-r-100-mil-veja-como-ficam-outras-picapes-hibridas/"
+          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "A solas con CEOs, la directora del FMI preguntó por el parate de la actividad y adelantó qué espera para la economía en el año electoral",
-          "url": "https://www.clarin.com/economia/solas-ceos-directora-fmi-pregunto-parate-actividad-adelanto-espera-economia-ano-electoral_0_WhDHRgEtxG.html"
+          "title": "Empleo para jóvenes sin título universitario: los 7 puestos más pedidos hoy y cuánto pagan",
+          "url": "https://www.clarin.com/servicios/empleo-jovenes-titulo-universitario-7-puestos-pedidos-hoy-pagan_0_hD1AEop0p0.html"
         },
         {
           "rank": 3,
-          "title": "Empleo para jóvenes sin título universitario: los 7 puestos más pedidos hoy y cuánto pagan",
-          "url": "https://www.clarin.com/servicios/empleo-jovenes-titulo-universitario-7-puestos-pedidos-hoy-pagan_0_hD1AEop0p0.html"
+          "title": "A solas con CEOs, la directora del FMI preguntó por el parate de la actividad y adelantó qué espera para la economía en el año electoral",
+          "url": "https://www.clarin.com/economia/solas-ceos-directora-fmi-pregunto-parate-actividad-adelanto-espera-economia-ano-electoral_0_WhDHRgEtxG.html"
         },
         {
           "rank": 4,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 13:48",
+  "atualizado_em": "28/07/2026 13:53",
   "portais": [
     {
       "portal": "Folha",
@@ -135,7 +135,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "A cidade menos violenta do País fica em SP; veja ranking dos municípios com menor nº de assassinatos",
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
           "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
-          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
-        },
-        {
-          "rank": 4,
           "title": "A China está adquirindo conhecimentos militares da Rússia que deveriam preocupar o Ocidente",
           "url": "https://www.estadao.com.br/internacional/a-china-esta-adquirindo-conhecimentos-militares-da-russia-que-deveriam-preocupar-o-ocidente/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
           "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
+        },
+        {
+          "rank": 5,
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         }
       ],
       "erro": null
@@ -290,18 +290,18 @@
         },
         {
           "rank": 2,
-          "title": "La International Board asegura que el VAR expulsó mal al suizo Emboló ante Argentina en el Mundial 2026: qué dice la regla",
-          "url": "https://www.clarin.com/deportes/international-board-asegura-var-expulso-mal-suizo-embolo-argentina-mundial-2026-dice-regla_0_Jtp8XyKLls.html"
-        },
-        {
-          "rank": 3,
           "title": "Un poderoso terremoto golpea Japón: colapsa un shopping y afirman que hay un número \"considerable\" de muertos en el interior",
           "url": "https://www.clarin.com/mundo/poderoso-terremoto-golpea-japon-derrumbes-varias-personas-atrapadas-shopping_0_9TsDzhPNVU.html"
         },
         {
+          "rank": 3,
+          "title": "La International Board asegura que el VAR expulsó mal al suizo Emboló ante Argentina en el Mundial 2026: qué dice la regla",
+          "url": "https://www.clarin.com/deportes/international-board-asegura-var-expulso-mal-suizo-embolo-argentina-mundial-2026-dice-regla_0_Jtp8XyKLls.html"
+        },
+        {
           "rank": 4,
-          "title": "Autorizan la venta libre de otras diez drogas y dejan de tener descuento para obras sociales y prepagas",
-          "url": "https://www.clarin.com/sociedad/autorizan-venta-libre-drogas-dejan-tener-descuento-farmacias_0_1AyXAnjEuE.html"
+          "title": "Revelan más negocios entre Zamora y Toviggino: Santiago del Estero pagó con fondos de Vialidad provincial una obra millonaria de la AFA",
+          "url": "https://www.clarin.com/politica/revelan-negocios-zamora-toviggino-santiago-estero-pago-fondos-vialidad-provincial-obra-millonaria-afa_0_FHL784vtlw.html"
         },
         {
           "rank": 5,

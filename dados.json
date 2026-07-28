@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 17:21",
+  "atualizado_em": "28/07/2026 17:27",
   "portais": [
     {
       "portal": "Folha",
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
-          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
-          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
-        },
-        {
-          "rank": 3,
-          "title": "Terremoto de magnitude 7,1 atinge Sul do Japão e gera alerta de tsunami",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-71-atinge-japao-e-gera-alerta-de-tsunami/"
-        },
-        {
-          "rank": 4,
           "title": "Fundação Cacique Cobra Coral suspende assistência climática à Argentina",
           "url": "https://www.cnnbrasil.com.br/nacional/fundacao-cacique-cobra-coral-suspende-assistencia-climatica-a-argentina/"
         },
         {
+          "rank": 3,
+          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
+          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
+        },
+        {
+          "rank": 4,
+          "title": "Terremoto de magnitude 7,1 atinge Sul do Japão e gera alerta de tsunami",
+          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-71-atinge-japao-e-gera-alerta-de-tsunami/"
+        },
+        {
           "rank": 5,
-          "title": "Salário que goleiro Vozinha receberá no Colo-Colo é revelado; veja",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/salario-que-goleiro-vozinha-recebera-no-colo-colo-e-revelado-veja/"
+          "title": "Filha de Ana Maria Braga anuncia fim de casamento e cita relação violenta",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/filha-de-ana-maria-braga-anuncia-fim-de-casamento-e-cita-relacao-violenta/"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "FGTS vai distribuir R$ 13 bilhões em lucros aos trabalhadores; saiba quanto você vai receber",
-          "url": "https://www.estadao.com.br/economia/fgts-conselho-aprova-distribuicao-de-r-13-bilhoes-em-lucros-aos-trabalhadores-npr/"
+          "title": "Negativa de vistos para representantes dos EUA mostra lógica eleitoral pautando decisões de Estado",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/negativa-de-vistos-para-representantes-dos-eua-mostra-logica-eleitoral-pautando-decisoes-de-estado/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+          "url": "https://www.bbc.com/news/articles/crk52jk0131o"
+        },
+        {
+          "rank": 4,
           "title": "Why attachment theory is everywhere right now and how it can help you",
           "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump defends tariffs in hard-hit Michigan as Canada tax hike looms",
           "url": "https://www.bbc.com/news/articles/cy0jknp3e6yo"
-        },
-        {
-          "rank": 5,
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "url": "https://www.bbc.com/news/articles/crk52jk0131o"
         }
       ],
       "erro": null

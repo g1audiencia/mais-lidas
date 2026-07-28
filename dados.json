@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 04:48",
+  "atualizado_em": "28/07/2026 04:54",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
+        },
+        {
+          "rank": 3,
+          "title": "A nova fase das pizzarias: três nomes que estão redesenhando a pizza em São Paulo",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/a-nova-geracao-das-pizzarias-tres-nomes-que-estao-redesenhando-a-pizza-brasileira/"
+        },
+        {
+          "rank": 4,
           "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
           "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
-        },
-        {
-          "rank": 4,
-          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
-        },
-        {
-          "rank": 5,
-          "title": "SP trava batalha contra o mar e usa nova engenharia para impedir que ilha se forme no litoral",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-trava-batalha-contra-o-mar-e-usa-engenharia-para-impedir-que-nova-ilha-se-forme-no-litoral/"
         }
       ],
       "erro": null

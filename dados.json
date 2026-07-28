@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 01:11",
+  "atualizado_em": "28/07/2026 01:17",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Suri, filha de Katie Holmes e Tom Cruise, retira sobrenome do pai de documentos oficiais",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/suri-filha-de-katie-holmes-e-tom-cruise-retira-sobrenome-do-pai-de-documentos-oficiais.shtml"
+        },
+        {
+          "rank": 3,
           "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
+          "rank": 2,
+          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
+        },
+        {
+          "rank": 3,
           "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
           "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
         },
         {
-          "rank": 2,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
-        },
-        {
-          "rank": 3,
+          "rank": 4,
           "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
           "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Nissan lidera ranking negativo do Reclame Aqui; veja as 10 marcas com pior reputação",
           "url": "https://www.estadao.com.br/jornal-do-carro/nissan-lidera-ranking-negativo-do-reclame-aqui-veja-as-10-marcas-com-pior-reputacao/"
-        },
-        {
-          "rank": 5,
-          "title": "Governo Lula aciona OMC contra tarifaço de Trump: ‘Medidas são injustificadas e incompatíveis’",
-          "url": "https://www.estadao.com.br/economia/governo-lula-vai-a-omc-contra-tarifaco-de-trump-medidas-incompativeis/"
         }
       ],
       "erro": null
@@ -253,23 +253,23 @@
         },
         {
           "rank": 2,
-          "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-          "url": "https://www.bbc.com/news/articles/clyqnz52rp6o"
-        },
-        {
-          "rank": 3,
-          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
-        },
-        {
-          "rank": 4,
           "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
           "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
+          "rank": 3,
+          "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+          "url": "https://www.bbc.com/news/articles/clyqnz52rp6o"
+        },
+        {
+          "rank": 4,
+          "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
+          "url": "https://www.bbc.com/news/articles/ckg34128nvpo"
+        },
+        {
           "rank": 5,
-          "title": "Why attachment theory is everywhere right now and how it can help you",
-          "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
+          "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+          "url": "https://www.bbc.com/news/articles/c70gkg62w0ro"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 08:31",
+  "atualizado_em": "28/07/2026 08:36",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Milei lota rede social com críticas a Lula em meio a crise diplomática",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-lota-rede-social-com-criticas-a-lula-em-meio-a-crise-diplomatica.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Datafolha indica dificuldade persistente de Flávio Bolsonaro no eleitorado feminino",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-indica-dificuldade-persistente-de-flavio-bolsonaro-no-eleitorado-feminino.shtml"
         },
         {
+          "rank": 2,
+          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Governo Lula teme interferência externa nas redes após ofensiva de Trump e Milei a favor de Flávio",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-lula-teme-interferencia-externa-nas-redes-apos-ofensiva-de-trump-e-milei-a-favor-de-flavio.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         },
         {
           "rank": 5,
-          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
+          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "SP vira desafio para Flávio Bolsonaro, que pode ter até 1/3 dos prefeitos pedindo voto ‘Carcísio’",
-          "url": "https://www.estadao.com.br/politica/sp-vira-desafio-para-flavio-bolsonaro-que-pode-ter-ate-13-dos-prefeitos-pedindo-voto-carcisio/"
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
           "rank": 5,
-          "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
-          "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
+          "title": "SP vira desafio para Flávio Bolsonaro, que pode ter até 1/3 dos prefeitos pedindo voto ‘Carcísio’",
+          "url": "https://www.estadao.com.br/politica/sp-vira-desafio-para-flavio-bolsonaro-que-pode-ter-ate-13-dos-prefeitos-pedindo-voto-carcisio/"
         }
       ],
       "erro": null

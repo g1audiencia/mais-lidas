@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 13:31",
+  "atualizado_em": "28/07/2026 13:37",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "'Aconteceu o que eu mais temia', diz mãe de gari morto atropelado por motorista embriagado em SP",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/aconteceu-o-que-eu-mais-temia-diz-mae-de-gari-morto-atropelado-por-motorista-embriagado-em-sp.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Como foi o encontro de Juliano Cazarré sobre masculinidade, que atraiu 600 homens em SP",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/como-foi-o-encontro-de-juliano-cazarre-sobre-masculinidade-que-atraiu-600-homens-em-sp.shtml"
         },
         {
+          "rank": 3,
+          "title": "'Aconteceu o que eu mais temia', diz mãe de gari morto atropelado por motorista embriagado em SP",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/aconteceu-o-que-eu-mais-temia-diz-mae-de-gari-morto-atropelado-por-motorista-embriagado-em-sp.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
+          "title": "Erika Januza fala pela 1ª vez sobre fim de namoro com Arlindinho: 'Me colocaram na lama'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erika-januza-fala-pela-primeira-vez-sobre-fim-com-arlindinho-me-colocaram-na-lama.shtml"
         },
         {
           "rank": 5,
-          "title": "Roberto Mancini assume comando da seleção italiana",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/roberto-mancini-assume-comando-da-selecao-italiana.shtml"
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         }
       ],
       "erro": null
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
-        },
-        {
-          "rank": 2,
           "title": "'Milei errou, e Argentina perderá mais com embate', diz ex-embaixador argentino",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/milei-errou-em-falas-e-a-argentina-perdera-mais-com-embate-diz-ex-embaixador.ghtm"
         },
         {
-          "rank": 3,
-          "title": "Terremoto no Japão causa explosão em shopping; polícia fala em mortos e 50 feridos",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/terremoto-no-japao-atualizacoes.ghtm"
+          "rank": 2,
+          "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Mergulho noturno, futevôlei: Paolla Oliveira mostra dias de folga",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/28/com-mergulho-noturno-e-futevolei-paolla-oliveira-mostra-dias-de-folga.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Negociação de Memphis com Corinthians abala grupo político de Osmar Stabile",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/negociacao-de-memphis-com-corinthians-abala-grupo-politico-de-osmar-stabile.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Terremoto no Japão causa explosão em shopping e deixa vítimas sob escombros",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/terremoto-no-japao-atualizacoes.ghtm"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
-          "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         },
         {
           "rank": 5,
-          "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
-          "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
+          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Conselho do FGTS aprova distribuição de R$ 13 bilhões a trabalhadores; veja se você tem direito",
-          "url": "https://www.metropoles.com/brasil/fgts-conselho-aprova-distribuicao-de-r-13-bilhoes-a-trabalhadores"
-        },
-        {
-          "rank": 2,
           "title": "Caminhoneiro desaparecido é encontrado morto pela família no Entorno",
           "url": "https://www.metropoles.com/distrito-federal/na-mira/caminhoneiro-desaparecido-e-encontrado-morto-pela-familia-no-entorno"
         },
         {
+          "rank": 2,
+          "title": "Flávio Bolsonaro decide não ir à posse de Keiko Fujimori no Peru",
+          "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-nao-vai-a-posse-de-keiko-fujimori-no-peru"
+        },
+        {
           "rank": 3,
-          "title": "Além de Ciro Nogueira, motorista de Vorcaro visitou quatro deputados",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/alem-de-ciro-nogueira-motorista-de-vorcaro-visitou-quatro-deputados"
+          "title": "Conselho do FGTS aprova distribuição de R$ 13 bilhões a trabalhadores; veja se você tem direito",
+          "url": "https://www.metropoles.com/brasil/fgts-conselho-aprova-distribuicao-de-r-13-bilhoes-a-trabalhadores"
         }
       ],
       "erro": null

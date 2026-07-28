@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 17:49",
+  "atualizado_em": "28/07/2026 17:55",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
-          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
-        },
-        {
-          "rank": 4,
           "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
           "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
           "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
+        },
+        {
+          "rank": 5,
+          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
+          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
         }
       ],
       "erro": null

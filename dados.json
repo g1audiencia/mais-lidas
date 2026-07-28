@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 21:30",
+  "atualizado_em": "27/07/2026 21:36",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Milei lota rede social com críticas a Lula em meio a crise diplomática",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-lota-rede-social-com-criticas-a-lula-em-meio-a-crise-diplomatica.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Maria Flor diz que terminou namoro após ex abandonar escova de dentes",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/maria-flor-diz-que-terminou-namoro-apos-ex-abandonar-escova-de-dentes.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Em crise, Itália enfrenta dificuldades para encontrar treinador, e brasileiro vira opção",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/em-crise-italia-enfrenta-dificuldades-para-encontrar-treinador-e-brasileiro-vira-opcao.shtml"
         }
       ],
       "erro": null

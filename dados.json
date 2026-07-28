@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 15:40",
+  "atualizado_em": "28/07/2026 15:46",
   "portais": [
     {
       "portal": "Folha",
@@ -49,13 +49,13 @@
         },
         {
           "rank": 3,
-          "title": "Paulinho tem lesão no tornozelo e volta a ser desfalque no Palmeiras",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/paulinho-tem-lesao-no-tornozelo-e-volta-a-ser-desfalque-no-palmeiras.ghtm"
+          "title": "Turista holandês morre após embarcação virar nas Cataratas do Iguaçu, no Paraná",
+          "url": "https://tnonline.uol.com.br/noticias/parana/embarcacao-com-turistas-vira-e-deixa-um-morto-nas-cataratas-do-iguacu-no-parana-1121653"
         },
         {
           "rank": 4,
-          "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
+          "title": "Homem é preso em Copacabana após cobrar R$ 8.500 de polonês por caipirinha",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/homem-e-preso-em-copacabana-suspeito-de-cobrar-r-8500-de-polones-por-caipirinha.ghtm"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
+        },
+        {
+          "rank": 4,
           "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
           "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
         },
         {
-          "rank": 4,
-          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
-        },
-        {
           "rank": 5,
-          "title": "O que o seu jeito de dirigir revela sobre o seu cérebro",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-a-forma-como-voce-dirige-diz-sobre-sua-saude-mental-e-cognitiva/"
+          "title": "Negativa de vistos para representantes dos EUA mostra lógica eleitoral pautando decisões de Estado",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/negativa-de-vistos-para-representantes-dos-eua-mostra-logica-eleitoral-pautando-decisoes-de-estado/"
         }
       ],
       "erro": null

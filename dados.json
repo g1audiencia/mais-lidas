@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 13:04",
+  "atualizado_em": "28/07/2026 13:09",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Terremoto no Japão causa explosão em shopping; polícia fala em mortos e 50 feridos",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/terremoto-no-japao-atualizacoes.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "'Milei errou, e Argentina perderá mais com embate', diz ex-embaixador argentino",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/milei-errou-em-falas-e-a-argentina-perdera-mais-com-embate-diz-ex-embaixador.ghtm"
         },
         {
+          "rank": 3,
+          "title": "Terremoto no Japão causa explosão em shopping; polícia fala em mortos e 50 feridos",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/terremoto-no-japao-atualizacoes.ghtm"
+        },
+        {
           "rank": 4,
-          "title": "Negociação de Memphis com Corinthians abala grupo político de Osmar Stabile",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/negociacao-de-memphis-com-corinthians-abala-grupo-politico-de-osmar-stabile.ghtm"
+          "title": "Mergulho noturno, futevôlei: Paolla Oliveira mostra dias de folga",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/28/com-mergulho-noturno-e-futevolei-paolla-oliveira-mostra-dias-de-folga.ghtm"
         },
         {
           "rank": 5,
-          "title": "Mergulho noturno, futevôlei: Paolla Oliveira mostra dias de folga",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/28/com-mergulho-noturno-e-futevolei-paolla-oliveira-mostra-dias-de-folga.ghtm"
+          "title": "Negociação de Memphis com Corinthians abala grupo político de Osmar Stabile",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/negociacao-de-memphis-com-corinthians-abala-grupo-politico-de-osmar-stabile.ghtm"
         }
       ],
       "erro": null
@@ -113,8 +113,8 @@
         },
         {
           "rank": 3,
-          "title": "Jovem fica ferido após salto de penhasco dar errado na Califórnia; vídeo do acidente viraliza",
-          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/28/jovem-fica-ferido-apos-salto-de-penhasco-dar-errado-na-california-video-do-acidente-viraliza.ghtml"
+          "title": "Conselho do FGTS aprova distribuição de R$ 13 bi entre trabalhadores. Calcule quanto vai para sua conta",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/conselho-do-fgts-aprova-distribuicao-de-r-13-bi-entre-trabalhadores-calcule-quanto-vai-para-sua-conta.ghtml"
         },
         {
           "rank": 4,
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Jornal italiano critica saída de Maldini e Leonardo da federação: 'Maior erro foi desistir'",
-          "url": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/07/28/jornal-italiano-critica-saida-de-maldini-e-leonardo-da-federacao-maior-erro-foi-desistir.ghtml"
+          "title": "Jovem fica ferido após salto de penhasco dar errado na Califórnia; vídeo do acidente viraliza",
+          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/28/jovem-fica-ferido-apos-salto-de-penhasco-dar-errado-na-california-video-do-acidente-viraliza.ghtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "SP vira desafio para Flávio Bolsonaro, que pode ter até 1/3 dos prefeitos pedindo voto ‘Carcísio’",
-          "url": "https://www.estadao.com.br/politica/sp-vira-desafio-para-flavio-bolsonaro-que-pode-ter-ate-13-dos-prefeitos-pedindo-voto-carcisio/"
+          "title": "O que explica o tarifaço de Trump contra o Brasil? Ex-presidente do banco dos Brics tem uma resposta",
+          "url": "https://www.estadao.com.br/cultura/alice-ferraz/o-que-explica-o-tarifaco-de-trump-contra-o-brasil-ex-presidente-do-banco-dos-brics-tem-uma-resposta/"
         }
       ],
       "erro": null

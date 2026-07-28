@@ -1,69 +1,17 @@
 {
-  "atualizado_em": "27/07/2026 22:58",
+  "atualizado_em": "27/07/2026 23:04",
   "portais": [
     {
       "portal": "Folha",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Milei lota rede social com críticas a Lula em meio a crise diplomática",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/milei-lota-rede-social-com-criticas-a-lula-em-meio-a-crise-diplomatica.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Maria Flor diz que terminou namoro após ex abandonar escova de dentes",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/maria-flor-diz-que-terminou-namoro-apos-ex-abandonar-escova-de-dentes.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "portal": "UOL",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Ladrão reage à buzina de motorista e aponta arma para carro blindado em SP",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/27/motorista-de-carro-blindado-buzina-para-impedir-assalto-e-criminoso-reage-apontando-arma.htm"
-        },
-        {
-          "rank": 2,
-          "title": "Lívia Andrade aposta em fio-dental ao curtir viagem a Ibiza",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/27/livia-andrade-aposta-em-fio-dental-ao-curtir-viagem-luxuosa-em-ibiza.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Irmão gêmeo de preso por masturbação se afasta do trabalho na BA",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/27/irmao-gemeo-de-preso-por-masturbacao-em-academia-se-afastou-do-trabalho.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Ana Hickmann publica fotos de férias com Edu Guedes na Grécia",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/27/ana-hickmann-publica-fotos-de-biquini-durante-ferias-na-grecia.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Menina prometida em casamento para quitar dívida é resgatada em Lisboa",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/27/policia-de-portugal-resgata-menina-de-12-anos-em-lisboa-e-prende-mulher.ghtm"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "portal": "CNN Brasil",
@@ -140,23 +88,23 @@
         },
         {
           "rank": 2,
+          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
+        },
+        {
+          "rank": 3,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         },
         {
-          "rank": 3,
-          "title": "Professor cria truque para identificar uso de IA e reprova 32 alunos que caíram na armadilha",
-          "url": "https://www.estadao.com.br/educacao/professor-cria-truque-para-identificar-uso-de-ia-e-reprova-32-alunos-que-cairam-na-armadilha/"
-        },
-        {
           "rank": 4,
-          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
+          "title": "Quem é o eleitor que não quer nem Lula nem Bolsonaro e defende ‘nova via’, segundo a BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/quem-e-o-eleitor-que-nao-quer-nem-lula-nem-bolsonaro-e-defende-nova-via-segundo-a-btgnexus/"
         },
         {
           "rank": 5,
-          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
+          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         }
       ],
       "erro": null

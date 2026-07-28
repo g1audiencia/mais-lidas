@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 20:36",
+  "atualizado_em": "28/07/2026 20:41",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Floripa, Natal, Balneário Camboriú e mais: o que aconteceu com 5 cidades que engordaram suas praias",
+          "url": "https://www.estadao.com.br/brasil/floripa-natal-balneario-camboriu-e-mais-o-que-aconteceu-com-5-cidades-que-engordaram-suas-praias/"
+        },
+        {
+          "rank": 3,
           "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
           "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
           "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
           "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
-        },
-        {
-          "rank": 5,
-          "title": "Floripa, Natal, Balneário Camboriú e mais: o que aconteceu com 5 cidades que engordaram suas praias",
-          "url": "https://www.estadao.com.br/brasil/floripa-natal-balneario-camboriu-e-mais-o-que-aconteceu-com-5-cidades-que-engordaram-suas-praias/"
         }
       ],
       "erro": null
@@ -189,7 +189,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Corpo de menino desaparecido é encontrado em poça d'água no PR",
+          "title": "Corpo de menino desaparecido é encontrado em poça d'água no Paraná",
           "url": "https://record.r7.com/balanco-geral/video/caso-joao-gabriel-corpo-de-menino-desaparecido-e-encontrado-em-poca-dagua-em-araucaria-pr-28072026/"
         },
         {
@@ -204,13 +204,13 @@
         },
         {
           "rank": 4,
-          "title": "Governo dos Estados Unidos prorroga emergência nacional sobre o Brasil",
-          "url": "https://noticias.r7.com/internacional/trump-prorrogara-emergencia-nacional-sobre-brasil-por-um-ano-28072026/"
+          "title": "Enfermeiro é atravessado por bastão e caminha 16 km até conseguir socorro",
+          "url": "https://noticias.r7.com/internacional/enfermeiro-e-atravessado-por-bastao-durante-trilha-e-caminha-16-km-ate-conseguir-socorro-27072026/"
         },
         {
           "rank": 5,
-          "title": "Enfermeiro é atravessado por bastão e caminha 16 km até conseguir socorro",
-          "url": "https://noticias.r7.com/internacional/enfermeiro-e-atravessado-por-bastao-durante-trilha-e-caminha-16-km-ate-conseguir-socorro-27072026/"
+          "title": "Messi presenteia jogadores da Argentina após a Copa; veja o que eles ganharam",
+          "url": "https://esportes.r7.com/futebol/copa-do-mundo/messi-presenteia-jogadores-da-argentina-apos-a-copa-veja-o-que-eles-ganharam-27072026/"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
+          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
+        },
+        {
+          "rank": 2,
           "title": "Un turista holandés murió tras el vuelco de una lancha en las Cataratas del Iguazú",
           "url": "https://www.clarin.com/sociedad/turista-holandes-murio-vuelco-lancha-cataratas-iguazu_0_m3KHQlxCz5.html"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Autorizan la venta libre de otras diez drogas y dejan de tener descuento para obras sociales y prepagas",
           "url": "https://www.clarin.com/sociedad/autorizan-venta-libre-drogas-dejan-tener-descuento-farmacias_0_1AyXAnjEuE.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "\"Ese es el Dibu\": el increíble relato del hombre que \"salvó\" al arquero de la Selección tras un percance con su camioneta",
           "url": "https://www.clarin.com/deportes/dibu-increible-relato-hombre-salvo-arquero-seleccion-percance-camioneta_0_Bwqil22mNi.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "El llamativo posteo de Fátima Florez en Perú, en medio de rumores de reconciliación con Javier Milei",
           "url": "https://www.clarin.com/politica/llamativo-posteo-fatima-florez-peru-medio-rumores-reconciliacion-javier-milei_0_7PpQCRuqLt.html"
-        },
-        {
-          "rank": 5,
-          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
-          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
         }
       ],
       "erro": null

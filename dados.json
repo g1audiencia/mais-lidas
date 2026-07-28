@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 19:24",
+  "atualizado_em": "28/07/2026 19:29",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
-        },
-        {
-          "rank": 4,
           "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
           "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
         },
         {
+          "rank": 4,
+          "title": "Polêmica faz Globo reeditar cenas de ‘Quem Ama Cuida’; entenda o motivo",
+          "url": "https://www.estadao.com.br/emais/tv/polemica-faz-globo-reeditar-cenas-de-quem-ama-cuida-entenda-o-motivo-nprec/"
+        },
+        {
           "rank": 5,
-          "title": "Floripa, Natal, Balneário Camboriú e mais: o que aconteceu com 5 cidades que engordaram suas praias",
-          "url": "https://www.estadao.com.br/brasil/floripa-natal-balneario-camboriu-e-mais-o-que-aconteceu-com-5-cidades-que-engordaram-suas-praias/"
+          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
         }
       ],
       "erro": null
@@ -167,13 +167,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Paulinho da Força é cotado para vaga de Derrite ao Senado",
-          "url": "https://www.metropoles.com/colunas/grande-angular/paulinho-da-forca-e-cotado-para-vaga-de-derrite-ao-senado"
+          "title": "Glenda Kozlowski recebe corrente de apoio na web após expor internação",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/glenda-kozlowski-recebe-corrente-de-apoio-na-web-apos-expor-internacao"
         },
         {
           "rank": 2,
-          "title": "Glenda Kozlowski recebe corrente de apoio na web após expor internação",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/glenda-kozlowski-recebe-corrente-de-apoio-na-web-apos-expor-internacao"
+          "title": "Paulinho da Força é cotado para vaga de Derrite ao Senado",
+          "url": "https://www.metropoles.com/colunas/grande-angular/paulinho-da-forca-e-cotado-para-vaga-de-derrite-ao-senado"
         },
         {
           "rank": 3,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-          "url": "https://www.bbc.com/news/articles/cd692n215ndo"
+          "title": "Pop star Madison Beer and NFL player Justin Herbert announce engagement",
+          "url": "https://www.bbc.com/news/articles/czxq028q99go"
         }
       ],
       "erro": null

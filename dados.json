@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 21:36",
+  "atualizado_em": "27/07/2026 21:41",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
-          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
         },
         {
           "rank": 3,
-          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Carro atinge cabine e derruba teto de pedágio em rodovia no interior de SP; veja vídeo",
           "url": "https://www.estadao.com.br/sao-paulo/carro-atinge-cabine-e-derruba-teto-de-pedagio-em-rodovia-no-interior-de-sp-veja-video/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
           "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
+        },
+        {
+          "rank": 5,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Romeu Zema: \"Três frutas podres no STF precisam ser substituídas\".",
+          "url": "https://www.metropoles.com/brasil/romeu-zema-tres-frutas-podres-no-stf-precisam-ser-substituidas"
+        },
+        {
+          "rank": 2,
           "title": "Pré-candidata do PL registra B.O. ao ser impedida de entrar em casa",
           "url": "https://www.metropoles.com/colunas/grande-angular/pre-candidata-do-pl-registra-bo-ao-ser-impedida-de-entrar-em-casa"
         },
         {
-          "rank": 2,
-          "title": "Moraes quer esclarecer se Débora do Batom violou monitoramento",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-quer-esclarecer-se-debora-do-batom-violou-monitoramento"
-        },
-        {
           "rank": 3,
-          "title": "Filha de Elize Matsunaga: entenda autorização para viajar",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/filha-de-elize-matsunaga-entenda-autorizacao-para-viajar"
+          "title": "Ex-pipoqueiro que virou juiz é denunciado por três crimes",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/ex-pipoqueiro-que-virou-juiz-se-torna-reu-por-tres-crimes"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
+          "title": "Devastating European wildfires in maps - and how they're being tackled",
+          "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
         },
         {
           "rank": 3,
-          "title": "Devastating European wildfires in maps - and how they're being tackled",
-          "url": "https://www.bbc.com/news/articles/cj638jx0l53o"
+          "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
+          "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "US mother's mental health spiraled before her children's  murders, ex-husband says",
-          "url": "https://www.bbc.com/news/articles/cg5lv820586o"
+          "title": "A Japanese town wrestles with identity after protests over its first mosque",
+          "url": "https://www.bbc.com/news/articles/c36d79nd5w8o"
         }
       ],
       "erro": null

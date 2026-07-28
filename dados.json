@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 10:17",
+  "atualizado_em": "28/07/2026 10:22",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Datafolha indica dificuldade persistente de Flávio Bolsonaro no eleitorado feminino",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-indica-dificuldade-persistente-de-flavio-bolsonaro-no-eleitorado-feminino.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Governo Lula teme interferência externa nas redes após ofensiva de Trump e Milei a favor de Flávio",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-lula-teme-interferencia-externa-nas-redes-apos-ofensiva-de-trump-e-milei-a-favor-de-flavio.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Advogados argentinos denunciam Milei por usar dinheiro público em comício de Flávio no Brasil",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/milei-e-denunciado-na-argentina-por-usar-recursos-publicos-para-vir-a-comicio-de-flavio-no-brasil.shtml"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Datafolha indica dificuldade persistente de Flávio Bolsonaro no eleitorado feminino",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-indica-dificuldade-persistente-de-flavio-bolsonaro-no-eleitorado-feminino.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Governo Lula teme interferência externa nas redes após ofensiva de Trump e Milei a favor de Flávio",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-lula-teme-interferencia-externa-nas-redes-apos-ofensiva-de-trump-e-milei-a-favor-de-flavio.shtml"
         }
       ],
       "erro": null

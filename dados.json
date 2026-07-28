@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 15:23",
+  "atualizado_em": "28/07/2026 15:29",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
-        },
-        {
-          "rank": 4,
           "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
           "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         },
         {
+          "rank": 4,
+          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
+        },
+        {
           "rank": 5,
-          "title": "O que o seu jeito de dirigir revela sobre o seu cérebro",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-a-forma-como-voce-dirige-diz-sobre-sua-saude-mental-e-cognitiva/"
+          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
+          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Apagão atinge STF, Asa Norte e outras regiões do DF nesta terça (28/7)",
+          "url": "https://www.metropoles.com/distrito-federal/apagao-atinge-stf-asa-norte-e-outras-regioes-do-df-neste-terca-28-7"
+        },
+        {
+          "rank": 2,
           "title": "Juíza diz que pré-candidata do PL não pode ser barrada em condomínio",
           "url": "https://www.metropoles.com/colunas/grande-angular/juiza-diz-que-pre-candidata-do-pl-nao-pode-ser-barrada-em-condominio"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Rodrigo Faro perde recursos após condenação por propaganda enganosa",
           "url": "https://www.metropoles.com/colunas/fabia-oliveira/rodrigo-faro-perde-recursos-apos-condenacao-por-propaganda-enganosa"
-        },
-        {
-          "rank": 3,
-          "title": "Caminhoneiro desaparecido é encontrado morto pela família no Entorno",
-          "url": "https://www.metropoles.com/distrito-federal/na-mira/caminhoneiro-desaparecido-e-encontrado-morto-pela-familia-no-entorno"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-          "url": "https://www.bbc.com/news/articles/cdx7n1r54nno"
+          "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+          "url": "https://www.bbc.com/news/articles/cd692n215ndo"
         },
         {
           "rank": 3,
-          "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-          "url": "https://www.bbc.com/news/articles/cd692n215ndo"
+          "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+          "url": "https://www.bbc.com/news/articles/cdx7n1r54nno"
         },
         {
           "rank": 4,

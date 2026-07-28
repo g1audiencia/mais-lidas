@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 03:19",
+  "atualizado_em": "28/07/2026 03:24",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fórum dos Leitores",
-          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-28-7-2026/"
-        },
-        {
-          "rank": 2,
-          "title": "SP começa a semana com sol antes de chegada de frente fria; veja a previsão completa",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-comeca-semana-com-sol-antes-de-chegada-frente-fria-veja-previsao-completa-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         },
         {
+          "rank": 2,
+          "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
+          "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
+        },
+        {
+          "rank": 3,
+          "title": "Fórum dos Leitores",
+          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-28-7-2026/"
+        },
+        {
           "rank": 4,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
+          "title": "Neomercantilismo de Trump custa caro",
+          "url": "https://www.estadao.com.br/opiniao/neomercantilismo-de-trump-custa-caro/"
         },
         {
           "rank": 5,

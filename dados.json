@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 09:32",
+  "atualizado_em": "28/07/2026 09:38",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Datafolha indica dificuldade persistente de Flávio Bolsonaro no eleitorado feminino",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-indica-dificuldade-persistente-de-flavio-bolsonaro-no-eleitorado-feminino.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Governo Lula teme interferência externa nas redes após ofensiva de Trump e Milei a favor de Flávio",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/governo-lula-teme-interferencia-externa-nas-redes-apos-ofensiva-de-trump-e-milei-a-favor-de-flavio.shtml"
         },
         {
-          "rank": 5,
+          "rank": 2,
+          "title": "Datafolha indica dificuldade persistente de Flávio Bolsonaro no eleitorado feminino",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/datafolha-indica-dificuldade-persistente-de-flavio-bolsonaro-no-eleitorado-feminino.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Fundador do Inhotim cria museu de R$ 1 bilhão e 3.000 obras bem ao lado",
+          "url": "https://www1.folha.uol.com.br/colunas/plastico/2026/07/fundador-do-inhotim-cria-museu-de-r-1-bilhao-e-3000-obras-bem-ao-lado.shtml"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Fundação Cacique Cobra Coral suspende \"ajuda climática\" para Argentina",
+          "url": "https://www.metropoles.com/brasil/fundacao-cacique-cobra-coral-suspende-ajuda-climatica-para-argentina"
+        },
+        {
+          "rank": 2,
           "title": "Ex-pipoqueiro que virou juiz é denunciado por três crimes",
           "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/ex-pipoqueiro-que-virou-juiz-se-torna-reu-por-tres-crimes"
         },
         {
-          "rank": 2,
-          "title": "Além de Ciro Nogueira, motorista de Vorcaro visitou quatro deputados",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/alem-de-ciro-nogueira-motorista-de-vorcaro-visitou-quatro-deputados"
-        },
-        {
           "rank": 3,
-          "title": "Postura de Milei vira munição para adversários eleitorais de Flávio",
-          "url": "https://www.metropoles.com/brasil/postura-de-milei-vira-municao-para-adversarios-eleitorais-de-flavio"
+          "title": "Caixa paga por posts promovendo Flávio, Bolsonaro e Tarcísio",
+          "url": "https://www.metropoles.com/colunas/demetrio-vecchioli/caixa-paga-por-posts-promovendo-flavio-bolsonaro-e-tarcisio"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Widespread damage from magnitude 7.1 earthquake in south-west Japan",
-          "url": "https://www.bbc.com/news/articles/cgewg24qgnjo"
-        },
-        {
-          "rank": 4,
           "title": "As the US pauses the war with Iran, is Trump really running out of weapons?",
           "url": "https://www.bbc.com/news/articles/c0qvnk2ezp7o"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Why attachment theory is everywhere right now and how it can help you",
           "url": "https://www.bbc.com/news/articles/cnv95790mgpo"
+        },
+        {
+          "rank": 5,
+          "title": "Widespread damage from magnitude 7.1 earthquake in south-west Japan",
+          "url": "https://www.bbc.com/news/articles/cgewg24qgnjo"
         }
       ],
       "erro": null
@@ -295,7 +295,7 @@
         },
         {
           "rank": 3,
-          "title": "A solas con CEOs, la directora del FMI preguntó por el parate de la actividad y adelantó qué espera para la economía en el año electoral",
+          "title": "La jefa del FMI, a solas con CEOs: el parate de la actividad, el peso de los impuestos y la pregunta por la convertibilidad",
           "url": "https://www.clarin.com/economia/solas-ceos-directora-fmi-pregunto-parate-actividad-adelanto-espera-economia-ano-electoral_0_WhDHRgEtxG.html"
         },
         {

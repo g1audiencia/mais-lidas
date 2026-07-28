@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 11:40",
+  "atualizado_em": "28/07/2026 11:46",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Terremoto no Japão: explosão destrói shopping, e polícia fala em mortos",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/terremoto-no-japao-atualizacoes.ghtm"
-        },
-        {
-          "rank": 2,
-          "title": "Lívia Andrade aposta em fio-dental ao curtir viagem a Ibiza",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/27/livia-andrade-aposta-em-fio-dental-ao-curtir-viagem-luxuosa-em-ibiza.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Ana Hickmann publica fotos de férias com Edu Guedes na Grécia",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/27/ana-hickmann-publica-fotos-de-biquini-durante-ferias-na-grecia.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Negociação de Memphis com Corinthians abala grupo político de Osmar Stabile",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/negociacao-de-memphis-com-corinthians-abala-grupo-politico-de-osmar-stabile.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "Por que o impedimento semiautomático do Brasileirão não é igual ao da Copa",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/por-que-o-impedimento-semiautomatico-do-brasileirao-nao-e-igual-ao-da-copa.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Série D chega às quartas e começa a definir acessos; veja confrontos",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/serie-d-quartas-de-final-confrontos-acessos.ghtm"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
+          "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
+          "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
         }
       ],
       "erro": null
@@ -194,7 +194,7 @@
         },
         {
           "rank": 2,
-          "title": "Homem que passou mais de um mês no Oceano Pacífico diz como sobreviveu",
+          "title": "Homem que ficou à deriva no Oceano Pacífico conta como sobreviveu",
           "url": "https://noticias.r7.com/internacional/homem-que-passou-mais-de-um-mes-desaparecido-em-oceano-revela-como-sobreviveu-28072026/"
         },
         {

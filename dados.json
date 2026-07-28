@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 19:46",
+  "atualizado_em": "28/07/2026 19:52",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Entenda quando será a distribuição do lucro do FGTS e veja quem recebe",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-decide-distribuicao-do-lucro-do-fgts-nesta-terca-28-veja-quem-recebe-e-quando-o-valor-sera-pago.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Lula cita SUS e provoca Trump em visita de diretor-geral da OMS ao Rio",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
         },
         {
+          "rank": 2,
+          "title": "O último voo da bunda da Xuxa",
+          "url": "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/07/o-ultimo-voo-da-bunda-da-xuxa.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Caixa vai pagar mais de R$ 13 bilhões de lucro do FGTS a trabalhadores; veja quanto irá receber",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-vai-pagar-mais-de-r-13-bilhoes-de-lucro-do-fgts-a-trabalhadores-veja-quanto-ira-receber.shtml"
+          "title": "Entenda quando será a distribuição do lucro do FGTS e veja quem recebe",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-decide-distribuicao-do-lucro-do-fgts-nesta-terca-28-veja-quem-recebe-e-quando-o-valor-sera-pago.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "O último voo da bunda da Xuxa",
-          "url": "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/07/o-ultimo-voo-da-bunda-da-xuxa.shtml"
+          "title": "Caixa vai pagar mais de R$ 13 bilhões de lucro do FGTS a trabalhadores; veja quanto irá receber",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-vai-pagar-mais-de-r-13-bilhoes-de-lucro-do-fgts-a-trabalhadores-veja-quanto-ira-receber.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
+        },
+        {
+          "rank": 4,
           "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
           "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
-        },
-        {
-          "rank": 5,
-          "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "La International Board asegura que el VAR expulsó mal al suizo Emboló ante Argentina en el Mundial 2026: qué dice la regla",
-          "url": "https://www.clarin.com/deportes/international-board-asegura-var-expulso-mal-suizo-embolo-argentina-mundial-2026-dice-regla_0_Jtp8XyKLls.html"
+          "title": "Revelan más negocios entre Zamora y Toviggino: Santiago del Estero pagó con fondos de Vialidad provincial una obra millonaria de la AFA",
+          "url": "https://www.clarin.com/politica/revelan-negocios-zamora-toviggino-santiago-estero-pago-fondos-vialidad-provincial-obra-millonaria-afa_0_FHL784vtlw.html"
         }
       ],
       "erro": null

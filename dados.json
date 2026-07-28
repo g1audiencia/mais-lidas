@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 14:44",
+  "atualizado_em": "28/07/2026 14:49",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Caixa vai pagar mais de R$ 13 bilhões de lucro do FGTS a trabalhadores; veja quanto irá receber",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-vai-pagar-mais-de-r-13-bilhoes-de-lucro-do-fgts-a-trabalhadores-veja-quanto-ira-receber.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Erika Januza fala pela 1ª vez sobre fim de namoro com Arlindinho: 'Me colocaram na lama'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erika-januza-fala-pela-primeira-vez-sobre-fim-com-arlindinho-me-colocaram-na-lama.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Entenda quando será a distribuição do lucro do FGTS e veja quem recebe",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-decide-distribuicao-do-lucro-do-fgts-nesta-terca-28-veja-quem-recebe-e-quando-o-valor-sera-pago.shtml"
         },
         {
+          "rank": 2,
+          "title": "Caixa vai pagar mais de R$ 13 bilhões de lucro do FGTS a trabalhadores; veja quanto irá receber",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-vai-pagar-mais-de-r-13-bilhoes-de-lucro-do-fgts-a-trabalhadores-veja-quanto-ira-receber.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Erika Januza fala pela 1ª vez sobre fim de namoro com Arlindinho: 'Me colocaram na lama'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erika-januza-fala-pela-primeira-vez-sobre-fim-com-arlindinho-me-colocaram-na-lama.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Como foi o encontro de Juliano Cazarré sobre masculinidade, que atraiu 600 homens em SP",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/como-foi-o-encontro-de-juliano-cazarre-sobre-masculinidade-que-atraiu-600-homens-em-sp.shtml"
+          "title": "Empresário chinês preso por atropelar e matar gari é transferido para cadeia na Grande SP",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/empresario-chines-preso-por-atropelar-e-matar-gari-e-transferido-para-cadeia-na-grande-sp.shtml"
         },
         {
           "rank": 5,
-          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
+          "title": "Como foi o encontro de Juliano Cazarré sobre masculinidade, que atraiu 600 homens em SP",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/como-foi-o-encontro-de-juliano-cazarre-sobre-masculinidade-que-atraiu-600-homens-em-sp.shtml"
         }
       ],
       "erro": null

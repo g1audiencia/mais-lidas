@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 03:41",
+  "atualizado_em": "28/07/2026 03:46",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem era o corredor de 50 anos que morreu após cruzar a linha de chegada de uma corrida de rua em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/quem-era-corredor-50-anos-morreu-apos-cruzar-linha-chegada-corrida-em-sp-npr/"
+          "title": "Um candidato nanico",
+          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
         },
         {
           "rank": 2,
-          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
-        },
-        {
-          "rank": 3,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
+          "rank": 3,
+          "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
+          "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
           "rank": 4,
-          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
           "rank": 5,
-          "title": "Vozinha é proibido de usar apelido em camisa no Colo-Colo e pode achar solução em brasileiro da NBA",
-          "url": "https://www.estadao.com.br/esportes/futebol/vozinha-e-proibido-de-usar-apelido-em-camisa-no-colo-colo-e-pode-achar-solucao-em-brasileiro-da-nba/"
+          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
+          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
         }
       ],
       "erro": null

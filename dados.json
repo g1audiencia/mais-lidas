@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 05:49",
+  "atualizado_em": "28/07/2026 05:55",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
+          "title": "Professor usa truque para identificar uso de IA e reprova 32 alunos que caíram na armadilha",
+          "url": "https://www.estadao.com.br/educacao/professor-usa-truque-para-identificar-uso-de-ia-e-reprova-32-alunos-que-cairam-na-armadilha/"
         },
         {
           "rank": 2,
-          "title": "Taxem os solteiros: por que Renan Santos deveria pagar casais para terem filhos",
-          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/taxem-solteiros-renan-santos-pagar-casais-terem-filhos/"
+          "title": "Cine Marrocos, Hotel Esplanada e mais: quais prédios tombados Tarcísio quer vender no centro de SP",
+          "url": "https://www.estadao.com.br/sao-paulo/cine-marrocos-hotel-esplanada-e-mais-quais-predios-tombados-tarcisio-quer-vender-no-centro-de-sp/"
         },
         {
           "rank": 3,
+          "title": "Desvalorização da BYD Shark passa de R$ 100 mil; veja como ficam outras picapes híbridas",
+          "url": "https://www.estadao.com.br/jornal-do-carro/desvalorizacao-da-byd-shark-passa-de-r-100-mil-veja-como-ficam-outras-picapes-hibridas/"
+        },
+        {
+          "rank": 4,
           "title": "A China está adquirindo conhecimentos militares da Rússia que deveriam preocupar o Ocidente",
           "url": "https://www.estadao.com.br/internacional/a-china-esta-adquirindo-conhecimentos-militares-da-russia-que-deveriam-preocupar-o-ocidente/"
         },
         {
-          "rank": 4,
-          "title": "A nova fase das pizzarias: três nomes que estão redesenhando a pizza em São Paulo",
-          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/a-nova-geracao-das-pizzarias-tres-nomes-que-estao-redesenhando-a-pizza-brasileira/"
-        },
-        {
           "rank": 5,
-          "title": "‘A Odisseia’: O que os gregos pensam da versão de Homero no cinema? Fomos a uma sessão em Atenas",
-          "url": "https://www.estadao.com.br/cultura/cinema/a-odisseia-o-que-os-gregos-pensam-da-versao-de-homero-no-cinema-fomos-a-uma-sessao-em-atenas/"
+          "title": "Fim da isenção de LCI e LCA ganha força; entenda o risco antes de correr para esses papéis",
+          "url": "https://www.estadao.com.br/einvestidor/fim-da-isencao-de-lci-e-lca-ganha-forca-entenda-o-risco-antes-de-correr-para-esses-papeis/"
         }
       ],
       "erro": null

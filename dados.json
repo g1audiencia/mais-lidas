@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 03:46",
+  "atualizado_em": "28/07/2026 03:52",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
-        },
-        {
-          "rank": 3,
           "title": "'Estou com 70% da cidade destruída', diz prefeito de Guariba (SP) sobre estragos de temporal",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/estou-com-70-da-cidade-destruida-diz-prefeito-de-guariba-sp-sobre-estragos-de-temporal.shtml"
         },
         {
+          "rank": 3,
+          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Suri, filha de Katie Holmes e Tom Cruise, retira sobrenome do pai de documentos oficiais",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/suri-filha-de-katie-holmes-e-tom-cruise-retira-sobrenome-do-pai-de-documentos-oficiais.shtml"
+          "title": "Muro da USP vira esqueleto de bambu quase dez anos após fracasso da vidraça instalada por Doria",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/muro-da-usp-vira-esqueleto-de-bambu-quase-dez-anos-apos-fracasso-da-vidraca-instalada-por-doria.shtml"
         },
         {
           "rank": 5,
-          "title": "De faixa a coroa: Miss Universe Brasil 2026: Paranaense Marcella Kozinski vence e vai defender país no mundial",
-          "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-universe-brasil-2026-paranaense-marcella-kozinski-vence-e-vai-defender-pais-no-mundial.shtml"
+          "title": "Lula ironiza Milei após ser criticado por presidente da Argentina: 'Quem é esse cara?'",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-ironiza-milei-apos-ser-criticado-por-presidente-da-argentina-quem-e-esse-cara.shtml"
         }
       ],
       "erro": null
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasil aciona OMC contra tarifaço imposto pelos EUA",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-aciona-omc-contra-tarifaco-imposto-pelos-eua/"
-        },
-        {
-          "rank": 3,
           "title": "Salário que goleiro Vozinha receberá no Colo-Colo é revelado; veja",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/salario-que-goleiro-vozinha-recebera-no-colo-colo-e-revelado-veja/"
         },
         {
+          "rank": 3,
+          "title": "Brasil aciona OMC contra tarifaço imposto pelos EUA",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-aciona-omc-contra-tarifaco-imposto-pelos-eua/"
+        },
+        {
           "rank": 4,
-          "title": "Justiça do DF quebra sigilo em processo contra Virginia Fonseca",
-          "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/justica-do-df-quebra-sigilo-em-processo-contra-virginia-fonseca/"
+          "title": "Governo Trump pede que Suprema Corte autorize restrições a voto por correio",
+          "url": "https://www.cnnbrasil.com.br/internacional/governo-trump-pede-que-suprema-corte-autorize-restricoes-a-voto-por-correio/"
         },
         {
           "rank": 5,
-          "title": "Câncer colorretal: médica alerta para sintomas e diagnóstico tardio",
-          "url": "https://www.cnnbrasil.com.br/saude/cancer-colorretal-medica-alerta-para-sintomas-e-diagnostico-tardio/"
+          "title": "Justiça do DF quebra sigilo em processo contra Virginia Fonseca",
+          "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/justica-do-df-quebra-sigilo-em-processo-contra-virginia-fonseca/"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
-        },
-        {
-          "rank": 2,
           "title": "Cartão de crédito sem limite e consultório odontológico: Quem é a herdeira de Epstein",
           "url": "https://www.estadao.com.br/internacional/cartao-de-credito-sem-limite-e-consultorio-odontologico-quem-e-a-herdeira-de-epstein/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Governo Lula avalia crise provocada por Milei como ‘muito grave’, mas pede cautela a ministros",
           "url": "https://www.estadao.com.br/politica/governo-lula-avalia-crise-provocada-por-milei-como-muito-grave-mas-pede-cautela-a-ministros/"
+        },
+        {
+          "rank": 3,
+          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Engenheira civil brasileira é encontrada após passar quatro dias desaparecida na França",
-          "url": "https://www.estadao.com.br/brasil/engenheira-civil-brasileira-e-encontrada-apos-ficar-desaparecida-na-franca-npr/"
+          "title": "Convenção do PL foi de Jair Bolsonaro, o que expressa a inexistência individual autônoma de Flávio",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/convencao-do-pl-foi-de-jair-bolsonaro-o-que-expressa-a-inexistencia-individual-autonoma-de-flavio/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 14:33",
+  "atualizado_em": "28/07/2026 14:38",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
-          "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Mergulho noturno, futevôlei: Paolla Oliveira mostra dias de folga",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/28/com-mergulho-noturno-e-futevolei-paolla-oliveira-mostra-dias-de-folga.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "'Milei errou, e Argentina perderá mais com embate', diz ex-embaixador argentino",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/28/milei-errou-em-falas-e-a-argentina-perdera-mais-com-embate-diz-ex-embaixador.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "O que é Fenômeno de Lázaro, evento raro que pode explicar caso do bebê Noah",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/o-que-e-sindrome-de-lazaro-fenomeno-que-pode-explicar-caso-do-bebe-noah.ghtm"
         },
         {
           "rank": 5,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "A China está adquirindo conhecimentos militares da Rússia que deveriam preocupar o Ocidente",
-          "url": "https://www.estadao.com.br/internacional/a-china-esta-adquirindo-conhecimentos-militares-da-russia-que-deveriam-preocupar-o-ocidente/"
+          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
         }
       ],
       "erro": null

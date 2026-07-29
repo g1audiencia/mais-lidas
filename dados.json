@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 00:40",
+  "atualizado_em": "29/07/2026 00:46",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
-          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
+          "title": "Conselho do FGTS aprova distribuição de lucro de R$ 13 bi aos trabalhadores",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/conselho-do-fgts-aprova-distribuicao-de-lucro-de-r-13-bi-aos-trabalhadores/"
         },
         {
           "rank": 5,
-          "title": "Conselho do FGTS aprova distribuição de lucro de R$ 13 bi aos trabalhadores",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/conselho-do-fgts-aprova-distribuicao-de-lucro-de-r-13-bi-aos-trabalhadores/"
+          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
+          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
-          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
-        },
-        {
-          "rank": 2,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
-        },
-        {
-          "rank": 3,
           "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
           "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
+          "rank": 2,
+          "title": "Por que eles estão desistindo de trabalhar de qualquer lugar do mundo como nômades digitais",
+          "url": "https://www.estadao.com.br/economia/por-que-eles-estao-desistindo-de-trabalhar-de-qualquer-lugar-do-mundo-como-nomades-digitais/"
+        },
+        {
+          "rank": 3,
+          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
+        },
+        {
           "rank": 4,
-          "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         },
         {
           "rank": 5,
-          "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
-          "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         }
       ],
       "erro": null

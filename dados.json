@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 07:03",
+  "atualizado_em": "29/07/2026 07:09",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
+          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
+        },
+        {
+          "rank": 3,
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
+        },
+        {
+          "rank": 4,
           "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
           "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
-          "rank": 3,
-          "title": "A degradação da relação Brasil-Argentina",
-          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
-        },
-        {
-          "rank": 4,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
-        },
-        {
           "rank": 5,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
+          "title": "US walks out of UN Security Council meeting during France's remarks",
+          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
+        },
+        {
+          "rank": 3,
           "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
           "url": "https://www.bbc.com/news/articles/clyjgyd0225o"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
           "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
-        },
-        {
-          "rank": 4,
-          "title": "US walks out of UN Security Council meeting during France's remarks",
-          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
         },
         {
           "rank": 5,
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
-          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
+          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
+          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
         },
         {
           "rank": 2,
-          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
-          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
+          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
+          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
         },
         {
           "rank": 3,
@@ -300,8 +300,8 @@
         },
         {
           "rank": 4,
-          "title": "Quién es la joven dentista que heredaría cerca de 100 millones de dólares del patrimonio de Jeffrey Epstein",
-          "url": "https://www.clarin.com/internacional/joven-dentista-heredaria-cerca-100-millones-dolares-patrimonio-jeffrey-epstein_0_3sqaQSN5PQ.html"
+          "title": "Está prófuga por una millonaria estafa que derivó en una muerte y renovó su DNI sin que nadie la detenga",
+          "url": "https://www.clarin.com/policiales/profuga-millonaria-estafa-derivo-muerte-renovo-dni-nadie-detenga_0_IetzRCwWHC.html"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 03:49",
+  "atualizado_em": "29/07/2026 03:55",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
-        },
-        {
-          "rank": 2,
           "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
           "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
+          "rank": 2,
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+        },
+        {
           "rank": 3,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
           "rank": 4,
-          "title": "‘The Fate of Ophelia’: O que a música de Taylor Swift tem a ver com Shakespeare? Entenda",
-          "url": "https://www.estadao.com.br/cultura/musica/the-fate-of-ophelia-o-que-a-musica-de-taylor-swift-tem-a-ver-com-shakespeare-entenda-nprec/"
+          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
         },
         {
           "rank": 5,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         }
       ],
       "erro": null
@@ -199,18 +199,18 @@
         },
         {
           "rank": 3,
+          "title": "Cosme: CBF e Ancelotti querem auxiliar brasileiro de 'grande relevância'",
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/kaka-leonardo-cupula-da-cbf-e-ancelotti-avaliam-um-brasileiro-com-grande-relevancia-ser-auxiliar-na-vaga-do-filho-davide-que-foi-para-o-lille-28072026/"
+        },
+        {
+          "rank": 4,
           "title": "Homem que ficou à deriva no Oceano Pacífico conta como sobreviveu",
           "url": "https://noticias.r7.com/internacional/homem-que-passou-mais-de-um-mes-desaparecido-em-oceano-revela-como-sobreviveu-28072026/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Enfermeiro é atravessado por bastão e caminha 16 km até conseguir socorro",
           "url": "https://noticias.r7.com/internacional/enfermeiro-e-atravessado-por-bastao-durante-trilha-e-caminha-16-km-ate-conseguir-socorro-27072026/"
-        },
-        {
-          "rank": 5,
-          "title": "Messi presenteia jogadores da Argentina após a Copa; veja o que eles ganharam",
-          "url": "https://esportes.r7.com/futebol/copa-do-mundo/messi-presenteia-jogadores-da-argentina-apos-a-copa-veja-o-que-eles-ganharam-27072026/"
         }
       ],
       "erro": null

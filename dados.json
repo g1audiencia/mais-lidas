@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 11:07",
+  "atualizado_em": "29/07/2026 11:13",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
+          "title": "Neymar confirma aposentadoria da seleção brasileira: 'Não quero mais'",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/29/neymar-confirma-aposentadoria-da-selecao-brasileira-agora-nao-quero-mais.ghtml"
+        },
+        {
+          "rank": 4,
           "title": "Quem é a influencer que revelou suposto xaveco de Davi Brito após anúncio de casamento: 'Mandando mensagem?'",
           "url": "https://oglobo.globo.com/cultura/noticia/2026/07/29/quem-e-a-influencer-que-revelou-suposto-xaveco-de-davi-brito-apos-anuncio-de-casamento-mandando-mensagem.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Conheça Millie, a gata com idade equivalente a 146 anos humanos que desafia o tempo com dieta de salmão, camarão e água mineral",
           "url": "https://oglobo.globo.com/saude/bem-estar/noticia/2026/07/29/conheca-millie-a-gata-com-idade-equivalente-a-146-anos-humanos-que-desafia-o-tempo-com-dieta-de-salmao-camarao-e-agua-mineral.ghtml"
-        },
-        {
-          "rank": 5,
-          "title": "Conheça os filhos de famosos que recorreram à Justiça para tirar o nome dos pais",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/07/29/conheca-os-filhos-de-famosos-que-recorreram-a-justica-para-tirar-o-nome-dos-pais.ghtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "QG de Flávio desdenha da tese de voto útil de Caiado e recusa ‘convite para dançar’",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/qg-de-flavio-desdenha-da-tese-de-voto-util-de-caiado-e-recusa-convite-para-dancar/"
+          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
         }
       ],
       "erro": null
@@ -194,7 +194,7 @@
         },
         {
           "rank": 2,
-          "title": "Cosme: ‘Meu momento na Seleção já foi. Não quero mais!’, diz Neymar",
+          "title": "Cosme: ‘Meu momento na seleção já foi. Não quero mais!’, diz Neymar",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/meu-momento-na-selecao-ja-foi-fiz-historia-nao-quero-mais-neymar-e-direto-matou-a-esperanca-que-lucas-moura-mostrou-no-esporte-record-29072026/"
         },
         {

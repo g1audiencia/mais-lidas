@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 08:10",
+  "atualizado_em": "29/07/2026 08:15",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
-        },
-        {
-          "rank": 2,
           "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
           "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
           "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         },
         {
+          "rank": 3,
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+        },
+        {
           "rank": 4,
-          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
+          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
+          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
         },
         {
           "rank": 5,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+          "title": "Lula tem 49,2% e Flávio Bolsonaro registra 42,9% no segundo turno, aponta pesquisa Atlas",
+          "url": "https://www.estadao.com.br/politica/lula-tem-492-e-flavio-bolsonaro-registra-429-no-segundo-turno-aponta-pesquisa-atlas/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Chapa \"puro-sangue\" de Flávio ganha força na reta final das convenções",
-          "url": "https://www.metropoles.com/brasil/chapa-puro-sangue-de-flavio-ganha-forca-na-reta-final-das-convencoes"
+          "title": "AtlasIntel: Lula tem 49,2% contra 42,9% de Flávio Bolsonaro no 2º turno",
+          "url": "https://www.metropoles.com/brasil/atlasintel-lula-tem-492-contra-429-de-flavio-bolsonaro-no-2o-turno"
         },
         {
           "rank": 2,
-          "title": "Líder nas pesquisas, Cleitinho quer legislar sobre onde o iFood deixa o pedido",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/lider-nas-pesquisas-cleitinho-quer-legislar-sobre-onde-o-ifood-deixa-o-pedido"
+          "title": "Paraná Pesquisas: Marina e Tebet caem, mas seguem à frente pelo Senado",
+          "url": "https://www.metropoles.com/sao-paulo/parana-pesquisas-marina-e-tebet-caem-mas-seguem-a-frente-pelo-senado"
         },
         {
           "rank": 3,
-          "title": "Canetas emagrecedoras: Anvisa autoriza 5 novos medicamentos injetáveis à base de semaglutida",
-          "url": "https://www.metropoles.com/brasil/anvisa-autoriza-5-novos-medicamentos-injetaveis-a-base-de-semaglutida"
+          "title": "Mega-Sena 3037 acumula, e prêmio vai a R$ 86 milhões. Veja resultado",
+          "url": "https://www.metropoles.com/brasil/mega-sena-3037-acumula-e-premio-vai-a-r-86-milhoes-veja-resultado"
         }
       ],
       "erro": null
@@ -290,8 +290,8 @@
         },
         {
           "rank": 2,
-          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
-          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
+          "title": "El trágico fin de la viuda negra del Ford Ka, un gato en fuga y el custodio enamorado",
+          "url": "https://www.clarin.com/policiales/tragico-fin-viuda-negra-ford-ka-gato-fuga-custodio-enamorado_0_1VKGeOhtT4.html"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Está prófuga por una millonaria estafa que derivó en una muerte y renovó su DNI sin que nadie la detenga",
-          "url": "https://www.clarin.com/policiales/profuga-millonaria-estafa-derivo-muerte-renovo-dni-nadie-detenga_0_IetzRCwWHC.html"
+          "title": "El Gobierno designó a un abogado de empresas al frente del organismo que controla a los sindicatos",
+          "url": "https://www.clarin.com/politica/gobierno-designo-abogado-empresas-frente-organismo-controla-sindicatos_0_ccC8DYqE81.html"
         },
         {
           "rank": 5,
-          "title": "Tiene 16 años y es guardavidas: rescató a un nene de 10 de un fuerte oleaje y ahora Trump le dará una importante distinción",
-          "url": "https://www.clarin.com/mundo/16-anos-guardavidas-rescato-nene-10-fuerte-oleaje-ahora-trump-dara-importante-distincion_0_XTNRZ7JAu6.html"
+          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
+          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
         }
       ],
       "erro": null

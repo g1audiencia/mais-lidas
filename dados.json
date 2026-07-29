@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 09:38",
+  "atualizado_em": "29/07/2026 09:43",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
+          "title": "Ana Castela aparece de biquíni brazilcore na beira da piscina",
+          "url": "https://www.uol.com.br/flash/?c=5f3fe3d8e0aafdb7215d05ce599b6220260728"
+        },
+        {
+          "rank": 3,
           "title": "Genial/Quaest: Marina e Tebet lideram para o Senado em SP",
           "url": "https://noticias.uol.com.br/eleicoes/2026/07/29/genialquaest-senado-sp.ghtm"
         },
         {
-          "rank": 3,
-          "title": "Ana Castela aparece de biquíni brazil core na beira da piscina",
-          "url": "https://www.uol.com.br/flash/?c=5f3fe3d8e0aafdb7215d05ce599b6220260728"
-        },
-        {
           "rank": 4,
-          "title": "'Meu momento na seleção brasileira já foi. Fiz história', diz Neymar",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/neymar-selecao-brasileira.ghtm"
+          "title": "José Fucs: Ruídos à parte, Milei falou o que estava engasgado em muitos brasileiros",
+          "url": "https://noticias.uol.com.br/colunas/jose-fucs/2026/07/29/ruidos-a-parte-milei-falou-o-que-estava-engasgado-em-muitos-brasileiros.htm"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
-        },
-        {
-          "rank": 3,
-          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
-        },
-        {
-          "rank": 4,
           "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
           "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         },
         {
+          "rank": 3,
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+        },
+        {
+          "rank": 4,
+          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
+        },
+        {
           "rank": 5,
-          "title": "Como está a procura do EAD após novas regras do MEC? Pesquisa mostra mudança de rumo",
-          "url": "https://www.estadao.com.br/educacao/como-esta-a-procura-do-ead-apos-novas-regras-do-mec-pesquisa-mostra-mudanca-de-rumo/"
+          "title": "A degradação da relação Brasil-Argentina",
+          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "US walks out of UN Security Council meeting during France's remarks",
-          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
         },
         {
           "rank": 5,
-          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
+          "title": "US walks out of UN Security Council meeting during France's remarks",
+          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
-          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
+          "title": "Las vacaciones de la Scaloneta: de Messi en el pago, pasando por las aventuras del Dibu a Lautaro, Tagliafico y Paredes en playas paradisíacas",
+          "url": "https://www.clarin.com/deportes/vacaciones-scaloneta-messi-pago-pasando-aventuras-dibu-lautaro-tagliafico-paredes-playas-paradisiacas_0_JZKmvBr5z1.html"
         }
       ],
       "erro": null

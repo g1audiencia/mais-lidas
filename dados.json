@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 02:48",
+  "atualizado_em": "29/07/2026 02:54",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Por que eles estão desistindo de trabalhar de qualquer lugar do mundo como nômades digitais",
+          "url": "https://www.estadao.com.br/economia/por-que-eles-estao-desistindo-de-trabalhar-de-qualquer-lugar-do-mundo-como-nomades-digitais/"
+        },
+        {
+          "rank": 2,
           "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
           "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
           "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
-          "rank": 3,
-          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
-          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
-        },
-        {
           "rank": 4,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+          "title": "Venezuela convoca embaixador iraniano após ‘declarações depreciativas e inapropriadas’",
+          "url": "https://www.estadao.com.br/internacional/venezuela-convoca-embaixador-iraniano-apos-declaracoes-depreciativas-e-inapropriadas-npr/"
         },
         {
           "rank": 5,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+          "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
         }
       ],
       "erro": null

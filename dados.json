@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 08:37",
+  "atualizado_em": "29/07/2026 08:43",
   "portais": [
     {
       "portal": "Folha",
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe’s UEFA",
+          "url": "https://apnews.com/article/world-cup-fifa-investors-kushner-infantino-uefa-8345e0864e3a217632733810c232b423"
+        },
+        {
+          "rank": 4,
           "title": "A shootout that killed 3 at a food festival near Seattle’s Space Needle may have been gang-related",
           "url": "https://apnews.com/article/seattle-center-shooting-food-festival-space-needle-90548c65364e742a97fb7cb0fea31209"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Court panel declines to block Trump’s mail ballot order, but its status for midterms remains unclear",
           "url": "https://apnews.com/article/trump-election-executive-order-mail-voting-5ed040e5055c82cf84545eba36a859d8"
-        },
-        {
-          "rank": 5,
-          "title": "Netanyahu praises first meeting with Trump since launching the Iran war",
-          "url": "https://apnews.com/article/trump-netanyahu-meeting-iran-war-2d9ade01d2977dee5555f24daee30482"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "OpenAI says its rogue AI tried to hack other companies",
-          "url": "https://www.bbc.com/news/articles/c2el319vzr3o"
+          "title": "French DJ ​and electropop ‌musician Kavinsky dies aged 50",
+          "url": "https://www.bbc.com/news/articles/c204n74xyv3o"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
-          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
-        },
-        {
-          "rank": 4,
           "title": "En medio de la tragedia, así están las Cataratas del Iguazú que registran una crecida histórica: hay advertencia de tormentas severas",
           "url": "https://www.clarin.com/sociedad/medio-tragedia-cataratas-iguazu-registran-crecida-historica-advertencia-tormentas-severas_0_s4lEwTiH1W.html"
         },
         {
+          "rank": 4,
+          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
+          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
+        },
+        {
           "rank": 5,
-          "title": "El Gobierno designó a un abogado de empresas al frente del organismo que controla a los sindicatos",
-          "url": "https://www.clarin.com/politica/gobierno-designo-abogado-empresas-frente-organismo-controla-sindicatos_0_ccC8DYqE81.html"
+          "title": "Las vacaciones de la Scaloneta: de Messi en el pago, pasando por las aventuras del Dibu a Lautaro, Tagliafico y Paredes en playas paradisíacas",
+          "url": "https://www.clarin.com/deportes/vacaciones-scaloneta-messi-pago-pasando-aventuras-dibu-lautaro-tagliafico-paredes-playas-paradisiacas_0_JZKmvBr5z1.html"
         }
       ],
       "erro": null

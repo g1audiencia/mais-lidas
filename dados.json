@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 23:22",
+  "atualizado_em": "28/07/2026 23:28",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
-        },
-        {
-          "rank": 2,
           "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
           "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
+          "rank": 2,
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+        },
+        {
           "rank": 3,
-          "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Floripa, Natal, Balneário Camboriú e mais: o que aconteceu com 5 cidades que engordaram suas praias",
-          "url": "https://www.estadao.com.br/brasil/floripa-natal-balneario-camboriu-e-mais-o-que-aconteceu-com-5-cidades-que-engordaram-suas-praias/"
+          "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
+          "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Locura en Villa Devoto: lo mordió el perro del vecino, lo amenazó de muerte y le disparó al animal con un arma de aire comprimido",
-          "url": "https://www.clarin.com/ciudades/locura-villa-devoto-mordio-perro-vecino-amenazo-muerte-disparo-animal-arma-aire-comprimido_0_iAzqUf32iS.html"
+          "title": "\"Ese es el Dibu\": el increíble relato del hombre que \"salvó\" al arquero de la Selección tras un percance con su camioneta",
+          "url": "https://www.clarin.com/deportes/dibu-increible-relato-hombre-salvo-arquero-seleccion-percance-camioneta_0_Bwqil22mNi.html"
         }
       ],
       "erro": null

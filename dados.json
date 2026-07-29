@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 06:08",
+  "atualizado_em": "29/07/2026 06:13",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+        },
+        {
+          "rank": 2,
           "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
           "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
-          "rank": 2,
-          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
-          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
-        },
-        {
           "rank": 3,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "A degradação da relação Brasil-Argentina",
+          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
         },
         {
           "rank": 4,
-          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
+          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
+          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
         },
         {
           "rank": 5,
@@ -268,7 +268,7 @@
         },
         {
           "rank": 4,
-          "title": "BTS say they won't submit music to the Grammy Awards",
+          "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
           "url": "https://www.bbc.com/news/articles/clyjgyd0225o"
         },
         {

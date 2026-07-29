@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 08:21",
+  "atualizado_em": "29/07/2026 08:26",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os cinco sintomas de gordura no fígado que costumam não ser notados",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/os-5-sintomas-de-gordura-no-figado-que-costumam-nao-ser-notados.ghtm"
-        },
-        {
-          "rank": 2,
           "title": "Mulher dá tapa em PM, leva soco no rosto e cai no chão com bebê em SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/ocorrencia-pm-sorocaba-sp-julho-2026.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Nova frente fria deve provocar temporal e intensas rajadas de vento em SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/defesa-civil-estadual-alerta-para-chuva-e-ventos-fortes.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "'Meu momento na seleção brasileira já foi. Fiz história', diz Neymar",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/neymar-selecao-brasileira.ghtm"
         },
         {
+          "rank": 4,
+          "title": "Genial/Quaest: Marina e Tebet lideram para o Senado em SP",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/29/genialquaest-senado-sp.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Senadores americanos falam de 'conspiração' contra eleição brasileira",
-          "url": "https://noticias.uol.com.br/colunas/joao-paulo-charleaux/2026/07/28/senadores-americanos-falam-de-conspiracao-contra-eleicao-brasileira.htm"
+          "title": "Ana Castela aparece de biquíni brazil core na beira da piscina",
+          "url": "https://www.uol.com.br/flash/?c=5f3fe3d8e0aafdb7215d05ce599b6220260728"
         }
       ],
       "erro": null
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
           "rank": 3,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Políticos propõem lei para \"desligar a IA\", enquanto militares querem usá-la para matar",
-          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/politicos-propoem-lei-para-desligar-a-ia-enquanto-militares-querem-usa-la-para-matar/"
+          "title": "A degradação da relação Brasil-Argentina",
+          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
+          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
+          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
+        },
+        {
+          "rank": 4,
           "title": "En medio de la tragedia, así están las Cataratas del Iguazú que registran una crecida histórica: hay advertencia de tormentas severas",
           "url": "https://www.clarin.com/sociedad/medio-tragedia-cataratas-iguazu-registran-crecida-historica-advertencia-tormentas-severas_0_s4lEwTiH1W.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "El Gobierno designó a un abogado de empresas al frente del organismo que controla a los sindicatos",
           "url": "https://www.clarin.com/politica/gobierno-designo-abogado-empresas-frente-organismo-controla-sindicatos_0_ccC8DYqE81.html"
-        },
-        {
-          "rank": 5,
-          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
-          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
         }
       ],
       "erro": null

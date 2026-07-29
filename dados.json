@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 12:14",
+  "atualizado_em": "29/07/2026 12:20",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Equipes correm para localizar desaparecidos em shopping que explodiu em terremoto no Japão; veja vídeo",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/equipes-correm-para-localizar-desaparecidos-em-shopping-que-explodiu-em-terremoto-no-japao-veja-video.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Assessor de padre Júlio Lancellotti é réu por falsidade ideológica e comanda instituto que recebeu R$ 500 mil",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/assessor-de-padre-julio-lancellotti-e-reu-por-falsidade-ideologica-e-comanda-instituto-que-recebeu-r-500-mil.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Bolsonaro dirá a Alexandre de Moraes que não sabia de vídeo de IA usado por Flávio",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/bolsonaro-dira-a-alexandre-de-moraes-que-nao-sabia-de-video-de-ia-usado-por-flavio.shtml"
         },
         {
+          "rank": 2,
+          "title": "Equipes correm para localizar desaparecidos em shopping que explodiu em terremoto no Japão; veja vídeo",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/equipes-correm-para-localizar-desaparecidos-em-shopping-que-explodiu-em-terremoto-no-japao-veja-video.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Assessor de padre Júlio Lancellotti é réu por falsidade ideológica e comanda instituto que recebeu R$ 500 mil",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/assessor-de-padre-julio-lancellotti-e-reu-por-falsidade-ideologica-e-comanda-instituto-que-recebeu-r-500-mil.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Após críticas de Milei a Lula, compare PIB, inflação e desemprego de Brasil e Argentina",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/apos-criticas-de-milei-a-lula-compare-pib-inflacao-e-desemprego-de-brasil-e-argentina.shtml"
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         },
         {
           "rank": 5,
@@ -71,28 +71,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "São Paulo entra em alerta para ventos de até 90 km/h com frente fria",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-entra-em-alerta-para-ventos-de-ate-90-km-h-com-frente-fria/"
-        },
-        {
-          "rank": 2,
           "title": "Tornado gigante devasta Giruá, no RS; prefeitura fala em feridos",
           "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/tornado-gigante-devasta-girua-no-rs-prefeitura-fala-em-feridos/"
         },
         {
-          "rank": 3,
-          "title": "Entenda o que é o estado de emergência nacional dos EUA contra o Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-o-que-e-o-estado-de-emergencia-nacional-dos-eua-contra-o-brasil/"
+          "rank": 2,
+          "title": "São Paulo entra em alerta para ventos de até 90 km/h com frente fria",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-entra-em-alerta-para-ventos-de-ate-90-km-h-com-frente-fria/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Atlas/Bloomberg: Lula lidera todos os cenários de 2º turno",
           "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-lula-lidera-todos-os-cenarios-de-2o-turno/"
         },
         {
+          "rank": 4,
+          "title": "Entenda o que é o estado de emergência nacional dos EUA contra o Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/entenda-o-que-e-o-estado-de-emergencia-nacional-dos-eua-contra-o-brasil/"
+        },
+        {
           "rank": 5,
-          "title": "Michael B. Jordan reage à escolha de ator para viver filho de Pantera Negra",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/michael-b-jordan-reage-a-escolha-de-ator-para-viver-filho-de-pantera-negra/"
+          "title": "Lito Sousa recebe alta após diagnóstico de câncer e inflamação",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-recebe-alta-apos-diagnostico-de-cancer-e-inflamacao/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Itaú muda regras de cartões Mastercard e Visa; veja os impactados e novidades em pontos e salas VIP",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/embargo-ate-amanha-as-9h-itau-muda-regras-de-cartoes-mastercard-black-e-visa-infinite-do-uniclass/"
-        },
-        {
-          "rank": 2,
           "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
           "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
-          "rank": 3,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+          "rank": 2,
+          "title": "Itaú muda regras de cartões Mastercard e Visa; veja os impactados e novidades em pontos e salas VIP",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/embargo-ate-amanha-as-9h-itau-muda-regras-de-cartoes-mastercard-black-e-visa-infinite-do-uniclass/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "A incrível história de como Jeff Bezos transformou uma startup de garagem na maior empresa do mundo",
           "url": "https://www.estadao.com.br/economia/negocios/jeff-bezos-amazon-startup-garagem-maior-empresa-global/"
+        },
+        {
+          "rank": 5,
+          "title": "QG de Flávio desdenha da tese de voto útil de Caiado e recusa ‘convite para dançar’",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/qg-de-flavio-desdenha-da-tese-de-voto-util-de-caiado-e-recusa-convite-para-dancar/"
         }
       ],
       "erro": null

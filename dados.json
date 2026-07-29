@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 00:12",
+  "atualizado_em": "29/07/2026 00:18",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Outro Canal: 'Quem Ama Cuida': Autores mudam história e Iuri passa a ser aliado de Adriana",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-autores-mudam-historia-e-iuri-passa-a-ser-aliado-de-adriana.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Mega-Sena 3037 acumula e premiação pode chegar a R$ 86 milhões na quinta (30)",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/confira-a-partir-das-21h-desta-terca-28-o-resultado-do-concurso-3037-da-mega-sena.shtml"
         },
         {
+          "rank": 4,
+          "title": "Outro Canal: 'Quem Ama Cuida': Autores mudam história e Iuri passa a ser aliado de Adriana",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-autores-mudam-historia-e-iuri-passa-a-ser-aliado-de-adriana.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
+          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         }
       ],
       "erro": null
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Influenciadora é morta pelo marido semanas após acusá-lo de pedofilia",
-          "url": "https://oglobo.globo.com/cultura/epoca/noticia/2026/07/28/influenciadora-e-morta-pelo-marido-semanas-apos-acusa-lo-de-pedofilia.ghtml"
+          "title": "Aliados de Flávio Bolsonaro acreditam em volta de Magnitsky contra Moraes até eleição",
+          "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/07/aliados-de-flavio-bolsonaro-acreditam-em-volta-de-magnitsky-contra-moraes-ate-eleicao.ghtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
-          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
           "rank": 2,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
           "rank": 3,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+          "title": "Polêmica faz Globo reeditar cenas de ‘Quem Ama Cuida’; entenda o motivo",
+          "url": "https://www.estadao.com.br/emais/tv/polemica-faz-globo-reeditar-cenas-de-quem-ama-cuida-entenda-o-motivo-nprec/"
         }
       ],
       "erro": null

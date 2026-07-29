@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 08:26",
+  "atualizado_em": "29/07/2026 08:32",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Lucro do FGTS pode ser usado para abater dívida da casa própria; veja se vale a pena e tire dúvidas",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/lucro-do-fgts-pode-ser-usado-para-abater-divida-da-casa-propria-veja-se-vale-a-pena-e-tire-duvidas.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "'Não faremos promessas vazias': Portuguesa divulga carta à torcida após queda na Série D",
           "url": "https://www1.folha.uol.com.br/esporte/2026/07/nao-faremos-promessas-vazias-portuguesa-divulga-carta-a-torcida-apos-queda-na-serie-d.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "O último voo da bunda da Xuxa",
-          "url": "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/07/o-ultimo-voo-da-bunda-da-xuxa.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
           "rank": 4,
-          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
           "rank": 5,
-          "title": "A degradação da relação Brasil-Argentina",
-          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         }
       ],
       "erro": null

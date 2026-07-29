@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 03:55",
+  "atualizado_em": "29/07/2026 04:01",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
+          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
+        },
+        {
+          "rank": 2,
           "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
           "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
-          "rank": 2,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+          "rank": 3,
+          "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
+          "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
           "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
-          "rank": 4,
-          "title": "Flávio não perde votos com abandono do Centrão; perde o Centrão com abandono do eleitor independente",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-nao-perde-votos-com-abandono-do-centrao-perde-o-centrao-com-abandono-do-eleitor-independente/"
-        },
-        {
           "rank": 5,
-          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
+          "title": "A degradação da relação Brasil-Argentina",
+          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
         }
       ],
       "erro": null
@@ -204,13 +204,13 @@
         },
         {
           "rank": 4,
-          "title": "Homem que ficou à deriva no Oceano Pacífico conta como sobreviveu",
-          "url": "https://noticias.r7.com/internacional/homem-que-passou-mais-de-um-mes-desaparecido-em-oceano-revela-como-sobreviveu-28072026/"
+          "title": "Governo dos Estados Unidos prorroga emergência nacional sobre o Brasil",
+          "url": "https://noticias.r7.com/internacional/trump-prorrogara-emergencia-nacional-sobre-brasil-por-um-ano-28072026/"
         },
         {
           "rank": 5,
-          "title": "Enfermeiro é atravessado por bastão e caminha 16 km até conseguir socorro",
-          "url": "https://noticias.r7.com/internacional/enfermeiro-e-atravessado-por-bastao-durante-trilha-e-caminha-16-km-ate-conseguir-socorro-27072026/"
+          "title": "Consulta aos valores do lucro estará disponível no aplicativo FGTS",
+          "url": "https://noticias.r7.com/prisma/conta-em-dia/consulta-aos-valores-do-lucro-estara-disponivel-no-aplicativo-fgts-veja-como-calcular-28072026/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Iran and US trade strikes, shattering brief lull in fighting",
-          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
+          "title": "Four women accuse Jared Leto of criminal sexual conduct",
+          "url": "https://www.bbc.com/news/articles/cd7lg2nz2x2o"
         },
         {
           "rank": 2,
-          "title": "Four women accuse Jared Leto of criminal sexual conduct",
-          "url": "https://www.bbc.com/news/articles/cd7lg2nz2x2o"
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militia",
+          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
         },
         {
           "rank": 3,

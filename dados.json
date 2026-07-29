@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 08:54",
+  "atualizado_em": "29/07/2026 08:59",
   "portais": [
     {
       "portal": "Folha",
@@ -49,17 +49,17 @@
         },
         {
           "rank": 3,
-          "title": "'Meu momento na seleção brasileira já foi. Fiz história', diz Neymar",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/neymar-selecao-brasileira.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Ana Castela aparece de biquíni brazil core na beira da piscina",
           "url": "https://www.uol.com.br/flash/?c=5f3fe3d8e0aafdb7215d05ce599b6220260728"
         },
         {
+          "rank": 4,
+          "title": "'Meu momento na seleção brasileira já foi. Fiz história', diz Neymar",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/neymar-selecao-brasileira.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Funcionário faz quatro minutos extras, é demitido por justa causa e ganha ação em MG",
+          "title": "Funcionário faz 4 minutos extras, é demitido por justa causa e ganha ação em MG",
           "url": "https://economia.uol.com.br/noticias/redacao/2026/07/28/funcionario-faz-4-minutos-extras-e-demitido-por-justa-causa-e-ganha-acao.ghtm"
         }
       ],
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
-        },
-        {
-          "rank": 3,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
+          "rank": 3,
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+        },
+        {
           "rank": 4,
-          "title": "Carlos Andreazza: ‘O tribunal eleitoral paralelo de Alexandre de Moraes’ | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/carlos-andreazza-o-tribunal-eleitoral-paralelo-de-alexandre-de-moraes-estadao-analisa/"
+          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
         },
         {
           "rank": 5,
-          "title": "Como está a procura do EAD após novas regras do MEC? Pesquisa mostra mudança de rumo",
-          "url": "https://www.estadao.com.br/educacao/como-esta-a-procura-do-ead-apos-novas-regras-do-mec-pesquisa-mostra-mudanca-de-rumo/"
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         }
       ],
       "erro": null

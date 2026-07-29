@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 13:31",
+  "atualizado_em": "29/07/2026 13:36",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Quatro razões para descartar 'Sapiens' como guia sobre evolução",
-          "url": "https://www1.folha.uol.com.br/blogs/darwin-e-deus/2026/07/quatro-razoes-para-descartar-sapiens-como-guia-sobre-evolucao.shtml"
+          "title": "Justiça do Ceará arquiva caso em que David Luiz era acusado de ameaça e perseguição contra mulher",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/justica-do-ceara-arquiva-caso-em-que-david-luiz-era-acusado-de-ameaca-e-perseguicao-contra-mulher.shtml"
         }
       ],
       "erro": null
@@ -76,18 +76,18 @@
         },
         {
           "rank": 2,
+          "title": "Lito Sousa recebe alta após diagnóstico de câncer e inflamação",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-recebe-alta-apos-diagnostico-de-cancer-e-inflamacao/"
+        },
+        {
+          "rank": 3,
           "title": "São Paulo entra em alerta para ventos de até 90 km/h com frente fria",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-entra-em-alerta-para-ventos-de-ate-90-km-h-com-frente-fria/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Atlas/Bloomberg: Lula lidera todos os cenários de 2º turno",
           "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-lula-lidera-todos-os-cenarios-de-2o-turno/"
-        },
-        {
-          "rank": 4,
-          "title": "Lito Sousa recebe alta após diagnóstico de câncer e inflamação",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-recebe-alta-apos-diagnostico-de-cancer-e-inflamacao/"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
-          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
-        },
-        {
-          "rank": 3,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
-        },
-        {
-          "rank": 4,
           "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
+          "rank": 3,
+          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
+        },
+        {
+          "rank": 4,
+          "title": "Menos mestrados, mais doutorados e busca por faculdades privadas: o que mudou na pós-graduação",
+          "url": "https://www.estadao.com.br/educacao/menos-mestrados-mais-doutorados-e-busca-por-faculdades-privadas-o-que-mudou-na-pos-graduacao/"
+        },
+        {
           "rank": 5,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
+          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
         }
       ],
       "erro": null

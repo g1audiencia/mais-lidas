@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 11:30",
+  "atualizado_em": "29/07/2026 11:35",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Após críticas de Milei a Lula, compare PIB, inflação e desemprego de Brasil e Argentina",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/apos-criticas-de-milei-a-lula-compare-pib-inflacao-e-desemprego-de-brasil-e-argentina.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Assessor de padre Júlio Lancellotti é réu por falsidade ideológica e comanda instituto que recebeu R$ 500 mil",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/assessor-de-padre-julio-lancellotti-e-reu-por-falsidade-ideologica-e-comanda-instituto-que-recebeu-r-500-mil.shtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Equipes correm para localizar desaparecidos em shopping que explodiu em terremoto no Japão; veja vídeo",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/equipes-correm-para-localizar-desaparecidos-em-shopping-que-explodiu-em-terremoto-no-japao-veja-video.shtml"
         },
         {
+          "rank": 3,
+          "title": "Após críticas de Milei a Lula, compare PIB, inflação e desemprego de Brasil e Argentina",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/apos-criticas-de-milei-a-lula-compare-pib-inflacao-e-desemprego-de-brasil-e-argentina.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Justiça do Ceará arquiva caso em que David Luiz era acusado de ameaça e perseguição contra mulher",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/justica-do-ceara-arquiva-caso-em-que-david-luiz-era-acusado-de-ameaca-e-perseguicao-contra-mulher.shtml"
+          "title": "Quatro razões para descartar 'Sapiens' como guia sobre evolução",
+          "url": "https://www1.folha.uol.com.br/blogs/darwin-e-deus/2026/07/quatro-razoes-para-descartar-sapiens-como-guia-sobre-evolucao.shtml"
         },
         {
           "rank": 5,
-          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
+          "title": "Justiça do Ceará arquiva caso em que David Luiz era acusado de ameaça e perseguição contra mulher",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/justica-do-ceara-arquiva-caso-em-que-david-luiz-era-acusado-de-ameaca-e-perseguicao-contra-mulher.shtml"
         }
       ],
       "erro": null
@@ -145,13 +145,13 @@
         },
         {
           "rank": 3,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
           "rank": 4,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         },
         {
           "rank": 5,
@@ -295,8 +295,8 @@
         },
         {
           "rank": 3,
-          "title": "Las vacaciones de la Scaloneta: de Messi en el pago, pasando por las aventuras del Dibu a Lautaro, Tagliafico y Paredes en playas paradisíacas",
-          "url": "https://www.clarin.com/deportes/vacaciones-scaloneta-messi-pago-pasando-aventuras-dibu-lautaro-tagliafico-paredes-playas-paradisiacas_0_JZKmvBr5z1.html"
+          "title": "Tragedia en las cataratas del Iguazú: quién era el turista neerlandés que murió en un paseo y el video que muestra cómo quedó la lancha",
+          "url": "https://www.clarin.com/sociedad/tragedia-cataratas-iguazu-turista-neerlandes-murio-paseo-video-muestra-quedo-lancha_0_qt7lC7NB9q.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
-          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
+          "title": "Las vacaciones de la Scaloneta: de Messi en el pago, pasando por las aventuras del Dibu a Lautaro, Tagliafico y Paredes en playas paradisíacas",
+          "url": "https://www.clarin.com/deportes/vacaciones-scaloneta-messi-pago-pasando-aventuras-dibu-lautaro-tagliafico-paredes-playas-paradisiacas_0_JZKmvBr5z1.html"
         }
       ],
       "erro": null

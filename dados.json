@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 13:42",
+  "atualizado_em": "29/07/2026 13:47",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Josias de Souza: Moraes cutuca Nunes Marques em despacho",
-          "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/07/29/moraes-cutuca-nunes-marques-em-despacho-sobre-bolsonaro.htm"
-        },
-        {
-          "rank": 3,
           "title": "Vídeo mostra barco virado e tentativa de ressuscitar turista nas Cataratas do Iguaçu",
           "url": "https://www.uol.com.br/flash/?c=c560d2746536b2d1504e4c40f13e13020260729"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Casagrande: Houve sacanagem com o Neymar; querem fazer dele um vilão",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/sacanagem-com-o-neymar-querem-fazer-dele-um-vilao-diz-casagrande.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Fala de Neymar sobre saída da seleção repercute na imprensa internacional",
           "url": "https://www.uol.com.br/flash/?c=522319604d4b446d7ad648e1c91b3e520260729&i=3"
+        },
+        {
+          "rank": 5,
+          "title": "Josias de Souza: Moraes cutuca Nunes Marques em despacho",
+          "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/07/29/moraes-cutuca-nunes-marques-em-despacho-sobre-bolsonaro.htm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
-        },
-        {
-          "rank": 3,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Menos mestrados, mais doutorados e busca por faculdades privadas: o que mudou na pós-graduação",
           "url": "https://www.estadao.com.br/educacao/menos-mestrados-mais-doutorados-e-busca-por-faculdades-privadas-o-que-mudou-na-pos-graduacao/"
         },
         {
+          "rank": 4,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
           "rank": 5,
-          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
-          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
+          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
         }
       ],
       "erro": null
@@ -295,8 +295,8 @@
         },
         {
           "rank": 3,
-          "title": "Poder ser candidata, revisar las condiciones de prisión domiciliaria y recomponer la Corte Suprema: qué le pide Cristina Kirchner a la ONU por la condena de Vialidad",
-          "url": "https://www.clarin.com/politica/suspender-proscripcion-revisar-condiciones-prision-domiciliaria-recomponer-corte-suprema-pedidos-cristina-kirchner-onu-condena-vialidad_0_gVDRzzk9Qm.html"
+          "title": "Un turista pasó 24 horas encerrado en su camioneta, con su familia, tapados por la nieve y admite algo de \"inconsciencia\"",
+          "url": "https://www.clarin.com/sociedad/turista-paso-24-horas-encerrado-camioneta-familia-tapados-nieve-admite-inconsciencia_0_TOz1XfN0b6.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Impactante rescate: intentan bajar de la montaña a más de cien turistas atrapados por un temporal de nieve que tapó sus camionetas",
-          "url": "https://www.clarin.com/sociedad/impactante-rescate-cien-turistas-quedaron-atrapados-temporal-nieve-tapo-camionetas-intentan-bajarlos-montana_0_DB9FFtr97Z.html"
+          "title": "Poder ser candidata, revisar las condiciones de prisión domiciliaria y recomponer la Corte Suprema: qué le pide Cristina Kirchner a la ONU por la condena de Vialidad",
+          "url": "https://www.clarin.com/politica/suspender-proscripcion-revisar-condiciones-prision-domiciliaria-recomponer-corte-suprema-pedidos-cristina-kirchner-onu-condena-vialidad_0_gVDRzzk9Qm.html"
         }
       ],
       "erro": null

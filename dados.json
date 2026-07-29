@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 22:05",
+  "atualizado_em": "28/07/2026 22:10",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Mega-Sena acumula, e prêmio sobe para R$ 86 milhões; veja as dezenas sorteadas",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/07/28/mega-sena-concurso-3037-sorteio-28-de-julho.htm"
+        },
+        {
+          "rank": 2,
           "title": "Senadores americanos falam de 'conspiração' contra eleição brasileira",
           "url": "https://noticias.uol.com.br/colunas/joao-paulo-charleaux/2026/07/28/senadores-americanos-falam-de-conspiracao-contra-eleicao-brasileira.htm"
         },
         {
-          "rank": 2,
-          "title": "Nova frente fria deve provocar temporal e intensas rajadas de vento em São Paulo",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/defesa-civil-estadual-alerta-para-chuva-e-ventos-fortes.ghtm"
+          "rank": 3,
+          "title": "Os cinco sintomas de gordura no fígado que costumam não ser notados",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/28/os-5-sintomas-de-gordura-no-figado-que-costumam-nao-ser-notados.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Mercado: saída no Palmeiras, avanços no São Paulo e divisão no Corinthians",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/mercado-da-bola-28-de-julho-2026.ghtm"
         },
         {
-          "rank": 4,
-          "title": "Ancelotti volta ao Brasil e tem reunião na CBF: 'Montagem de um novo time'",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/ancelotti-volta-ao-brasil-e-tem-reuniao-na-cbf-montagem-de-um-novo-time.ghtm"
-        },
-        {
           "rank": 5,
-          "title": "Zagueiro do Inter que quebrou perna de Pec é suspenso até meia se recuperar",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/28/zagueiro-do-inter-leva-gancho-pesado-do-stjd-em-julgamento-com-audio-fake.ghtm"
+          "title": "Nova frente fria deve provocar temporal e intensas rajadas de vento em São Paulo",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/defesa-civil-estadual-alerta-para-chuva-e-ventos-fortes.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
-        },
-        {
-          "rank": 3,
           "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
           "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
+          "rank": 3,
+          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
+        },
+        {
           "rank": 4,
-          "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
-          "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
+          "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
+          "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
         },
         {
           "rank": 5,
-          "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
+          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "\"Ese es el Dibu\": el increíble relato del hombre que \"salvó\" al arquero de la Selección tras un percance con su camioneta",
-          "url": "https://www.clarin.com/deportes/dibu-increible-relato-hombre-salvo-arquero-seleccion-percance-camioneta_0_Bwqil22mNi.html"
+          "title": "Locura en Villa Devoto: lo mordió el perro del vecino, lo amenazó de muerte y le disparó al animal con un arma de aire comprimido",
+          "url": "https://www.clarin.com/ciudades/locura-villa-devoto-mordio-perro-vecino-amenazo-muerte-disparo-animal-arma-aire-comprimido_0_iAzqUf32iS.html"
         },
         {
           "rank": 5,
-          "title": "Locura en Villa Devoto: lo mordió el perro del vecino, lo amenazó de muerte y le disparó al animal con un arma de aire comprimido",
-          "url": "https://www.clarin.com/ciudades/locura-villa-devoto-mordio-perro-vecino-amenazo-muerte-disparo-animal-arma-aire-comprimido_0_iAzqUf32iS.html"
+          "title": "\"Ese es el Dibu\": el increíble relato del hombre que \"salvó\" al arquero de la Selección tras un percance con su camioneta",
+          "url": "https://www.clarin.com/deportes/dibu-increible-relato-hombre-salvo-arquero-seleccion-percance-camioneta_0_Bwqil22mNi.html"
         }
       ],
       "erro": null

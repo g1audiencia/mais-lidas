@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 09:49",
+  "atualizado_em": "29/07/2026 09:55",
   "portais": [
     {
       "portal": "Folha",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "A degradação da relação Brasil-Argentina",
-          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
+          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
+          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
-          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
-        },
-        {
-          "rank": 4,
           "title": "En medio de la tragedia, así están las Cataratas del Iguazú que registran una crecida histórica: hay advertencia de tormentas severas",
           "url": "https://www.clarin.com/sociedad/medio-tragedia-cataratas-iguazu-registran-crecida-historica-advertencia-tormentas-severas_0_s4lEwTiH1W.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Las vacaciones de la Scaloneta: de Messi en el pago, pasando por las aventuras del Dibu a Lautaro, Tagliafico y Paredes en playas paradisíacas",
           "url": "https://www.clarin.com/deportes/vacaciones-scaloneta-messi-pago-pasando-aventuras-dibu-lautaro-tagliafico-paredes-playas-paradisiacas_0_JZKmvBr5z1.html"
+        },
+        {
+          "rank": 5,
+          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
+          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
         }
       ],
       "erro": null

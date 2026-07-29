@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 15:17",
+  "atualizado_em": "29/07/2026 15:22",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
+          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
+        },
+        {
+          "rank": 4,
           "title": "A incrível história de como Jeff Bezos transformou uma startup de garagem na maior empresa do mundo",
           "url": "https://www.estadao.com.br/economia/negocios/jeff-bezos-amazon-startup-garagem-maior-empresa-global/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
-        },
-        {
-          "rank": 5,
-          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
-          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "Mingau proteico: veja receita simples e o melhor horário para consumir",
-          "url": "https://www.metropoles.com/vida-e-estilo/mingau-proteico-veja-receita-simples-e-o-melhor-horario-para-consumir"
+          "title": "TRE-SP multa Lula por propaganda antecipada e manda tirar vídeo do ar",
+          "url": "https://www.metropoles.com/sao-paulo/tre-sp-multa-lula-por-propaganda-antecipada-e-manda-tirar-video-do-ar"
         },
         {
           "rank": 3,
-          "title": "Não resta dúvida: Jair Bolsonaro é perseguido político",
-          "url": "https://www.metropoles.com/colunas/mario-sabino/nao-resta-duvida-jair-bolsonaro-e-perseguido-politico"
+          "title": "Mingau proteico: veja receita simples e o melhor horário para consumir",
+          "url": "https://www.metropoles.com/vida-e-estilo/mingau-proteico-veja-receita-simples-e-o-melhor-horario-para-consumir"
         }
       ],
       "erro": null

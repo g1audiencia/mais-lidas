@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 07:14",
+  "atualizado_em": "29/07/2026 07:20",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
-          "title": "EUA prorrogam por um ano emergência nacional contra o Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-prorroga-por-um-ano-emergencia-nacional-contra-o-brasil/"
-        },
-        {
-          "rank": 4,
           "title": "Michael B. Jordan reage à escolha de ator para viver filho de Pantera Negra",
           "url": "https://www.cnnbrasil.com.br/pop/celebridades/michael-b-jordan-reage-a-escolha-de-ator-para-viver-filho-de-pantera-negra/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Moraes dá 48h para defesa esclarecer se Bolsonaro autorizou vídeo por IA",
           "url": "https://www.cnnbrasil.com.br/politica/moraes-da-48h-para-defesa-esclarecer-se-bolsonaro-autorizou-video-por-ia/"
+        },
+        {
+          "rank": 5,
+          "title": "EUA prorrogam por um ano emergência nacional contra o Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-prorroga-por-um-ano-emergencia-nacional-contra-o-brasil/"
         }
       ],
       "erro": null
@@ -103,18 +103,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Conselho do FGTS aprova distribuição de R$ 13 bi entre trabalhadores. Calcule quanto vai para sua conta",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/conselho-do-fgts-aprova-distribuicao-de-r-13-bi-entre-trabalhadores-calcule-quanto-vai-para-sua-conta.ghtml"
-        },
-        {
-          "rank": 2,
           "title": "EUA vão prorrogar sobretaxa aplicada ao Brasil desde julho de 2025; medida não tem efeito prático",
           "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/governo-trump-vai-prorrogar-por-mais-um-ano-sancoes-aplicadas-ao-brasil-desde-julho-de-2025.ghtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Em estado-chave, favorito relutante agora diz aceitar ‘missão’ e traz nova reviravolta para a 'corrida maluca' mineira",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/29/em-estado-chave-favorito-relutante-agora-diz-aceitar-missao-e-traz-nova-reviravolta-para-a-corrida-maluca-mineira.ghtml"
+        },
+        {
+          "rank": 3,
+          "title": "Conselho do FGTS aprova distribuição de R$ 13 bi entre trabalhadores. Calcule quanto vai para sua conta",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/conselho-do-fgts-aprova-distribuicao-de-r-13-bi-entre-trabalhadores-calcule-quanto-vai-para-sua-conta.ghtml"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+        },
+        {
+          "rank": 2,
           "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
           "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
-          "rank": 2,
-          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
-          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
-        },
-        {
           "rank": 3,
-          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
-          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
-        },
-        {
-          "rank": 4,
           "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
           "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
+          "rank": 4,
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
+        },
+        {
           "rank": 5,
-          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Netanyahu praises first meeting with Trump since launching the Iran war",
-          "url": "https://apnews.com/article/trump-netanyahu-meeting-iran-war-2d9ade01d2977dee5555f24daee30482"
+          "title": "Court panel declines to block Trump’s mail ballot order, but its status for midterms remains unclear",
+          "url": "https://apnews.com/article/trump-election-executive-order-mail-voting-5ed040e5055c82cf84545eba36a859d8"
         },
         {
           "rank": 5,
-          "title": "Court panel declines to block Trump’s mail ballot order, but its status for midterms remains unclear",
-          "url": "https://apnews.com/article/trump-election-executive-order-mail-voting-5ed040e5055c82cf84545eba36a859d8"
+          "title": "Netanyahu praises first meeting with Trump since launching the Iran war",
+          "url": "https://apnews.com/article/trump-netanyahu-meeting-iran-war-2d9ade01d2977dee5555f24daee30482"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 13:25",
+  "atualizado_em": "29/07/2026 13:31",
   "portais": [
     {
       "portal": "Folha",
@@ -76,18 +76,18 @@
         },
         {
           "rank": 2,
-          "title": "Lito Sousa recebe alta após diagnóstico de câncer e inflamação",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-recebe-alta-apos-diagnostico-de-cancer-e-inflamacao/"
-        },
-        {
-          "rank": 3,
           "title": "São Paulo entra em alerta para ventos de até 90 km/h com frente fria",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-entra-em-alerta-para-ventos-de-ate-90-km-h-com-frente-fria/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Atlas/Bloomberg: Lula lidera todos os cenários de 2º turno",
           "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-bloomberg-lula-lidera-todos-os-cenarios-de-2o-turno/"
+        },
+        {
+          "rank": 4,
+          "title": "Lito Sousa recebe alta após diagnóstico de câncer e inflamação",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-recebe-alta-apos-diagnostico-de-cancer-e-inflamacao/"
         },
         {
           "rank": 5,
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "Ipsos-Ipec: Ciro Gomes lidera corrida pelo governo do Ceará com 43%",
-          "url": "https://www.metropoles.com/brasil/ipsos-ipec-ciro-gomes-lidera-corrida-pelo-governo-do-ceara-com-43"
+          "title": "Pais confessam ter matado recém-nascido no RJ: “Não queríamos o neném\".",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pais-confessam-ter-matado-recem-nascido-no-rj-nao-queriamos-o-nenem"
         },
         {
           "rank": 3,
-          "title": "Advogado é afastado de escritório famoso após ser filmado em traição.",
-          "url": "https://www.metropoles.com/mundo/advogado-e-afastado-de-escritorio-famoso-apos-ser-filmado-em-traicao"
+          "title": "Ipsos-Ipec: Ciro Gomes lidera corrida pelo governo do Ceará com 43%",
+          "url": "https://www.metropoles.com/brasil/ipsos-ipec-ciro-gomes-lidera-corrida-pelo-governo-do-ceara-com-43"
         }
       ],
       "erro": null

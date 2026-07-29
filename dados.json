@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 15:00",
+  "atualizado_em": "29/07/2026 15:06",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+        },
+        {
+          "rank": 4,
           "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
           "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
         },
         {
-          "rank": 4,
-          "title": "Pesquisa mostra como medidas do governo Trump aumentaram impunidade no mundo; veja mapas e gráficos",
-          "url": "https://www.estadao.com.br/internacional/pesquisa-mostra-como-medidas-do-governo-trump-aumentaram-impunidade-no-mundo-veja-mapas-e-graficos/"
-        },
-        {
           "rank": 5,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "A incrível história de como Jeff Bezos transformou uma startup de garagem na maior empresa do mundo",
+          "url": "https://www.estadao.com.br/economia/negocios/jeff-bezos-amazon-startup-garagem-maior-empresa-global/"
         }
       ],
       "erro": null

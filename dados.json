@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 00:18",
+  "atualizado_em": "29/07/2026 00:23",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
-        },
-        {
-          "rank": 3,
           "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
           "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
+          "rank": 3,
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
+        },
+        {
           "rank": 4,
-          "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
+          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
         },
         {
           "rank": 5,
-          "title": "Polêmica faz Globo reeditar cenas de ‘Quem Ama Cuida’; entenda o motivo",
-          "url": "https://www.estadao.com.br/emais/tv/polemica-faz-globo-reeditar-cenas-de-quem-ama-cuida-entenda-o-motivo-nprec/"
+          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
+          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe’s UEFA",
-          "url": "https://apnews.com/article/world-cup-fifa-investors-kushner-infantino-uefa-8345e0864e3a217632733810c232b423"
+          "title": "US walks out on France at UN meeting to protest ally’s criticism of America’s human rights record",
+          "url": "https://apnews.com/article/un-us-france-human-rights-walkout-bbca1f1381a40aa2870889fd8fa99442"
         },
         {
           "rank": 5,
-          "title": "US walks out on France at UN meeting to protest ally’s criticism of America’s human rights record",
-          "url": "https://apnews.com/article/un-us-france-human-rights-walkout-bbca1f1381a40aa2870889fd8fa99442"
+          "title": "US military says it has thwarted an Iranian missile attack on American troops",
+          "url": "https://apnews.com/live/trump-netanyahu-iran-news-updates-07-28-2026"
         }
       ],
       "erro": null

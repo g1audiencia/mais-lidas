@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 14:04",
+  "atualizado_em": "29/07/2026 14:10",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
-        },
-        {
-          "rank": 3,
-          "title": "Defesa deve dizer ao STF que Bolsonaro não sabia do vídeo com IA exibido pela campanha de Flávio",
-          "url": "https://www.estadao.com.br/politica/defesa-de-bolsonaro-deve-dizer-ao-stf-que-nao-sabia-do-video-com-ia-exibido-pela-campanha-de-flavio/"
-        },
-        {
-          "rank": 4,
           "title": "Menos mestrados, mais doutorados e busca por faculdades privadas: o que mudou na pós-graduação",
           "url": "https://www.estadao.com.br/educacao/menos-mestrados-mais-doutorados-e-busca-por-faculdades-privadas-o-que-mudou-na-pos-graduacao/"
         },
         {
+          "rank": 3,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
+          "rank": 4,
+          "title": "Defesa deve dizer ao STF que Bolsonaro não sabia do vídeo com IA exibido pela campanha de Flávio",
+          "url": "https://www.estadao.com.br/politica/defesa-de-bolsonaro-deve-dizer-ao-stf-que-nao-sabia-do-video-com-ia-exibido-pela-campanha-de-flavio/"
+        },
+        {
           "rank": 5,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
+          "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         }
       ],
       "erro": null

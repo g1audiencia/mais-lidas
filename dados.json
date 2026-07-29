@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 13:59",
+  "atualizado_em": "29/07/2026 14:04",
   "portais": [
     {
       "portal": "Folha",
@@ -71,13 +71,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Tornado gigante devasta Giruá, no RS; prefeitura fala em feridos",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/tornado-gigante-devasta-girua-no-rs-prefeitura-fala-em-feridos/"
+          "title": "Lito Sousa recebe alta após diagnóstico de câncer e inflamação",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-recebe-alta-apos-diagnostico-de-cancer-e-inflamacao/"
         },
         {
           "rank": 2,
-          "title": "Lito Sousa recebe alta após diagnóstico de câncer e inflamação",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-recebe-alta-apos-diagnostico-de-cancer-e-inflamacao/"
+          "title": "Tornado gigante devasta Giruá, no RS; prefeitura fala em feridos",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/tornado-gigante-devasta-girua-no-rs-prefeitura-fala-em-feridos/"
         },
         {
           "rank": 3,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
-        },
-        {
-          "rank": 3,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
-        },
-        {
-          "rank": 4,
           "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
           "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Defesa deve dizer ao STF que Bolsonaro não sabia do vídeo com IA exibido pela campanha de Flávio",
+          "url": "https://www.estadao.com.br/politica/defesa-de-bolsonaro-deve-dizer-ao-stf-que-nao-sabia-do-video-com-ia-exibido-pela-campanha-de-flavio/"
+        },
+        {
+          "rank": 4,
           "title": "Menos mestrados, mais doutorados e busca por faculdades privadas: o que mudou na pós-graduação",
           "url": "https://www.estadao.com.br/educacao/menos-mestrados-mais-doutorados-e-busca-por-faculdades-privadas-o-que-mudou-na-pos-graduacao/"
+        },
+        {
+          "rank": 5,
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         }
       ],
       "erro": null
@@ -241,7 +241,7 @@
         },
         {
           "rank": 5,
-          "title": "Dr. Fauci repeatedly invokes Fifth Amendment in Republican-led COVID-19 Senate hearing",
+          "title": "Senate plans vote to hold Fauci in contempt for refusing to answer COVID-19 questions",
           "url": "https://apnews.com/live/trump-news-updates-07-29-2026"
         }
       ],

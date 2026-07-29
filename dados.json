@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 09:05",
+  "atualizado_em": "29/07/2026 09:10",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "EUA vão prorrogar sobretaxa aplicada ao Brasil desde julho de 2025; medida não tem efeito prático",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/governo-trump-vai-prorrogar-por-mais-um-ano-sancoes-aplicadas-ao-brasil-desde-julho-de-2025.ghtml"
-        },
-        {
-          "rank": 3,
-          "title": "FGTS aprova distribuição de lucro de R$ 13 bi a trabalhadores. Veja na calculadora quanto vai para sua conta",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/conselho-do-fgts-aprova-distribuicao-de-r-13-bi-entre-trabalhadores-calcule-quanto-vai-para-sua-conta.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Cobertura de luxo em que Elize Matsunaga matou o marido está à venda por R$ 2,8 milhões em SP; fotos",
           "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/07/cobertura-de-luxo-em-que-elize-matsunaga-matou-o-marido-esta-a-venda-por-r-28-milhoes-em-sp-fotos.ghtml"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Quem é a influencer que revelou suposto xaveco de Davi Brito após anúncio de casamento: 'Mandando mensagem?'",
           "url": "https://oglobo.globo.com/cultura/noticia/2026/07/29/quem-e-a-influencer-que-revelou-suposto-xaveco-de-davi-brito-apos-anuncio-de-casamento-mandando-mensagem.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "EUA vão prorrogar sobretaxa aplicada ao Brasil desde julho de 2025; medida não tem efeito prático",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/governo-trump-vai-prorrogar-por-mais-um-ano-sancoes-aplicadas-ao-brasil-desde-julho-de-2025.ghtml"
+        },
+        {
+          "rank": 5,
+          "title": "FGTS aprova distribuição de lucro de R$ 13 bi a trabalhadores. Veja na calculadora quanto vai para sua conta",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/conselho-do-fgts-aprova-distribuicao-de-r-13-bi-entre-trabalhadores-calcule-quanto-vai-para-sua-conta.ghtml"
         }
       ],
       "erro": null
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Ameaças vazias de Mamdani contra Netanyahu são uma perda de tempo",
-          "url": "https://www.estadao.com.br/internacional/ameacas-vazias-de-mamdani-contra-netanyahu-sao-uma-perda-de-tempo/"
+          "title": "A degradação da relação Brasil-Argentina",
+          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
-          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
-        },
-        {
-          "rank": 2,
           "title": "El trágico fin de la viuda negra del Ford Ka, un gato en fuga y el custodio enamorado",
           "url": "https://www.clarin.com/policiales/tragico-fin-viuda-negra-ford-ka-gato-fuga-custodio-enamorado_0_1VKGeOhtT4.html"
         },
         {
-          "rank": 3,
-          "title": "En medio de la tragedia, así están las Cataratas del Iguazú que registran una crecida histórica: hay advertencia de tormentas severas",
-          "url": "https://www.clarin.com/sociedad/medio-tragedia-cataratas-iguazu-registran-crecida-historica-advertencia-tormentas-severas_0_s4lEwTiH1W.html"
+          "rank": 2,
+          "title": "Después de París y Roma, el destino europeo que está en boca de todos",
+          "url": "https://www.clarin.com/viajes/despues-paris-roma-destino-europeo-boca_0_Ko8GZ8lMAE.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
           "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
         },
         {
+          "rank": 4,
+          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
+          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
+        },
+        {
           "rank": 5,
-          "title": "Las vacaciones de la Scaloneta: de Messi en el pago, pasando por las aventuras del Dibu a Lautaro, Tagliafico y Paredes en playas paradisíacas",
-          "url": "https://www.clarin.com/deportes/vacaciones-scaloneta-messi-pago-pasando-aventuras-dibu-lautaro-tagliafico-paredes-playas-paradisiacas_0_JZKmvBr5z1.html"
+          "title": "En medio de la tragedia, así están las Cataratas del Iguazú que registran una crecida histórica: hay advertencia de tormentas severas",
+          "url": "https://www.clarin.com/sociedad/medio-tragedia-cataratas-iguazu-registran-crecida-historica-advertencia-tormentas-severas_0_s4lEwTiH1W.html"
         }
       ],
       "erro": null

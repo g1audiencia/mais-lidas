@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 15:33",
+  "atualizado_em": "29/07/2026 15:39",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Menos mestrados, mais doutorados e busca por faculdades privadas: o que mudou na pós-graduação",
-          "url": "https://www.estadao.com.br/educacao/menos-mestrados-mais-doutorados-e-busca-por-faculdades-privadas-o-que-mudou-na-pos-graduacao/"
-        },
-        {
-          "rank": 2,
           "title": "Itaú muda regras de cartões Mastercard e Visa; veja os impactados e novidades em pontos e salas VIP",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/embargo-ate-amanha-as-9h-itau-muda-regras-de-cartoes-mastercard-black-e-visa-infinite-do-uniclass/"
         },
         {
+          "rank": 2,
+          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
+          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
+        },
+        {
           "rank": 3,
-          "title": "Republicanos indica que Cleitinho não vai disputar governo de Minas Gerais",
-          "url": "https://www.estadao.com.br/politica/republicanos-indica-que-cleitinho-nao-vai-disputar-o-governo-de-minas-gerais-nprp/"
+          "title": "Menos mestrados, mais doutorados e busca por faculdades privadas: o que mudou na pós-graduação",
+          "url": "https://www.estadao.com.br/educacao/menos-mestrados-mais-doutorados-e-busca-por-faculdades-privadas-o-que-mudou-na-pos-graduacao/"
         },
         {
           "rank": 4,
-          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
-          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
           "rank": 5,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Después de París y Roma, el destino europeo que está en boca de todos",
-          "url": "https://www.clarin.com/viajes/despues-paris-roma-destino-europeo-boca_0_Ko8GZ8lMAE.html"
+          "title": "El trágico fin de la viuda negra del Ford Ka, un gato en fuga y el custodio enamorado",
+          "url": "https://www.clarin.com/policiales/tragico-fin-viuda-negra-ford-ka-gato-fuga-custodio-enamorado_0_1VKGeOhtT4.html"
         },
         {
           "rank": 5,
-          "title": "El trágico fin de la viuda negra del Ford Ka, un gato en fuga y el custodio enamorado",
-          "url": "https://www.clarin.com/policiales/tragico-fin-viuda-negra-ford-ka-gato-fuga-custodio-enamorado_0_1VKGeOhtT4.html"
+          "title": "Después de París y Roma, el destino europeo que está en boca de todos",
+          "url": "https://www.clarin.com/viajes/despues-paris-roma-destino-europeo-boca_0_Ko8GZ8lMAE.html"
         }
       ],
       "erro": null

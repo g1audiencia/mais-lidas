@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 15:39",
+  "atualizado_em": "29/07/2026 15:44",
   "portais": [
     {
       "portal": "Folha",
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Josias de Souza: Moraes cutuca Nunes Marques em despacho",
-          "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/07/29/moraes-cutuca-nunes-marques-em-despacho-sobre-bolsonaro.htm"
+          "title": "Hiraoka: Entrevista de Susana Vieira para Bial prova que novelas perderam relevância",
+          "url": "https://www.uol.com.br/splash/colunas/ricky-hiraoka/2026/07/29/entrevista-de-susana-vieira-para-bial-prova-que-novelas-perderam-relevancia.htm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
-          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Menos mestrados, mais doutorados e busca por faculdades privadas: o que mudou na pós-graduação",
           "url": "https://www.estadao.com.br/educacao/menos-mestrados-mais-doutorados-e-busca-por-faculdades-privadas-o-que-mudou-na-pos-graduacao/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
         },
         {
+          "rank": 4,
+          "title": "Policial atira e mata suspeito após dois assaltos em sequência na região do Pacaembu",
+          "url": "https://www.estadao.com.br/sao-paulo/policial-atira-em-suspeito-apos-dois-assaltos-seguidos-na-regiao-do-pacaembu-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
         }
       ],
       "erro": null

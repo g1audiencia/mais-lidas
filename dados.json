@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 06:19",
+  "atualizado_em": "29/07/2026 06:24",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
+        },
+        {
+          "rank": 3,
           "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
           "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
-          "rank": 3,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
-        },
-        {
           "rank": 4,
-          "title": "Gol contra do Corinthians",
-          "url": "https://www.estadao.com.br/opiniao/gol-contra-do-corinthians/"
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
         },
         {
           "rank": 5,
-          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
-          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         }
       ],
       "erro": null
@@ -209,7 +209,7 @@
         },
         {
           "rank": 5,
-          "title": "Conta em Dia: consulta aos valores do lucro estará disponível no aplicativo FGTS",
+          "title": "Conta em Dia: Consulta aos valores do lucro estará disponível no aplicativo FGTS",
           "url": "https://noticias.r7.com/prisma/conta-em-dia/consulta-aos-valores-do-lucro-estara-disponivel-no-aplicativo-fgts-veja-como-calcular-28072026/"
         }
       ],
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
+          "title": "US walks out of UN Security Council meeting during France's remarks",
+          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
         },
         {
           "rank": 3,
-          "title": "US walks out of UN Security Council meeting during France's remarks",
-          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "url": "https://www.bbc.com/news/articles/crk52jk0131o"
+          "title": "OpenAI says its rogue AI tried to hack other companies",
+          "url": "https://www.bbc.com/news/articles/c2el319vzr3o"
         }
       ],
       "erro": null

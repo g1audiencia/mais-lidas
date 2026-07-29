@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 11:13",
+  "atualizado_em": "29/07/2026 11:19",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Justiça do Ceará arquiva caso em que David Luiz era acusado de ameaça e perseguição contra mulher",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/justica-do-ceara-arquiva-caso-em-que-david-luiz-era-acusado-de-ameaca-e-perseguicao-contra-mulher.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Equipes correm para localizar desaparecidos em shopping que explodiu em terremoto no Japão; veja vídeo",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/equipes-correm-para-localizar-desaparecidos-em-shopping-que-explodiu-em-terremoto-no-japao-veja-video.shtml"
         },
         {
+          "rank": 4,
+          "title": "Justiça do Ceará arquiva caso em que David Luiz era acusado de ameaça e perseguição contra mulher",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/justica-do-ceara-arquiva-caso-em-que-david-luiz-era-acusado-de-ameaca-e-perseguicao-contra-mulher.shtml"
+        },
+        {
           "rank": 5,
-          "title": "BTS desiste do Grammy 2027 e critica divisão da música por idioma",
-          "url": "https://f5.folha.uol.com.br/musica/2026/07/bts-desiste-do-grammy-2027-e-critica-divisao-da-musica-por-idioma.shtml"
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 01:19",
+  "atualizado_em": "29/07/2026 01:25",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Conselho do FGTS aprova distribuição de lucro de R$ 13 bi aos trabalhadores",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/conselho-do-fgts-aprova-distribuicao-de-lucro-de-r-13-bi-aos-trabalhadores/"
+          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
+          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
         },
         {
           "rank": 5,
-          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
-          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
+          "title": "Conselho do FGTS aprova distribuição de lucro de R$ 13 bi aos trabalhadores",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/conselho-do-fgts-aprova-distribuicao-de-lucro-de-r-13-bi-aos-trabalhadores/"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
-          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
-        },
-        {
-          "rank": 4,
           "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
           "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
+          "rank": 4,
+          "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
+          "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
+        },
+        {
           "rank": 5,
-          "title": "Flávio Bolsonaro apresenta esclarecimentos por escrito em inquérito e nega calúnia contra Lula",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-decide-nao-prestar-depoimento-a-pf-e-apresenta-esclarecimentos-por-escrito/"
+          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
+          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
         }
       ],
       "erro": null

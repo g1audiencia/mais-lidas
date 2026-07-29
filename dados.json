@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 11:41",
+  "atualizado_em": "29/07/2026 11:46",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+        },
+        {
+          "rank": 4,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
-          "rank": 4,
-          "title": "QG de Flávio desdenha da tese de voto útil de Caiado e recusa ‘convite para dançar’",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/qg-de-flavio-desdenha-da-tese-de-voto-util-de-caiado-e-recusa-convite-para-dancar/"
-        },
-        {
           "rank": 5,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
         }
       ],
       "erro": null
@@ -194,7 +194,7 @@
         },
         {
           "rank": 2,
-          "title": "Cosme: ‘Meu momento na seleção já foi. Não quero mais!’, diz Neymar",
+          "title": "Cosme: ‘Meu momento na seleção já foi. Não quero mais!’, declara Neymar",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/meu-momento-na-selecao-ja-foi-fiz-historia-nao-quero-mais-neymar-e-direto-matou-a-esperanca-que-lucas-moura-mostrou-no-esporte-record-29072026/"
         },
         {
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
+          "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
+          "url": "https://www.bbc.com/news/articles/clyjgyd0225o"
         },
         {
           "rank": 5,
-          "title": "US walks out of UN Security Council meeting during France's remarks",
-          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
+          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
         }
       ],
       "erro": null

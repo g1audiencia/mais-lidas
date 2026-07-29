@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 06:30",
+  "atualizado_em": "29/07/2026 06:36",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
+          "title": "Assessor de padre Júlio Lancellotti é réu por falsidade ideológica e comanda instituto que recebeu R$ 500 mil",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/assessor-de-padre-julio-lancellotti-e-reu-por-falsidade-ideologica-e-comanda-instituto-que-recebeu-r-500-mil.shtml"
         },
         {
           "rank": 2,
-          "title": "Assessor de padre Júlio Lancellotti é réu por falsidade ideológica e comanda instituto que recebeu R$ 500 mil",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/assessor-de-padre-julio-lancellotti-e-reu-por-falsidade-ideologica-e-comanda-instituto-que-recebeu-r-500-mil.shtml"
+          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
         },
         {
           "rank": 3,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
-        },
-        {
-          "rank": 3,
           "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
           "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
+          "rank": 3,
+          "title": "Até quando uma pessoa idosa pode dirigir um automóvel com segurança?",
+          "url": "https://www.estadao.com.br/pulsa/milton-crenitte/ate-quando-uma-pessoa-idosa-pode-dirigir-um-automovel-com-seguranca/"
+        },
+        {
           "rank": 4,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
           "rank": 5,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
         }
       ],
       "erro": null

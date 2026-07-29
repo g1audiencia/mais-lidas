@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 05:02",
+  "atualizado_em": "29/07/2026 05:07",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Por que eles estão desistindo de trabalhar de qualquer lugar do mundo como nômades digitais",
-          "url": "https://www.estadao.com.br/economia/por-que-eles-estao-desistindo-de-trabalhar-de-qualquer-lugar-do-mundo-como-nomades-digitais/"
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
           "rank": 3,
-          "title": "Fórum dos Leitores",
-          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-29-7-2026/"
-        },
-        {
-          "rank": 4,
           "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
           "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
+          "rank": 4,
+          "title": "Mendonça autorizou cooperação internacional para rastrear bens de Daniel Vorcaro",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-cooperacao-internacional-para-rastrear-bens-de-daniel-vorcaro/"
+        },
+        {
           "rank": 5,
-          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
+          "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
+          "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Tiene 16 años y es guardavidas: rescató a un nene de 10 de un fuerte oleaje y ahora Trump le dará una importante distinción",
-          "url": "https://www.clarin.com/mundo/16-anos-guardavidas-rescato-nene-10-fuerte-oleaje-ahora-trump-dara-importante-distincion_0_XTNRZ7JAu6.html"
+          "title": "Quién es la joven dentista que heredaría cerca de 100 millones de dólares del patrimonio de Jeffrey Epstein",
+          "url": "https://www.clarin.com/internacional/joven-dentista-heredaria-cerca-100-millones-dolares-patrimonio-jeffrey-epstein_0_3sqaQSN5PQ.html"
         },
         {
           "rank": 5,
-          "title": "Está prófuga por una millonaria estafa que derivó en una muerte y renovó su DNI sin que nadie la detenga",
-          "url": "https://www.clarin.com/policiales/profuga-millonaria-estafa-derivo-muerte-renovo-dni-nadie-detenga_0_IetzRCwWHC.html"
+          "title": "Tiene 16 años y es guardavidas: rescató a un nene de 10 de un fuerte oleaje y ahora Trump le dará una importante distinción",
+          "url": "https://www.clarin.com/mundo/16-anos-guardavidas-rescato-nene-10-fuerte-oleaje-ahora-trump-dara-importante-distincion_0_XTNRZ7JAu6.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 22:43",
+  "atualizado_em": "28/07/2026 22:49",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Entenda quando será a distribuição do lucro do FGTS e veja quem recebe",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-decide-distribuicao-do-lucro-do-fgts-nesta-terca-28-veja-quem-recebe-e-quando-o-valor-sera-pago.shtml"
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         },
         {
           "rank": 5,
-          "title": "Ex-genro de Ana Maria Braga pede compaixão em meio a polêmica envolvendo separação",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/ex-genro-de-ana-maria-braga-pede-por-compaixao-em-meio-a-polemica-envolvendo-separacao.shtml"
+          "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         }
       ],
       "erro": null
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Terremoto de magnitude 7,1 atinge Sul do Japão e gera alerta de tsunami",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-71-atinge-japao-e-gera-alerta-de-tsunami/"
+          "title": "Conselho do FGTS aprova distribuição de lucro de R$ 13 bi aos trabalhadores",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/conselho-do-fgts-aprova-distribuicao-de-lucro-de-r-13-bi-aos-trabalhadores/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
-        },
-        {
-          "rank": 2,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA usado por Flávio e",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
-        },
-        {
-          "rank": 3,
           "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
           "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+        },
+        {
+          "rank": 3,
           "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
           "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
         },
         {
+          "rank": 4,
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA usado por Flávio e",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+        },
+        {
           "rank": 5,
-          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         }
       ],
       "erro": null

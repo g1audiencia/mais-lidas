@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 10:12",
+  "atualizado_em": "29/07/2026 10:17",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Neymar anuncia que não joga mais pela seleção: 'Acho que não quero mais'",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/neymar-anuncia-que-nao-joga-mais-pela-selecao-acho-que-nao-quero-mais.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Lucro do FGTS pode ser usado para abater dívida da casa própria; veja se vale a pena e tire dúvidas",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/lucro-do-fgts-pode-ser-usado-para-abater-divida-da-casa-propria-veja-se-vale-a-pena-e-tire-duvidas.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "'Não faremos promessas vazias': Portuguesa divulga carta à torcida após queda na Série D",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/nao-faremos-promessas-vazias-portuguesa-divulga-carta-a-torcida-apos-queda-na-serie-d.shtml"
         }
       ],
       "erro": null
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Casagrande: Houve sacanagem com o Neymar; querem fazer dele um vilão",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/sacanagem-com-o-neymar-querem-fazer-dele-um-vilao-diz-casagrande.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Mulher dá tapa em PM, leva soco no rosto e cai no chão com bebê em SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/28/ocorrencia-pm-sorocaba-sp-julho-2026.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ana Castela aparece de biquíni brazilcore na beira da piscina",
           "url": "https://www.uol.com.br/flash/?c=5f3fe3d8e0aafdb7215d05ce599b6220260728"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "José Fucs: Ruídos à parte, Milei falou o que estava engasgado em muitos brasileiros",
           "url": "https://noticias.uol.com.br/colunas/jose-fucs/2026/07/29/ruidos-a-parte-milei-falou-o-que-estava-engasgado-em-muitos-brasileiros.htm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Genial/Quaest: Marina e Tebet lideram para o Senado em SP",
           "url": "https://noticias.uol.com.br/eleicoes/2026/07/29/genialquaest-senado-sp.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Atlas/Bloomberg: Lula tem 49,2% contra 42,9% de Flávio no 2º turno",
-          "url": "https://www.uol.com.br/flash/?c=743cd368426e827e898857cb1c4346b20260728"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Por que Milei pode sair da Argentina e xingar o Brasil sem maiores consequências? Entenda",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/por-que-milei-pode-sair-da-argentina-e-xingar-o-brasil-sem-maiores-consequencias-entenda/"
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
           "rank": 4,
-          "title": "Lula tem 49,2% e Flávio Bolsonaro registra 42,9% no segundo turno, aponta pesquisa Atlas",
-          "url": "https://www.estadao.com.br/politica/lula-tem-492-e-flavio-bolsonaro-registra-429-no-segundo-turno-aponta-pesquisa-atlas/"
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         },
         {
           "rank": 5,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+          "title": "Itaú muda regras de cartões Mastercard e Visa; veja os afetados e novidades em pontos e salas VIP",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/embargo-ate-amanha-as-9h-itau-muda-regras-de-cartoes-mastercard-black-e-visa-infinite-do-uniclass/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 07:42",
+  "atualizado_em": "29/07/2026 07:47",
   "portais": [
     {
       "portal": "Folha",
@@ -12,18 +12,18 @@
         },
         {
           "rank": 2,
-          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Lula tem 49,2% e Flávio Bolsonaro registra 42,9% no segundo turno, aponta pesquisa Atlas",
-          "url": "https://www.estadao.com.br/politica/lula-tem-492-e-flavio-bolsonaro-registra-429-no-segundo-turno-aponta-pesquisa-atlas/"
-        },
-        {
-          "rank": 3,
           "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
           "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         },
         {
+          "rank": 3,
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+        },
+        {
           "rank": 4,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+          "title": "Lula tem 49,2% e Flávio Bolsonaro registra 42,9% no segundo turno, aponta pesquisa Atlas",
+          "url": "https://www.estadao.com.br/politica/lula-tem-492-e-flavio-bolsonaro-registra-429-no-segundo-turno-aponta-pesquisa-atlas/"
         },
         {
           "rank": 5,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
+          "title": "Fifa x Uefa: novo projeto de Infantino leva atrito entre as entidades a ponto crítico",
+          "url": "https://www.estadao.com.br/esportes/futebol/fifa-x-uefa-novo-projeto-de-infantino-leva-atrito-entre-as-entidades-a-ponto-critico/"
         }
       ],
       "erro": null

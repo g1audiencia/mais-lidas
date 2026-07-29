@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 01:08",
+  "atualizado_em": "29/07/2026 01:14",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Conselho do FGTS aprova distribuição de lucro de R$ 13 bi aos trabalhadores",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/conselho-do-fgts-aprova-distribuicao-de-lucro-de-r-13-bi-aos-trabalhadores/"
+          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
+          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
         },
         {
           "rank": 5,
-          "title": "Veja momento em que terremoto de 7,1 chacoalha sul do Japão",
-          "url": "https://www.cnnbrasil.com.br/internacional/veja-momento-em-que-terremoto-de-71-chacoalha-sul-do-japao/"
+          "title": "Conselho do FGTS aprova distribuição de lucro de R$ 13 bi aos trabalhadores",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/conselho-do-fgts-aprova-distribuicao-de-lucro-de-r-13-bi-aos-trabalhadores/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
-        },
-        {
-          "rank": 3,
           "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
           "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
+          "rank": 3,
+          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
+          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
+        },
+        {
           "rank": 4,
-          "title": "Por que eles estão desistindo de trabalhar de qualquer lugar do mundo como nômades digitais",
-          "url": "https://www.estadao.com.br/economia/por-que-eles-estao-desistindo-de-trabalhar-de-qualquer-lugar-do-mundo-como-nomades-digitais/"
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
           "rank": 5,
-          "title": "O promotor Gakiya deixou claro o que significa o modelo de El Salvador na Segurança: uma ditadura",
-          "url": "https://www.estadao.com.br/politica/marcelo-godoy/o-promotor-gakiya-deixou-claro-o-que-significa-o-modelo-de-el-salvador-na-seguranca-uma-ditadura/"
+          "title": "Flávio Bolsonaro apresenta esclarecimentos por escrito em inquérito e nega calúnia contra Lula",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-decide-nao-prestar-depoimento-a-pf-e-apresenta-esclarecimentos-por-escrito/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-          "url": "https://www.bbc.com/news/articles/crmrnxp4nllo"
+          "title": "My 10-day headache was terminal brain cancer",
+          "url": "https://www.bbc.com/news/articles/cgq502nj914o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 04:40",
+  "atualizado_em": "29/07/2026 04:45",
   "portais": [
     {
       "portal": "Folha",
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
-          "title": "EUA prorrogam por um ano emergência nacional contra o Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-prorroga-por-um-ano-emergencia-nacional-contra-o-brasil/"
-        },
-        {
-          "rank": 3,
           "title": "São Paulo entra em alerta para ventos de até 90 km/h com frente fria",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-entra-em-alerta-para-ventos-de-ate-90-km-h-com-frente-fria/"
         },
         {
+          "rank": 3,
+          "title": "EUA prorrogam por um ano emergência nacional contra o Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-prorroga-por-um-ano-emergencia-nacional-contra-o-brasil/"
+        },
+        {
           "rank": 4,
-          "title": "Moraes dá 48h para defesa esclarecer se Bolsonaro autorizou vídeo por IA",
-          "url": "https://www.cnnbrasil.com.br/politica/moraes-da-48h-para-defesa-esclarecer-se-bolsonaro-autorizou-video-por-ia/"
+          "title": "Michael B. Jordan reage à escolha de ator para viver filho de Pantera Negra",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/michael-b-jordan-reage-a-escolha-de-ator-para-viver-filho-de-pantera-negra/"
         },
         {
           "rank": 5,
-          "title": "Michael B. Jordan reage à escolha de ator para viver filho de Pantera Negra",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/michael-b-jordan-reage-a-escolha-de-ator-para-viver-filho-de-pantera-negra/"
+          "title": "Moraes dá 48h para defesa esclarecer se Bolsonaro autorizou vídeo por IA",
+          "url": "https://www.cnnbrasil.com.br/politica/moraes-da-48h-para-defesa-esclarecer-se-bolsonaro-autorizou-video-por-ia/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+        },
+        {
+          "rank": 2,
           "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
           "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+        },
+        {
+          "rank": 4,
           "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
           "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
         },
         {
-          "rank": 3,
-          "title": "O recado dos leilões vazios",
-          "url": "https://www.estadao.com.br/opiniao/o-recado-dos-leiloes-vazios/"
-        },
-        {
-          "rank": 4,
-          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
-          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
-        },
-        {
           "rank": 5,
-          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-          "url": "https://www.bbc.com/news/articles/crk52jk0131o"
+          "title": "Trump administration bans new Chinese humanoid robots",
+          "url": "https://www.bbc.com/news/articles/cp9e2ex3ekyo"
         },
         {
           "rank": 5,
-          "title": "Trump administration bans new Chinese humanoid robots",
-          "url": "https://www.bbc.com/news/articles/cp9e2ex3ekyo"
+          "title": "My 10-day headache was terminal brain cancer",
+          "url": "https://www.bbc.com/news/articles/cgq502nj914o"
         }
       ],
       "erro": null

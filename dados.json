@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 02:21",
+  "atualizado_em": "29/07/2026 02:26",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Floripa, Natal, Balneário Camboriú e mais: o que aconteceu com 5 cidades que engordaram suas praias",
-          "url": "https://www.estadao.com.br/brasil/floripa-natal-balneario-camboriu-e-mais-o-que-aconteceu-com-5-cidades-que-engordaram-suas-praias/"
-        },
-        {
-          "rank": 2,
-          "title": "Imagens sexualizadas de mulheres feitas com IA impulsionam publicidade irregular no Facebook",
-          "url": "https://www.estadao.com.br/estadao-verifica/imagens-sexualizadas-de-mulheres-feitas-com-ia-impulsionam-publicidade-irregular-no-facebook/"
-        },
-        {
-          "rank": 3,
-          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
-          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
-        },
-        {
-          "rank": 4,
           "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
           "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         },
         {
+          "rank": 2,
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
+        },
+        {
+          "rank": 3,
+          "title": "Brasil passa a ser o maior comprador de carros elétricos chineses no mundo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/brasil-passa-a-ser-o-maior-comprador-de-carros-eletricos-chineses-no-mundo/"
+        },
+        {
+          "rank": 4,
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+        },
+        {
           "rank": 5,
-          "title": "Um candidato nanico",
-          "url": "https://www.estadao.com.br/opiniao/um-candidato-nanico/"
+          "title": "Venezuela convoca embaixador iraniano após ‘declarações depreciativas e inapropriadas’",
+          "url": "https://www.estadao.com.br/internacional/venezuela-convoca-embaixador-iraniano-apos-declaracoes-depreciativas-e-inapropriadas-npr/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "My 10-day headache was terminal brain cancer",
-          "url": "https://www.bbc.com/news/articles/cgq502nj914o"
+          "title": "Four women accuse Jared Leto of criminal sexual conduct",
+          "url": "https://www.bbc.com/news/articles/cd7lg2nz2x2o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 21:15",
+  "atualizado_em": "28/07/2026 21:20",
   "portais": [
     {
       "portal": "Folha",
@@ -7,7 +7,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula cita SUS e provoca Trump em visita de diretor-geral da OMS ao Rio",
+          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
         },
         {
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Outro Canal: 'Quem Ama Cuida': Autores mudam história e Iuri passa a ser aliado de Adriana",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-autores-mudam-historia-e-iuri-passa-a-ser-aliado-de-adriana.shtml"
+          "title": "Entenda quando será a distribuição do lucro do FGTS e veja quem recebe",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-decide-distribuicao-do-lucro-do-fgts-nesta-terca-28-veja-quem-recebe-e-quando-o-valor-sera-pago.shtml"
         },
         {
           "rank": 5,
-          "title": "Entenda quando será a distribuição do lucro do FGTS e veja quem recebe",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-decide-distribuicao-do-lucro-do-fgts-nesta-terca-28-veja-quem-recebe-e-quando-o-valor-sera-pago.shtml"
+          "title": "Caixa vai pagar mais de R$ 13 bilhões de lucro do FGTS a trabalhadores; veja quanto irá receber",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-vai-pagar-mais-de-r-13-bilhoes-de-lucro-do-fgts-a-trabalhadores-veja-quanto-ira-receber.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         },
         {
           "rank": 4,
-          "title": "Floripa, Natal, Balneário Camboriú e mais: o que aconteceu com 5 cidades que engordaram suas praias",
-          "url": "https://www.estadao.com.br/brasil/floripa-natal-balneario-camboriu-e-mais-o-que-aconteceu-com-5-cidades-que-engordaram-suas-praias/"
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
           "rank": 5,
-          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
-          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
+          "title": "Polêmica faz Globo reeditar cenas de ‘Quem Ama Cuida’; entenda o motivo",
+          "url": "https://www.estadao.com.br/emais/tv/polemica-faz-globo-reeditar-cenas-de-quem-ama-cuida-entenda-o-motivo-nprec/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Iran launches 'attempted surprise attack' on US forces in Middle East",
+          "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
+        },
+        {
+          "rank": 4,
           "title": "Lindsey Graham remembered by Trump as 'giant of the US Senate' at funeral",
           "url": "https://www.bbc.com/news/articles/cwyj6xqn40lo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Pop star Madison Beer and NFL player Justin Herbert announce engagement",
           "url": "https://www.bbc.com/news/articles/czxq028q99go"
-        },
-        {
-          "rank": 5,
-          "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-          "url": "https://www.bbc.com/news/articles/cj4k2z8z45ro"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 04:06",
+  "atualizado_em": "29/07/2026 04:12",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
-          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
-        },
-        {
-          "rank": 2,
-          "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
-          "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
-        },
-        {
-          "rank": 3,
           "title": "A degradação da relação Brasil-Argentina",
           "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
         },
         {
+          "rank": 2,
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+        },
+        {
+          "rank": 3,
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
+        },
+        {
           "rank": 4,
-          "title": "Gol contra do Corinthians",
-          "url": "https://www.estadao.com.br/opiniao/gol-contra-do-corinthians/"
+          "title": "O recado dos leilões vazios",
+          "url": "https://www.estadao.com.br/opiniao/o-recado-dos-leiloes-vazios/"
         },
         {
           "rank": 5,
-          "title": "O recado dos leilões vazios",
-          "url": "https://www.estadao.com.br/opiniao/o-recado-dos-leiloes-vazios/"
+          "title": "Como o Brasil criou o Pix, o sistema de pagamento perfeito que está na mira dos EUA? Entenda",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-o-brasil-criou-o-pix-o-sistema-de-pagamento-perfeito-que-esta-na-mira-dos-eua-veja-no-video/"
         }
       ],
       "erro": null
@@ -209,7 +209,7 @@
         },
         {
           "rank": 5,
-          "title": "Consulta aos valores do lucro estará disponível no aplicativo FGTS; veja como calcular",
+          "title": "Consulta aos valores do lucro estará disponível no aplicativo FGTS",
           "url": "https://noticias.r7.com/prisma/conta-em-dia/consulta-aos-valores-do-lucro-estara-disponivel-no-aplicativo-fgts-veja-como-calcular-28072026/"
         }
       ],

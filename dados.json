@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 23:06",
+  "atualizado_em": "28/07/2026 23:11",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
-        },
-        {
-          "rank": 3,
-          "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
-          "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
-        },
-        {
-          "rank": 4,
           "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
           "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
+        },
+        {
+          "rank": 4,
           "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
           "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+        },
+        {
+          "rank": 5,
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
         }
       ],
       "erro": null

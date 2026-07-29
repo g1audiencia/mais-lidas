@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 06:41",
+  "atualizado_em": "29/07/2026 06:47",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
-          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
-        },
-        {
-          "rank": 2,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
-        },
-        {
-          "rank": 3,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
-        },
-        {
-          "rank": 4,
           "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
           "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
+          "rank": 2,
+          "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
+          "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
+        },
+        {
+          "rank": 3,
+          "title": "Fifa x Uefa: novo projeto de Infantino leva atrito entre as entidades a ponto crítico",
+          "url": "https://www.estadao.com.br/esportes/futebol/fifa-x-uefa-novo-projeto-de-infantino-leva-atrito-entre-as-entidades-a-ponto-critico/"
+        },
+        {
+          "rank": 4,
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+        },
+        {
           "rank": 5,
-          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
-          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
+          "title": "Modelagem 3D e realidade aumentada tornam possível separar gêmeos siameses antes inoperáveis",
+          "url": "https://www.estadao.com.br/pulsa/futuro-e-inovacao/modelagem-3d-e-realidade-aumentada-tornam-possivel-separar-gemeos-siameses-antes-inoperaveis/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Moraes dá 48h para defesa de Silveira explicar vídeo com Portinho",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/moraes-da-48h-para-defesa-de-silveira-explicar-video-com-portinho"
+          "title": "Chapa \"puro-sangue\" de Flávio ganha força na reta final das convenções",
+          "url": "https://www.metropoles.com/brasil/chapa-puro-sangue-de-flavio-ganha-forca-na-reta-final-das-convencoes"
         },
         {
           "rank": 2,
-          "title": "Glenda Kozlowski recebe corrente de apoio na web após expor internação",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/glenda-kozlowski-recebe-corrente-de-apoio-na-web-apos-expor-internacao"
+          "title": "Líder nas pesquisas, Cleitinho quer legislar sobre onde o iFood deixa o pedido",
+          "url": "https://www.metropoles.com/colunas/andreza-matais/lider-nas-pesquisas-cleitinho-quer-legislar-sobre-onde-o-ifood-deixa-o-pedido"
         },
         {
           "rank": 3,
-          "title": "Paulinho da Força é cotado para vaga de Derrite ao Senado",
-          "url": "https://www.metropoles.com/colunas/grande-angular/paulinho-da-forca-e-cotado-para-vaga-de-derrite-ao-senado"
+          "title": "Canetas emagrecedoras: Anvisa autoriza 5 novos medicamentos injetáveis à base de semaglutida",
+          "url": "https://www.metropoles.com/brasil/anvisa-autoriza-5-novos-medicamentos-injetaveis-a-base-de-semaglutida"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "US walks out of UN Security Council meeting during France's remarks",
-          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
-        },
-        {
-          "rank": 3,
           "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
           "url": "https://www.bbc.com/news/articles/c70g6y24d76o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
           "url": "https://www.bbc.com/news/articles/clyjgyd0225o"
+        },
+        {
+          "rank": 4,
+          "title": "US walks out of UN Security Council meeting during France's remarks",
+          "url": "https://www.bbc.com/news/articles/c87nj3w9gxjo"
         },
         {
           "rank": 5,

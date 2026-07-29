@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 08:15",
+  "atualizado_em": "29/07/2026 08:21",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
+          "title": "'Não faremos promessas vazias': Portuguesa divulga carta à torcida após queda na Série D",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/nao-faremos-promessas-vazias-portuguesa-divulga-carta-a-torcida-apos-queda-na-serie-d.shtml"
         },
         {
           "rank": 5,
-          "title": "'Não faremos promessas vazias': Portuguesa divulga carta à torcida após queda na Série D",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/nao-faremos-promessas-vazias-portuguesa-divulga-carta-a-torcida-apos-queda-na-serie-d.shtml"
+          "title": "O último voo da bunda da Xuxa",
+          "url": "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/07/o-ultimo-voo-da-bunda-da-xuxa.shtml"
         }
       ],
       "erro": null
@@ -103,17 +103,17 @@
       "items": [
         {
           "rank": 1,
-          "title": "EUA vão prorrogar sobretaxa aplicada ao Brasil desde julho de 2025; medida não tem efeito prático",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/governo-trump-vai-prorrogar-por-mais-um-ano-sancoes-aplicadas-ao-brasil-desde-julho-de-2025.ghtml"
-        },
-        {
-          "rank": 2,
           "title": "Em estado-chave, favorito relutante agora diz aceitar ‘missão’ e traz nova reviravolta para a 'corrida maluca' mineira",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/29/em-estado-chave-favorito-relutante-agora-diz-aceitar-missao-e-traz-nova-reviravolta-para-a-corrida-maluca-mineira.ghtml"
         },
         {
+          "rank": 2,
+          "title": "EUA vão prorrogar sobretaxa aplicada ao Brasil desde julho de 2025; medida não tem efeito prático",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/governo-trump-vai-prorrogar-por-mais-um-ano-sancoes-aplicadas-ao-brasil-desde-julho-de-2025.ghtml"
+        },
+        {
           "rank": 3,
-          "title": "Conselho do FGTS aprova distribuição de R$ 13 bi entre trabalhadores. Calcule quanto vai para sua conta",
+          "title": "FGTS aprova distribuição de lucro de R$ 13 bi a trabalhadores. Veja na calculadora quanto vai para sua conta",
           "url": "https://oglobo.globo.com/economia/noticia/2026/07/28/conselho-do-fgts-aprova-distribuicao-de-r-13-bi-entre-trabalhadores-calcule-quanto-vai-para-sua-conta.ghtml"
         },
         {
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
-          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
+          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
         },
         {
           "rank": 5,
-          "title": "Lula tem 49,2% e Flávio Bolsonaro registra 42,9% no segundo turno, aponta pesquisa Atlas",
-          "url": "https://www.estadao.com.br/politica/lula-tem-492-e-flavio-bolsonaro-registra-429-no-segundo-turno-aponta-pesquisa-atlas/"
+          "title": "Políticos propõem lei para \"desligar a IA\", enquanto militares querem usá-la para matar",
+          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/politicos-propoem-lei-para-desligar-a-ia-enquanto-militares-querem-usa-la-para-matar/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 05:46",
+  "atualizado_em": "29/07/2026 05:51",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
-        },
-        {
-          "rank": 2,
           "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
           "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
+          "rank": 2,
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+        },
+        {
           "rank": 3,
-          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
-          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
+          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
         },
         {
           "rank": 4,
-          "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
-          "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
+          "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
         },
         {
           "rank": 5,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+          "title": "Nvidia deve ser ‘fiadora’ de US$ 250 bi da OpenAI; mercado caiu 5% e tem razão em se preocupar",
+          "url": "https://www.estadao.com.br/economia/camila-farani/nvidia-deve-ser-fiadora-de-us-250-bi-da-openai-mercado-caiu-5-e-tem-razao-em-se-preocupar/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 07:53",
+  "atualizado_em": "29/07/2026 07:58",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
-          "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
-        },
-        {
-          "rank": 3,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
+          "rank": 3,
+          "title": "A degradação da relação Brasil-Argentina",
+          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
+        },
+        {
           "rank": 4,
-          "title": "Lula tem 49,2% e Flávio Bolsonaro registra 42,9% no segundo turno, aponta pesquisa Atlas",
-          "url": "https://www.estadao.com.br/politica/lula-tem-492-e-flavio-bolsonaro-registra-429-no-segundo-turno-aponta-pesquisa-atlas/"
+          "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
+          "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
           "rank": 5,
@@ -189,28 +189,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Corpo de menino desaparecido é encontrado em poça d'água no Paraná",
-          "url": "https://record.r7.com/balanco-geral/video/caso-joao-gabriel-corpo-de-menino-desaparecido-e-encontrado-em-poca-dagua-em-araucaria-pr-28072026/"
+          "title": "Mega-Sena acumula, e prêmio vai a R$ 86 milhões; veja os números",
+          "url": "https://noticias.r7.com/loterias/mega-sena-acumula-e-premio-vai-a-r-86-milhoes-veja-os-numeros-desta-terca-feira-29072026/"
         },
         {
           "rank": 2,
-          "title": "Nicola: Flamengo acena com proposta de R$ 204 milhões por Luiz Henrique",
-          "url": "https://esportes.r7.com/prisma/blog-do-nicola/flamengo-acena-com-oferta-de-r-204-milhoes-por-luiz-henrique-28072026/"
+          "title": "Delegado relata choque após prender casal por assassinato de recém-nascido",
+          "url": "https://noticias.r7.com/rio-de-janeiro/em-28-anos-de-policia-foi-o-fato-mais-alarmante-que-vi-diz-delegado-apos-prender-casal-por-assassinato-de-recem-nascido-28072026/"
         },
         {
           "rank": 3,
-          "title": "Cosme: CBF e Ancelotti querem auxiliar brasileiro de 'grande relevância'",
-          "url": "https://esportes.r7.com/prisma/cosme-rimoli/kaka-leonardo-cupula-da-cbf-e-ancelotti-avaliam-um-brasileiro-com-grande-relevancia-ser-auxiliar-na-vaga-do-filho-davide-que-foi-para-o-lille-28072026/"
+          "title": "STF cobra PGR após ausência de Flávio Bolsonaro em depoimento  na PF",
+          "url": "https://noticias.r7.com/brasilia/moraes-manda-pgr-se-manifestar-apos-flavio-bolsonaro-faltar-a-depoimento-na-pf-28072026/"
         },
         {
           "rank": 4,
-          "title": "Governo dos EUA prorroga emergência nacional sobre o Brasil",
-          "url": "https://noticias.r7.com/internacional/trump-prorrogara-emergencia-nacional-sobre-brasil-por-um-ano-28072026/"
+          "title": "VAR favoreceu Argentina na Copa com expulsão incorreta, diz IFAB",
+          "url": "https://esportes.r7.com/lance/var-errou-e-favoreceu-argentina-na-copa-com-expulsao-incorreta-aponta-ifab-28072026/"
         },
         {
           "rank": 5,
-          "title": "Conta em Dia: Consulta aos valores do lucro estará disponível no aplicativo FGTS",
-          "url": "https://noticias.r7.com/prisma/conta-em-dia/consulta-aos-valores-do-lucro-estara-disponivel-no-aplicativo-fgts-veja-como-calcular-28072026/"
+          "title": "Corpo de menino desaparecido é encontrado em poça d'água no Paraná",
+          "url": "https://record.r7.com/balanco-geral/video/caso-joao-gabriel-corpo-de-menino-desaparecido-e-encontrado-em-poca-dagua-em-araucaria-pr-28072026/"
         }
       ],
       "erro": null

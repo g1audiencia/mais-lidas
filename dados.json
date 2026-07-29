@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 03:44",
+  "atualizado_em": "29/07/2026 03:49",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Brasileira desaparecida na França é encontrada após quatro dias de buscas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/brasileira-desaparecida-na-franca-e-encontrada-apos-quatro-dias-de-buscas.shtml"
         },
         {
+          "rank": 3,
+          "title": "Lula cita SUS e provoca Trump em visita do diretor-geral da OMS ao Rio",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/lula-cita-o-sus-e-provoca-trump-em-visita-de-diretor-geral-da-oms-ao-rio.shtml"
+        },
+        {
           "rank": 4,
-          "title": "O último voo da bunda da Xuxa",
-          "url": "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/07/o-ultimo-voo-da-bunda-da-xuxa.shtml"
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         },
         {
           "rank": 5,
-          "title": "Outro Canal: 'Quem Ama Cuida': Autores mudam história e Iuri passa a ser aliado de Adriana",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-autores-mudam-historia-e-iuri-passa-a-ser-aliado-de-adriana.shtml"
+          "title": "O último voo da bunda da Xuxa",
+          "url": "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/07/o-ultimo-voo-da-bunda-da-xuxa.shtml"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Conheça Emily Araújo, esposa de Davi Brito, campeão do BBB 24",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/conheca-emily-araujo-nova-esposa-de-davi-brito-campeao-do-bbb-24/"
+          "title": "São Paulo entra em alerta para ventos de até 90 km/h com frente fria",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-entra-em-alerta-para-ventos-de-ate-90-km-h-com-frente-fria/"
         },
         {
           "rank": 5,
-          "title": "São Paulo entra em alerta para ventos de até 90 km/h com frente fria",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-entra-em-alerta-para-ventos-de-ate-90-km-h-com-frente-fria/"
+          "title": "EUA prorrogam por um ano emergência nacional contra o Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-prorroga-por-um-ano-emergencia-nacional-contra-o-brasil/"
         }
       ],
       "erro": null
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
-          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
-        },
-        {
-          "rank": 2,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
-        },
-        {
-          "rank": 3,
           "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
           "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
+          "rank": 2,
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
+        },
+        {
+          "rank": 3,
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+        },
+        {
           "rank": 4,
-          "title": "O recado dos leilões vazios",
-          "url": "https://www.estadao.com.br/opiniao/o-recado-dos-leiloes-vazios/"
+          "title": "‘The Fate of Ophelia’: O que a música de Taylor Swift tem a ver com Shakespeare? Entenda",
+          "url": "https://www.estadao.com.br/cultura/musica/the-fate-of-ophelia-o-que-a-musica-de-taylor-swift-tem-a-ver-com-shakespeare-entenda-nprec/"
         },
         {
           "rank": 5,

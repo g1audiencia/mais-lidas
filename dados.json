@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 23:50",
+  "atualizado_em": "28/07/2026 23:56",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
-          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
-        },
-        {
-          "rank": 2,
           "title": "Moraes dá 48h para Bolsonaro dizer se autorizou vídeo de IA e cita possível volta à prisão",
           "url": "https://www.estadao.com.br/politica/moraes-da-48h-para-defesa-de-bolsonaro-dizer-se-ele-deu-autorizacao-a-video-de-ia-da-convencao-do-pl/"
         },
         {
+          "rank": 2,
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
+        },
+        {
           "rank": 3,
+          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
+          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+        },
+        {
+          "rank": 4,
           "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
           "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Países europeus ameaçam boicotar Copa de 2030 se Fifa seguir com plano comercial",
           "url": "https://www.estadao.com.br/esportes/futebol/paises-europeus-ameacam-boicotar-copa-de-2030-se-fifa-seguir-com-plano-comercial/"
-        },
-        {
-          "rank": 5,
-          "title": "Planalto avalia que Trump e Milei fazem dobradinha para tumultuar eleições no Brasil e ajudar Flávio",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/planalto-avalia-que-trump-e-milei-fazem-dobradinha-para-tumultuar-eleicoes-no-brasil-e-ajudar-flavio/"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "Autorizan la venta libre de otras diez drogas y dejan de tener descuento para obras sociales y prepagas",
-          "url": "https://www.clarin.com/sociedad/autorizan-venta-libre-drogas-dejan-tener-descuento-farmacias_0_1AyXAnjEuE.html"
+          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
+          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
         },
         {
           "rank": 3,
-          "title": "Un turista holandés murió tras el vuelco de una lancha en las Cataratas del Iguazú",
-          "url": "https://www.clarin.com/sociedad/turista-holandes-murio-vuelco-lancha-cataratas-iguazu_0_m3KHQlxCz5.html"
+          "title": "Autorizan la venta libre de otras diez drogas y dejan de tener descuento para obras sociales y prepagas",
+          "url": "https://www.clarin.com/sociedad/autorizan-venta-libre-drogas-dejan-tener-descuento-farmacias_0_1AyXAnjEuE.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "\"Ese es el Dibu\": el increíble relato del hombre que \"salvó\" al arquero de la Selección tras un percance con su camioneta",
-          "url": "https://www.clarin.com/deportes/dibu-increible-relato-hombre-salvo-arquero-seleccion-percance-camioneta_0_Bwqil22mNi.html"
+          "title": "Un turista holandés murió tras el vuelco de una lancha en las Cataratas del Iguazú",
+          "url": "https://www.clarin.com/sociedad/turista-holandes-murio-vuelco-lancha-cataratas-iguazu_0_m3KHQlxCz5.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 07:58",
+  "atualizado_em": "29/07/2026 08:04",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
-        },
-        {
-          "rank": 2,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
-          "rank": 3,
-          "title": "A degradação da relação Brasil-Argentina",
-          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
           "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
         },
         {
+          "rank": 3,
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+        },
+        {
+          "rank": 4,
+          "title": "Comprar o Jeep Renegade agora ou esperar pelo Avenger?",
+          "url": "https://www.estadao.com.br/jornal-do-carro/comprar-o-jeep-renegade-agora-ou-esperar-pelo-avenger/"
+        },
+        {
           "rank": 5,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+          "title": "Cidade menos violenta do País fica em SP; veja ranking de municípios com menor taxa de assassinatos",
+          "url": "https://www.estadao.com.br/sao-paulo/a-cidade-menos-violenta-do-pais-fica-em-sp-veja-ranking-dos-municipios-com-menos-mortes/"
         }
       ],
       "erro": null

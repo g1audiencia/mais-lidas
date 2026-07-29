@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 11:58",
+  "atualizado_em": "29/07/2026 12:03",
   "portais": [
     {
       "portal": "Folha",
@@ -54,13 +54,13 @@
         },
         {
           "rank": 4,
-          "title": "José Fucs: Ruídos à parte, Milei falou o que estava engasgado em muitos brasileiros",
-          "url": "https://noticias.uol.com.br/colunas/jose-fucs/2026/07/29/ruidos-a-parte-milei-falou-o-que-estava-engasgado-em-muitos-brasileiros.htm"
+          "title": "Flávio lidera com 40% das intenções de voto no 2º turno em SP, e Lula é o 1º na BA, diz Quaest",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/29/genialquaest-lula-vs-flavio-na-ba-e-em-sp.ghtm"
         },
         {
           "rank": 5,
-          "title": "Genial/Quaest: Marina e Tebet lideram para o Senado em SP",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/07/29/genialquaest-senado-sp.ghtm"
+          "title": "José Fucs: Ruídos à parte, Milei falou o que estava engasgado em muitos brasileiros",
+          "url": "https://noticias.uol.com.br/colunas/jose-fucs/2026/07/29/ruidos-a-parte-milei-falou-o-que-estava-engasgado-em-muitos-brasileiros.htm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
-          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
-        },
-        {
-          "rank": 4,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
+          "rank": 4,
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
+        },
+        {
           "rank": 5,
-          "title": "A incrível história de como Jeff Bezos transformou uma startup de garagem na maior empresa do mundo",
-          "url": "https://www.estadao.com.br/economia/negocios/jeff-bezos-amazon-startup-garagem-maior-empresa-global/"
+          "title": "QG de Flávio desdenha da tese de voto útil de Caiado e recusa ‘convite para dançar’",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/qg-de-flavio-desdenha-da-tese-de-voto-util-de-caiado-e-recusa-convite-para-dancar/"
         }
       ],
       "erro": null

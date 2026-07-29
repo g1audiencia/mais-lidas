@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 04:01",
+  "atualizado_em": "29/07/2026 04:06",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Você está prestes a se aposentar. O que vai fazer nos próximos 20 ou 30 anos?",
-          "url": "https://www.estadao.com.br/economia/aposentadoria-preparacao-planos-futuro/"
-        },
-        {
-          "rank": 2,
           "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
           "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Trump prorrogará por um ano emergência nacional sobre Brasil usada para embasar tarifas",
           "url": "https://www.estadao.com.br/economia/trump-prorrogara-emergencia-nacional-brasil-tarifas/"
         },
         {
+          "rank": 3,
+          "title": "A degradação da relação Brasil-Argentina",
+          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
+        },
+        {
           "rank": 4,
-          "title": "Fim do trabalho em casa? Home office vira raridade na maioria das empresas brasileiras, diz pesquisa",
-          "url": "https://www.estadao.com.br/economia/fim-do-trabalho-em-casa-home-office-vira-raridade-na-maioria-das-empresas-brasileiras-diz-pesquisa/"
+          "title": "Gol contra do Corinthians",
+          "url": "https://www.estadao.com.br/opiniao/gol-contra-do-corinthians/"
         },
         {
           "rank": 5,
-          "title": "A degradação da relação Brasil-Argentina",
-          "url": "https://www.estadao.com.br/opiniao/a-degradacao-da-relacao-brasil-argentina/"
+          "title": "O recado dos leilões vazios",
+          "url": "https://www.estadao.com.br/opiniao/o-recado-dos-leiloes-vazios/"
         }
       ],
       "erro": null
@@ -204,12 +204,12 @@
         },
         {
           "rank": 4,
-          "title": "Governo dos Estados Unidos prorroga emergência nacional sobre o Brasil",
+          "title": "Governo dos EUA prorroga emergência nacional sobre o Brasil",
           "url": "https://noticias.r7.com/internacional/trump-prorrogara-emergencia-nacional-sobre-brasil-por-um-ano-28072026/"
         },
         {
           "rank": 5,
-          "title": "Consulta aos valores do lucro estará disponível no aplicativo FGTS",
+          "title": "Consulta aos valores do lucro estará disponível no aplicativo FGTS; veja como calcular",
           "url": "https://noticias.r7.com/prisma/conta-em-dia/consulta-aos-valores-do-lucro-estara-disponivel-no-aplicativo-fgts-veja-como-calcular-28072026/"
         }
       ],
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
-          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
+          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
+          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
         },
         {
           "rank": 2,
-          "title": "La FIFA respaldó la expulsión de Embolo ante Argentina y salió al cruce de la aclaración de la IFAB",
-          "url": "https://www.clarin.com/deportes/fifa-respaldo-expulsion-embolo-argentina-salio-cruce-aclaracion-ifab_0_vun0ohR2Ev.html"
+          "title": "Conmoción en Estados Unidos: un hombre mató a sus seis hijos de entre 5 y 15 años y a su esposa y se suicidó",
+          "url": "https://www.clarin.com/estados-unidos/conmocion-estados-unidos-hombre-mato-hijos-5-15-anos-esposa-suicido_0_uj3MvS0NY7.html"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Está prófuga por una millonaria estafa que derivó en una muerte y renovó su DNI sin que nadie la detenga",
-          "url": "https://www.clarin.com/policiales/profuga-millonaria-estafa-derivo-muerte-renovo-dni-nadie-detenga_0_IetzRCwWHC.html"
+          "title": "Tiene 16 años y es guardavidas: rescató a un nene de 10 de un fuerte oleaje y ahora Trump le dará una importante distinción",
+          "url": "https://www.clarin.com/mundo/16-anos-guardavidas-rescato-nene-10-fuerte-oleaje-ahora-trump-dara-importante-distincion_0_XTNRZ7JAu6.html"
         },
         {
           "rank": 5,
-          "title": "Palmeiras rechazó una impresionante oferta por el \"Flaco\" José López",
-          "url": "https://www.clarin.com/deportes/palmeiras-rechazo-impresionante-oferta-flaco-jose-lopez_0_tAyjGlCbsr.html"
+          "title": "Está prófuga por una millonaria estafa que derivó en una muerte y renovó su DNI sin que nadie la detenga",
+          "url": "https://www.clarin.com/policiales/profuga-millonaria-estafa-derivo-muerte-renovo-dni-nadie-detenga_0_IetzRCwWHC.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "29/07/2026 12:20",
+  "atualizado_em": "29/07/2026 12:25",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
-          "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
-        },
-        {
-          "rank": 2,
           "title": "Itaú muda regras de cartões Mastercard e Visa; veja os impactados e novidades em pontos e salas VIP",
           "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/embargo-ate-amanha-as-9h-itau-muda-regras-de-cartoes-mastercard-black-e-visa-infinite-do-uniclass/"
         },
         {
+          "rank": 2,
+          "title": "Ataque da Ucrânia a navio iraniano no Mar Cáspio pode aproximar as maiores guerras da atualidade",
+          "url": "https://www.estadao.com.br/internacional/ataque-da-ucrania-a-navio-iraniano-no-mar-caspio-pode-aproximar-as-maiores-guerras-da-atualidade/"
+        },
+        {
           "rank": 3,
+          "title": "Especialistas elegem os melhores cartões de crédito para alta renda, ultra renda e intermediários",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/especialistas-elegem-os-melhores-cartoes-de-credito-para-alta-renda-ultra-renda-e-intermediarios/"
+        },
+        {
+          "rank": 4,
           "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
           "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         },
         {
-          "rank": 4,
-          "title": "A incrível história de como Jeff Bezos transformou uma startup de garagem na maior empresa do mundo",
-          "url": "https://www.estadao.com.br/economia/negocios/jeff-bezos-amazon-startup-garagem-maior-empresa-global/"
-        },
-        {
           "rank": 5,
-          "title": "QG de Flávio desdenha da tese de voto útil de Caiado e recusa ‘convite para dançar’",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/qg-de-flavio-desdenha-da-tese-de-voto-util-de-caiado-e-recusa-convite-para-dancar/"
+          "title": "Genial/Quaest: Tarcísio lidera contra Haddad em cenários de 1º e 2º turno em SP",
+          "url": "https://www.estadao.com.br/politica/genialquaest-tarcisio-lidera-contra-haddad-em-cenarios-de-1-e-2-turno-em-sp/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Impactante rescate: intentan bajar de la montaña a más de cien turistas atrapados por un temporal de nieve que tapó sus camionetas",
-          "url": "https://www.clarin.com/sociedad/impactante-rescate-cien-turistas-quedaron-atrapados-temporal-nieve-tapo-camionetas-intentan-bajarlos-montana_0_DB9FFtr97Z.html"
+          "title": "El Gobierno designó a un abogado de empresas al frente del organismo que controla a los sindicatos",
+          "url": "https://www.clarin.com/politica/gobierno-designo-abogado-empresas-frente-organismo-controla-sindicatos_0_ccC8DYqE81.html"
         },
         {
           "rank": 5,
-          "title": "El Gobierno designó a un abogado de empresas al frente del organismo que controla a los sindicatos",
-          "url": "https://www.clarin.com/politica/gobierno-designo-abogado-empresas-frente-organismo-controla-sindicatos_0_ccC8DYqE81.html"
+          "title": "Impactante rescate: intentan bajar de la montaña a más de cien turistas atrapados por un temporal de nieve que tapó sus camionetas",
+          "url": "https://www.clarin.com/sociedad/impactante-rescate-cien-turistas-quedaron-atrapados-temporal-nieve-tapo-camionetas-intentan-bajarlos-montana_0_DB9FFtr97Z.html"
         }
       ],
       "erro": null

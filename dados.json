@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 19:47",
+  "atualizado_em": "30/07/2026 19:53",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
-          "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
+          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
+          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
         },
         {
           "rank": 3,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
-          "rank": 4,
           "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
           "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         },
         {
+          "rank": 4,
+          "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
+          "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
+        },
+        {
           "rank": 5,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
+          "title": "Qual o Estado mais caloteiro do Brasil?",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/qual-o-estado-mais-caloteiro-do-brasil/"
         }
       ],
       "erro": null
@@ -285,18 +285,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cientos de marroquíes cruzaron la frontera española en Ceuta y estalló una crisis humanitaria: al menos 16 muertos",
-          "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
-        },
-        {
-          "rank": 2,
           "title": "Impresionante choque en la autopista Rosario-Córdoba: una Toyota Hilux partida al medio y tres muertos",
           "url": "https://www.clarin.com/sociedad/impresionante-choque-autopista-rosario-cordoba-toyota-hilux-partida-medio-muertos_0_owXPBYBToI.html"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Un gobernador quiere poner peajes a los camiones que van a Vaca Muerta: argumenta que el tránsito pesado creció el 900% en sus rutas",
           "url": "https://www.clarin.com/politica/gobernador-quiere-poner-peajes-camiones-van-vaca-muerta-argumenta-transito-pesado-crecio-900-rutas_0_TDYvqJpeZe.html"
+        },
+        {
+          "rank": 3,
+          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
         },
         {
           "rank": 4,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 17:01",
+  "atualizado_em": "30/07/2026 17:06",
   "portais": [
     {
       "portal": "Folha",
@@ -54,13 +54,13 @@
         },
         {
           "rank": 4,
-          "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
+          "title": "Uefa anuncia boicote a torneios da Fifa após proposta de venda de ações",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/uefa-anuncia-boicote-a-torneios-da-fifa-apos-proposta-de-venda-de-acoes.ghtm"
         },
         {
           "rank": 5,
-          "title": "Uefa anuncia boicote a torneios da Fifa após proposta de venda de ações",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/uefa-anuncia-boicote-a-torneios-da-fifa-apos-proposta-de-venda-de-acoes.ghtm"
+          "title": "Charleaux: Lula não foi desrespeitoso ao falar sobre Guerra do Paraguai",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/30/charleaux-lula-nao-foi-desrespeitoso-ao-falar-sobre-guerra-do-paraguai.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
-          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
           "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
         },
         {
+          "rank": 3,
+          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
+          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
+        },
+        {
           "rank": 4,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+          "title": "Países da Europa anunciam boicote a torneios da Fifa até que plano de venda de ações seja revogado",
+          "url": "https://www.estadao.com.br/esportes/futebol/paises-da-europa-anunciam-boicote-a-torneios-da-fifa-ate-que-plano-de-venda-de-acoes-seja-revogado/"
         },
         {
           "rank": 5,
-          "title": "Países da Europa anunciam boicote a torneios da Fifa até que plano de venda de ações seja revogado",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-da-europa-anunciam-boicote-a-torneios-da-fifa-ate-que-plano-de-venda-de-acoes-seja-revogado/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 18:02",
+  "atualizado_em": "30/07/2026 18:08",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Congresso paraguaio repudia fala de Lula sobre guerra do Paraguai",
-          "url": "https://www.cnnbrasil.com.br/internacional/congresso-paraguaio-repudia-fala-de-lula-sobre-guerra-do-paraguai/"
+          "title": "Lula e Peña conversam e Paraguai convoca embaixador após fala sobre guerra",
+          "url": "https://www.cnnbrasil.com.br/blogs/luciana-taddeo/internacional/lula-e-pena-conversam-e-paraguai-convoca-embaixador-apos-fala-sobre-guerra/"
         },
         {
           "rank": 4,
-          "title": "Lula e Peña conversam e Paraguai convoca embaixador após fala sobre guerra",
-          "url": "https://www.cnnbrasil.com.br/blogs/luciana-taddeo/internacional/lula-e-pena-conversam-e-paraguai-convoca-embaixador-apos-fala-sobre-guerra/"
+          "title": "Congresso paraguaio repudia fala de Lula sobre guerra do Paraguai",
+          "url": "https://www.cnnbrasil.com.br/internacional/congresso-paraguaio-repudia-fala-de-lula-sobre-guerra-do-paraguai/"
         },
         {
           "rank": 5,
@@ -163,25 +163,9 @@
     },
     {
       "portal": "Metrópoles",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Tereza Cristina avisa aliados que aceitou ser vice de Flávio Bolsonaro",
-          "url": "https://www.metropoles.com/brasil/tereza-cristina-avisa-aliados-que-aceitou-ser-vice-de-flavio-bolsonaro"
-        },
-        {
-          "rank": 2,
-          "title": "Após fala de Lula sobre guerra, Paraguai convoca embaixador brasileiro",
-          "url": "https://www.metropoles.com/mundo/apos-fala-de-lula-sobre-guerra-paraguai-convoca-embaixador-brasileiro"
-        },
-        {
-          "rank": 3,
-          "title": "Corpo de fotógrafa que sumiu em trilha é encontrado após 5 dias de buscas no Paraná",
-          "url": "https://www.metropoles.com/brasil/corpo-de-fotografa-que-desapareceu-em-trilha-e-encontrado-no-parana"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "HTTPSConnectionPool(host='www.metropoles.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "portal": "R7",

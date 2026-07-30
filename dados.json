@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 14:15",
+  "atualizado_em": "30/07/2026 14:20",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Caixa paga R$ 13 bilhões de lucro do FGTS nesta sexta (31); calculadora mostra quanto irá receber",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-paga-r-13-bilhoes-de-lucro-do-fgts-nesta-sexta-31-calculadora-mostra-quanto-ira-receber.shtml"
         },
         {
+          "rank": 2,
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Francês é multado em R$ 2.400 após ser preso por lamber canudo de máquina de suco em Singapura",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/frances-e-multado-em-r-2400-apos-ser-preso-por-lamber-canudo-de-maquina-de-suco-em-singapura.shtml"
+          "title": "Saiba detalhes sobre casamento de Gabriel Medina e Isabella Arantes após 20 dias de noivado",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/saiba-detalhes-sobre-casamento-de-gabriel-medina-e-isabella-arantes-apos-20-dias-de-noivado.shtml"
         },
         {
           "rank": 4,
-          "title": "Saiba detalhes sobre casamento de Gabriel Medina e Isabella Arantes após 20 dias de noivado",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/saiba-detalhes-sobre-casamento-de-gabriel-medina-e-isabella-arantes-apos-20-dias-de-noivado.shtml"
+          "title": "Francês é multado em R$ 2.400 após ser preso por lamber canudo de máquina de suco em Singapura",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/frances-e-multado-em-r-2400-apos-ser-preso-por-lamber-canudo-de-maquina-de-suco-em-singapura.shtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
-          "rank": 2,
-          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
-          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
           "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
         },
         {
+          "rank": 2,
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+        },
+        {
+          "rank": 3,
+          "title": "O que esperar do Fiat Argo X? Seis pontos para entender o barulho em torno do modelo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-esperar-do-fiat-argo-x-seis-pontos-para-entender-o-barulho-em-torno-do-modelo/"
+        },
+        {
           "rank": 4,
-          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
-          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
+          "title": "Vitória x Palmeiras: CBF divulga áudios do VAR e árbitro em expulsão de Cacá",
+          "url": "https://www.estadao.com.br/esportes/futebol/vitoria-x-palmeiras-cbf-divulga-audios-do-var-e-arbitro-em-expulsao-de-caca/"
         },
         {
           "rank": 5,
-          "title": "Carolina Dieckmann emagreceu 8 quilos comendo uma vez ao dia. Jejum é seguro para mulheres 45+?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/carolina-dieckmann-emagreceu-8-quilos-comendo-uma-vez-ao-dia-jejum-e-seguro-para-mulheres-45/"
+          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
+          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
         }
       ],
       "erro": null

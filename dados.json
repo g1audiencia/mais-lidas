@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 10:32",
+  "atualizado_em": "30/07/2026 10:38",
   "portais": [
     {
       "portal": "Folha",
@@ -39,13 +39,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/vitoria-x-palmeiras-ex-arbitros-brasileirao.ghtm"
+          "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
         },
         {
           "rank": 2,
-          "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
+          "title": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/vitoria-x-palmeiras-ex-arbitros-brasileirao.ghtm"
         },
         {
           "rank": 3,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Milei assina decreto que prevê expulsão de estrangeiro que atacar argentinos",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/milei-assina-decreto-para-expulsar-estrangeiro-que-atacar-argentinos.ghtm"
+          "title": "Joelma alerta possíveis compradores da mansão de Ximbinha",
+          "url": "https://noticiasdatv.uol.com.br/noticia/celebridades/joelma-alerta-possiveis-compradores-da-mansao-de-ximbinha-serios-problemas-154635"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Prejuízo certo: usamos a estatística para provar como as bets sempre vencem (e você perde)",
-          "url": "https://www.estadao.com.br/ciencia/prejuizo-certo-usamos-a-estatistica-para-provar-como-as-bets-sempre-vencem-e-voce-perde/"
-        },
-        {
-          "rank": 2,
-          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
-        },
-        {
-          "rank": 3,
           "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
           "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
+          "rank": 2,
+          "title": "Prejuízo certo: usamos a estatística para provar como as bets sempre vencem (e você perde)",
+          "url": "https://www.estadao.com.br/ciencia/prejuizo-certo-usamos-a-estatistica-para-provar-como-as-bets-sempre-vencem-e-voce-perde/"
+        },
+        {
+          "rank": 3,
+          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
+        },
+        {
           "rank": 4,
-          "title": "O ataque dos ‘jabutis zumbis’",
-          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
+          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
+          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
         },
         {
           "rank": 5,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         }
       ],
       "erro": null

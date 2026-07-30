@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 19:14",
+  "atualizado_em": "30/07/2026 19:20",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF pede e Mendonça autoriza inquérito que põe Lulinha sob suspeita de tráfico de influência e cita gabinete presidencial",
+          "title": "Mendonça autoriza PF a investigar Lulinha sob suspeita de tráfico de influência",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-pede-para-investigar-lulinha-sob-suspeita-de-trafico-de-influencia-e-cita-gabinete-presidencial.shtml"
         },
         {
           "rank": 2,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Mulher morre após ter o intestino perfurado durante colonoscopia em hospital de SP",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/mulher-morre-apos-ter-o-intestino-perfurado-durante-colonoscopia-em-hospital-de-sp.shtml"
         },
         {
+          "rank": 3,
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Sicupira, filho de Lemann e Saggioro sabiam de fraudes na Americanas, diz juíza",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/sicupira-filho-de-lemann-e-saggioro-sabiam-de-fraudes-na-americanas-diz-juiza.shtml"
+          "title": "Advogado é flagrado traindo esposa em parque de Nova York e vê carreira entrar em crise",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/advogado-e-flagrado-traindo-esposa-em-parque-de-nova-york-e-ve-carreira-entrar-em-crise.shtml"
         },
         {
           "rank": 5,
-          "title": "Advogado é flagrado traindo esposa em parque de Nova York e vê carreira entrar em crise",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/advogado-e-flagrado-traindo-esposa-em-parque-de-nova-york-e-ve-carreira-entrar-em-crise.shtml"
+          "title": "Paraguai convoca embaixador brasileiro para entregar nota de repúdio após fala de Lula sobre guerra",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-convoca-embaixador-brasileiro-para-entregar-nota-de-repudio-apos-fala-de-lula-sobre-guerra.shtml"
         }
       ],
       "erro": null

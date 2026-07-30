@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 15:10",
+  "atualizado_em": "30/07/2026 15:16",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
+          "title": "Governo do Paraguai convoca embaixador brasileiro após fala de Lula",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/governo-do-paraguai-convoca-embaixador-brasileiro-apos-fala-de-lula.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Irã ataca duas bases militares dos EUA, destrói três jatos e deixa mortos",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/ira-ataca-duas-bases-militares-dos-eua-destroi-tres-jatos-e-deixa-mortos.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Likes nas redes: o que está por trás do decreto de Milei sobre estrangeiros",
           "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/30/likes-nas-redes-o-que-esta-por-tras-do-decreto-de-milei-sobre-estrangeiros.htm"
-        },
-        {
-          "rank": 5,
-          "title": "Policial é desarmado e morto pela filha após briga com a esposa em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/policial-e-morto-pela-filha-apos-ameacar-a-mae-dela-com-uma-arma-em-sp.ghtm"
         }
       ],
       "erro": null
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
+          "title": "Congresso paraguaio repudia fala de Lula sobre guerra do Paraguai",
+          "url": "https://www.cnnbrasil.com.br/internacional/congresso-paraguaio-repudia-fala-de-lula-sobre-guerra-do-paraguai/"
+        },
+        {
+          "rank": 3,
           "title": "Ancelotti indica fim de medalhões na Seleção: \"Começando por Neymar\"",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-indica-fim-de-medalhoes-na-selecao-comecando-por-neymar/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Milei assina decreto que prevê veto e expulsão por ataques à Argentina",
           "url": "https://www.cnnbrasil.com.br/internacional/milei-anuncia-restricoes-a-estrangeiros-que-atacarem-a-argentina/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Michael B. Jordan reage à escolha de ator para viver filho de Pantera Negra",
           "url": "https://www.cnnbrasil.com.br/pop/celebridades/michael-b-jordan-reage-a-escolha-de-ator-para-viver-filho-de-pantera-negra/"
-        },
-        {
-          "rank": 5,
-          "title": "Congresso paraguaio repudia fala de Lula sobre guerra do Paraguai",
-          "url": "https://www.cnnbrasil.com.br/internacional/congresso-paraguaio-repudia-fala-de-lula-sobre-guerra-do-paraguai/"
         }
       ],
       "erro": null
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 5,
-          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
+          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
+          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
         }
       ],
       "erro": null
@@ -221,13 +221,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
-          "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
+          "title": "‘She killed the kids!’ 911 call from Lindsay Clancy’s husband brings tears to the courtroom",
+          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-f393af75765dfbc2979deca05225fcfe"
         },
         {
           "rank": 2,
-          "title": "‘She killed the kids!’ 911 call from Lindsay Clancy’s husband brings tears to the courtroom",
-          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-f393af75765dfbc2979deca05225fcfe"
+          "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
+          "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
         },
         {
           "rank": 3,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "George and Amal Clooney evacuate French home amid wildfires",
-          "url": "https://www.bbc.com/news/articles/c99845vxep9o"
+          "title": "Why limited war with the US may suit Iran better than peace",
+          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
         },
         {
           "rank": 5,
-          "title": "Why limited war with the US may suit Iran better than peace",
-          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
+          "title": "George and Amal Clooney evacuate French home amid wildfires",
+          "url": "https://www.bbc.com/news/articles/c99845vxep9o"
         }
       ],
       "erro": null

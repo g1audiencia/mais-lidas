@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 10:26",
+  "atualizado_em": "30/07/2026 10:32",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "EUA retomam ataques ao Irã após pausa de Trump",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/eua-retomam-ataques-ao-ira-apos-pausa-de-trump.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Outro Canal: 'Quem Ama Cuida' aumenta cenas com improviso de atores após pedido de diretora",
           "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-aumenta-cenas-com-improviso-de-atores-apos-pedido-de-diretora.shtml"
         },
         {
+          "rank": 4,
+          "title": "EUA retomam ataques ao Irã após pausa de Trump",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/eua-retomam-ataques-ao-ira-apos-pausa-de-trump.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Professores acusam colégio católico de intolerância religiosa e assédio moral em Cuiabá; direção nega",
-          "url": "https://www1.folha.uol.com.br/educacao/2026/07/professores-acusam-colegio-catolico-de-intolerancia-religiosa-e-assedio-moral-em-cuiaba-direcao-nega.shtml"
+          "title": "Neymar se aposenta da seleção: confira números do camisa 10 pelo Brasil",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/neymar-se-aposenta-da-selecao-confira-numeros-do-camisa-10-pelo-brasil.shtml"
         }
       ],
       "erro": null
@@ -76,13 +76,13 @@
         },
         {
           "rank": 2,
-          "title": "Apagão deixa quase 1,9 milhão de imóveis sem energia no Rio de Janeiro",
-          "url": "https://www.cnnbrasil.com.br/infra/apagao-deixa-quase-19-milhoes-de-imoveis-sem-energia-no-rio-de-janeiro/"
+          "title": "Milei assina decreto que prevê veto e expulsão por ataques à Argentina",
+          "url": "https://www.cnnbrasil.com.br/internacional/milei-anuncia-restricoes-a-estrangeiros-que-atacarem-a-argentina/"
         },
         {
           "rank": 3,
-          "title": "Milei assina decreto que prevê veto e expulsão por ataques à Argentina",
-          "url": "https://www.cnnbrasil.com.br/internacional/milei-anuncia-restricoes-a-estrangeiros-que-atacarem-a-argentina/"
+          "title": "Apagão deixa quase 1,9 milhão de imóveis sem energia no Rio de Janeiro",
+          "url": "https://www.cnnbrasil.com.br/infra/apagao-deixa-quase-19-milhoes-de-imoveis-sem-energia-no-rio-de-janeiro/"
         },
         {
           "rank": 4,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
-          "rank": 3,
           "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
         },
         {
+          "rank": 3,
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+        },
+        {
           "rank": 4,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         },
         {
           "rank": 5,
-          "title": "Guerra de preços na telefonia: como Vivo, Claro e TIM se preparam para cenário de maior competição",
-          "url": "https://www.estadao.com.br/economia/guerra-de-precos-na-telefonia-como-vivo-claro-e-tim-se-preparam-para-cenario-de-maior-competicao/"
+          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
+          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
         }
       ],
       "erro": null

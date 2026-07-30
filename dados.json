@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 13:19",
+  "atualizado_em": "30/07/2026 13:24",
   "portais": [
     {
       "portal": "Folha",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Prejuízo certo: usamos a estatística para provar como as bets sempre vencem (e você perde)",
-          "url": "https://www.estadao.com.br/ciencia/prejuizo-certo-usamos-a-estatistica-para-provar-como-as-bets-sempre-vencem-e-voce-perde/"
+          "title": "O que esperar do Fiat Argo X? Seis pontos para entender o barulho em torno do modelo",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-esperar-do-fiat-argo-x-seis-pontos-para-entender-o-barulho-em-torno-do-modelo/"
         }
       ],
       "erro": null
@@ -281,35 +281,9 @@
     },
     {
       "portal": "Clarín",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "España en alerta: Ceuta pide cerrar la frontera por la llegada masiva de migrantes de Marruecos",
-          "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
-        },
-        {
-          "rank": 2,
-          "title": "Encontraron muerta a una adolescente argentina en Punta del Este: tenía 18 años y vivía en Maldonado",
-          "url": "https://www.clarin.com/sociedad/encontraron-muerta-adolescente-argentina-punta-18-anos-vivia-maldonado_0_BT5z7uWjQR.html"
-        },
-        {
-          "rank": 3,
-          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
-          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
-        },
-        {
-          "rank": 4,
-          "title": "Natacha Méndez, la Coca Sarli del off: \"Es un poco fuerte que me comparen con ella\"",
-          "url": "https://www.clarin.com/espectaculos/natacha-mendez-coca-sarli-off-fuerte-comparen_0_qrGrJpNoTL.html"
-        },
-        {
-          "rank": 5,
-          "title": "Tras la movida por Cristina candidata, Kicillof siente el impacto y la interna peronista suma otro frente",
-          "url": "https://www.clarin.com/politica/cristina-candidata-kicillof-hace-silencio-suma-frente-tension-interna_0_RcnhQrys6X.html"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "esperava ao menos 3 itens, achei 2"
     }
   ]
 }

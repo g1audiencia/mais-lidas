@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 14:48",
+  "atualizado_em": "30/07/2026 14:54",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
-        },
-        {
-          "rank": 4,
           "title": "O que esperar do Fiat Argo X? Seis pontos para entender o barulho em torno do modelo",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-esperar-do-fiat-argo-x-seis-pontos-para-entender-o-barulho-em-torno-do-modelo/"
         },
         {
+          "rank": 4,
+          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
+          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Como funciona o fundo soberano da Noruega, um cofre de US$ 2 trilhões que ninguém pode abrir",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-funciona-o-fundo-soberano-da-noruega-um-cofre-de-us-2-trilhoes-que-ninguem-pode-abrir/"
+          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
         }
       ],
       "erro": null

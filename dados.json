@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 06:40",
+  "atualizado_em": "30/07/2026 06:46",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Arlindinho pede desculpas públicas a Erika Januza após traição",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/arlindinho-pede-desculpas-publicas-a-erika-januza-apos-traicao.shtml"
+          "title": "Ex-clube de Pirlo, Baggio e Guardiola tem falência decretada na Itália",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/ex-clube-de-pirlo-baggio-e-guardiola-tem-falencia-decretada-na-italia.shtml"
         },
         {
           "rank": 4,
-          "title": "Ex-clube de Pirlo, Baggio e Guardiola tem falência decretada na Itália",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/ex-clube-de-pirlo-baggio-e-guardiola-tem-falencia-decretada-na-italia.shtml"
+          "title": "Arlindinho pede desculpas públicas a Erika Januza após traição",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/arlindinho-pede-desculpas-publicas-a-erika-januza-apos-traicao.shtml"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "‘A vida como ela é’: juíza diz que Sicupira e filho de Lemann sabiam das fraudes na Americanas",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-vida-como-ela-e-juiza-diz-que-sicupira-e-filho-de-lemann-sabiam-das-fraudes-na-americanas/"
+        },
+        {
+          "rank": 4,
           "title": "Guerra de preços na telefonia: como Vivo, Claro e TIM se preparam para cenário de maior competição",
           "url": "https://www.estadao.com.br/economia/guerra-de-precos-na-telefonia-como-vivo-claro-e-tim-se-preparam-para-cenario-de-maior-competicao/"
         },
         {
-          "rank": 4,
-          "title": "El Niño causou vento superior a 100 km/h em SP e no Rio? Especialistas explicam",
-          "url": "https://www.estadao.com.br/sao-paulo/el-nino-causou-vento-superior-a-100-kmh-em-sp-especialistas-explicam/"
-        },
-        {
           "rank": 5,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
         }
       ],
       "erro": null
@@ -285,18 +285,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
-          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
-        },
-        {
-          "rank": 2,
           "title": "Después de París y Roma, el destino europeo que está en boca de todos",
           "url": "https://www.clarin.com/viajes/despues-paris-roma-destino-europeo-boca_0_Ko8GZ8lMAE.html"
         },
         {
+          "rank": 2,
+          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
+          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
+        },
+        {
           "rank": 3,
-          "title": "Endurecen las reglas migratorias: podrán expulsar extranjeros por mensajes de odio contra argentinos",
-          "url": "https://www.clarin.com/politica/endurecen-reglas-migratorias-podran-expulsar-extranjeros-mensajes-odio-argentinos_0_qLTiXLpCUk.html"
+          "title": "El trágico fin de la viuda negra del Ford Ka, un gato en fuga y el custodio enamorado",
+          "url": "https://www.clarin.com/policiales/tragico-fin-viuda-negra-ford-ka-gato-fuga-custodio-enamorado_0_1VKGeOhtT4.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "El trágico fin de la viuda negra del Ford Ka, un gato en fuga y el custodio enamorado",
-          "url": "https://www.clarin.com/policiales/tragico-fin-viuda-negra-ford-ka-gato-fuga-custodio-enamorado_0_1VKGeOhtT4.html"
+          "title": "Endurecen las reglas migratorias: podrán expulsar extranjeros por mensajes de odio contra argentinos",
+          "url": "https://www.clarin.com/politica/endurecen-reglas-migratorias-podran-expulsar-extranjeros-mensajes-odio-argentinos_0_qLTiXLpCUk.html"
         }
       ],
       "erro": null

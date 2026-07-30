@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 14:37",
+  "atualizado_em": "30/07/2026 14:43",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
+        },
+        {
+          "rank": 4,
           "title": "O que esperar do Fiat Argo X? Seis pontos para entender o barulho em torno do modelo",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-esperar-do-fiat-argo-x-seis-pontos-para-entender-o-barulho-em-torno-do-modelo/"
         },
         {
-          "rank": 4,
-          "title": "Vitória x Palmeiras: CBF divulga áudios do VAR e árbitro em expulsão de Cacá",
-          "url": "https://www.estadao.com.br/esportes/futebol/vitoria-x-palmeiras-cbf-divulga-audios-do-var-e-arbitro-em-expulsao-de-caca/"
-        },
-        {
           "rank": 5,
-          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
-          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
+          "title": "Como funciona o fundo soberano da Noruega, um cofre de US$ 2 trilhões que ninguém pode abrir",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-funciona-o-fundo-soberano-da-noruega-um-cofre-de-us-2-trilhoes-que-ninguem-pode-abrir/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Após fala de Lula sobre guerra, Paraguai convoca embaixador brasileiro",
+          "url": "https://www.metropoles.com/mundo/apos-fala-de-lula-sobre-guerra-paraguai-convoca-embaixador-brasileiro"
+        },
+        {
+          "rank": 2,
           "title": "Milei assina decreto que prevê deportações por ataques à Argentina",
           "url": "https://www.metropoles.com/mundo/milei-assina-decreto-que-preve-deportacoes-por-ataques-a-argentina"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Corpo de fotógrafa que sumiu em trilha é encontrado após 5 dias de buscas no Paraná",
           "url": "https://www.metropoles.com/brasil/corpo-de-fotografa-que-desapareceu-em-trilha-e-encontrado-no-parana"
-        },
-        {
-          "rank": 3,
-          "title": "Deputados do PT levam à PF novas suspeitas sobre Flávio no Caso Master",
-          "url": "https://www.metropoles.com/brasil/pt-aciona-pf-contra-flavio-bolsonaro-e-aponta-favorecimento-ao-master"
         }
       ],
       "erro": null

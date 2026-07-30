@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 08:31",
+  "atualizado_em": "30/07/2026 08:36",
   "portais": [
     {
       "portal": "Folha",
@@ -12,22 +12,22 @@
         },
         {
           "rank": 2,
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Genial/Quaest: Ciro Gomes lidera eleição para o Governo do Ceará e venceria Elmano por 48% a 35%",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/pesquisa-genialquaest-3007-governo-do-ceara.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         },
         {
-          "rank": 4,
-          "title": "'Não consigo mudar de cor assim', diz candidato a concurso com declaração racial aceita e rejeitada por mesma fundação",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/nao-consigo-mudar-de-cor-assim-diz-candidato-a-concurso-com-declaracao-racial-aceita-e-rejeitada-por-mesma-fundacao.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Piloto da F1, brasileiro Gabriel Bortoletto viraliza com treino de pescoço",
+          "title": "Piloto da F1, brasileiro Gabriel Bortoleto viraliza com treino de pescoço",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/piloto-da-f1-brasileiro-gabriel-bortoletto-viraliza-com-treino-de-pescoco.shtml"
         }
       ],
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
+        },
+        {
+          "rank": 4,
           "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
           "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
           "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
-        },
-        {
-          "rank": 5,
-          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
         }
       ],
       "erro": null

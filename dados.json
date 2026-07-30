@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 17:17",
+  "atualizado_em": "30/07/2026 17:23",
   "portais": [
     {
       "portal": "Folha",
@@ -22,8 +22,8 @@
         },
         {
           "rank": 4,
-          "title": "Paraguai convoca embaixador brasileiro para entregar nota de repúdio após fala de Lula sobre guerra",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-convoca-embaixador-brasileiro-para-entregar-nota-de-repudio-apos-fala-de-lula-sobre-guerra.shtml"
+          "title": "Sicupira, filho de Lemann e Saggioro sabiam de fraudes na Americanas, diz juíza",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/sicupira-filho-de-lemann-e-saggioro-sabiam-de-fraudes-na-americanas-diz-juiza.shtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
+          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
+        },
+        {
+          "rank": 3,
           "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         },
         {
-          "rank": 3,
-          "title": "Países da Europa anunciam boicote a torneios da Fifa até que plano de venda de ações seja revogado",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-da-europa-anunciam-boicote-a-torneios-da-fifa-ate-que-plano-de-venda-de-acoes-seja-revogado/"
-        },
-        {
           "rank": 4,
-          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
+          "title": "Em busca de inimigo externo, Milei aposta em briga com Lula e expulsão de estrangeiros da Argentina",
+          "url": "https://www.estadao.com.br/internacional/busca-de-inimigo-externo-para-contornar-problemas-internos-motiva-hostilidade-de-milei-contra-lula/"
         },
         {
           "rank": 5,
-          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
-          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
+          "title": "Países da Europa anunciam boicote a torneios da Fifa até que plano de venda de ações seja revogado",
+          "url": "https://www.estadao.com.br/esportes/futebol/paises-da-europa-anunciam-boicote-a-torneios-da-fifa-ate-que-plano-de-venda-de-acoes-seja-revogado/"
         }
       ],
       "erro": null

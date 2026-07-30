@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 18:52",
+  "atualizado_em": "30/07/2026 18:58",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
-        },
-        {
-          "rank": 3,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
-          "rank": 4,
           "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
           "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
           "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
+        },
+        {
+          "rank": 4,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
+          "rank": 5,
+          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
+          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         }
       ],
       "erro": null
@@ -177,8 +177,8 @@
         },
         {
           "rank": 3,
-          "title": "Guerra do Paraguai: o que Lula disse e por que paraguaios se irritaram",
-          "url": "https://www.metropoles.com/mundo/guerra-paraguai-lula-paraguaios"
+          "title": "Mendonça, do STF, autoriza PF a abrir inquérito contra Lulinha",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/mendonca-do-stf-autoriza-pf-a-abrir-inquerito-contra-lulinha"
         }
       ],
       "erro": null

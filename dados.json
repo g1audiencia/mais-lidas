@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 13:13",
+  "atualizado_em": "30/07/2026 13:19",
   "portais": [
     {
       "portal": "Folha",
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+        },
+        {
+          "rank": 3,
           "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
           "url": "https://www.bbc.com/news/articles/c74gwdzywmeo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "George and Amal Clooney evacuate French home amid wildfires",
           "url": "https://www.bbc.com/news/articles/c99845vxep9o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
           "url": "https://www.bbc.com/news/articles/c39ez3klwmro"
-        },
-        {
-          "rank": 5,
-          "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-          "url": "https://www.bbc.com/news/articles/cwymkgenv2ro"
         }
       ],
       "erro": null

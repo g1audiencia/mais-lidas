@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 12:07",
+  "atualizado_em": "30/07/2026 12:12",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
-          "rank": 3,
           "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
         },
         {
+          "rank": 3,
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+        },
+        {
           "rank": 4,
-          "title": "Como funciona o fundo soberano da Noruega, um cofre de US$ 2 trilhões que ninguém pode abrir",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-funciona-o-fundo-soberano-da-noruega-um-cofre-de-us-2-trilhoes-que-ninguem-pode-abrir/"
+          "title": "Shopping pode cobrar o quanto quiser no estacionamento? Conta de R$ 92 viraliza",
+          "url": "https://www.estadao.com.br/jornal-do-carro/shopping-pode-cobrar-o-quanto-quiser-no-estacionamento-conta-de-r-92-viraliza/"
         },
         {
           "rank": 5,
-          "title": "Shopping pode cobrar o quanto quiser no estacionamento? Conta de R$ 92 viraliza",
-          "url": "https://www.estadao.com.br/jornal-do-carro/shopping-pode-cobrar-o-quanto-quiser-no-estacionamento-conta-de-r-92-viraliza/"
+          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
+          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
-          "url": "https://www.bbc.com/news/articles/c39ez3klwmro"
+          "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+          "url": "https://www.bbc.com/news/articles/cwymkgenv2ro"
         },
         {
           "rank": 5,
-          "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-          "url": "https://www.bbc.com/news/articles/cwymkgenv2ro"
+          "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
+          "url": "https://www.bbc.com/news/articles/c39ez3klwmro"
         }
       ],
       "erro": null

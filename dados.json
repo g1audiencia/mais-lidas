@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 08:20",
+  "atualizado_em": "30/07/2026 08:25",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
-          "title": "O que explica perda de força nas pernas que fez Glenda Kozlowski cair?",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/07/29/glenda-kozlowski-o-que-explica-perda-de-forca-que-fez-apresentadora-cair.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Ancelotti vê fim da geração Neymar, admite erro na Copa e projeta renovação",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/ancelotti-ve-fim-de-ciclo-na-selecao-apos-fala-de-neymar-e-aposta-em-renovacao.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Veja os resultados da rodada e a classificação do Campeonato Brasileiro",
           "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
+        },
+        {
+          "rank": 4,
+          "title": "Ana Maria Braga surpreende Ju Massaoka: 'Não é qualquer pinto'",
+          "url": "https://natelinha.uol.com.br/televisao/2026/07/29/ana-maria-braga-surpreende-ju-massaoka-nao-e-qualquer-pinto-que-entra-245369.php"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         },
         {
           "rank": 4,
-          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
+          "title": "El Niño causou vento superior a 100 km/h em SP e no Rio? Especialistas explicam",
+          "url": "https://www.estadao.com.br/sao-paulo/el-nino-causou-vento-superior-a-100-kmh-em-sp-especialistas-explicam/"
         },
         {
           "rank": 5,
-          "title": "‘A vida como ela é’: juíza diz que Sicupira e filho de Lemann sabiam das fraudes na Americanas",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-vida-como-ela-e-juiza-diz-que-sicupira-e-filho-de-lemann-sabiam-das-fraudes-na-americanas/"
+          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
+          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
-          "url": "https://www.bbc.com/news/articles/czdmv0vyv4zo"
+          "title": "Wiped out by a hurricane, this US community is now a global energy giant",
+          "url": "https://www.bbc.com/news/articles/c0ejq9g2pz4o"
         },
         {
           "rank": 5,
-          "title": "Wiped out by a hurricane, this US community is now a global energy giant",
-          "url": "https://www.bbc.com/news/articles/c0ejq9g2pz4o"
+          "title": "Fauci on 'solid legal ground' in face of prosecution threat, lawyer says",
+          "url": "https://www.bbc.com/news/articles/czdmv0vyv4zo"
         }
       ],
       "erro": null

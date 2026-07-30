@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 09:04",
+  "atualizado_em": "30/07/2026 09:09",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Prejuízo certo: usamos a estatística para provar como as bets sempre vencem (e você perde)",
+          "url": "https://www.estadao.com.br/ciencia/prejuizo-certo-usamos-a-estatistica-para-provar-como-as-bets-sempre-vencem-e-voce-perde/"
+        },
+        {
+          "rank": 2,
           "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
           "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
-        },
-        {
-          "rank": 3,
-          "title": "Prejuízo certo: usamos a estatística para provar como as bets sempre vencem (e você perde)",
-          "url": "https://www.estadao.com.br/ciencia/prejuizo-certo-usamos-a-estatistica-para-provar-como-as-bets-sempre-vencem-e-voce-perde/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
+          "title": "‘A vida como ela é’: juíza diz que Sicupira e filho de Lemann sabiam das fraudes na Americanas",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-vida-como-ela-e-juiza-diz-que-sicupira-e-filho-de-lemann-sabiam-das-fraudes-na-americanas/"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
-          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
+          "title": "El cinco estrellas porteño que tiene su propia cuadra en el centro y su historia de artistas y visitantes ilustres",
+          "url": "https://www.clarin.com/ciudades/estrellas-porteno-propia-cuadra-centro-historia-artistas-visitantes-ilustres_0_nOEzXbHTkP.html"
         },
         {
           "rank": 4,
-          "title": "El cinco estrellas porteño que tiene su propia cuadra en el centro y su historia de artistas y visitantes ilustres",
-          "url": "https://www.clarin.com/ciudades/estrellas-porteno-propia-cuadra-centro-historia-artistas-visitantes-ilustres_0_nOEzXbHTkP.html"
+          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
+          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
         },
         {
           "rank": 5,

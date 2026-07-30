@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 16:22",
+  "atualizado_em": "30/07/2026 16:28",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
+          "title": "Triplo homicídio: homem mata namorada e 2 amigos dela em rancho de Goiás",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/triplo-homicidio-homem-mata-namorada-e-2-amigos-dela-em-rancho-de-goias.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Milhares de imigrantes entram em cidade da Espanha a nado, vindos de Marrocos",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/milhares-entram-em-ceuta-a-pe-e-governo-local-pede-emergencia-nacional.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Likes nas redes: o que está por trás do decreto de Milei sobre estrangeiros",
-          "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/30/likes-nas-redes-o-que-esta-por-tras-do-decreto-de-milei-sobre-estrangeiros.htm"
         },
         {
           "rank": 5,
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
-          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
+          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
         },
         {
           "rank": 3,
-          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
+          "title": "Países da Europa anunciam boicote a torneios da Fifa até que plano de venda de ações seja revogado",
+          "url": "https://www.estadao.com.br/esportes/futebol/paises-da-europa-anunciam-boicote-a-torneios-da-fifa-ate-que-plano-de-venda-de-acoes-seja-revogado/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
+          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
+          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
+          "url": "https://apnews.com/article/fauci-covid19-pandemic-senate-rand-paul-a774a79e46824ebec9e8e270b9cb9825"
+        },
+        {
+          "rank": 2,
           "title": "Elon Musk’s xAI sues Minnesota over its first-in-the-nation law banning ‘nudification’ technology",
           "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
           "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
           "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Glen Hansard, Irish musician who won Oscar for ‘Once,’ dies in motorcycle crash",
           "url": "https://apnews.com/article/glen-hansard-dies-dublin-motorcycle-crash-2df53656c036a9e39f91514d25538311"
-        },
-        {
-          "rank": 5,
-          "title": "‘She killed the kids!’ 911 call from Lindsay Clancy’s husband brings tears to the courtroom",
-          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-f393af75765dfbc2979deca05225fcfe"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
+          "title": "Father of teen school shooter sentenced to 15 years in prison",
+          "url": "https://www.bbc.com/news/articles/c78g4y18rxgo"
         },
         {
           "rank": 3,
-          "title": "Father of teen school shooter sentenced to 15 years in prison",
-          "url": "https://www.bbc.com/news/articles/c78g4y18rxgo"
+          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
           "rank": 4,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
+          "title": "Un gobernador quiere poner peajes a los camiones que van a Vaca Muerta: argumenta que el tránsito pesado creció el 900% en sus rutas",
+          "url": "https://www.clarin.com/politica/gobernador-quiere-poner-peajes-camiones-van-vaca-muerta-argumenta-transito-pesado-crecio-900-rutas_0_TDYvqJpeZe.html"
+        },
+        {
+          "rank": 4,
           "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
           "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Encontraron muerta a una adolescente argentina en Punta del Este: tenía 18 años y vivía en Maldonado",
           "url": "https://www.clarin.com/sociedad/encontraron-muerta-adolescente-argentina-punta-18-anos-vivia-maldonado_0_BT5z7uWjQR.html"
-        },
-        {
-          "rank": 5,
-          "title": "Un gobernador quiere poner peajes a los camiones que van a Vaca Muerta: argumenta que el tránsito pesado creció el 900% en sus rutas",
-          "url": "https://www.clarin.com/politica/gobernador-quiere-poner-peajes-camiones-van-vaca-muerta-argumenta-transito-pesado-crecio-900-rutas_0_TDYvqJpeZe.html"
         }
       ],
       "erro": null

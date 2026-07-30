@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 13:42",
+  "atualizado_em": "30/07/2026 13:47",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Caixa paga R$ 13 bilhões de lucro do FGTS nesta sexta (31); calculadora mostra quanto irá receber",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-paga-r-13-bilhoes-de-lucro-do-fgts-nesta-sexta-31-calculadora-mostra-quanto-ira-receber.shtml"
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         },
         {
           "rank": 2,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+          "title": "Caixa paga R$ 13 bilhões de lucro do FGTS nesta sexta (31); calculadora mostra quanto irá receber",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-paga-r-13-bilhoes-de-lucro-do-fgts-nesta-sexta-31-calculadora-mostra-quanto-ira-receber.shtml"
         },
         {
           "rank": 3,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Como será o novo túnel na Estação da Luz (e quais foram os imprevistos da obra no prédio histórico)",
+          "url": "https://www.estadao.com.br/sao-paulo/como-sera-o-novo-tunel-na-estacao-da-luz-e-quais-foram-os-imprevistos-da-obra-no-predio-historico/"
+        },
+        {
+          "rank": 4,
           "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
           "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
         },
         {
-          "rank": 4,
-          "title": "Carolina Dieckmann emagreceu 8 quilos comendo uma vez ao dia. Jejum é seguro para mulheres 45+?",
-          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/carolina-dieckmann-emagreceu-8-quilos-comendo-uma-vez-ao-dia-jejum-e-seguro-para-mulheres-45/"
-        },
-        {
           "rank": 5,
-          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
+          "title": "Mercado avalia que empréstimo de R$ 6,6 bi pode ser insuficiente para socorrer BRB; leia bastidor",
+          "url": "https://www.estadao.com.br/economia/mercado-avalia-emprestimo-insuficiente-socorrer-brb-bastidor/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 06:51",
+  "atualizado_em": "30/07/2026 06:57",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
-        },
-        {
-          "rank": 3,
-          "title": "‘A vida como ela é’: juíza diz que Sicupira e filho de Lemann sabiam das fraudes na Americanas",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-vida-como-ela-e-juiza-diz-que-sicupira-e-filho-de-lemann-sabiam-das-fraudes-na-americanas/"
-        },
-        {
-          "rank": 4,
           "title": "O ataque dos ‘jabutis zumbis’",
           "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
           "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+        },
+        {
+          "rank": 4,
+          "title": "Itaú muda regras de cartões Mastercard e Visa; veja os impactados e novidades em pontos e salas VIP",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/embargo-ate-amanha-as-9h-itau-muda-regras-de-cartoes-mastercard-black-e-visa-infinite-do-uniclass/"
+        },
+        {
+          "rank": 5,
+          "title": "PL projeta 28 senadores após eleições e deve depender de aliados para pautas bolsonaristas",
+          "url": "https://www.estadao.com.br/politica/pl-projeta-28-senadores-apos-eleicoes-e-deve-depender-de-aliados-para-pautas-bolsonaristas/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Después de París y Roma, el destino europeo que está en boca de todos",
-          "url": "https://www.clarin.com/viajes/despues-paris-roma-destino-europeo-boca_0_Ko8GZ8lMAE.html"
+          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
+          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
         },
         {
           "rank": 2,
-          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
-          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
+          "title": "Después de París y Roma, el destino europeo que está en boca de todos",
+          "url": "https://www.clarin.com/viajes/despues-paris-roma-destino-europeo-boca_0_Ko8GZ8lMAE.html"
         },
         {
           "rank": 3,

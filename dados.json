@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 08:41",
+  "atualizado_em": "30/07/2026 08:47",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ministros do TSE veem interferência de Moraes em cobrança sobre IA de Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/ministros-do-tse-veem-interferencia-de-moraes-em-cobranca-sobre-ia-de-bolsonaro.shtml"
-        },
-        {
-          "rank": 2,
           "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         },
         {
+          "rank": 2,
+          "title": "Ministros do TSE veem interferência de Moraes em cobrança sobre IA de Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/ministros-do-tse-veem-interferencia-de-moraes-em-cobranca-sobre-ia-de-bolsonaro.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Genial/Quaest: Ciro Gomes lidera eleição para o Governo do Ceará e venceria Elmano por 48% a 35%",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pesquisa-genialquaest-3007-governo-do-ceara.shtml"
+          "title": "Outro Canal: 'Quem Ama Cuida' aumenta cenas com improviso de atores após pedido de diretora",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-aumenta-cenas-com-improviso-de-atores-apos-pedido-de-diretora.shtml"
         },
         {
           "rank": 4,
-          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
+          "title": "Neymar se aposenta da seleção: confira números do camisa 10 pelo Brasil",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/neymar-se-aposenta-da-selecao-confira-numeros-do-camisa-10-pelo-brasil.shtml"
         },
         {
           "rank": 5,
-          "title": "Piloto da F1, brasileiro Gabriel Bortoleto viraliza com treino de pescoço",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/piloto-da-f1-brasileiro-gabriel-bortoletto-viraliza-com-treino-de-pescoco.shtml"
+          "title": "Jatinho de empresário brasileiro é apreendido na Bolívia com 189 quilos de barras de ouro",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/jatinho-de-empresario-brasileiro-e-apreendido-na-bolivia-com-189-quilos-de-barras-de-ouro.shtml"
         }
       ],
       "erro": null
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "O ataque dos ‘jabutis zumbis’",
-          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
+          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
         },
         {
           "rank": 5,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         }
       ],
       "erro": null
@@ -189,7 +189,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Blog: Obrigado, Neymar; se o Brasil ainda é respeitado; a culpa é sua",
+          "title": "Cosme: Obrigado, Neymar; se o Brasil ainda é respeitado, a culpa é sua",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/obrigado-neymar-se-o-brasil-ainda-e-respeitado-no-futebol-a-culpa-e-sua-em-uma-geracao-de-coadjuvantes-omissos-voce-nos-deu-o-direito-de-sonhar-29072026/"
         },
         {

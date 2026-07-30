@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 17:23",
+  "atualizado_em": "30/07/2026 17:28",
   "portais": [
     {
       "portal": "Folha",
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
-        },
-        {
-          "rank": 3,
           "title": "Father of teen school shooter sentenced to 15 years in prison",
           "url": "https://www.bbc.com/news/articles/c78g4y18rxgo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Oprah Winfrey to close her school for girls in South Africa",
           "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+        },
+        {
+          "rank": 4,
+          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
           "rank": 5,

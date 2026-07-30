@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 17:34",
+  "atualizado_em": "30/07/2026 17:39",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo do Paraguai convoca embaixador brasileiro após fala de Lula",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/governo-do-paraguai-convoca-embaixador-brasileiro-apos-fala-de-lula.ghtm"
+          "title": "O que Lula falou sobre o Paraguai, e quem está certo sobre a história?",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/o-que-lula-falou-sobre-o-paraguai-e-quem-esta-certo-sobre-a-historia.ghtm"
         },
         {
           "rank": 2,
+          "title": "Paraguai convoca embaixador brasileiro após declaração de Lula",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/governo-do-paraguai-convoca-embaixador-brasileiro-apos-fala-de-lula.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Triplo homicídio: homem mata namorada e 2 amigos dela em rancho de Goiás",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/triplo-homicidio-homem-mata-namorada-e-2-amigos-dela-em-rancho-de-goias.ghtm"
         },
         {
-          "rank": 3,
-          "title": "Milhares de imigrantes entram em cidade da Espanha a nado, vindos de Marrocos",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/milhares-entram-em-ceuta-a-pe-e-governo-local-pede-emergencia-nacional.ghtm"
-        },
-        {
           "rank": 4,
-          "title": "Uefa anuncia boicote a torneios da Fifa após proposta de venda de ações",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/uefa-anuncia-boicote-a-torneios-da-fifa-apos-proposta-de-venda-de-acoes.ghtm"
+          "title": "Ameaça de boicote da Uefa à Fifa pode ter efeito em menos de dois meses",
+          "url": "https://www.uol.com.br/esporte/futebol/colunas/futebol-pelo-mundo/2026/07/30/ameaca-de-boicote-da-uefa-a-fifa-pode-ter-efeito-em-menos-de-dois-meses.htm"
         },
         {
           "rank": 5,
-          "title": "Charleaux: Lula não foi desrespeitoso ao falar sobre Guerra do Paraguai",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/30/charleaux-lula-nao-foi-desrespeitoso-ao-falar-sobre-guerra-do-paraguai.ghtm"
+          "title": "Milhares de imigrantes entram em cidade da Espanha a nado, vindos de Marrocos",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/milhares-entram-em-ceuta-a-pe-e-governo-local-pede-emergencia-nacional.ghtm"
         }
       ],
       "erro": null
@@ -285,7 +285,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cientos de marroquíes cruzaron la frontera española en Ceuta y estalló una crisis humanitaria: al menos 9 muertos",
+          "title": "Cientos de marroquíes cruzaron la frontera española en Ceuta y estalló una crisis humanitaria: al menos 11 muertos",
           "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
         },
         {

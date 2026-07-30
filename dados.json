@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 11:11",
+  "atualizado_em": "30/07/2026 11:16",
   "portais": [
     {
       "portal": "Folha",
@@ -99,35 +99,9 @@
     },
     {
       "portal": "O Globo",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Tássio Maia dos Santos, ex-jogador do Botafogo, é uma das vítimas fatais de queda de muro por ventania",
-          "url": "https://oglobo.globo.com/esportes/futebol/botafogo/noticia/2026/07/29/tassio-maia-dos-santos-ex-jogador-do-botafogo-e-uma-das-vitimas-fatais-de-queda-de-muro-por-ventania.ghtml"
-        },
-        {
-          "rank": 2,
-          "title": "Desabafo de Erika Januza sobre término com Arlindinho viraliza; internautas elogiam reflexão: 'Que lição'",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/07/30/desabafo-de-erika-januza-sobre-termino-com-arlindinho-viraliza-internautas-elogiam-reflexao-que-licao.ghtml"
-        },
-        {
-          "rank": 3,
-          "title": "Receita Federal faz leilão de iPhones, notebooks e veículos: veja como fazer lances a partir de hoje",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/30/receita-federal-faz-leilao-de-iphones-notebooks-e-veiculos-veja-como-fazer-lances-a-partir-de-hoje.ghtml"
-        },
-        {
-          "rank": 4,
-          "title": "Civilização no Acre tinha população equivalente a um quarto do Império Inca; entenda como tecnologia revelou cidades ocultas",
-          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/civilizacao-no-acre-tinha-populacao-equivalente-a-um-quarto-do-imperio-inca-entenda-como-tecnologia-revelou-cidades-ocultas.ghtml"
-        },
-        {
-          "rank": 5,
-          "title": "Menina de 7 anos é resgatada na Colômbia após pedir ajuda a vizinhos com mensagens em janela",
-          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/30/menina-de-7-anos-e-resgatada-na-colombia-apos-pedir-ajuda-a-vizinhos-com-mensagens-em-janela.ghtml"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "título 'Mais Lidas' não encontrado"
     },
     {
       "portal": "Estadão",
@@ -150,13 +124,13 @@
         },
         {
           "rank": 4,
-          "title": "Shopping pode cobrar o quanto quiser no estacionamento? Conta de R$ 92 viraliza",
-          "url": "https://www.estadao.com.br/jornal-do-carro/shopping-pode-cobrar-o-quanto-quiser-no-estacionamento-conta-de-r-92-viraliza/"
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         },
         {
           "rank": 5,
-          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
+          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
+          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
         }
       ],
       "erro": null

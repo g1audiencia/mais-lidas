@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 11:33",
+  "atualizado_em": "30/07/2026 11:39",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Quaest: Lula x Flávio em SP, MG e RJ, os três maiores colégios eleitorais",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/30/genialquaest-3-maiores-colegios-eleitorais.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/vitoria-x-palmeiras-ex-arbitros-brasileirao.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Corpo de jovem que sumiu ao cair em cachoeira durante trilha é achado no PR",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/corpo-de-jovem-que-sumiu-ao-cair-em-cachoeira-durante-trilha-e-achado-no-pr.ghtm"
         },
         {
-          "rank": 4,
-          "title": "Ancelotti vê fim da geração Neymar, admite erro na Copa e projeta renovação",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/ancelotti-ve-fim-de-ciclo-na-selecao-apos-fala-de-neymar-e-aposta-em-renovacao.ghtm"
-        },
-        {
           "rank": 5,
-          "title": "Policial é desarmado e morto pela filha após briga com a esposa em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/policial-e-morto-pela-filha-apos-ameacar-a-mae-dela-com-uma-arma-em-sp.ghtm"
+          "title": "Joelma alerta possíveis compradores da mansão de Ximbinha",
+          "url": "https://noticiasdatv.uol.com.br/noticia/celebridades/joelma-alerta-possiveis-compradores-da-mansao-de-ximbinha-serios-problemas-154635"
         }
       ],
       "erro": null
@@ -71,13 +71,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ancelotti indica fim de medalhões na Seleção: \"Começando por Neymar\"",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-indica-fim-de-medalhoes-na-selecao-comecando-por-neymar/"
+          "title": "PoderData: Lula tem empate técnico com Flávio, Zema e Caiado no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/poderdata-lula-tem-empate-tecnico-com-flavio-zema-e-caiado-no-2o-turno/"
         },
         {
           "rank": 2,
-          "title": "PoderData: Lula tem empate técnico com Flávio, Zema e Caiado no 2º turno",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/poderdata-lula-tem-empate-tecnico-com-flavio-zema-e-caiado-no-2o-turno/"
+          "title": "Ancelotti indica fim de medalhões na Seleção: \"Começando por Neymar\"",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-indica-fim-de-medalhoes-na-selecao-comecando-por-neymar/"
         },
         {
           "rank": 3,
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Apagão deixa quase 1,9 milhão de imóveis sem energia no Rio de Janeiro",
-          "url": "https://www.cnnbrasil.com.br/infra/apagao-deixa-quase-19-milhoes-de-imoveis-sem-energia-no-rio-de-janeiro/"
+          "title": "Ventos de 100 km/h em São Paulo: entenda o que provoca o fenômeno",
+          "url": "https://www.cnnbrasil.com.br/ciencia/ventos-de-100-km-h-em-sao-paulo-entenda-o-que-provoca-o-fenomeno/"
         },
         {
           "rank": 5,
-          "title": "Ventos de 100 km/h em São Paulo: entenda o que provoca o fenômeno",
-          "url": "https://www.cnnbrasil.com.br/ciencia/ventos-de-100-km-h-em-sao-paulo-entenda-o-que-provoca-o-fenomeno/"
+          "title": "Apagão deixa quase 1,9 milhão de imóveis sem energia no Rio de Janeiro",
+          "url": "https://www.cnnbrasil.com.br/infra/apagao-deixa-quase-19-milhoes-de-imoveis-sem-energia-no-rio-de-janeiro/"
         }
       ],
       "erro": null
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         },
         {
           "rank": 5,
@@ -285,18 +285,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "España en alerta: Ceuta pide cerrar la frontera por la llegada masiva de migrantes de Marruecos",
+          "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
+        },
+        {
+          "rank": 2,
           "title": "Encontraron muerta a una adolescente argentina en Punta del Este: tenía 18 años y vivía en Maldonado",
           "url": "https://www.clarin.com/sociedad/encontraron-muerta-adolescente-argentina-punta-18-anos-vivia-maldonado_0_BT5z7uWjQR.html"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
           "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
-        },
-        {
-          "rank": 3,
-          "title": "España en alerta: Ceuta pide cerrar la frontera por la llegada masiva de migrantes de Marruecos",
-          "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
-          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
+          "title": "Natacha Méndez, la Coca Sarli del off: \"Es un poco fuerte que me comparen con ella\"",
+          "url": "https://www.clarin.com/espectaculos/natacha-mendez-coca-sarli-off-fuerte-comparen_0_qrGrJpNoTL.html"
         }
       ],
       "erro": null

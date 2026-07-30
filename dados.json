@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 16:00",
+  "atualizado_em": "30/07/2026 16:06",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
-          "rank": 3,
           "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
           "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
         },
         {
+          "rank": 3,
+          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
+          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
+        },
+        {
           "rank": 4,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 5,
-          "title": "Países da Europa anunciam boicote a torneios da Fifa até que plano de venda de ações seja revogado",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-da-europa-anunciam-boicote-a-torneios-da-fifa-ate-que-plano-de-venda-de-acoes-seja-revogado/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         }
       ],
       "erro": null
@@ -285,7 +285,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "España en alerta: Ceuta pide cerrar la frontera por la llegada masiva de migrantes de Marruecos",
+          "title": "Cientos de marroquíes cruzaron la frontera española en Ceuta y estalló una crisis humanitaria: al menos 9 muertos",
           "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
         },
         {
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Encontraron muerta a una adolescente argentina en Punta del Este: tenía 18 años y vivía en Maldonado",
-          "url": "https://www.clarin.com/sociedad/encontraron-muerta-adolescente-argentina-punta-18-anos-vivia-maldonado_0_BT5z7uWjQR.html"
+          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
+          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
         },
         {
           "rank": 4,
-          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
-          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
+          "title": "Encontraron muerta a una adolescente argentina en Punta del Este: tenía 18 años y vivía en Maldonado",
+          "url": "https://www.clarin.com/sociedad/encontraron-muerta-adolescente-argentina-punta-18-anos-vivia-maldonado_0_BT5z7uWjQR.html"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 12:18",
+  "atualizado_em": "30/07/2026 12:23",
   "portais": [
     {
       "portal": "Folha",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "O ataque dos ‘jabutis zumbis’",
-          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
+          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
+          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Lulinha e INSS: André Mendonça versus PF",
+          "url": "https://www.metropoles.com/colunas/mario-sabino/lulinha-e-inss-andre-mendonca-versus-pf"
+        },
+        {
+          "rank": 2,
           "title": "Exclusivo. Decisão expõe fraude nas Americanas: “Vocês vão ser presos”",
           "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/exclusivo-decisao-expoe-fraude-nas-americanas-voces-vao-ser-presos"
         },
         {
-          "rank": 2,
-          "title": "Milei assina decreto que prevê deportações por ataques à Argentina",
-          "url": "https://www.metropoles.com/mundo/milei-assina-decreto-que-preve-deportacoes-por-ataques-a-argentina"
-        },
-        {
           "rank": 3,
-          "title": "Deputado visitado por motorista de Vorcaro fez projetos de interesse do Master",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/deputado-visitado-por-motorista-de-vorcaro-fez-projetos-de-interesse-do-master"
+          "title": "Corpo de fotógrafa que sumiu em trilha é encontrado após 5 dias de buscas no Paraná",
+          "url": "https://www.metropoles.com/brasil/corpo-de-fotografa-que-desapareceu-em-trilha-e-encontrado-no-parana"
         }
       ],
       "erro": null

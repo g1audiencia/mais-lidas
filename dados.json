@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 09:26",
+  "atualizado_em": "30/07/2026 09:31",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
-        },
-        {
-          "rank": 3,
           "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
           "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
           "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+        },
+        {
+          "rank": 4,
+          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
         },
         {
           "rank": 5,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Wiped out by a hurricane, this US community is now a global energy giant",
-          "url": "https://www.bbc.com/news/articles/c0ejq9g2pz4o"
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+          "url": "https://www.bbc.com/news/articles/clyx83l8jv8o"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "El cinco estrellas porteño que tiene su propia cuadra en el centro y su historia de artistas y visitantes ilustres",
-          "url": "https://www.clarin.com/ciudades/estrellas-porteno-propia-cuadra-centro-historia-artistas-visitantes-ilustres_0_nOEzXbHTkP.html"
+          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
+          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
         },
         {
           "rank": 4,
-          "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
-          "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
+          "title": "El cinco estrellas porteño que tiene su propia cuadra en el centro y su historia de artistas y visitantes ilustres",
+          "url": "https://www.clarin.com/ciudades/estrellas-porteno-propia-cuadra-centro-historia-artistas-visitantes-ilustres_0_nOEzXbHTkP.html"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 14:54",
+  "atualizado_em": "30/07/2026 14:59",
   "portais": [
     {
       "portal": "Folha",
@@ -44,13 +44,13 @@
         },
         {
           "rank": 2,
-          "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
+          "title": "Irã ataca duas bases militares dos EUA, destrói três jatos e deixa mortos",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/ira-ataca-duas-bases-militares-dos-eua-destroi-tres-jatos-e-deixa-mortos.ghtm"
         },
         {
           "rank": 3,
-          "title": "Irã ataca duas bases militares dos EUA, destrói três jatos e deixa mortos",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/ira-ataca-duas-bases-militares-dos-eua-destroi-tres-jatos-e-deixa-mortos.ghtm"
+          "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Renan Frade: O que a Fifa realmente ganha ao vender parte da Copa do Mundo",
-          "url": "https://www.uol.com.br/splash/colunas/na-sua-tela/2026/07/30/fifa-x-uefa-plano-para-vender-a-copa-do-mundo.htm"
+          "title": "Policial é desarmado e morto pela filha após briga com a esposa em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/policial-e-morto-pela-filha-apos-ameacar-a-mae-dela-com-uma-arma-em-sp.ghtm"
         }
       ],
       "erro": null
@@ -131,35 +131,9 @@
     },
     {
       "portal": "Estadão",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
-          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
-        },
-        {
-          "rank": 2,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
-          "rank": 3,
-          "title": "O que esperar do Fiat Argo X? Seis pontos para entender o barulho em torno do modelo",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-esperar-do-fiat-argo-x-seis-pontos-para-entender-o-barulho-em-torno-do-modelo/"
-        },
-        {
-          "rank": 4,
-          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
-          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
-        },
-        {
-          "rank": 5,
-          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "HTTPSConnectionPool(host='www.estadao.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')))"
     },
     {
       "portal": "Metrópoles",
@@ -231,13 +205,13 @@
         },
         {
           "rank": 3,
-          "title": "Glen Hansard, Irish musician who won Oscar for ‘Once,’ dies in motorcycle crash",
-          "url": "https://apnews.com/article/glen-hansard-dies-dublin-motorcycle-crash-2df53656c036a9e39f91514d25538311"
+          "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
+          "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
         },
         {
           "rank": 4,
-          "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
-          "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
+          "title": "Glen Hansard, Irish musician who won Oscar for ‘Once,’ dies in motorcycle crash",
+          "url": "https://apnews.com/article/glen-hansard-dies-dublin-motorcycle-crash-2df53656c036a9e39f91514d25538311"
         },
         {
           "rank": 5,
@@ -273,8 +247,8 @@
         },
         {
           "rank": 5,
-          "title": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
-          "url": "https://www.bbc.com/news/articles/c39ez3klwmro"
+          "title": "Why limited war with the US may suit Iran better than peace",
+          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
         }
       ],
       "erro": null

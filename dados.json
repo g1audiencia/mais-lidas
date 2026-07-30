@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 07:36",
+  "atualizado_em": "30/07/2026 07:41",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
+          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
         },
         {
           "rank": 3,
+          "title": "Shopping pode cobrar o quanto quiser no estacionamento? Conta de R$ 92 viraliza",
+          "url": "https://www.estadao.com.br/jornal-do-carro/shopping-pode-cobrar-o-quanto-quiser-no-estacionamento-conta-de-r-92-viraliza/"
+        },
+        {
+          "rank": 4,
           "title": "Guerra de preços na telefonia: como Vivo, Claro e TIM se preparam para cenário de maior competição",
           "url": "https://www.estadao.com.br/economia/guerra-de-precos-na-telefonia-como-vivo-claro-e-tim-se-preparam-para-cenario-de-maior-competicao/"
         },
         {
-          "rank": 4,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
-        },
-        {
           "rank": 5,
-          "title": "Itaú muda regras de cartões Mastercard e Visa; veja os impactados e novidades em pontos e salas VIP",
-          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/embargo-ate-amanha-as-9h-itau-muda-regras-de-cartoes-mastercard-black-e-visa-infinite-do-uniclass/"
+          "title": "Jonas Madureira: ‘Não há nada mais desastroso do que planos que nos obrigam a sermos felizes’",
+          "url": "https://www.estadao.com.br/cultura/literatura/jonas-madureira-nao-ha-nada-mais-desastroso-do-que-planos-que-nos-obrigam-a-sermos-felizes/"
         }
       ],
       "erro": null

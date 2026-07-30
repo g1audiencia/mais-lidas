@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 13:30",
+  "atualizado_em": "30/07/2026 13:36",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Calculadora da Folha mostra quanto você vai receber de lucro do FGTS",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/calculadora-da-folha-mostra-quanto-voce-vai-receber-de-lucro-do-fgts.shtml"
+          "title": "Saiba detalhes sobre casamento de Gabriel Medina e Isabella Arantes após 20 dias de noivado",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/saiba-detalhes-sobre-casamento-de-gabriel-medina-e-isabella-arantes-apos-20-dias-de-noivado.shtml"
         },
         {
           "rank": 5,
-          "title": "Saiba detalhes sobre casamento de Gabriel Medina e Isabella Arantes após 20 dias de noivado",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/saiba-detalhes-sobre-casamento-de-gabriel-medina-e-isabella-arantes-apos-20-dias-de-noivado.shtml"
+          "title": "Invasão de chuteiras rosas na Copa do Mundo foi 'coincidência' e ninguém gostou, diz Adidas",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/invasao-de-chuteiras-rosas-na-copa-do-mundo-foi-coincidencia-e-ninguem-gostou-diz-adidas.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
+          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
+          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
         },
         {
           "rank": 4,
-          "title": "Prejuízo certo: usamos a estatística para provar como as bets sempre vencem (e você perde)",
-          "url": "https://www.estadao.com.br/ciencia/prejuizo-certo-usamos-a-estatistica-para-provar-como-as-bets-sempre-vencem-e-voce-perde/"
+          "title": "Carolina Dieckmann emagreceu 8 quilos comendo uma vez ao dia. Jejum é seguro para mulheres 45+?",
+          "url": "https://www.estadao.com.br/pulsa/silvia-ruiz/carolina-dieckmann-emagreceu-8-quilos-comendo-uma-vez-ao-dia-jejum-e-seguro-para-mulheres-45/"
         },
         {
           "rank": 5,
-          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
-          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
+          "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "US launches strikes on Iranian targets a day after it foiled missile attack on American forces",
-          "url": "https://apnews.com/article/iran-war-us-hormuz-strait-july-29-2026-e31d249ba6443decdd3e63cd00f0fb84"
+          "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
+          "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
         },
         {
           "rank": 5,
-          "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
-          "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
+          "title": "US launches strikes on Iranian targets a day after it foiled missile attack on American forces",
+          "url": "https://apnews.com/article/iran-war-us-hormuz-strait-july-29-2026-e31d249ba6443decdd3e63cd00f0fb84"
         }
       ],
       "erro": null
@@ -281,9 +281,35 @@
     },
     {
       "portal": "Clarín",
-      "ok": false,
-      "items": [],
-      "erro": "esperava ao menos 3 itens, achei 2"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "España en alerta: Ceuta pide cerrar la frontera por la llegada masiva de migrantes de Marruecos",
+          "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
+        },
+        {
+          "rank": 2,
+          "title": "Encontraron muerta a una adolescente argentina en Punta del Este: tenía 18 años y vivía en Maldonado",
+          "url": "https://www.clarin.com/sociedad/encontraron-muerta-adolescente-argentina-punta-18-anos-vivia-maldonado_0_BT5z7uWjQR.html"
+        },
+        {
+          "rank": 3,
+          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
+          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
+        },
+        {
+          "rank": 4,
+          "title": "Duras críticas a Milei por el DNU migratorio por discursos de odio: \"Si Brasil o España aplicaran la misma norma él no podría entrar\"",
+          "url": "https://www.clarin.com/politica/duras-criticas-milei-dnu-migratorio-brasil-espana-aplicaran-misma-norma-podria-entrar-discurso-odio_0_yD1OkC2KFv.html"
+        },
+        {
+          "rank": 5,
+          "title": "Natacha Méndez, la Coca Sarli del off: \"Es un poco fuerte que me comparen con ella\"",
+          "url": "https://www.clarin.com/espectaculos/natacha-mendez-coca-sarli-off-fuerte-comparen_0_qrGrJpNoTL.html"
+        }
+      ],
+      "erro": null
     }
   ]
 }

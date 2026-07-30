@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 15:55",
+  "atualizado_em": "30/07/2026 16:00",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
+          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
         },
         {
           "rank": 2,
-          "title": "Se Alexandre de Moraes tornar Flávio Bolsonaro inelegível, a direita pode ser salva?",
-          "url": "https://www.estadao.com.br/politica/fabiano-lana/se-alexandre-de-moraes-tornar-flavio-bolsonaro-inelegivel-a-direita-pode-ser-salva/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 3,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Como será o novo túnel na Estação da Luz (e quais foram os imprevistos da obra no prédio histórico)",
-          "url": "https://www.estadao.com.br/sao-paulo/como-sera-o-novo-tunel-na-estacao-da-luz-e-quais-foram-os-imprevistos-da-obra-no-predio-historico/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         },
         {
           "rank": 5,
@@ -221,18 +221,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Elon Musk’s xAI sues Minnesota over its first-in-the-nation law banning ‘nudification’ technology",
+          "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16"
+        },
+        {
+          "rank": 2,
           "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
           "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
           "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
-        },
-        {
-          "rank": 3,
-          "title": "‘She killed the kids!’ 911 call from Lindsay Clancy’s husband brings tears to the courtroom",
-          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-f393af75765dfbc2979deca05225fcfe"
         },
         {
           "rank": 4,
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump announces a $22.5B makeover of Dulles airport that will eliminate the ‘people movers’",
-          "url": "https://apnews.com/article/trump-dulles-airport-modernization-people-mover-1cbe864498a94cb81f7d86c8e95cd2e3"
+          "title": "‘She killed the kids!’ 911 call from Lindsay Clancy’s husband brings tears to the courtroom",
+          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-postpartum-psychosis-f393af75765dfbc2979deca05225fcfe"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
-        },
-        {
-          "rank": 3,
           "title": "Why limited war with the US may suit Iran better than peace",
           "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
         },
         {
+          "rank": 3,
+          "title": "Father of teen school shooter sentenced to 15 years in prison",
+          "url": "https://www.bbc.com/news/articles/c78g4y18rxgo"
+        },
+        {
           "rank": 4,
-          "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-          "url": "https://www.bbc.com/news/articles/c74gwdzywmeo"
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
           "rank": 5,

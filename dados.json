@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 12:01",
+  "atualizado_em": "30/07/2026 12:07",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
+          "title": "Irã ataca duas bases militares dos EUA, destrói três jatos e deixa mortos",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/ira-ataca-duas-bases-militares-dos-eua-destroi-tres-jatos-e-deixa-mortos.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Mulher morre ao ter intestino perfurado em colonoscopia em hospital de SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/morte-mulher-colonoscopia.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Cotovelada e expulsões: ex-árbitros analisam lances de Vitória x Palmeiras",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/vitoria-x-palmeiras-ex-arbitros-brasileirao.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Corpo de jovem que sumiu ao cair em cachoeira durante trilha é achado no PR",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/corpo-de-jovem-que-sumiu-ao-cair-em-cachoeira-durante-trilha-e-achado-no-pr.ghtm"
         },
         {
           "rank": 5,
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Investigators in James Comey seashells case omitted key facts, defense lawyers allege",
-          "url": "https://apnews.com/article/justice-department-comey-fbi-seashells-c6a7fbbbedba3c3a26f472a5839bce59"
+          "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
+          "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
         }
       ],
       "erro": null

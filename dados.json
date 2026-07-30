@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 18:08",
+  "atualizado_em": "30/07/2026 18:13",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
+          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
+          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         },
         {
           "rank": 2,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
+          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
+          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
           "rank": 3,
@@ -155,17 +155,33 @@
         },
         {
           "rank": 5,
-          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
+          "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
+          "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
         }
       ],
       "erro": null
     },
     {
       "portal": "Metrópoles",
-      "ok": false,
-      "items": [],
-      "erro": "HTTPSConnectionPool(host='www.metropoles.com', port=443): Read timed out. (read timeout=25)"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Tereza Cristina avisa aliados que aceitou ser vice de Flávio Bolsonaro",
+          "url": "https://www.metropoles.com/brasil/tereza-cristina-avisa-aliados-que-aceitou-ser-vice-de-flavio-bolsonaro"
+        },
+        {
+          "rank": 2,
+          "title": "Após fala de Lula sobre guerra, Paraguai convoca embaixador brasileiro",
+          "url": "https://www.metropoles.com/mundo/apos-fala-de-lula-sobre-guerra-paraguai-convoca-embaixador-brasileiro"
+        },
+        {
+          "rank": 3,
+          "title": "Corpo de fotógrafa que sumiu em trilha é encontrado após 5 dias de buscas no Paraná",
+          "url": "https://www.metropoles.com/brasil/corpo-de-fotografa-que-desapareceu-em-trilha-e-encontrado-no-parana"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "R7",
@@ -269,7 +285,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cientos de marroquíes cruzaron la frontera española en Ceuta y estalló una crisis humanitaria: al menos 11 muertos",
+          "title": "Cientos de marroquíes cruzaron la frontera española en Ceuta y estalló una crisis humanitaria: al menos 16 muertos",
           "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
         },
         {

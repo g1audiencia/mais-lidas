@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 18:30",
+  "atualizado_em": "30/07/2026 18:35",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Caixa começa a pagar R$ 13 bilhões de lucro do FGTS; veja como consultar e quanto vai receber",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-paga-r-13-bilhoes-de-lucro-do-fgts-nesta-sexta-31-calculadora-mostra-quanto-ira-receber.shtml"
-        },
-        {
-          "rank": 3,
           "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Advogado é flagrado traindo esposa em parque de Nova York e vê carreira entrar em crise",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/advogado-e-flagrado-traindo-esposa-em-parque-de-nova-york-e-ve-carreira-entrar-em-crise.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Sicupira, filho de Lemann e Saggioro sabiam de fraudes na Americanas, diz juíza",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/sicupira-filho-de-lemann-e-saggioro-sabiam-de-fraudes-na-americanas-diz-juiza.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Caixa começa a pagar R$ 13 bilhões de lucro do FGTS; veja como consultar e quanto vai receber",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-paga-r-13-bilhoes-de-lucro-do-fgts-nesta-sexta-31-calculadora-mostra-quanto-ira-receber.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
-        },
-        {
-          "rank": 2,
           "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
           "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         },
         {
-          "rank": 3,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+          "rank": 2,
+          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
+          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
           "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
           "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
+        },
+        {
+          "rank": 5,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "Após fala de Lula sobre guerra, Paraguai convoca embaixador brasileiro",
-          "url": "https://www.metropoles.com/mundo/apos-fala-de-lula-sobre-guerra-paraguai-convoca-embaixador-brasileiro"
+          "title": "PF pede ao STF aval para investigar Lulinha por corrupção e tráfico de influência",
+          "url": "https://www.metropoles.com/colunas/tacio-lorran/pf-pede-ao-stf-para-investigar-lulinha-por-corrupcao-e-trafico-de-influencia"
         },
         {
           "rank": 3,
-          "title": "Corpo de fotógrafa que sumiu em trilha é encontrado após 5 dias de buscas no Paraná",
-          "url": "https://www.metropoles.com/brasil/corpo-de-fotografa-que-desapareceu-em-trilha-e-encontrado-no-parana"
+          "title": "Guerra do Paraguai: o que Lula disse e por que paraguaios se irritaram",
+          "url": "https://www.metropoles.com/mundo/guerra-paraguai-lula-paraguaios"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
-          "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
+          "title": "Trump says he may pull Todd Blanche’s attorney general nomination for now",
+          "url": "https://apnews.com/live/trump-iran-news-updates-07-30-2026"
         },
         {
           "rank": 5,
-          "title": "Trump says he may pull Todd Blanche’s attorney general nomination for now",
-          "url": "https://apnews.com/live/trump-iran-news-updates-07-30-2026"
+          "title": "Stephen Colbert wins an anti-censorship award after CBS ends ‘The Late Show’",
+          "url": "https://apnews.com/article/stephen-colbert-anticensorship-award-late-show-fd919fac19606eabf5d47dd5c207cd0a"
         }
       ],
       "erro": null

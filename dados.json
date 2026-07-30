@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 20:04",
+  "atualizado_em": "30/07/2026 20:09",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
+          "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
+          "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
+        },
+        {
+          "rank": 3,
           "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
           "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
         },
         {
-          "rank": 3,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
-        },
-        {
           "rank": 4,
-          "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
-          "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 5,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Why limited war with the US may suit Iran better than peace",
-          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
+          "title": "Belgium says a Canadian intern is suspected of spying at Nato. Here's what we know",
+          "url": "https://www.bbc.com/news/articles/cwymk20n0v7o"
         }
       ],
       "erro": null

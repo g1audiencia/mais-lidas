@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 07:25",
+  "atualizado_em": "30/07/2026 07:30",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O ataque dos ‘jabutis zumbis’",
-          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
+          "title": "Shopping pode cobrar o quanto quiser no estacionamento? Conta de R$ 92 viraliza",
+          "url": "https://www.estadao.com.br/jornal-do-carro/shopping-pode-cobrar-o-quanto-quiser-no-estacionamento-conta-de-r-92-viraliza/"
         },
         {
           "rank": 3,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
-        },
-        {
-          "rank": 4,
           "title": "‘A vida como ela é’: juíza diz que Sicupira e filho de Lemann sabiam das fraudes na Americanas",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-vida-como-ela-e-juiza-diz-que-sicupira-e-filho-de-lemann-sabiam-das-fraudes-na-americanas/"
         },
         {
+          "rank": 4,
+          "title": "A inteligência artificial começou a fazer descobertas e a ciência nunca mais será a mesma",
+          "url": "https://www.estadao.com.br/economia/alexandre-chiavegatto-filho/a-inteligencia-artificial-comecou-a-fazer-descobertas-e-a-ciencia-nunca-mais-sera-a-mesma/"
+        },
+        {
           "rank": 5,
-          "title": "Guerra de preços na telefonia: como Vivo, Claro e TIM se preparam para cenário de maior competição",
-          "url": "https://www.estadao.com.br/economia/guerra-de-precos-na-telefonia-como-vivo-claro-e-tim-se-preparam-para-cenario-de-maior-competicao/"
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Fauci to face contempt vote after refusing to answer Covid questions in Congress",
-          "url": "https://www.bbc.com/news/articles/czdmv0vyv4zo"
+          "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+          "url": "https://www.bbc.com/news/articles/crrvqjw8epko"
         },
         {
           "rank": 5,
-          "title": "Singapore fines French teen $465 for viral straw-licking stunt",
-          "url": "https://www.bbc.com/news/articles/crrvqjw8epko"
+          "title": "Fauci to face contempt vote after refusing to answer Covid questions in Congress",
+          "url": "https://www.bbc.com/news/articles/czdmv0vyv4zo"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
+          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
+        },
+        {
+          "rank": 2,
           "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
           "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
         },
         {
-          "rank": 2,
-          "title": "Después de París y Roma, el destino europeo que está en boca de todos",
-          "url": "https://www.clarin.com/viajes/despues-paris-roma-destino-europeo-boca_0_Ko8GZ8lMAE.html"
+          "rank": 3,
+          "title": "Los acuerdos que quieren los Milei y el sucesor de Kicillof en Provincia",
+          "url": "https://www.clarin.com/politica/acuerdos-quieren-milei-sucesor-kicillof-provincia_0_DYUsFrVV9A.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Endurecen las reglas migratorias: podrán expulsar extranjeros por mensajes de odio contra argentinos",
           "url": "https://www.clarin.com/politica/endurecen-reglas-migratorias-podran-expulsar-extranjeros-mensajes-odio-argentinos_0_qLTiXLpCUk.html"
         },
         {
-          "rank": 4,
-          "title": "\"¿Por qué no te morís?\": una cámara de seguridad delató a un cuidador mientras agredía a dos ancianas en un geriátrico",
-          "url": "https://www.clarin.com/sociedad/moris-camara-seguridad-delato-cuidador-agredia-ancianas-geriatrico_0_59904WVbAb.html"
-        },
-        {
           "rank": 5,
-          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
-          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
+          "title": "Las vacaciones soñadas de una pareja de docentes con sus mellizas y un terrible final: \"No caigo que sea verdad esta locura\"",
+          "url": "https://www.clarin.com/sociedad/vacaciones-sonadas-pareja-docentes-mellizas-terrible-final-caigo-verdad-locura_0_trJyCh0kC9.html"
         }
       ],
       "erro": null

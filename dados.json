@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 11:16",
+  "atualizado_em": "30/07/2026 11:22",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "Ancelotti vê fim da geração Neymar, admite erro na Copa e projeta renovação",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/ancelotti-ve-fim-de-ciclo-na-selecao-apos-fala-de-neymar-e-aposta-em-renovacao.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Corpo de jovem que sumiu ao cair em cachoeira durante trilha é achado no PR",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/corpo-de-jovem-que-sumiu-ao-cair-em-cachoeira-durante-trilha-e-achado-no-pr.ghtm"
         },
         {
+          "rank": 4,
+          "title": "Ancelotti vê fim da geração Neymar, admite erro na Copa e projeta renovação",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/ancelotti-ve-fim-de-ciclo-na-selecao-apos-fala-de-neymar-e-aposta-em-renovacao.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Joelma alerta possíveis compradores da mansão de Ximbinha",
-          "url": "https://noticiasdatv.uol.com.br/noticia/celebridades/joelma-alerta-possiveis-compradores-da-mansao-de-ximbinha-serios-problemas-154635"
+          "title": "Policial é desarmado e morto pela filha após briga com a esposa em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/policial-e-morto-pela-filha-apos-ameacar-a-mae-dela-com-uma-arma-em-sp.ghtm"
         }
       ],
       "erro": null
@@ -99,9 +99,35 @@
     },
     {
       "portal": "O Globo",
-      "ok": false,
-      "items": [],
-      "erro": "título 'Mais Lidas' não encontrado"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Tássio Maia dos Santos, ex-jogador do Botafogo, é uma das vítimas fatais de queda de muro por ventania",
+          "url": "https://oglobo.globo.com/esportes/futebol/botafogo/noticia/2026/07/29/tassio-maia-dos-santos-ex-jogador-do-botafogo-e-uma-das-vitimas-fatais-de-queda-de-muro-por-ventania.ghtml"
+        },
+        {
+          "rank": 2,
+          "title": "Desabafo de Erika Januza sobre término com Arlindinho viraliza; internautas elogiam reflexão: 'Que lição'",
+          "url": "https://oglobo.globo.com/ela/noticia/2026/07/30/desabafo-de-erika-januza-sobre-termino-com-arlindinho-viraliza-internautas-elogiam-reflexao-que-licao.ghtml"
+        },
+        {
+          "rank": 3,
+          "title": "Receita Federal faz leilão de iPhones, notebooks e veículos: veja como fazer lances a partir de hoje",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/30/receita-federal-faz-leilao-de-iphones-notebooks-e-veiculos-veja-como-fazer-lances-a-partir-de-hoje.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "PF avalia incluir Flávio Bolsonaro em lista da Interpol para rastrear dinheiro do filme 'Dark Horse' no exterior",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/30/pf-avalia-incluir-flavio-bolsonaro-em-lista-da-interpol-para-rastrear-dinheiro-do-filme-dark-horse-no-exterior.ghtml"
+        },
+        {
+          "rank": 5,
+          "title": "Civilização no Acre tinha população equivalente a um quarto do Império Inca; entenda como tecnologia revelou cidades ocultas",
+          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/civilizacao-no-acre-tinha-populacao-equivalente-a-um-quarto-do-imperio-inca-entenda-como-tecnologia-revelou-cidades-ocultas.ghtml"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "Estadão",
@@ -129,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Home office ou 50% de aumento no salário para voltar ao escritório: o que os paulistas preferem?",
-          "url": "https://www.estadao.com.br/economia/trabalho-presencial-aumento-de-salario-paulistas/"
+          "title": "Shopping pode cobrar o quanto quiser no estacionamento? Conta de R$ 92 viraliza",
+          "url": "https://www.estadao.com.br/jornal-do-carro/shopping-pode-cobrar-o-quanto-quiser-no-estacionamento-conta-de-r-92-viraliza/"
         }
       ],
       "erro": null
@@ -141,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Deputado visitado por motorista de Vorcaro fez projetos de interesse do Master",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/deputado-visitado-por-motorista-de-vorcaro-fez-projetos-de-interesse-do-master"
+          "title": "Exclusivo. Decisão expõe fraude nas Americanas: “Vocês vão ser presos”",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/exclusivo-decisao-expoe-fraude-nas-americanas-voces-vao-ser-presos"
         },
         {
           "rank": 2,
-          "title": "Resposta de Bolsonaro sobre IA cria dilema para campanha de Flávio",
-          "url": "https://www.metropoles.com/brasil/resposta-de-bolsonaro-sobre-ia-cria-dilema-para-campanha-de-flavio"
+          "title": "Milei assina decreto que prevê deportações por ataques à Argentina",
+          "url": "https://www.metropoles.com/mundo/milei-assina-decreto-que-preve-deportacoes-por-ataques-a-argentina"
         },
         {
           "rank": 3,
-          "title": "Família de Eduardo Meirelles esclarece causa da morte do jornalista",
-          "url": "https://www.metropoles.com/entretenimento/cultura/familia-de-eduardo-meirelles-esclarece-causa-da-morte-do-jornalista"
+          "title": "Deputado visitado por motorista de Vorcaro fez projetos de interesse do Master",
+          "url": "https://www.metropoles.com/colunas/andreza-matais/deputado-visitado-por-motorista-de-vorcaro-fez-projetos-de-interesse-do-master"
         }
       ],
       "erro": null
@@ -269,18 +295,18 @@
         },
         {
           "rank": 3,
+          "title": "España en alerta: Ceuta pide cerrar la frontera por la llegada masiva de migrantes de Marruecos",
+          "url": "https://www.clarin.com/mundo/espana-alerta-ceuta-pide-cerrar-frontera-llegada-masiva-migrantes-marruecos_0_Pk3WxAEl3r.html"
+        },
+        {
+          "rank": 4,
           "title": "Las vacaciones soñadas de una pareja de docentes con sus mellizas y un terrible final: \"No caigo que sea verdad esta locura\"",
           "url": "https://www.clarin.com/sociedad/vacaciones-sonadas-pareja-docentes-mellizas-terrible-final-caigo-verdad-locura_0_trJyCh0kC9.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Arde Francia: si querés aire acondicionado, sos de derecha",
           "url": "https://www.clarin.com/opinion/arde-francia-queres-aire-acondicionado-sos-derecha_0_BrQNhgTc5h.html"
-        },
-        {
-          "rank": 5,
-          "title": "Natacha Méndez, la Coca Sarli del off: \"Es un poco fuerte que me comparen con ella\"",
-          "url": "https://www.clarin.com/espectaculos/natacha-mendez-coca-sarli-off-fuerte-comparen_0_qrGrJpNoTL.html"
         }
       ],
       "erro": null

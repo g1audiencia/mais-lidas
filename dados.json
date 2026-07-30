@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 17:45",
+  "atualizado_em": "30/07/2026 17:50",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "PF pede para investigar Lulinha sob suspeita de tráfico de influência e cita gabinete presidencial",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-pede-para-investigar-lulinha-sob-suspeita-de-trafico-de-influencia-e-cita-gabinete-presidencial.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Caixa começa a pagar R$ 13 bilhões de lucro do FGTS; veja como consultar e quanto vai receber",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/caixa-paga-r-13-bilhoes-de-lucro-do-fgts-nesta-sexta-31-calculadora-mostra-quanto-ira-receber.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Advogado é flagrado traindo esposa em parque de Nova York e vê carreira entrar em crise",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/advogado-e-flagrado-traindo-esposa-em-parque-de-nova-york-e-ve-carreira-entrar-em-crise.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Sicupira, filho de Lemann e Saggioro sabiam de fraudes na Americanas, diz juíza",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/sicupira-filho-de-lemann-e-saggioro-sabiam-de-fraudes-na-americanas-diz-juiza.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "PF pede para investigar Lulinha sob suspeita de tráfico de influência e cita gabinete presidencial",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-pede-para-investigar-lulinha-sob-suspeita-de-trafico-de-influencia-e-cita-gabinete-presidencial.shtml"
         }
       ],
       "erro": null
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Ancelotti indica fim de medalhões na Seleção: \"Começando por Neymar\"",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-indica-fim-de-medalhoes-na-selecao-comecando-por-neymar/"
+          "title": "Esposa atualiza estado de saúde de Lito Sousa, que descobriu câncer",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/esposa-atualiza-estado-de-saude-de-lito-sousa-que-descobriu-cancer/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
-        },
-        {
-          "rank": 2,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
-          "rank": 3,
           "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
           "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         },
         {
+          "rank": 2,
+          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
+          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
+        },
+        {
+          "rank": 3,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
           "rank": 4,
-          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
-          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
+          "title": "Traição em Minas coroa fracasso do projeto político de Zema na pré-campanha",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/traicao-em-minas-coroa-fracasso-do-projeto-politico-de-zema-na-pre-campanha/"
         },
         {
           "rank": 5,
-          "title": "Países da Europa anunciam boicote a torneios da Fifa até que plano de venda de ações seja revogado",
-          "url": "https://www.estadao.com.br/esportes/futebol/paises-da-europa-anunciam-boicote-a-torneios-da-fifa-ate-que-plano-de-venda-de-acoes-seja-revogado/"
+          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
+          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "Father of teen school shooter sentenced to 15 years in prison",
-          "url": "https://www.bbc.com/news/articles/c78g4y18rxgo"
-        },
-        {
-          "rank": 3,
           "title": "Oprah Winfrey to close her school for girls in South Africa",
           "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
           "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
+        },
+        {
+          "rank": 4,
+          "title": "Father of teen school shooter sentenced to 15 years in prison",
+          "url": "https://www.bbc.com/news/articles/c78g4y18rxgo"
         },
         {
           "rank": 5,

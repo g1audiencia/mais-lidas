@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 06:29",
+  "atualizado_em": "30/07/2026 06:35",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Ex-clube de Pirlo, Baggio e Guardiola tem falência decretada na Itália",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/ex-clube-de-pirlo-baggio-e-guardiola-tem-falencia-decretada-na-italia.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Arlindinho pede desculpas públicas a Erika Januza após traição",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/arlindinho-pede-desculpas-publicas-a-erika-januza-apos-traicao.shtml"
         },
         {
+          "rank": 4,
+          "title": "Ex-clube de Pirlo, Baggio e Guardiola tem falência decretada na Itália",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/ex-clube-de-pirlo-baggio-e-guardiola-tem-falencia-decretada-na-italia.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Piloto da F1, brasileiro Gabriel Bortoletto viraliza com treino de pescoço",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/piloto-da-f1-brasileiro-gabriel-bortoletto-viraliza-com-treino-de-pescoco.shtml"
+          "title": "Erika Januza fala em livramento ao comentar fim de namoro com Arlindinho",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/erika-januza-fala-em-livramento-ao-comentar-fim-de-namoro-com-arlindinho.shtml"
         }
       ],
       "erro": null
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Ventos fortes causam cinco mortes em São Paulo e Rio de Janeiro",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ventos-fortes-causam-5-mortes-em-sao-paulo-e-rio-de-janeiro/"
+          "title": "EUA lançam ataques ao Irã em resposta à tentativa de \"ofensiva surpresa\"",
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-lancam-ataques-ao-ira-em-resposta-a-tentativa-de-ofensiva-surpresa/"
         }
       ],
       "erro": null
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "‘A vida como ela é’: juíza diz que Sicupira e filho de Lemann sabiam das fraudes na Americanas",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-vida-como-ela-e-juiza-diz-que-sicupira-e-filho-de-lemann-sabiam-das-fraudes-na-americanas/"
+          "title": "O ataque dos ‘jabutis zumbis’",
+          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
         },
         {
           "rank": 3,
-          "title": "El Niño causou vento superior a 100 km/h em SP e no Rio? Especialistas explicam",
-          "url": "https://www.estadao.com.br/sao-paulo/el-nino-causou-vento-superior-a-100-kmh-em-sp-especialistas-explicam/"
+          "title": "Os 2 erros e 1 acerto de Alex Stefano em Vitória x Palmeiras pelo Brasileirão",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/os-2-erros-e-1-acerto-de-alex-stefano-em-vitoria-x-palmeiras-pelo-brasileirao/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "O ataque dos ‘jabutis zumbis’",
-          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
+          "title": "‘A vida como ela é’: juíza diz que Sicupira e filho de Lemann sabiam das fraudes na Americanas",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/a-vida-como-ela-e-juiza-diz-que-sicupira-e-filho-de-lemann-sabiam-das-fraudes-na-americanas/"
         }
       ],
       "erro": null

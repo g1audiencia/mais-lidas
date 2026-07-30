@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 11:44",
+  "atualizado_em": "30/07/2026 11:50",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Ministros do TSE veem interferência de Moraes em cobrança sobre IA de Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/ministros-do-tse-veem-interferencia-de-moraes-em-cobranca-sobre-ia-de-bolsonaro.shtml"
+          "title": "Francês é multado em R$ 2.400 após ser preso por lamber canudo de máquina de suco em Singapura",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/frances-e-multado-em-r-2400-apos-ser-preso-por-lamber-canudo-de-maquina-de-suco-em-singapura.shtml"
         },
         {
           "rank": 3,
-          "title": "EUA retomam ataques ao Irã após pausa de Trump",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/eua-retomam-ataques-ao-ira-apos-pausa-de-trump.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Saiba detalhes sobre casamento de Gabriel Medina e Isabella Arantes após 20 dias de noivado",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/saiba-detalhes-sobre-casamento-de-gabriel-medina-e-isabella-arantes-apos-20-dias-de-noivado.shtml"
         },
         {
+          "rank": 4,
+          "title": "EUA retomam ataques ao Irã após pausa de Trump",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/eua-retomam-ataques-ao-ira-apos-pausa-de-trump.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Outro Canal: 'Quem Ama Cuida' aumenta cenas com improviso de atores após pedido de diretora",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/quem-ama-cuida-aumenta-cenas-com-improviso-de-atores-apos-pedido-de-diretora.shtml"
+          "title": "Ministros do TSE veem interferência de Moraes em cobrança sobre IA de Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/ministros-do-tse-veem-interferencia-de-moraes-em-cobranca-sobre-ia-de-bolsonaro.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
-          "rank": 2,
           "title": "Prejuízo certo: usamos a estatística para provar como as bets sempre vencem (e você perde)",
           "url": "https://www.estadao.com.br/ciencia/prejuizo-certo-usamos-a-estatistica-para-provar-como-as-bets-sempre-vencem-e-voce-perde/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "PP, ex-delegado tributário, fecha acordo de delação sobre propinas bilionárias na Fazenda paulista",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pp-ex-delegado-tributario-fecha-acordo-de-delacao-sobre-propinas-bilionarias-na-fazenda-paulista/"
         },
         {
+          "rank": 3,
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+        },
+        {
           "rank": 4,
-          "title": "Shopping pode cobrar o quanto quiser no estacionamento? Conta de R$ 92 viraliza",
-          "url": "https://www.estadao.com.br/jornal-do-carro/shopping-pode-cobrar-o-quanto-quiser-no-estacionamento-conta-de-r-92-viraliza/"
+          "title": "Profissionais autônomos terão até dezembro para se cadastrar no CNPJ; entenda",
+          "url": "https://www.estadao.com.br/economia/duquesa-de-tax/profissionais-autonomos-prazo-cadastro-cnpj/"
         },
         {
           "rank": 5,
-          "title": "O ataque dos ‘jabutis zumbis’",
-          "url": "https://www.estadao.com.br/opiniao/o-ataque-dos-jabutis-zumbis/"
+          "title": "Brasileiros confiam mais na IA, porém adolescentes nas redes ainda preocupam",
+          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/brasileiros-confiam-mais-na-ia-porem-adolescentes-nas-redes-ainda-preocupam/"
         }
       ],
       "erro": null

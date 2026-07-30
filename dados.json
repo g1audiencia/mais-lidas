@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 09:20",
+  "atualizado_em": "30/07/2026 09:26",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Milei assina decreto que prevê expulsão de estrangeiro que atacar argentinos",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/milei-assina-decreto-para-expulsar-estrangeiro-que-atacar-argentinos.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Ancelotti vê fim da geração Neymar, admite erro na Copa e projeta renovação",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/ancelotti-ve-fim-de-ciclo-na-selecao-apos-fala-de-neymar-e-aposta-em-renovacao.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ex-atacante do Botafogo morre após queda de muro em ventania no Rio",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/29/ex-atacante-do-botafogo-morre-apos-queda-de-muro-em-ventania-no-rio.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Milei assina decreto que prevê expulsão de estrangeiro que atacar argentinos",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/milei-assina-decreto-para-expulsar-estrangeiro-que-atacar-argentinos.ghtm"
         },
         {
           "rank": 4,

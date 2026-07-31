@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 22:43",
+  "atualizado_em": "30/07/2026 22:49",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Lula admite risco de interferência de Trump nas eleições",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Mendonça autoriza PF a investigar Lulinha sob suspeita de tráfico de influência",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-pede-para-investigar-lulinha-sob-suspeita-de-trafico-de-influencia-e-cita-gabinete-presidencial.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "The Voice Brasil terá Diogo Nogueira, Paulo Ricardo e Lauana Prado como técnicos",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/the-voice-brasil-tera-diogo-nogueira-paulo-ricardo-e-lauana-prado-como-tecnicos.shtml"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
-          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
-        },
-        {
-          "rank": 2,
           "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
           "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
         },
         {
+          "rank": 2,
+          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
+          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
+        },
+        {
           "rank": 3,
-          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente presentó en cadena nacional la reforma de la carta orgánica del BCRA",
-          "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-hablara-hoy-cadena-nacional-explicar-reforma-carta-organica-bcra_0_RovPL2XxQh.html"
+          "title": "Meloni pidió suspender el espacio Schengen entre Italia y España y la Casa Blanca se sumó a las críticas por la crisis en Ceuta",
+          "url": "https://www.clarin.com/mundo/meloni-pidio-suspender-espana-espacio-schengen-casa-blanca-sumo-criticas-crisis-ceuta_0_4SV4Fi0xWk.html"
         },
         {
           "rank": 4,
-          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
+          "title": "Impresionante choque en la autopista Rosario-Córdoba: una Toyota Hilux partida al medio y tres muertos",
+          "url": "https://www.clarin.com/sociedad/impresionante-choque-autopista-rosario-cordoba-toyota-hilux-partida-medio-muertos_0_owXPBYBToI.html"
         },
         {
           "rank": 5,
-          "title": "Impresionante choque en la autopista Rosario-Córdoba: una Toyota Hilux partida al medio y tres muertos",
-          "url": "https://www.clarin.com/sociedad/impresionante-choque-autopista-rosario-cordoba-toyota-hilux-partida-medio-muertos_0_owXPBYBToI.html"
+          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
         }
       ],
       "erro": null

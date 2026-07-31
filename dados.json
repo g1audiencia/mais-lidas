@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 10:54",
+  "atualizado_em": "31/07/2026 10:59",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
-          "title": "Morre aos 66 anos Franco Baresi, ídolo do Milan e da seleção italiana",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/franco-baresi-idolo-do-milan-e-da-italia-morre-aos-66-anos.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Moradores protestam e pedem que Aline Mineiro e namorado deixem prédio após agressão",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/30/apos-agressao-moradores-pedem-que-aline-mineiro-e-namorado-deixem-o-predio.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Três viúvas no velório: mulher descobre traições durante o enterro do companheiro falecido",
           "url": "https://tnonline.uol.com.br/noticias/cotidiano/tres-viuvas-no-velorio-mulher-descobre-traicoes-durante-o-enterro-do-companheiro-falecido-1122468"
+        },
+        {
+          "rank": 4,
+          "title": "Morre aos 66 anos Franco Baresi, ídolo do Milan e da seleção italiana",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/franco-baresi-idolo-do-milan-e-da-italia-morre-aos-66-anos.ghtm"
         },
         {
           "rank": 5,
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Mega-Sena 3038 acumula, e prêmio vai a R$ 100 milhões. Veja resultado",
-          "url": "https://www.metropoles.com/brasil/mega-sena-3038-acumula-e-premio-vai-a-r-100-milhoes-veja-resultado"
+          "title": "Entrou pela perna do pinto: o fim precoce da chapa Flávio-Tereza",
+          "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/entrou-pela-perna-do-pinto-o-fim-precoce-da-chapa-flavio-tereza"
         },
         {
           "rank": 2,
-          "title": "Lulinha: entenda nova investigação da PF autorizada pelo STF",
-          "url": "https://www.metropoles.com/brasil/lulinha-entenda-nova-investigacao-da-pf-contra-filho-de-lula"
+          "title": "PP anuncia neutralidade e barra Tereza Cristina como vice de Flávio Bolsonaro",
+          "url": "https://www.metropoles.com/brasil/pp-anuncia-neutralidade-e-rifa-tereza-como-vice-de-flavio-bolsonaro"
         },
         {
           "rank": 3,
-          "title": "Entrou pela perna do pinto: o fim precoce da chapa Flávio-Tereza",
-          "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/entrou-pela-perna-do-pinto-o-fim-precoce-da-chapa-flavio-tereza"
+          "title": "Defesa de Lulinha avalia pedir que novo inquérito deixe o STF",
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/defesa-de-lulinha-avalia-pedir-que-novo-inquerito-deixe-o-stf"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Anthropic's Claude AI escapes to hack into three organisations",
-          "url": "https://www.bbc.com/news/articles/cz7dl7w8y7po"
+          "title": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
+          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
         },
         {
           "rank": 5,
-          "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-          "url": "https://www.bbc.com/news/articles/cp87m46g392o"
+          "title": "Anthropic's Claude AI escapes to hack into three organisations",
+          "url": "https://www.bbc.com/news/articles/cz7dl7w8y7po"
         }
       ],
       "erro": null

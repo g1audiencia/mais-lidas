@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 23:44",
+  "atualizado_em": "30/07/2026 23:50",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 3,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
           "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         },
         {
+          "rank": 3,
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
+          "rank": 4,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
           "rank": 5,
-          "title": "Vídeo: milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 9 mortes",
-          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         }
       ],
       "erro": null
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
-          "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
-          "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
-        },
-        {
-          "rank": 3,
           "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
           "url": "https://apnews.com/article/fauci-covid19-pandemic-senate-rand-paul-a774a79e46824ebec9e8e270b9cb9825"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Trump says he may pull Todd Blanche’s attorney general nomination for now",
           "url": "https://apnews.com/live/trump-iran-news-updates-07-30-2026"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
           "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
+        },
+        {
+          "rank": 5,
+          "title": "Glen Hansard, Irish musician who won Oscar for ‘Once,’ dies in motorcycle crash",
+          "url": "https://apnews.com/article/glen-hansard-dies-dublin-motorcycle-crash-2df53656c036a9e39f91514d25538311"
         }
       ],
       "erro": null

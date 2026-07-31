@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 12:12",
+  "atualizado_em": "31/07/2026 12:17",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "Morre aos 66 anos Franco Baresi, ídolo do Milan e da seleção italiana",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/franco-baresi-idolo-do-milan-e-da-italia-morre-aos-66-anos.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Gigante recém-contratado é nova ameaça à permanência de Endrick no Real",
           "url": "https://www.uol.com.br/esporte/colunas/mercado-da-bola/2026/07/31/gigante-de-time-modesto-e-nova-ameaca-a-permanencia-de-endrick-no-real.htm"
         },
         {
+          "rank": 4,
+          "title": "Flávio critica voto feminino em Lula e o acusa de se 'vingar' de SP",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/07/31/flavio-bolsonaro-nunes-vereadores-de-sao-paulo.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Sánchez atribui crise em Ceuta a boato de 'máfias de tráfico humano'",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/pedro-sanchez-ceuta-espanha.ghtm"
+          "title": "Testemunha diz que agressão partiu do namorado de Aline Mineiro",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/31/aline-mineiro-depoimento-agressao-jovem.ghtm"
         }
       ],
       "erro": null
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "TSE vê interferência de Moraes e ordem sobre IA de Bolsonaro gera mal-estar",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/tse-ve-interferencia-de-moraes-e-ordem-sobre-ia-de-bolsonaro-gera-mal-estar/"
+          "title": "Vox Brasil: Lula vence Flávio e Zema, e empata com Caiado no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/vox-brasil-lula-vence-flavio-e-zema-mas-empata-com-caiado-no-2o-turno/"
         }
       ],
       "erro": null
@@ -103,13 +103,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Gabinete presidencial, cannabis medicinal e tráfico de influência: entenda a nova investigação da PF contra Lulinha",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/07/31/gabinete-presidencial-cannabis-medicinal-e-trafico-de-influencia-entenda-a-nova-investigacao-da-pf-contra-lulinha.ghtml"
+          "title": "Real Madrid dá ultimato a Vini Jr.: renovar ou ser negociado nesta janela, diz jornal",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/31/real-madrid-da-ultimato-a-vini-jr-renovar-ou-ser-negociado-nesta-janela-diz-jornal.ghtml"
         },
         {
           "rank": 2,
-          "title": "Real Madrid dá ultimato a Vini Jr.: renovar ou ser negociado nesta janela, diz jornal",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/31/real-madrid-da-ultimato-a-vini-jr-renovar-ou-ser-negociado-nesta-janela-diz-jornal.ghtml"
+          "title": "Gabinete presidencial, cannabis medicinal e tráfico de influência: entenda a nova investigação da PF contra Lulinha",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/31/gabinete-presidencial-cannabis-medicinal-e-trafico-de-influencia-entenda-a-nova-investigacao-da-pf-contra-lulinha.ghtml"
         },
         {
           "rank": 3,
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
-          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
           "rank": 2,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
+          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
+          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
         },
         {
           "rank": 5,
-          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
-          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         }
       ],
       "erro": null

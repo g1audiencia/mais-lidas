@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 10:09",
+  "atualizado_em": "31/07/2026 10:15",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
+          "title": "Morre aos 66 anos Franco Baresi, ídolo do Milan e da seleção italiana",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/franco-baresi-idolo-do-milan-e-da-italia-morre-aos-66-anos.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Moradores protestam e pedem que Aline Mineiro e namorado deixem prédio após agressão",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/30/apos-agressao-moradores-pedem-que-aline-mineiro-e-namorado-deixem-o-predio.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Três viúvas no velório: mulher descobre traições durante o enterro do companheiro falecido",
           "url": "https://tnonline.uol.com.br/noticias/cotidiano/tres-viuvas-no-velorio-mulher-descobre-traicoes-durante-o-enterro-do-companheiro-falecido-1122468"
-        },
-        {
-          "rank": 4,
-          "title": "Morre aos 66 anos Franco Baresi, ídolo do Milan e da seleção italiana",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/franco-baresi-idolo-do-milan-e-da-italia-morre-aos-66-anos.ghtm"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
-        },
-        {
-          "rank": 3,
           "title": "PF detectou 74 ligações e 5h30 de conversas entre Jaques Wagner e ex-sócio do Master",
           "url": "https://www.estadao.com.br/politica/pf-detectou-74-ligacoes-e-5h30-de-conversas-entre-jaques-wagner-e-ex-socio-do-master/"
         },
         {
+          "rank": 3,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
           "rank": 4,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
+          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
         },
         {
           "rank": 5,
-          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
-          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
+          "title": "Flávio e Moraes testam a Justiça Eleitoral",
+          "url": "https://www.estadao.com.br/opiniao/flavio-e-moraes-testam-a-justica-eleitoral/"
         }
       ],
       "erro": null

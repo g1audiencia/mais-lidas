@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 20:24",
+  "atualizado_em": "31/07/2026 20:30",
   "portais": [
     {
       "portal": "Folha",
@@ -221,13 +221,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Trump administration is ending a Medicare drug subsidy program. Here’s how it could affect costs",
-          "url": "https://apnews.com/article/medicare-drug-subsidy-trump-biden-insurance-3d3fdb43b1bf374a1a168506fded86c0"
+          "title": "Trump administration ends Medicare drug subsidy, Trump announces deal for Hamas to disarm in Gaza, border crisis",
+          "url": "https://apnews.com/newsletter/morning-wire/july-31-2026"
         },
         {
           "rank": 2,
-          "title": "Trump administration ends Medicare drug subsidy, Trump announces deal for Hamas to disarm in Gaza, border crisis",
-          "url": "https://apnews.com/newsletter/morning-wire/july-31-2026"
+          "title": "The Trump administration is ending a Medicare drug subsidy program. Here’s how it could affect costs",
+          "url": "https://apnews.com/article/medicare-drug-subsidy-trump-biden-insurance-3d3fdb43b1bf374a1a168506fded86c0"
         },
         {
           "rank": 3,
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Red Arrows grounded in Canada after US tour",
-          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
-        },
-        {
-          "rank": 3,
           "title": "Trump administration drops Reflecting Pool vandalism charge and admits flawed repairs",
           "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
         },
         {
+          "rank": 3,
+          "title": "Red Arrows grounded in Canada after US tour",
+          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
+        },
+        {
           "rank": 4,
-          "title": "Body of US climber the latest recovered after Pakistan avalanche",
-          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
+          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+          "url": "https://www.bbc.com/news/articles/ce973re9404o"
         },
         {
           "rank": 5,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+          "title": "Body of US climber the latest recovered after Pakistan avalanche",
+          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
         }
       ],
       "erro": null

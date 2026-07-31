@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 12:06",
+  "atualizado_em": "31/07/2026 12:12",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
-        },
-        {
-          "rank": 4,
           "title": "Progressistas veta Tereza Cristina como vice de Flávio e mantém neutralidade na disputa presidencial",
           "url": "https://www.estadao.com.br/politica/progressistas-veta-tereza-cristina-como-vice-de-flavio-e-mantem-neutralidade-na-disputa-presidencial/"
         },
         {
+          "rank": 4,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
           "rank": 5,
-          "title": "PF detectou 74 ligações e 5h30 de conversas entre Jaques Wagner e ex-sócio do Master",
-          "url": "https://www.estadao.com.br/politica/pf-detectou-74-ligacoes-e-5h30-de-conversas-entre-jaques-wagner-e-ex-socio-do-master/"
+          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
+          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
-          "title": "How views on Trump’s handling of Iran have shifted, according to a new AP-NORC poll",
-          "url": "https://apnews.com/article/trump-approval-iran-war-poll-republicans-election-55e9c80afec521d87f131393a59674c0"
-        },
-        {
-          "rank": 4,
           "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict",
           "url": "https://apnews.com/article/iran-war-us-hormuz-strait-july-30-2026-8dc77ed6a65f389ea4af84635d2473bd"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "European nations vow FIFA World Cup boycott over Infantino private equity plan as opposition spreads",
           "url": "https://apnews.com/article/fifa-investors-infantino-kushner-uefa-afc-76169d3e9bb68f4d174b3c87f6b53e50"
+        },
+        {
+          "rank": 5,
+          "title": "How views on Trump’s handling of Iran have shifted, according to a new AP-NORC poll",
+          "url": "https://apnews.com/article/trump-approval-iran-war-poll-republicans-election-55e9c80afec521d87f131393a59674c0"
         }
       ],
       "erro": null

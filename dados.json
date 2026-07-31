@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 05:49",
+  "atualizado_em": "31/07/2026 05:55",
   "portais": [
     {
       "portal": "Folha",
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
-        },
-        {
-          "rank": 3,
           "title": "Oprah Winfrey to close her school for girls in South Africa",
           "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
           "url": "https://www.bbc.com/news/articles/crrv7vk0knro"
         },
         {
+          "rank": 4,
+          "title": "Two Americans convicted of murdering Canadian couple in Dominica",
+          "url": "https://www.bbc.com/news/articles/c1e10792l21o"
+        },
+        {
           "rank": 5,
-          "title": "Anthropic's Claude AI escapes tests to hack three organisations",
-          "url": "https://www.bbc.com/news/articles/cz7dl7w8y7po"
+          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         }
       ],
       "erro": null

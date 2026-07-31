@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 18:54",
+  "atualizado_em": "31/07/2026 18:59",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
-          "rank": 2,
           "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
           "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
           "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
         },
         {
+          "rank": 4,
+          "title": "Lula diz que Alvorada é ‘desumano’ para morar: ‘café chega frio, cerveja chega quente’; veja vídeo",
+          "url": "https://www.estadao.com.br/politica/lula-diz-que-palacio-da-alvorada-e-desumano-para-morar-nprp/"
+        },
+        {
           "rank": 5,
-          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
-          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         }
       ],
       "erro": null

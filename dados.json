@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 10:43",
+  "atualizado_em": "31/07/2026 10:48",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
         },
         {
+          "rank": 2,
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+        },
+        {
           "rank": 3,
-          "title": "PF aponta presentes de ex-sócio do Master a políticos e 74 ligações com Jaques Wagner",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aponta-presentes-de-ex-socio-do-master-a-politicos-e-74-ligacoes-com-jaques-wagner.shtml"
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         },
         {
           "rank": 4,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+          "title": "PF aponta presentes de ex-sócio do Master a políticos e 74 ligações com Jaques Wagner",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aponta-presentes-de-ex-socio-do-master-a-politicos-e-74-ligacoes-com-jaques-wagner.shtml"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 19:10",
+  "atualizado_em": "31/07/2026 19:16",
   "portais": [
     {
       "portal": "Folha",
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "'Já esperávamos': brasileira relata reações à crise migratória na Espanha",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/ja-esperavamos-brasileira-relata-clima-na-espanha-apos-crise-migratoria.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Nivea Stelmann diz que foi deixada pelo marido após 14 anos",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/31/nivea-stelmann-revela-separacao-relampago-apos-14-anos-estou-em-choque.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Como Tom Cruise e Brad Pitt: com quem fica a herança se filhos tiram sobrenome",
           "url": "https://www.uol.com.br/flash/?c=4e9f36bb496fe7a6bbbb966d5e7549b020260731"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "O que está acontecendo em Ceuta? Entenda a crise migratória",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/o-que-esta-acontecendo-em-ceuta-entenda-crise-migratoria-na-espanha.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Corinthians confirma lesões de Zakaria e Yuri; Garro sofre trauma no pé",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/corinthians-confirma-lesoes-de-zakaria-e-yuri-garro-sofre-trauma-no-pe.ghtm"
         },
         {
           "rank": 5,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
-          "url": "https://www.bbc.com/news/articles/c89n0xykw2go"
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
           "rank": 5,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+          "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
+          "url": "https://www.bbc.com/news/articles/c86n0336082o"
         }
       ],
       "erro": null

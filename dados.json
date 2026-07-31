@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 20:35",
+  "atualizado_em": "31/07/2026 20:41",
   "portais": [
     {
       "portal": "Folha",
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
-          "title": "The Trump administration is ending a Medicare drug subsidy program. Here’s how it could affect costs",
-          "url": "https://apnews.com/article/medicare-drug-subsidy-trump-biden-insurance-3d3fdb43b1bf374a1a168506fded86c0"
-        },
-        {
-          "rank": 3,
           "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
           "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
           "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Senior FIFA executive says staff were deceived over Infantino’s World Cup sell-off plan",
           "url": "https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab"
+        },
+        {
+          "rank": 5,
+          "title": "US cites ‘unauthorized travel’ to end DACA status for a mother of 3 deported to Mexico",
+          "url": "https://apnews.com/article/daca-immigration-texas-uscis-09071c1707e6e1d385ca503c9c75bc6f"
         }
       ],
       "erro": null

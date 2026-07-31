@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 03:25",
+  "atualizado_em": "31/07/2026 03:31",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Mulher morre após colonoscopia em SP: o que pode causar perfuração",
-          "url": "https://www.cnnbrasil.com.br/saude/mulher-morre-apos-colonoscopia-em-sp-o-que-pode-causar-perfuracao/"
+          "title": "Morre o jornalista Eduardo Meirelles aos 30 anos",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-jornalista-eduardo-meirelles-aos-30-anos/"
         },
         {
           "rank": 4,
-          "title": "Morre o jornalista Eduardo Meirelles aos 30 anos",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-jornalista-eduardo-meirelles-aos-30-anos/"
+          "title": "Mulher morre após colonoscopia em SP: o que pode causar perfuração",
+          "url": "https://www.cnnbrasil.com.br/saude/mulher-morre-apos-colonoscopia-em-sp-o-que-pode-causar-perfuracao/"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
-        },
-        {
-          "rank": 3,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
-        },
-        {
-          "rank": 4,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
+          "rank": 3,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
+          "rank": 4,
+          "title": "Vídeo: milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 9 mortes",
+          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Luciano Huck celebra aprovação do filho em faculdade que custa R$ 100 mil ao ano",
-          "url": "https://www.estadao.com.br/emais/gente/luciano-huck-celebra-aprovacao-do-filho-em-faculdade-que-custa-r-100-mil-ao-ano-nprec/"
+          "title": "André Mendonça autoriza PF a abrir inquérito para apurar tráfico de influência de Lulinha no governo",
+          "url": "https://www.estadao.com.br/politica/andre-mendonca-autoriza-pf-a-abrir-inquerito-para-apurar-trafico-de-influencia-de-lulinha-no-governo/"
         }
       ],
       "erro": null

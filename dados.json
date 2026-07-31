@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 12:23",
+  "atualizado_em": "31/07/2026 12:29",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
-        },
-        {
-          "rank": 2,
           "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
           "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
         },
         {
+          "rank": 2,
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
           "rank": 3,
-          "title": "Progressistas veta Tereza Cristina como vice de Flávio e mantém neutralidade na disputa presidencial",
-          "url": "https://www.estadao.com.br/politica/progressistas-veta-tereza-cristina-como-vice-de-flavio-e-mantem-neutralidade-na-disputa-presidencial/"
+          "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
+          "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
         },
         {
           "rank": 4,
-          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
-          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
+          "title": "Progressistas veta Tereza Cristina como vice de Flávio e mantém neutralidade na disputa presidencial",
+          "url": "https://www.estadao.com.br/politica/progressistas-veta-tereza-cristina-como-vice-de-flavio-e-mantem-neutralidade-na-disputa-presidencial/"
         },
         {
           "rank": 5,
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "Crisis en Ceuta: otros dos países europeos apoyan a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
+          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
+          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
         },
         {
           "rank": 3,
-          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
-          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
+          "title": "Crisis en Ceuta: otros dos países europeos apoyan a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
         },
         {
           "rank": 4,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 00:06",
+  "atualizado_em": "31/07/2026 00:12",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "Qual velocidade do vento é capaz de te derrubar? Infográfico mostra impactos das rajadas sobre o corpo humano",
-          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/qual-velocidade-do-vento-e-capaz-de-te-derrubar-infografico-mostra-impactos-das-rajadas-sobre-o-corpo-humano.ghtml"
-        },
-        {
-          "rank": 3,
-          "title": "Lucro do FGTS começa a cair na conta, diz Caixa. Veja na calculadora quanto você vai receber",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/30/lucro-do-fgts-comeca-a-cair-na-conta-veja-na-calculadora-quanto-voce-vai-receber.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Mendonça autoriza nova investigação de Lulinha, e PF cita acesso ao gabinete presidencial",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/30/pf-pede-ao-stf-nova-investigacao-de-lulinha-e-cita-acesso-ao-gabinete-presidencial.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Qual velocidade do vento é capaz de te derrubar? Infográfico mostra impactos das rajadas sobre o corpo humano",
+          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/qual-velocidade-do-vento-e-capaz-de-te-derrubar-infografico-mostra-impactos-das-rajadas-sobre-o-corpo-humano.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "Lucro do FGTS começa a cair na conta, diz Caixa. Veja na calculadora quanto você vai receber",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/30/lucro-do-fgts-comeca-a-cair-na-conta-veja-na-calculadora-quanto-voce-vai-receber.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "Paraguai convoca embaixador brasileiro em Assunção após fala de Lula sobre guerra",
-          "url": "https://oglobo.globo.com/mundo/noticia/2026/07/30/paraguai-convoca-embaixador-brasileiro-em-assuncao-apos-fala-de-lula-sobre-guerra.ghtml"
+          "title": "Justiça homologa a Recuperação Extrajudical da Raízen, a maior da história do Brasil",
+          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/justica-homologa-a-recuperacao-extrajudical-da-raizen-a-maior-da-historia-do-brasil.ghtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         },
         {
           "rank": 4,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+          "title": "Qual o Estado mais caloteiro do Brasil?",
+          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/qual-o-estado-mais-caloteiro-do-brasil/"
         },
         {
           "rank": 5,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
+          "title": "British Airways flight called mayday on approach to Heathrow",
+          "url": "https://www.bbc.com/news/articles/cn8n1knkkz9o"
         },
         {
           "rank": 5,
-          "title": "British Airways flight called mayday on approach to Heathrow",
-          "url": "https://www.bbc.com/news/articles/cn8n1knkkz9o"
+          "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
         }
       ],
       "erro": null

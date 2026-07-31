@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 12:17",
+  "atualizado_em": "31/07/2026 12:23",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Luciano Huck celebra aprovação de Benício em faculdade",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
         },
         {
-          "rank": 3,
-          "title": "Combinação de gordura abdominal e falta de vitamina D mais que dobra risco de morte após 50 anos",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/combinacao-de-gordura-abdominal-e-falta-de-vitamina-d-mais-que-dobra-risco-de-morte-apos-50-anos.shtml"
+          "rank": 2,
+          "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         },
         {
+          "rank": 4,
+          "title": "Hamas condiciona desarmamento anunciado por Trump a cumprimento de acordo por Israel",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/hamas-condiciona-desarmamento-anunciado-por-trump-a-cumprimento-de-acordo-por-israel.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/saiba-onde-a-epidemia-de-hiv-tem-crescimento-mais-rapido-no-mundo-e-o-por-que.shtml"
+          "title": "Cerca de 60 mil imigrantes do Marrocos entraram em Ceuta; Espanha reforça segurança da fronteira",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/ao-menos-49-mil-imigrantes-do-marrocos-entram-em-ceuta-em-24-horas-espanha-reforca-seguranca.shtml"
         }
       ],
       "erro": null

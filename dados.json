@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 06:11",
+  "atualizado_em": "31/07/2026 06:17",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+          "title": "Outro Canal: SBT rescinde contrato com Thiago Gardinali após cinco meses e muda telejornais",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/sbt-rescinde-contrato-com-thiago-gardinalli-apos-cinco-meses-e-muda-telejornais.shtml"
         }
       ],
       "erro": null
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "Mendonça autorizou PF a monitorar localização do celular de Jaques Wagner em investigação sobre Banco Master",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/07/30/mendonca-autorizou-pf-a-monitorar-localizacao-do-celular-de-jaques-wagner-em-investigacao-sobre-banco-master.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Flávio defende vídeo de Bolsonaro criado por IA e nega irregularidade: ‘Não tinha nada de errado’",
           "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-defende-video-de-bolsonaro-criado-por-ia-e-nega-irregularidade-nao-tinha-nada-de-errado.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Mendonça autorizou PF a monitorar localização do celular de Jaques Wagner em investigação sobre Banco Master",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/30/mendonca-autorizou-pf-a-monitorar-localizacao-do-celular-de-jaques-wagner-em-investigacao-sobre-banco-master.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Justiça homologa a Recuperação Extrajudical da Raízen, a maior da história do Brasil",
-          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/justica-homologa-a-recuperacao-extrajudical-da-raizen-a-maior-da-historia-do-brasil.ghtml"
+          "title": "Gabinete presidencial, cannabis medicinal e tráfico de influência: entenda a nova investigação da PF contra Lulinha",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/31/gabinete-presidencial-cannabis-medicinal-e-trafico-de-influencia-entenda-a-nova-investigacao-da-pf-contra-lulinha.ghtml"
         },
         {
           "rank": 5,
-          "title": "Qual velocidade do vento é capaz de te derrubar? Infográfico mostra impactos das rajadas sobre o corpo humano",
-          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/qual-velocidade-do-vento-e-capaz-de-te-derrubar-infografico-mostra-impactos-das-rajadas-sobre-o-corpo-humano.ghtml"
+          "title": "Justiça homologa a Recuperação Extrajudical da Raízen, a maior da história do Brasil",
+          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/justica-homologa-a-recuperacao-extrajudical-da-raizen-a-maior-da-historia-do-brasil.ghtml"
         }
       ],
       "erro": null
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Vídeo: Milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 18 mortes",
-          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
-        },
-        {
-          "rank": 3,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
+          "rank": 3,
+          "title": "Wagner articulou encontro ‘discreto e protegido’ de Messias com ex-sócio do Master, mostra conversa",
+          "url": "https://www.estadao.com.br/politica/wagner-articulou-encontro-discreto-e-protegido-de-messias-com-ex-socio-do-master-mostra-conversa/"
+        },
+        {
           "rank": 4,
-          "title": "Flávio e Moraes testam a Justiça Eleitoral",
-          "url": "https://www.estadao.com.br/opiniao/flavio-e-moraes-testam-a-justica-eleitoral/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 5,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Two Americans convicted of murdering Canadian couple in Dominica",
-          "url": "https://www.bbc.com/news/articles/c1e10792l21o"
+          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
           "rank": 5,
-          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
+          "title": "Two Americans convicted of murdering Canadian couple in Dominica",
+          "url": "https://www.bbc.com/news/articles/c1e10792l21o"
         }
       ],
       "erro": null

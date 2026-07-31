@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 01:45",
+  "atualizado_em": "31/07/2026 01:51",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Dirigentes do PP rejeitam aliança com Flávio Bolsonaro após sinalização de Tereza Cristina para vice",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/tereza-cristina-encontra-flavio-bolsonaro-e-indica-topar-vice-mas-pp-resiste-a-alianca.shtml"
         },
         {
+          "rank": 2,
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml"
+          "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
         },
         {
           "rank": 4,
-          "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
+          "title": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml"
         },
         {
           "rank": 5,
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "Wagner articulou encontro ‘discreto e protegido’ de Messias com ex-sócio do Master, mostra conversa",
+          "url": "https://www.estadao.com.br/politica/wagner-articulou-encontro-discreto-e-protegido-de-messias-com-ex-socio-do-master-mostra-conversa/"
         },
         {
           "rank": 5,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 21:43",
+  "atualizado_em": "30/07/2026 21:48",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml"
         },
         {
+          "rank": 2,
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Confira o resultado do concurso 3038 da Mega-Sena sorteado nesta quinta (30)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/confira-a-partir-das-21h-desta-quinta-30-o-resultado-do-concurso-3038-da-mega-sena.shtml"
+          "title": "Mulher morre após ter o intestino perfurado durante colonoscopia em hospital municipal de SP",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/mulher-morre-apos-ter-o-intestino-perfurado-durante-colonoscopia-em-hospital-de-sp.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Mulher morre após ter o intestino perfurado durante colonoscopia em hospital municipal de SP",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/mulher-morre-apos-ter-o-intestino-perfurado-durante-colonoscopia-em-hospital-de-sp.shtml"
+          "title": "Lula admite risco de interferência de Trump nas eleições",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml"
         }
       ],
       "erro": null
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
+          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 2,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
           "rank": 3,
-          "title": "Os três novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-tres-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
+          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         },
         {
           "rank": 4,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
+          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
         },
         {
           "rank": 5,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Two Americans convicted of murdering Canadian couple in Dominica",
-          "url": "https://www.bbc.com/news/articles/c1e10792l21o"
+          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
           "rank": 5,
-          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
+          "title": "Two Americans convicted of murdering Canadian couple in Dominica",
+          "url": "https://www.bbc.com/news/articles/c1e10792l21o"
         }
       ],
       "erro": null

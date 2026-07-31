@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 13:46",
+  "atualizado_em": "31/07/2026 13:51",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Nasce Dom, primeiro filho de Lauana Prado e Tati Dias",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/nasce-dom-primeiro-filho-de-lauana-prado-e-tati-dias.shtml"
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
         },
         {
           "rank": 3,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+          "title": "Nasce Dom, primeiro filho de Lauana Prado e Tati Dias",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/nasce-dom-primeiro-filho-de-lauana-prado-e-tati-dias.shtml"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
-          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
-        },
-        {
-          "rank": 2,
           "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
           "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
         },
         {
+          "rank": 2,
+          "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
+          "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
+        },
+        {
           "rank": 3,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
+          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
         },
         {
           "rank": 4,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
+          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
         },
         {
           "rank": 5,
-          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
-          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Crisis en Ceuta: otros dos países europeos apoyan a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
+          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_HTUBgdHUua.html"
         },
         {
           "rank": 5,
-          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_HTUBgdHUua.html"
+          "title": "Crisis en Ceuta: otros dos países europeos apoyan a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
         }
       ],
       "erro": null

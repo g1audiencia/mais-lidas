@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 07:12",
+  "atualizado_em": "31/07/2026 07:17",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Morre Franco Baresi, lendário capitão do Milan, aos 66 anos",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/morre-franco-baresi-lendario-capitao-do-milan-aos-66-anos.shtml"
+          "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
         },
         {
           "rank": 4,
-          "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
+          "title": "Morre Franco Baresi, lendário capitão do Milan, aos 66 anos",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/morre-franco-baresi-lendario-capitao-do-milan-aos-66-anos.shtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+        },
+        {
+          "rank": 2,
+          "title": "Flávio e Moraes testam a Justiça Eleitoral",
+          "url": "https://www.estadao.com.br/opiniao/flavio-e-moraes-testam-a-justica-eleitoral/"
+        },
+        {
+          "rank": 3,
+          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
+          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
+        },
+        {
+          "rank": 4,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
-          "rank": 2,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
-        },
-        {
-          "rank": 3,
-          "title": "Como um único produto da Bradesco Asset atraiu um terço dos R$ 27 bi captados por ETFs de renda fixa",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/como-um-unico-produto-da-bradesco-asset-atraiu-um-terco-dos-r-27-bi-captados-por-etfs-de-renda-fixa/"
-        },
-        {
-          "rank": 4,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
           "rank": 5,
-          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
-          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
+          "title": "Vídeo: Milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 18 mortes",
+          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
         }
       ],
       "erro": null

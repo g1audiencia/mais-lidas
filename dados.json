@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 21:37",
+  "atualizado_em": "30/07/2026 21:43",
   "portais": [
     {
       "portal": "Folha",
@@ -44,8 +44,8 @@
         },
         {
           "rank": 2,
-          "title": "O que Lula falou sobre o Paraguai, e quem está certo sobre a história?",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/30/o-que-lula-falou-sobre-o-paraguai-e-quem-esta-certo-sobre-a-historia.ghtm"
+          "title": "Yuri Alberto perde gol, sai machucado, e Corinthians empata com o Athletico",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/corinthians-athletico-brasileirao.ghtm"
         },
         {
           "rank": 3,
@@ -54,13 +54,13 @@
         },
         {
           "rank": 4,
-          "title": "Mega-Sena tem prêmio acumulado de R$ 85,09 milhões; veja dezenas",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/07/30/mega-sena-concurso-3038-sorteio-30-de-julho.ghtm"
+          "title": "Veja os resultados da rodada e a classificação do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         },
         {
           "rank": 5,
-          "title": "Mulher que morreu após colonoscopia ligou para tia antes do exame: 'Estou com medo'",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/30/mulher-morta-apos-colonoscopia-ligou-para-tia-antes-do-exame-tinha-medo.ghtm"
+          "title": "Protesto da Gaviões gera tensão na Arena e acusação de censura",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/gavioes-leva-faixas-de-protesto-contra-a-diretoria-para-jogo-do-corinthians.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os três novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-tres-novos-trunfos-de-flavio-que-assombram-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
+          "rank": 2,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
           "rank": 3,
+          "title": "Os três novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-tres-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
+          "rank": 4,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
-          "rank": 4,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
-        },
-        {
           "rank": 5,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         }
       ],
       "erro": null

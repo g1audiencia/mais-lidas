@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 03:09",
+  "atualizado_em": "31/07/2026 03:14",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
+          "rank": 2,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
           "rank": 3,
-          "title": "Fotógrafa que sumiu em trilha no Paraná é encontrada morta depois de cinco dias de buscas",
-          "url": "https://www.estadao.com.br/brasil/fotografa-que-sumiu-em-trilha-no-parana-e-encontrada-morta-apos-buscas-npr/"
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
           "rank": 4,
-          "title": "Em busca de inimigo externo, Milei aposta em briga com Lula e expulsão de estrangeiros da Argentina",
-          "url": "https://www.estadao.com.br/internacional/busca-de-inimigo-externo-para-contornar-problemas-internos-motiva-hostilidade-de-milei-contra-lula/"
+          "title": "Quais são as ruas mais perigosas de Pinheiros? Veja ranking das vias campeãs de roubo",
+          "url": "https://www.estadao.com.br/sao-paulo/quais-sao-as-ruas-mais-perigosas-de-pinheiros-veja-ranking-das-vias-campeas-de-roubo/"
         },
         {
           "rank": 5,
-          "title": "Chaveamento da Sul-Americana é atualizado após a conclusão da repescagem; confira",
-          "url": "https://www.estadao.com.br/esportes/futebol/chaveamento-da-sul-americana-e-atualizado-apos-a-conclusao-da-repescagem-confira/"
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         }
       ],
       "erro": null

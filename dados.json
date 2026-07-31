@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 22:16",
+  "atualizado_em": "30/07/2026 22:21",
   "portais": [
     {
       "portal": "Folha",
@@ -17,8 +17,8 @@
         },
         {
           "rank": 3,
-          "title": "Mulher morre após ter o intestino perfurado durante colonoscopia em hospital municipal de SP",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/mulher-morre-apos-ter-o-intestino-perfurado-durante-colonoscopia-em-hospital-de-sp.shtml"
+          "title": "Lula admite risco de interferência de Trump nas eleições",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Lula admite risco de interferência de Trump nas eleições",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lula-admite-risco-de-interferencia-de-trump-nas-eleicoes.shtml"
+          "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
         }
       ],
       "erro": null
@@ -44,13 +44,13 @@
         },
         {
           "rank": 2,
-          "title": "Veja os resultados da rodada e a classificação do Campeonato Brasileiro",
-          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
+          "title": "Moradores protestam e pedem que Aline Mineiro e namorado deixem prédio após agressão",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/30/apos-agressao-moradores-pedem-que-aline-mineiro-e-namorado-deixem-o-predio.ghtm"
         },
         {
           "rank": 3,
-          "title": "Moradores protestam e pedem que Aline Mineiro e namorado deixem prédio após agressão",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/30/apos-agressao-moradores-pedem-que-aline-mineiro-e-namorado-deixem-o-predio.ghtm"
+          "title": "Veja os resultados da rodada e a classificação do Campeonato Brasileiro",
+          "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         },
         {
           "rank": 4,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
-          "rank": 4,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
+          "rank": 4,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
           "rank": 5,
-          "title": "Vídeo: milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 9 mortes",
-          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
+          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
+          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente presentó en cadena nacional la reforma de la carta orgánica del BCRA",
-          "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-hablara-hoy-cadena-nacional-explicar-reforma-carta-organica-bcra_0_RovPL2XxQh.html"
-        },
-        {
-          "rank": 2,
           "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
           "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
         },
         {
+          "rank": 2,
+          "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
+          "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
+        },
+        {
           "rank": 3,
+          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente presentó en cadena nacional la reforma de la carta orgánica del BCRA",
+          "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-presidente-hablara-hoy-cadena-nacional-explicar-reforma-carta-organica-bcra_0_RovPL2XxQh.html"
+        },
+        {
+          "rank": 4,
           "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
           "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Impresionante choque en la autopista Rosario-Córdoba: una Toyota Hilux partida al medio y tres muertos",
           "url": "https://www.clarin.com/sociedad/impresionante-choque-autopista-rosario-cordoba-toyota-hilux-partida-medio-muertos_0_owXPBYBToI.html"
-        },
-        {
-          "rank": 5,
-          "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
-          "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
         }
       ],
       "erro": null

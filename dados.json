@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 02:36",
+  "atualizado_em": "31/07/2026 02:41",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como ter renda extra de R$ 6,4 mil investindo no Tesouro Direto?",
-          "url": "https://www.estadao.com.br/einvestidor/fabrizio-gueratto/como-ter-renda-extra-de-r-64-mil-investindo-no-tesouro-direto/"
-        },
-        {
-          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
+          "rank": 3,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
           "rank": 4,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "Como funciona o fundo soberano da Noruega, um cofre de US$ 2 trilhões que ninguém pode abrir",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-funciona-o-fundo-soberano-da-noruega-um-cofre-de-us-2-trilhoes-que-ninguem-pode-abrir/"
         },
         {
           "rank": 5,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "PF detectou 74 ligações e 5h30 de conversas entre Jaques Wagner e ex-sócio do Master",
+          "url": "https://www.estadao.com.br/politica/pf-detectou-74-ligacoes-e-5h30-de-conversas-entre-jaques-wagner-e-ex-socio-do-master/"
         }
       ],
       "erro": null

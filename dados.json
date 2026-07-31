@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 13:37",
+  "atualizado_em": "31/07/2026 13:46",
   "portais": [
     {
       "portal": "Folha",
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
-          "url": "https://www.bbc.com/news/articles/c89n0xykw2go"
-        },
-        {
-          "rank": 3,
           "title": "Oprah Winfrey to close her school for girls in South Africa",
           "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
+          "rank": 3,
+          "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
+          "url": "https://www.bbc.com/news/articles/c89n0xykw2go"
+        },
+        {
           "rank": 4,
-          "title": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
+          "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
           "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
         },
         {
           "rank": 5,
-          "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-          "url": "https://www.bbc.com/news/articles/cp87m46g392o"
+          "title": "Anthropic's Claude AI escapes to hack into three organisations",
+          "url": "https://www.bbc.com/news/articles/cz7dl7w8y7po"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
-          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
+          "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
         },
         {
           "rank": 3,
-          "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
+          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
+          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
         },
         {
           "rank": 4,

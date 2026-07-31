@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 16:18",
+  "atualizado_em": "31/07/2026 16:24",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
-        },
-        {
-          "rank": 4,
           "title": "PF cita novas mensagens e reforça que enteado de Jaques cobrou dinheiro de ex-sócio do Master",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-cita-novas-mensagens-e-reforca-que-enteado-de-jaques-cobrou-dinheiro-de-ex-socio-do-master/"
         },
         {
+          "rank": 4,
+          "title": "Vale a pena morar em um bairro planejado? Modelo segue em alta e visão de longo prazo é essencial",
+          "url": "https://www.estadao.com.br/economia/negocios/novo-urbanismo-redefine-loteamentos-essencial-morar-perto-de-tudo-2/"
+        },
+        {
           "rank": 5,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "Quais são as cidades com mais roubos de celular? Veja onde está SP e o ranking das mais perigosas",
+          "url": "https://www.estadao.com.br/sao-paulo/quais-sao-as-cidades-com-mais-roubos-de-celular-veja-onde-esta-sp-e-o-ranking-das-mais-perigosas/"
         }
       ],
       "erro": null
@@ -221,13 +221,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
-          "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
+          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
+          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
         },
         {
           "rank": 2,
-          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
-          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
+          "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
+          "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
         },
         {
           "rank": 3,
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
+          "title": "En forma sorpresiva el director de Marketing de la AFA y supuesto testigo ante el Gran Jurado de Miami renunció a su cargo",
+          "url": "https://www.clarin.com/politica/forma-sorpresiva-director-marketing-afa-supuesto-testigo-gran-jurado-miami-renuncio-cargo_0_S0JMMk8TSZ.html"
+        },
+        {
+          "rank": 3,
           "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
           "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
           "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_HTUBgdHUua.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Qué pasó en Ceuta: invasión, más de 50 ahogados, miles de expulsados y Pedro Sánchez complicado",
           "url": "https://www.clarin.com/mundo/paso-ceuta-invasion-43-ahogados-miles-expulsados-pedro-sanchez-complicado_0_4iVv4fgNSj.html"
-        },
-        {
-          "rank": 5,
-          "title": "En forma sorpresiva el director de Marketing de la AFA y supuesto testigo ante el Gran Jurado de Miami renunció a su cargo",
-          "url": "https://www.clarin.com/politica/forma-sorpresiva-director-marketing-afa-supuesto-testigo-gran-jurado-miami-renuncio-cargo_0_S0JMMk8TSZ.html"
         }
       ],
       "erro": null

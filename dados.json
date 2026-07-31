@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 03:58",
+  "atualizado_em": "31/07/2026 04:04",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
-        },
-        {
-          "rank": 2,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
-        },
-        {
-          "rank": 3,
-          "title": "Educação pública não precisa ser estatal",
-          "url": "https://www.estadao.com.br/opiniao/educacao-publica-nao-precisa-ser-estatal/"
-        },
-        {
-          "rank": 4,
           "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
           "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         },
         {
-          "rank": 5,
+          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
+        },
+        {
+          "rank": 3,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
+          "rank": 4,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
+          "rank": 5,
+          "title": "Como DNA de múmias virou a prova da chegada de uma das doenças mais mortais da história à América",
+          "url": "https://www.estadao.com.br/ciencia/como-dna-de-mumias-virou-a-prova-da-chegada-de-uma-das-doencas-mais-mortais-da-historia-a-america/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
-          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
+          "title": "Boca pasó con sufrimiento y por penales ante O'Higgins y sigue en la Copa Sudamericana",
+          "url": "https://www.clarin.com/deportes/ohiggins-vs-boca-copa-sudamericana-vivo-hora-juegan-formaciones-ver-partido-playoffs-octavos-final_0_Qbad7iVbry.html"
         },
         {
           "rank": 5,
-          "title": "Encontraron muerta a una adolescente argentina en Punta del Este: tenía 18 años y vivía en Maldonado",
-          "url": "https://www.clarin.com/sociedad/encontraron-muerta-adolescente-argentina-punta-18-anos-vivia-maldonado_0_BT5z7uWjQR.html"
+          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
         }
       ],
       "erro": null

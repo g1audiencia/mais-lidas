@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 02:13",
+  "atualizado_em": "31/07/2026 02:18",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml"
+          "title": "'Estou no Inter Miami por causa do Messi', diz Casemiro",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/estou-no-inter-miami-por-causa-do-messi-diz-casemiro.shtml"
         },
         {
           "rank": 5,
-          "title": "The Voice Brasil terá Diogo Nogueira, Paulo Ricardo e Lauana Prado como técnicos",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/the-voice-brasil-tera-diogo-nogueira-paulo-ricardo-e-lauana-prado-como-tecnicos.shtml"
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         }
       ],
       "erro": null
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
-        },
-        {
-          "rank": 2,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
+          "rank": 3,
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+        },
+        {
           "rank": 4,
-          "title": "Trump anuncia acordo para o ‘desarmamento completo’ do Hamas na Faixa de Gaza; grupo confirma",
-          "url": "https://www.estadao.com.br/internacional/trump-diz-fechou-acordo-desarmamento-completo-hamas-faixa-de-gaza-npr/"
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         },
         {
           "rank": 5,
@@ -221,13 +221,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Elon Musk’s xAI sues Minnesota over its first-in-the-nation law banning ‘nudification’ technology",
-          "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16"
+          "title": "Trump says he may pull Todd Blanche’s attorney general nomination for now",
+          "url": "https://apnews.com/live/trump-iran-news-updates-07-30-2026"
         },
         {
           "rank": 2,
-          "title": "Trump says he may pull Todd Blanche’s attorney general nomination for now",
-          "url": "https://apnews.com/live/trump-iran-news-updates-07-30-2026"
+          "title": "Elon Musk’s xAI sues Minnesota over its first-in-the-nation law banning ‘nudification’ technology",
+          "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16"
         },
         {
           "rank": 3,
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
-          "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
+          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
+          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
         },
         {
           "rank": 5,
-          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
-          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
+          "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
+          "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
         }
       ],
       "erro": null

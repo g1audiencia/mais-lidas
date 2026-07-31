@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 01:18",
+  "atualizado_em": "31/07/2026 01:23",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
+          "rank": 2,
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
           "rank": 3,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
+          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
         },
         {
           "rank": 4,
-          "title": "Como funciona o fundo soberano da Noruega, um cofre de US$ 2 trilhões que ninguém pode abrir",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-funciona-o-fundo-soberano-da-noruega-um-cofre-de-us-2-trilhoes-que-ninguem-pode-abrir/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         },
         {
           "rank": 5,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
+          "title": "Como ter renda extra de R$ 6,4 mil investindo no Tesouro Direto?",
+          "url": "https://www.estadao.com.br/einvestidor/fabrizio-gueratto/como-ter-renda-extra-de-r-64-mil-investindo-no-tesouro-direto/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
-          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
+          "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
+          "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
         },
         {
           "rank": 2,
-          "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
-          "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
+          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
+          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
+          "title": "Boca pasó con sufrimiento y por penales ante O'Higgins y sigue en la Copa Sudamericana",
+          "url": "https://www.clarin.com/deportes/ohiggins-vs-boca-copa-sudamericana-vivo-hora-juegan-formaciones-ver-partido-playoffs-octavos-final_0_Qbad7iVbry.html"
         },
         {
           "rank": 5,
-          "title": "Impresionante choque en la autopista Rosario-Córdoba: una Toyota Hilux partida al medio y tres muertos",
-          "url": "https://www.clarin.com/sociedad/impresionante-choque-autopista-rosario-cordoba-toyota-hilux-partida-medio-muertos_0_owXPBYBToI.html"
+          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
         }
       ],
       "erro": null

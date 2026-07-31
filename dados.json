@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 03:36",
+  "atualizado_em": "31/07/2026 03:42",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
+          "rank": 2,
           "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         },
         {
-          "rank": 2,
-          "title": "Em crise com o Brasil, Milei decreta expulsão de estrangeiros que ‘ofenderem’ a Argentina",
-          "url": "https://www.estadao.com.br/internacional/milei-assina-decreto-que-veta-entrada-e-permite-expulsao-de-estrangeiros-por-ataques-a-argentina-npr/"
-        },
-        {
           "rank": 3,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
+          "title": "Wagner articulou encontro ‘discreto e protegido’ de Messias com ex-sócio do Master, mostra conversa",
+          "url": "https://www.estadao.com.br/politica/wagner-articulou-encontro-discreto-e-protegido-de-messias-com-ex-socio-do-master-mostra-conversa/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Mulher morre após ter intestino perfurado durante colonoscopia realizada em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/mulher-morre-apos-ter-intestino-perfurado-durante-colonoscopia-em-sp-npr/"
+          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
+          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
           "rank": 2,
-          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
           "rank": 3,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
-          "url": "https://www.bbc.com/news/articles/c4g3dv60ry9o"
+          "title": "Paramedics to grant dying wishes with special final ambulance trips",
+          "url": "https://www.bbc.com/news/articles/c1e16e2zwwjo"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 01:12",
+  "atualizado_em": "31/07/2026 01:18",
   "portais": [
     {
       "portal": "Folha",
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Europa aprova boicote a torneios da Fifa até que Infantino desista de venda de ações; entenda",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/30/europa-ameaca-boicotar-copa-do-mundo-se-infantino-mantiver-plano-de-privatizacao-entenda.ghtml"
-        },
-        {
-          "rank": 2,
           "title": "Mendonça autoriza nova investigação de Lulinha, e PF cita acesso ao gabinete presidencial",
           "url": "https://oglobo.globo.com/politica/noticia/2026/07/30/pf-pede-ao-stf-nova-investigacao-de-lulinha-e-cita-acesso-ao-gabinete-presidencial.ghtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Qual velocidade do vento é capaz de te derrubar? Infográfico mostra impactos das rajadas sobre o corpo humano",
           "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/qual-velocidade-do-vento-e-capaz-de-te-derrubar-infografico-mostra-impactos-das-rajadas-sobre-o-corpo-humano.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Justiça homologa a Recuperação Extrajudical da Raízen, a maior da história do Brasil",
+          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/justica-homologa-a-recuperacao-extrajudical-da-raizen-a-maior-da-historia-do-brasil.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Lucro do FGTS começa a cair na conta, diz Caixa. Veja na calculadora quanto você vai receber",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/30/lucro-do-fgts-comeca-a-cair-na-conta-veja-na-calculadora-quanto-voce-vai-receber.ghtml"
+          "title": "Europa aprova boicote a torneios da Fifa até que Infantino desista de venda de ações; entenda",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/30/europa-ameaca-boicotar-copa-do-mundo-se-infantino-mantiver-plano-de-privatizacao-entenda.ghtml"
         },
         {
           "rank": 5,
-          "title": "Justiça homologa a Recuperação Extrajudical da Raízen, a maior da história do Brasil",
-          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/justica-homologa-a-recuperacao-extrajudical-da-raizen-a-maior-da-historia-do-brasil.ghtml"
+          "title": "Mendonça autorizou PF a monitorar localização do celular de Jaques Wagner em investigação sobre Banco Master",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/07/30/mendonca-autorizou-pf-a-monitorar-localizacao-do-celular-de-jaques-wagner-em-investigacao-sobre-banco-master.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
-        },
-        {
-          "rank": 2,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
-        },
-        {
-          "rank": 3,
-          "title": "Trump anuncia acordo para o ‘desarmamento completo’ do Hamas na Faixa de Gaza; grupo confirma",
-          "url": "https://www.estadao.com.br/internacional/trump-diz-fechou-acordo-desarmamento-completo-hamas-faixa-de-gaza-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
+          "rank": 2,
+          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
+          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
+        },
+        {
+          "rank": 3,
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+        },
+        {
+          "rank": 4,
+          "title": "Como funciona o fundo soberano da Noruega, um cofre de US$ 2 trilhões que ninguém pode abrir",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-funciona-o-fundo-soberano-da-noruega-um-cofre-de-us-2-trilhoes-que-ninguem-pode-abrir/"
+        },
+        {
           "rank": 5,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
+          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Paramedics to grant dying wishes with special final ambulance trips",
-          "url": "https://www.bbc.com/news/articles/c1e16e2zwwjo"
+          "title": "Why limited war with the US may suit Iran better than peace",
+          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
         },
         {
           "rank": 5,
-          "title": "Why limited war with the US may suit Iran better than peace",
-          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
+          "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
+          "url": "https://www.bbc.com/news/articles/c4g3dv60ry9o"
         }
       ],
       "erro": null

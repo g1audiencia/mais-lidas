@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 14:28",
+  "atualizado_em": "31/07/2026 14:33",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Idade fisiológica de quem vive com HIV pode superar a real em até 13 anos, aponta relatório",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/idade-fisiologica-de-quem-vive-com-hiv-pode-superar-a-real-em-ate-13-anos-aponta-relatorio.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Nasce Dom, primeiro filho de Lauana Prado e Tati Dias",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/nasce-dom-primeiro-filho-de-lauana-prado-e-tati-dias.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Keeta é denunciada ao MPT por aviso de 'velocidade abaixo do esperado' a entregadores",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/keeta-e-denunciada-ao-mpt-por-aviso-de-velocidade-abaixo-do-esperado-a-entregadores.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Cerca de 60 mil imigrantes do Marrocos entram em Ceuta, território da Espanha, e ao menos 57 morrem",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/ao-menos-49-mil-imigrantes-do-marrocos-entram-em-ceuta-em-24-horas-espanha-reforca-seguranca.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
-          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
           "rank": 4,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "Quais são as cidades com mais roubos de celular? Veja onde está SP e o ranking das mais perigosas",
+          "url": "https://www.estadao.com.br/sao-paulo/quais-sao-as-cidades-com-mais-roubos-de-celular-veja-onde-esta-sp-e-o-ranking-das-mais-perigosas/"
         },
         {
           "rank": 5,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "PF cita novas mensagens e reforça que enteado de Jaques cobrou dinheiro de ex-sócio do Master",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-cita-novas-mensagens-e-reforca-que-enteado-de-jaques-cobrou-dinheiro-de-ex-socio-do-master/"
         }
       ],
       "erro": null

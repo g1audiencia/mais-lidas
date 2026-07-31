@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 23:16",
+  "atualizado_em": "30/07/2026 23:22",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Mendonça autoriza PF a investigar Lulinha sob suspeita de tráfico de influência",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-pede-para-investigar-lulinha-sob-suspeita-de-trafico-de-influencia-e-cita-gabinete-presidencial.shtml"
+          "title": "The Voice Brasil terá Diogo Nogueira, Paulo Ricardo e Lauana Prado como técnicos",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/the-voice-brasil-tera-diogo-nogueira-paulo-ricardo-e-lauana-prado-como-tecnicos.shtml"
         },
         {
           "rank": 5,
-          "title": "The Voice Brasil terá Diogo Nogueira, Paulo Ricardo e Lauana Prado como técnicos",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/the-voice-brasil-tera-diogo-nogueira-paulo-ricardo-e-lauana-prado-como-tecnicos.shtml"
+          "title": "Dirigentes do PP rejeitam aliança com Flávio Bolsonaro após sinalização de Tereza Cristina para vice",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/tereza-cristina-encontra-flavio-bolsonaro-e-indica-topar-vice-mas-pp-resiste-a-alianca.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+        },
+        {
+          "rank": 3,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 3,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
-        },
-        {
           "rank": 4,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         },
         {
           "rank": 5,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 21:48",
+  "atualizado_em": "30/07/2026 21:54",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Yuri Alberto perde gol, sai machucado, e Corinthians empata com o Athletico",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/corinthians-athletico-brasileirao.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Moradores protestam e pedem que Aline Mineiro e namorado deixem prédio após agressão",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/30/apos-agressao-moradores-pedem-que-aline-mineiro-e-namorado-deixem-o-predio.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Veja os resultados da rodada e a classificação do Campeonato Brasileiro",
           "url": "https://www.uol.com.br/esporte/futebol/campeonatos/brasileirao/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Protesto da Gaviões gera tensão na Arena e acusação de censura",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/gavioes-leva-faixas-de-protesto-contra-a-diretoria-para-jogo-do-corinthians.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "Moradores protestam e pedem que Aline Mineiro e namorado deixem prédio após agressão",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/30/apos-agressao-moradores-pedem-que-aline-mineiro-e-namorado-deixem-o-predio.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Yuri Alberto perde gol, sai machucado, e Corinthians empata com o Athletico",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/30/corinthians-athletico-brasileirao.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
+          "rank": 2,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
           "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
           "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
-        },
-        {
-          "rank": 5,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
+          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
+        },
+        {
+          "rank": 3,
           "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
           "url": "https://www.bbc.com/news/articles/cj03m512r4go"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
           "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
-        },
-        {
-          "rank": 4,
-          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
           "rank": 5,

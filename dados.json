@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 21:15",
+  "atualizado_em": "30/07/2026 21:21",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Mendonça autoriza PF a investigar Lulinha sob suspeita de tráfico de influência",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-pede-para-investigar-lulinha-sob-suspeita-de-trafico-de-influencia-e-cita-gabinete-presidencial.shtml"
+          "title": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml"
         },
         {
           "rank": 2,
-          "title": "Júri absolve PMs que mataram jovem rendido em Paraisópolis, zona sul de São Paulo",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/juri-absolve-pms-por-morte-de-jovem-rendido-em-paraisopolis-zona-sul-de-sao-paulo.shtml"
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
         },
         {
           "rank": 3,
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "The Voice Brasil terá Diogo Nogueira, Paulo Ricardo e Lauana Prado como técnicos",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/the-voice-brasil-tera-diogo-nogueira-paulo-ricardo-e-lauana-prado-como-tecnicos.shtml"
+          "title": "Mendonça autoriza PF a investigar Lulinha sob suspeita de tráfico de influência",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-pede-para-investigar-lulinha-sob-suspeita-de-trafico-de-influencia-e-cita-gabinete-presidencial.shtml"
         },
         {
           "rank": 5,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+          "title": "The Voice Brasil terá Diogo Nogueira, Paulo Ricardo e Lauana Prado como técnicos",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/the-voice-brasil-tera-diogo-nogueira-paulo-ricardo-e-lauana-prado-como-tecnicos.shtml"
         }
       ],
       "erro": null
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
+          "title": "TSE vê interferência de Moraes e ordem sobre IA de Bolsonaro gera mal-estar",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/tse-ve-interferencia-de-moraes-e-ordem-sobre-ia-de-bolsonaro-gera-mal-estar/"
+        },
+        {
+          "rank": 4,
           "title": "Lula e Peña conversam e Paraguai convoca embaixador após fala sobre guerra",
           "url": "https://www.cnnbrasil.com.br/blogs/luciana-taddeo/internacional/lula-e-pena-conversam-e-paraguai-convoca-embaixador-apos-fala-sobre-guerra/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Congresso paraguaio repudia fala de Lula sobre guerra do Paraguai",
           "url": "https://www.cnnbrasil.com.br/internacional/congresso-paraguaio-repudia-fala-de-lula-sobre-guerra-do-paraguai/"
-        },
-        {
-          "rank": 5,
-          "title": "TSE vê interferência de Moraes e ordem sobre IA de Bolsonaro gera mal-estar",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/tse-ve-interferencia-de-moraes-e-ordem-sobre-ia-de-bolsonaro-gera-mal-estar/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Os três novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-tres-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
+          "rank": 3,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
+          "rank": 4,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
-          "rank": 3,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; definição depende do aval do PP",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
-        },
-        {
-          "rank": 4,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
-        },
-        {
           "rank": 5,
-          "title": "Os três novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-tres-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         }
       ],
       "erro": null

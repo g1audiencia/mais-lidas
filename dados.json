@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 10:37",
+  "atualizado_em": "31/07/2026 10:43",
   "portais": [
     {
       "portal": "Folha",
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "PF detectou 74 ligações e 5h30 de conversas entre Jaques Wagner e ex-sócio do Master",
-          "url": "https://www.estadao.com.br/politica/pf-detectou-74-ligacoes-e-5h30-de-conversas-entre-jaques-wagner-e-ex-socio-do-master/"
+          "title": "Progressistas veta Tereza Cristina como vice de Flávio e mantém neutralidade na disputa presidencial",
+          "url": "https://www.estadao.com.br/politica/progressistas-veta-tereza-cristina-como-vice-de-flavio-e-mantem-neutralidade-na-disputa-presidencial/"
         }
       ],
       "erro": null
@@ -194,23 +194,23 @@
         },
         {
           "rank": 2,
-          "title": "Zambelli arrecada na Itália 5% do que conseguiu na última vaquinha com apoiadores",
-          "url": "https://noticias.r7.com/prisma/r7-planalto/zambelli-arrecada-na-italia-5-do-que-conseguiu-na-ultima-vaquinha-com-apoiadores-30072026/"
-        },
-        {
-          "rank": 3,
           "title": "Cosme: Diniz questiona gramado do Corinthians após lesões",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/e-o-pior-gramado-desde-que-a-arena-foi-inaugurada-diniz-nao-se-conforma-com-a-areia-misturada-a-grama-yuri-alberto-e-labyad-sairam-contundidos-31072026/"
         },
         {
+          "rank": 3,
+          "title": "Zambelli arrecada na Itália 5% do que conseguiu na última vaquinha com apoiadores",
+          "url": "https://noticias.r7.com/prisma/r7-planalto/zambelli-arrecada-na-italia-5-do-que-conseguiu-na-ultima-vaquinha-com-apoiadores-30072026/"
+        },
+        {
           "rank": 4,
-          "title": "Mega-Sena acumula de novo, e prêmio vai a R$ 100 mi; veja os números",
-          "url": "https://noticias.r7.com/loterias/mega-sena-acumula-de-novo-e-premio-vai-a-r-100-milhoes-veja-os-numeros-desta-quinta-31072026/"
+          "title": "Nova Carteira de Identidade atinge 60 milhões de emissões; veja como tirar",
+          "url": "https://noticias.r7.com/prisma/conta-em-dia/nova-carteira-de-identidade-atinge-60-milhoes-de-emissoes-veja-como-tirar-31072026/"
         },
         {
           "rank": 5,
-          "title": "Mulher morre após carro cair em penhasco na Serra do Rola-Moça (MG)",
-          "url": "https://noticias.r7.com/minas-gerais/mulher-morre-apos-carro-eletrico-cair-em-penhasco-na-serra-da-rola-moca-em-brumadinho-mg-30072026/"
+          "title": "Mega-Sena acumula de novo, e prêmio vai a R$ 100 mi; veja os números",
+          "url": "https://noticias.r7.com/loterias/mega-sena-acumula-de-novo-e-premio-vai-a-r-100-milhoes-veja-os-numeros-desta-quinta-31072026/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 11:27",
+  "atualizado_em": "31/07/2026 11:33",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
         },
         {
           "rank": 2,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+          "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
         },
         {
           "rank": 3,
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "Progressistas veta Tereza Cristina como vice de Flávio e mantém neutralidade na disputa presidencial",
-          "url": "https://www.estadao.com.br/politica/progressistas-veta-tereza-cristina-como-vice-de-flavio-e-mantem-neutralidade-na-disputa-presidencial/"
+          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
+          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
         },
         {
           "rank": 4,
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Elon Musk’s xAI sues Minnesota over its first-in-the-nation law banning ‘nudification’ technology",
-          "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16"
+          "title": "European nations vow FIFA World Cup boycott over Infantino private equity plan as opposition spreads",
+          "url": "https://apnews.com/article/fifa-investors-infantino-kushner-uefa-afc-76169d3e9bb68f4d174b3c87f6b53e50"
         }
       ],
       "erro": null

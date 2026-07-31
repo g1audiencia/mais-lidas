@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 23:28",
+  "atualizado_em": "30/07/2026 23:33",
   "portais": [
     {
       "portal": "Folha",
@@ -7,8 +7,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml"
+          "title": "Dirigentes do PP rejeitam aliança com Flávio Bolsonaro após sinalização de Tereza Cristina para vice",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/tereza-cristina-encontra-flavio-bolsonaro-e-indica-topar-vice-mas-pp-resiste-a-alianca.shtml"
         },
         {
           "rank": 2,
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Lulinha terá de provar ser inocente e não usarei cargo para protegê-lo, diz Lula sobre inquérito da PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/lulinha-tera-de-provar-ser-inocente-e-nao-usarei-cargo-para-protege-lo-diz-lula-sobre-inquerito-da-pf.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Voice Brasil terá Diogo Nogueira, Paulo Ricardo e Lauana Prado como técnicos",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/the-voice-brasil-tera-diogo-nogueira-paulo-ricardo-e-lauana-prado-como-tecnicos.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Dirigentes do PP rejeitam aliança com Flávio Bolsonaro após sinalização de Tereza Cristina para vice",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/tereza-cristina-encontra-flavio-bolsonaro-e-indica-topar-vice-mas-pp-resiste-a-alianca.shtml"
         }
       ],
       "erro": null
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         },
         {
           "rank": 3,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
+          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "PF detectou 74 ligações e 5h30 de conversas entre Jaques Wagner e ex-sócio do Master",
-          "url": "https://www.estadao.com.br/politica/pf-detectou-74-ligacoes-e-5h30-de-conversas-entre-jaques-wagner-e-ex-socio-do-master/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         }
       ],
       "erro": null

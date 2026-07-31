@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 05:44",
+  "atualizado_em": "31/07/2026 05:49",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
+          "rank": 3,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 3,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
-        },
-        {
           "rank": 4,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "Corinthians improvisa e empata com o Athletico-PR em jogo com drama para Yuri Alberto",
+          "url": "https://www.estadao.com.br/esportes/futebol/corinthians-improvisa-e-empata-com-o-athletico-pr-em-jogo-com-drama-para-yuri-alberto/"
         },
         {
           "rank": 5,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "Como um único produto da Bradesco Asset atraiu um terço dos R$ 27 bi captados por ETFs de renda fixa",
+          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/como-um-unico-produto-da-bradesco-asset-atraiu-um-terco-dos-r-27-bi-captados-por-etfs-de-renda-fixa/"
         }
       ],
       "erro": null

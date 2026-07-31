@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 13:20",
+  "atualizado_em": "31/07/2026 13:25",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "Gigante recém-contratado é nova ameaça à permanência de Endrick no Real",
-          "url": "https://www.uol.com.br/esporte/colunas/mercado-da-bola/2026/07/31/gigante-de-time-modesto-e-nova-ameaca-a-permanencia-de-endrick-no-real.htm"
-        },
-        {
-          "rank": 4,
           "title": "Europa ameaça governo espanhol em meio a crise",
           "url": "https://www.uol.com.br/flash/?c=e01463de5ccda5cc1aa2af3cc37d3720260731"
         },
         {
+          "rank": 4,
+          "title": "Gigante recém-contratado é nova ameaça à permanência de Endrick no Real",
+          "url": "https://www.uol.com.br/esporte/colunas/mercado-da-bola/2026/07/31/gigante-de-time-modesto-e-nova-ameaca-a-permanencia-de-endrick-no-real.htm"
+        },
+        {
           "rank": 5,
-          "title": "Três viúvas no velório: mulher descobre traições durante o enterro do companheiro falecido",
-          "url": "https://tnonline.uol.com.br/noticias/cotidiano/tres-viuvas-no-velorio-mulher-descobre-traicoes-durante-o-enterro-do-companheiro-falecido-1122468"
+          "title": "Ceuta é único território europeu em continente africano; entenda a história",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/ceuta-por-que-cidade-espanhola-na-africa-virou-foco-de-crise-migratoria.ghtm"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "How views on Trump’s handling of Iran have shifted, according to a new AP-NORC poll",
-          "url": "https://apnews.com/article/trump-approval-iran-war-poll-republicans-election-55e9c80afec521d87f131393a59674c0"
+          "title": "Trump-branded commemorative passports will become available across the US",
+          "url": "https://apnews.com/article/trump-passports-state-department-d149546cb15c8e6b67356168d248ccf4"
         }
       ],
       "erro": null

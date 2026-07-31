@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 17:41",
+  "atualizado_em": "31/07/2026 17:49",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Michelle deve confirmar candidatura ao Senado em evento com Flávio e lançar irmão como suplente",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/michelle-deve-confirmar-candidatura-ao-senado-em-evento-com-flavio-e-lancar-irmao-como-suplente.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "PF troca tiros com suspeitos de tráfico de drogas em área do aeroporto de Guarulhos",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/pf-troca-tiros-com-suspeitos-de-trafico-de-drogas-em-area-do-aeroporto-de-guarulhos.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Rafael Greca desiste de candidatura a governador do Paraná e apoiará grupo de Ratinho Junior",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/greca-vai-anunciar-alianca-com-grupo-de-ratinho-junior-ao-governo-do-parana.shtml"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Keeta é denunciada ao MPT por aviso de 'velocidade abaixo do esperado' a entregadores",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/keeta-e-denunciada-ao-mpt-por-aviso-de-velocidade-abaixo-do-esperado-a-entregadores.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Profanando Homero",
-          "url": "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/07/profanando-homero.shtml"
         }
       ],
       "erro": null
@@ -39,13 +39,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Corinthians confirma lesões de Zakaria e Yuri; Garro sofre trauma no pé",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/corinthians-confirma-lesoes-de-zakaria-e-yuri-garro-sofre-trauma-no-pe.ghtm"
+          "title": "Nivea Stelmann diz que foi deixada pelo marido após 14 anos",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/31/nivea-stelmann-revela-separacao-relampago-apos-14-anos-estou-em-choque.ghtm"
         },
         {
           "rank": 2,
-          "title": "Nivea Stelmann diz que foi deixada pelo marido após 14 anos",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/31/nivea-stelmann-revela-separacao-relampago-apos-14-anos-estou-em-choque.ghtm"
+          "title": "Corinthians confirma lesões de Zakaria e Yuri; Garro sofre trauma no pé",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/corinthians-confirma-lesoes-de-zakaria-e-yuri-garro-sofre-trauma-no-pe.ghtm"
         },
         {
           "rank": 3,

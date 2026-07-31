@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 12:40",
+  "atualizado_em": "31/07/2026 12:46",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Maior equívoco do filme 'A Odisseia' é misoginia do diretor Christopher Nolan, diz especialista em mitologia grega",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/maior-equivoco-do-filme-a-odisseia-e-misoginia-do-diretor-christopher-nolan-diz-especialista-em-mitologia-grega.shtml"
         },
         {
+          "rank": 2,
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
+          "title": "Cerca de 60 mil imigrantes do Marrocos entraram em Ceuta; Espanha reforça segurança da fronteira",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/ao-menos-49-mil-imigrantes-do-marrocos-entram-em-ceuta-em-24-horas-espanha-reforca-seguranca.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+          "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
         }
       ],
       "erro": null
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
-          "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "Progressistas veta Tereza Cristina como vice de Flávio e mantém neutralidade na disputa presidencial",
+          "url": "https://www.estadao.com.br/politica/progressistas-veta-tereza-cristina-como-vice-de-flavio-e-mantem-neutralidade-na-disputa-presidencial/"
         }
       ],
       "erro": null
@@ -189,28 +189,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Caixa começa a depositar R$ 13 bilhões do lucro do FGTS na conta dos trabalhadores",
-          "url": "https://noticias.r7.com/prisma/conta-em-dia/caixa-comeca-a-depositar-distribuicao-do-lucro-do-fgts-na-conta-dos-trabalhadores-30072026/"
-        },
-        {
-          "rank": 2,
           "title": "Cosme: Diniz questiona gramado do Corinthians após lesões",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/e-o-pior-gramado-desde-que-a-arena-foi-inaugurada-diniz-nao-se-conforma-com-a-areia-misturada-a-grama-yuri-alberto-e-labyad-sairam-contundidos-31072026/"
         },
         {
-          "rank": 3,
-          "title": "Zambelli arrecada na Itália 5% do que conseguiu na última vaquinha com apoiadores",
-          "url": "https://noticias.r7.com/prisma/r7-planalto/zambelli-arrecada-na-italia-5-do-que-conseguiu-na-ultima-vaquinha-com-apoiadores-30072026/"
+          "rank": 2,
+          "title": "Caixa começa a depositar R$ 13 bilhões do lucro do FGTS na conta dos trabalhadores",
+          "url": "https://noticias.r7.com/prisma/conta-em-dia/caixa-comeca-a-depositar-distribuicao-do-lucro-do-fgts-na-conta-dos-trabalhadores-30072026/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Nova Carteira de Identidade atinge 60 milhões de emissões; veja como tirar",
           "url": "https://noticias.r7.com/prisma/conta-em-dia/nova-carteira-de-identidade-atinge-60-milhoes-de-emissoes-veja-como-tirar-31072026/"
         },
         {
+          "rank": 4,
+          "title": "Carros usados perdem valor após período de aumento causado pela pandemia",
+          "url": "https://noticias.r7.com/prisma/autos-carros/carros-usados-comecam-a-perder-valor-eletricos-suvs-e-sedas-premium-lideram-a-desvalorizacao-31072026/"
+        },
+        {
           "rank": 5,
-          "title": "Mega-Sena acumula de novo, e prêmio vai a R$ 100 mi; veja os números",
-          "url": "https://noticias.r7.com/loterias/mega-sena-acumula-de-novo-e-premio-vai-a-r-100-milhoes-veja-os-numeros-desta-quinta-31072026/"
+          "title": "Após evitar golpe de R$ 16 mil, idosa se inscreveu em curso contra fraudes",
+          "url": "https://noticias.r7.com/minas-gerais/corri-no-banco-e-consegui-cancelar-diz-idosa-apos-quase-cair-em-golpe-de-r-16-mil-ao-responder-mensagem-no-celular-31072026/"
         }
       ],
       "erro": null

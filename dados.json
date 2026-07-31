@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 18:30",
+  "atualizado_em": "31/07/2026 18:37",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Keeta é denunciada ao MPT por aviso de 'velocidade abaixo do esperado' a entregadores",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/keeta-e-denunciada-ao-mpt-por-aviso-de-velocidade-abaixo-do-esperado-a-entregadores.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Luciano Huck celebra aprovação de Benício em faculdade",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Rafael Greca desiste de candidatura a governador do Paraná e apoiará grupo de Ratinho Junior",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/greca-vai-anunciar-alianca-com-grupo-de-ratinho-junior-ao-governo-do-parana.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Eba! Troca o chip do Trump!",
+          "url": "https://www1.folha.uol.com.br/colunas/josesimao/2026/07/eba-troca-o-chip-do-trump.shtml"
         }
       ],
       "erro": null
@@ -204,8 +204,8 @@
         },
         {
           "rank": 4,
-          "title": "Carros usados perdem valor após período de aumento causado pela pandemia",
-          "url": "https://noticias.r7.com/prisma/autos-carros/carros-usados-comecam-a-perder-valor-eletricos-suvs-e-sedas-premium-lideram-a-desvalorizacao-31072026/"
+          "title": "Migração em massa de Marrocos para Ceuta deixa ao menos 57 mortos",
+          "url": "https://noticias.r7.com/internacional/marrocos-entenda-o-estopim-para-multidao-de-migrantes-invadir-ceuta-na-espanha-31072026/"
         },
         {
           "rank": 5,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
-          "url": "https://www.bbc.com/news/articles/c89n0xykw2go"
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
           "rank": 5,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+          "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
+          "url": "https://www.bbc.com/news/articles/c89n0xykw2go"
         }
       ],
       "erro": null
@@ -295,8 +295,8 @@
         },
         {
           "rank": 3,
-          "title": "En forma sorpresiva el director de Marketing de la AFA y supuesto testigo ante el Gran Jurado de Miami renunció a su cargo",
-          "url": "https://www.clarin.com/politica/forma-sorpresiva-director-marketing-afa-supuesto-testigo-gran-jurado-miami-renuncio-cargo_0_S0JMMk8TSZ.html"
+          "title": "Estaba prófugo por el crimen de un policía y lo detuvieron de paseo en un shopping: \"Mirá la vergüenza que me hacen pasar\"",
+          "url": "https://www.clarin.com/policiales/profugo-crimen-policia-detuvieron-paseo-shopping-mira-verguenza-hacen-pasar_0_M3umfFusDy.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Estaba prófugo por el crimen de un policía y lo detuvieron de paseo en un shopping: \"Mirá la vergüenza que me hacen pasar\"",
-          "url": "https://www.clarin.com/policiales/profugo-crimen-policia-detuvieron-paseo-shopping-mira-verguenza-hacen-pasar_0_M3umfFusDy.html"
+          "title": "En forma sorpresiva el director de Marketing de la AFA y supuesto testigo ante el Gran Jurado de Miami renunció a su cargo",
+          "url": "https://www.clarin.com/politica/forma-sorpresiva-director-marketing-afa-supuesto-testigo-gran-jurado-miami-renuncio-cargo_0_S0JMMk8TSZ.html"
         }
       ],
       "erro": null

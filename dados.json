@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 14:03",
+  "atualizado_em": "31/07/2026 14:08",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
-          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
-        },
-        {
-          "rank": 2,
           "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
           "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
         },
         {
+          "rank": 2,
+          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
+          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
+        },
+        {
           "rank": 3,
-          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
-          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
+          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
         }
       ],
       "erro": null
@@ -217,9 +217,35 @@
     },
     {
       "portal": "AP",
-      "ok": false,
-      "items": [],
-      "erro": "HTTPSConnectionPool(host='apnews.com', port=443): Read timed out. (read timeout=25)"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
+          "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
+        },
+        {
+          "rank": 2,
+          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
+          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
+        },
+        {
+          "rank": 3,
+          "title": "Trump says he may pull Todd Blanche’s attorney general nomination for now",
+          "url": "https://apnews.com/live/trump-iran-news-updates-07-30-2026"
+        },
+        {
+          "rank": 4,
+          "title": "US and Iran trade missile barrages as hopes dim for a quick resolution to the five-month conflict",
+          "url": "https://apnews.com/article/iran-war-us-hormuz-strait-july-30-2026-8dc77ed6a65f389ea4af84635d2473bd"
+        },
+        {
+          "rank": 5,
+          "title": "US cites ‘unauthorized travel’ to end DACA status for a mother of 3 deported to Mexico",
+          "url": "https://apnews.com/article/daca-immigration-texas-uscis-09071c1707e6e1d385ca503c9c75bc6f"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "BBC News",
@@ -227,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
           "url": "https://www.bbc.com/news/articles/cx2kp639yx4o"
         },
         {

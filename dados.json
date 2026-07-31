@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 08:29",
+  "atualizado_em": "31/07/2026 08:35",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Dirigentes do PP rejeitam aliança com Flávio Bolsonaro após sinalização de Tereza Cristina para vice",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/tereza-cristina-encontra-flavio-bolsonaro-e-indica-topar-vice-mas-pp-resiste-a-alianca.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Luciano Huck celebra aprovação de Benício em faculdade",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
         },
         {
+          "rank": 2,
+          "title": "Dirigentes do PP rejeitam aliança com Flávio Bolsonaro após sinalização de Tereza Cristina para vice",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/tereza-cristina-encontra-flavio-bolsonaro-e-indica-topar-vice-mas-pp-resiste-a-alianca.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Médico que receber título de especialista da OMB não terá registro e pode ser punido, afirma CFM",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/medico-que-receber-titulo-de-especialista-da-omb-nao-tera-registro-e-pode-ser-punido-afirma-cfm.shtml"
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
+          "title": "Outro Canal: SBT rescinde contrato com Thiago Gardinali após cinco meses e muda telejornais",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/07/sbt-rescinde-contrato-com-thiago-gardinalli-apos-cinco-meses-e-muda-telejornais.shtml"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-          "url": "https://www.bbc.com/news/articles/crrv7vk0knro"
+          "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+          "url": "https://www.bbc.com/news/articles/cp87m46g392o"
         },
         {
           "rank": 5,
-          "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-          "url": "https://www.bbc.com/news/articles/cp87m46g392o"
+          "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+          "url": "https://www.bbc.com/news/articles/crrv7vk0knro"
         }
       ],
       "erro": null

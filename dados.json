@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 20:52",
+  "atualizado_em": "31/07/2026 20:57",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Nivea Stelmann diz que foi deixada pelo marido após 14 anos",
-          "url": "https://www.uol.com.br/splash/noticias/2026/07/31/nivea-stelmann-revela-separacao-relampago-apos-14-anos-estou-em-choque.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "O que está acontecendo em Ceuta? Entenda a crise migratória",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/o-que-esta-acontecendo-em-ceuta-entenda-crise-migratoria-na-espanha.ghtm"
-        },
-        {
-          "rank": 4,
           "title": "Como Tom Cruise e Brad Pitt: com quem fica a herança se filhos tiram sobrenome",
           "url": "https://www.uol.com.br/flash/?c=4e9f36bb496fe7a6bbbb966d5e7549b020260731"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Maierovitch: Lulinha não deveria ter ganhado foro privilegiado",
           "url": "https://noticias.uol.com.br/colunas/walter-maierovitch/2026/07/31/lulinha-tem-foro-privilegiado.htm"
+        },
+        {
+          "rank": 4,
+          "title": "Corinthians confirma lesões de Zakaria e Yuri; Garro sofre trauma no pé",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/corinthians-confirma-lesoes-de-zakaria-e-yuri-garro-sofre-trauma-no-pe.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Britney Spears exibe seios em vídeos de passeio a cavalo",
+          "url": "https://www.uol.com.br/splash/noticias/2026/07/31/britney-spears-exibe-seios-em-videos-a-cavalo-e-movimenta-as-redes-sociais.ghtm"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Tens of thousands of migrants voluntarily leave after crossing into Spanish territory of Ceuta",
+          "url": "https://apnews.com/article/spain-ceuta-migration-66839d113f24ba80d08b36d2b337201c"
+        },
+        {
+          "rank": 2,
           "title": "Trump administration ends Medicare drug subsidy, Trump announces deal for Hamas to disarm in Gaza, border crisis",
           "url": "https://apnews.com/newsletter/morning-wire/july-31-2026"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
           "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
         },
         {
-          "rank": 3,
-          "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
-          "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
-        },
-        {
           "rank": 4,
-          "title": "Senior FIFA executive says staff were deceived over Infantino’s World Cup sell-off plan",
-          "url": "https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab"
+          "title": "What to know about the Spanish enclave of Ceuta as migrant arrivals from Morocco spike",
+          "url": "https://apnews.com/article/spain-morocco-immigration-european-union-8f023984a310276c619929102b4f909a"
         },
         {
           "rank": 5,
-          "title": "US cites ‘unauthorized travel’ to end DACA status for a mother of 3 deported to Mexico",
-          "url": "https://apnews.com/article/daca-immigration-texas-uscis-09071c1707e6e1d385ca503c9c75bc6f"
+          "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
+          "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
         }
       ],
       "erro": null
@@ -253,7 +253,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump administration drops Reflecting Pool vandalism charge and admits flawed repairs",
+          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
           "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
         },
         {

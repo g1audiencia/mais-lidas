@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 22:10",
+  "atualizado_em": "30/07/2026 22:16",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
-        },
-        {
-          "rank": 3,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
+          "rank": 3,
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
+        },
+        {
           "rank": 4,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
           "rank": 5,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
+          "title": "Vídeo: milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 9 mortes",
+          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
         }
       ],
       "erro": null

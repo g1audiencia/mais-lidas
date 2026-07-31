@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 04:26",
+  "atualizado_em": "31/07/2026 04:32",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
+          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
           "rank": 2,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
           "rank": 3,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Educação pública não precisa ser estatal",
-          "url": "https://www.estadao.com.br/opiniao/educacao-publica-nao-precisa-ser-estatal/"
+          "title": "Como DNA de múmias virou a prova da chegada de uma das doenças mais mortais da história à América",
+          "url": "https://www.estadao.com.br/ciencia/como-dna-de-mumias-virou-a-prova-da-chegada-de-uma-das-doencas-mais-mortais-da-historia-a-america/"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
+          "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
+        },
+        {
+          "rank": 2,
           "title": "Trump says he may pull Todd Blanche’s attorney general nomination for now",
           "url": "https://apnews.com/live/trump-iran-news-updates-07-30-2026"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Elon Musk’s xAI sues Minnesota over its first-in-the-nation law banning ‘nudification’ technology",
           "url": "https://apnews.com/article/minnesota-artificial-intelligence-nudification-x-elon-musk-deepfake-131184be939d540de093b567b12c9e16"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
           "url": "https://apnews.com/article/fauci-covid19-pandemic-senate-rand-paul-a774a79e46824ebec9e8e270b9cb9825"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
           "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
-        },
-        {
-          "rank": 5,
-          "title": "Takeaways from Anthony Fauci’s COVID-era diaries",
-          "url": "https://apnews.com/article/fauci-diaries-covid-origins-rand-paul-6b25da9f75a0becbaf2886ab22643e67"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
-        },
-        {
-          "rank": 2,
           "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
           "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
           "url": "https://www.bbc.com/news/articles/crrv7vk0knro"
+        },
+        {
+          "rank": 3,
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
           "rank": 4,

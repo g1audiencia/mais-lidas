@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 21:54",
+  "atualizado_em": "30/07/2026 21:59",
   "portais": [
     {
       "portal": "Folha",
@@ -172,8 +172,8 @@
         },
         {
           "rank": 2,
-          "title": "Neoenergia corta luz de Benedito Domingos e filha que precisa de oxigênio",
-          "url": "https://www.metropoles.com/colunas/grande-angular/neoenergia-corta-luz-de-benedito-domingos-e-filha-que-precisa-de-oxigenio"
+          "title": "Lula sobre investigação de Lulinha: \"Não vou utilizar o cargo para proteger\".",
+          "url": "https://www.metropoles.com/brasil/lula-sobre-investigacao-de-lulinha-nao-vou-utilizar-o-cargo-para-proteger"
         },
         {
           "rank": 3,
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
+          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
+          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
+        },
+        {
+          "rank": 3,
           "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
           "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_XWlBCv8QV1.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Impresionante choque en la autopista Rosario-Córdoba: una Toyota Hilux partida al medio y tres muertos",
           "url": "https://www.clarin.com/sociedad/impresionante-choque-autopista-rosario-cordoba-toyota-hilux-partida-medio-muertos_0_owXPBYBToI.html"
         },
         {
-          "rank": 4,
-          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
-          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
-        },
-        {
           "rank": 5,
-          "title": "Melconian un candidato sorpresa y el escenario al que se juega el círculo rojo:  un 2027 gris, pero sin crisis",
-          "url": "https://www.clarin.com/economia/melconian-candidato-sorpresa-escenario-juega-circulo-rojo-2027-gris-crisis_0_7UV93uqjCE.html"
+          "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
+          "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
         }
       ],
       "erro": null

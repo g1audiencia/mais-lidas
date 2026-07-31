@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 15:16",
+  "atualizado_em": "31/07/2026 15:22",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Europa ameaça governo espanhol em meio a crise",
-          "url": "https://www.uol.com.br/flash/?c=e01463de5ccda5cc1aa2af3cc37d3720260731"
-        },
-        {
-          "rank": 2,
           "title": "Nivea Stelmann diz que foi deixada pelo marido após 14 anos",
           "url": "https://www.uol.com.br/splash/noticias/2026/07/31/nivea-stelmann-revela-separacao-relampago-apos-14-anos-estou-em-choque.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Pai de lateral do Palmeiras expõe sonho com o Corinthians e gera saia justa",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/pai-de-lateral-do-palmeiras-expoe-sonho-com-o-corinthians-e-gera-saia-justa.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Flávio Bolsonaro critica voto feminino em Lula e o acusa de se 'vingar' de SP",
           "url": "https://noticias.uol.com.br/eleicoes/2026/07/31/flavio-bolsonaro-nunes-vereadores-de-sao-paulo.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Ceuta é único território europeu em continente africano; entenda a história",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/ceuta-por-que-cidade-espanhola-na-africa-virou-foco-de-crise-migratoria.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Itália suspende livre circulação com Espanha por crise migratória em Ceuta",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/italia-suspende-livre-circulacao-com-espanha-por-crise-migratoria-em-ceuta.ghtm"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "PF tentou driblar Mendonça no caso Lulinha",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+          "title": "PF cita novas mensagens e reforça que enteado de Jaques cobrou dinheiro de ex-sócio do Master",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-cita-novas-mensagens-e-reforca-que-enteado-de-jaques-cobrou-dinheiro-de-ex-socio-do-master/"
         },
         {
           "rank": 5,
-          "title": "PF cita novas mensagens e reforça que enteado de Jaques cobrou dinheiro de ex-sócio do Master",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-cita-novas-mensagens-e-reforca-que-enteado-de-jaques-cobrou-dinheiro-de-ex-socio-do-master/"
+          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
+          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
         }
       ],
       "erro": null

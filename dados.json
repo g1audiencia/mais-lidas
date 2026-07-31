@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 01:07",
+  "atualizado_em": "31/07/2026 01:12",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+        },
+        {
+          "rank": 3,
+          "title": "Trump anuncia acordo para o ‘desarmamento completo’ do Hamas na Faixa de Gaza; grupo confirma",
+          "url": "https://www.estadao.com.br/internacional/trump-diz-fechou-acordo-desarmamento-completo-hamas-faixa-de-gaza-npr/"
+        },
+        {
+          "rank": 4,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
-          "rank": 3,
-          "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
-          "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
-        },
-        {
-          "rank": 5,
-          "title": "Como será o novo túnel na Estação da Luz (e quais foram os imprevistos da obra no prédio histórico)",
-          "url": "https://www.estadao.com.br/sao-paulo/como-sera-o-novo-tunel-na-estacao-da-luz-e-quais-foram-os-imprevistos-da-obra-no-predio-historico/"
         }
       ],
       "erro": null

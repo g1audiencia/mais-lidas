@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 04:48",
+  "atualizado_em": "31/07/2026 04:54",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
-        },
-        {
-          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
+          "rank": 2,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
           "rank": 3,
-          "title": "Qual o Estado mais caloteiro do Brasil?",
-          "url": "https://www.estadao.com.br/economia/pedro-fernando-nery/qual-o-estado-mais-caloteiro-do-brasil/"
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
         },
         {
           "rank": 4,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
+          "title": "Corinthians improvisa e empata com o Athletico-PR em jogo com drama para Yuri Alberto",
+          "url": "https://www.estadao.com.br/esportes/futebol/corinthians-improvisa-e-empata-com-o-athletico-pr-em-jogo-com-drama-para-yuri-alberto/"
         },
         {
           "rank": 5,
-          "title": "Wagner articulou encontro ‘discreto e protegido’ de Messias com ex-sócio do Master, mostra conversa",
-          "url": "https://www.estadao.com.br/politica/wagner-articulou-encontro-discreto-e-protegido-de-messias-com-ex-socio-do-master-mostra-conversa/"
+          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
+          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
         }
       ],
       "erro": null

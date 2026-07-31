@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 02:02",
+  "atualizado_em": "31/07/2026 02:07",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Por que trabalhadores da Geração Z estão saindo às escondidas dos escritórios para cochilar e chorar",
-          "url": "https://www.estadao.com.br/economia/trabalhadores-geracao-z-escritorios-infelicidade/"
-        },
-        {
-          "rank": 3,
-          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
-          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
-        },
-        {
-          "rank": 4,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
+          "rank": 3,
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
+          "rank": 4,
+          "title": "Lulinha jura que é inocente e não vou utilizar meu cargo para protegê-lo, diz Lula",
+          "url": "https://www.estadao.com.br/politica/lulinha-jura-para-mim-todo-dia-que-e-inocente-e-eu-acredito-nele-diz-lula/"
+        },
+        {
           "rank": 5,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "Trump anuncia acordo para o ‘desarmamento completo’ do Hamas na Faixa de Gaza; grupo confirma",
+          "url": "https://www.estadao.com.br/internacional/trump-diz-fechou-acordo-desarmamento-completo-hamas-faixa-de-gaza-npr/"
         }
       ],
       "erro": null

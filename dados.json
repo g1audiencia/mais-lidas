@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 07:17",
+  "atualizado_em": "31/07/2026 07:23",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
-        },
-        {
-          "rank": 2,
-          "title": "Flávio e Moraes testam a Justiça Eleitoral",
-          "url": "https://www.estadao.com.br/opiniao/flavio-e-moraes-testam-a-justica-eleitoral/"
-        },
-        {
-          "rank": 3,
-          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
-          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
-        },
-        {
-          "rank": 4,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
+          "rank": 2,
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+        },
+        {
+          "rank": 3,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
+          "rank": 4,
+          "title": "Híbrido leve, plug-in ou elétrico? Entenda as tecnologias e saiba qual carro escolher",
+          "url": "https://www.estadao.com.br/jornal-do-carro/hibrido-leve-plug-in-ou-eletrico-entenda-as-tecnologias-e-saiba-qual-carro-escolher/"
+        },
+        {
           "rank": 5,
-          "title": "Vídeo: Milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 18 mortes",
-          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
+          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
+          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 09:03",
+  "atualizado_em": "31/07/2026 09:08",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "A China tem ampliado ataques contra aliados americanos no Pacífico. Trump não vai fazer nada?",
-          "url": "https://www.estadao.com.br/internacional/a-china-tem-ampliado-ataques-contra-aliados-americanos-no-pacifico-trump-nao-vai-fazer-nada/"
+          "title": "PF detectou 74 ligações e 5h30 de conversas entre Jaques Wagner e ex-sócio do Master",
+          "url": "https://www.estadao.com.br/politica/pf-detectou-74-ligacoes-e-5h30-de-conversas-entre-jaques-wagner-e-ex-socio-do-master/"
         },
         {
           "rank": 3,
-          "title": "Híbrido leve, plug-in ou elétrico? Entenda as tecnologias e saiba qual carro escolher",
-          "url": "https://www.estadao.com.br/jornal-do-carro/hibrido-leve-plug-in-ou-eletrico-entenda-as-tecnologias-e-saiba-qual-carro-escolher/"
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
           "rank": 4,
-          "title": "Como um único produto da Bradesco Asset atraiu um terço dos R$ 27 bi captados por ETFs de renda fixa",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/como-um-unico-produto-da-bradesco-asset-atraiu-um-terco-dos-r-27-bi-captados-por-etfs-de-renda-fixa/"
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         },
         {
           "rank": 5,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "Híbrido leve, plug-in ou elétrico? Entenda as tecnologias e saiba qual carro escolher",
+          "url": "https://www.estadao.com.br/jornal-do-carro/hibrido-leve-plug-in-ou-eletrico-entenda-as-tecnologias-e-saiba-qual-carro-escolher/"
         }
       ],
       "erro": null
@@ -285,18 +285,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
-        },
-        {
-          "rank": 2,
           "title": "Solo Empanadas volvió a pedir el concurso: la dueña de la famosa cadena de los '90 ya adeuda más de $ 1.000 millones",
           "url": "https://www.clarin.com/economia/solo-empanadas-volvio-pedir-concurso-duena-famosa-cadena-90-adeuda-1000-millones_0_zXh5rVSEjb.html"
         },
         {
+          "rank": 2,
+          "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
+        },
+        {
           "rank": 3,
-          "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
-          "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
+          "title": "Crisis en Ceuta: Finlandia apoya a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Crisis en Ceuta: Finlandia apoya a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
+          "title": "Qué pasa en Ceuta y por qué miles de migrantes cruzan de Marruecos a España",
+          "url": "https://www.clarin.com/mundo/ola-inmigrantes-llego-ceuta-enclave-espanol-marruecos-origen-conflicto_0_BkXewAwfPC.html"
         }
       ],
       "erro": null

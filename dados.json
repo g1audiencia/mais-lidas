@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 05:38",
+  "atualizado_em": "31/07/2026 05:44",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
-          "rank": 3,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Paraguai convoca embaixador do Brasil após fala de Lula sobre guerra da Tríplice Aliança",
           "url": "https://www.estadao.com.br/internacional/paraguai-convoca-embaixador-brasil-apos-fala-lula-guerra-triplice-alianca-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         },
         {
           "rank": 5,
@@ -253,8 +253,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+          "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+          "url": "https://www.bbc.com/news/articles/cx2kp639yx4o"
         },
         {
           "rank": 2,
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+        },
+        {
+          "rank": 4,
           "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
           "url": "https://www.bbc.com/news/articles/crrv7vk0knro"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Anthropic's Claude AI escapes tests to hack three organisations",
           "url": "https://www.bbc.com/news/articles/cz7dl7w8y7po"
-        },
-        {
-          "rank": 5,
-          "title": "Two Americans convicted of murdering Canadian couple in Dominica",
-          "url": "https://www.bbc.com/news/articles/c1e10792l21o"
         }
       ],
       "erro": null

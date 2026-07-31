@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 17:26",
+  "atualizado_em": "31/07/2026 17:33",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Nasce Dom, primeiro filho de Lauana Prado e Tati Dias",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/nasce-dom-primeiro-filho-de-lauana-prado-e-tati-dias.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Rafael Greca desiste de candidatura a governador do Paraná e apoiará grupo de Ratinho Junior",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/greca-vai-anunciar-alianca-com-grupo-de-ratinho-junior-ao-governo-do-parana.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Keeta é denunciada ao MPT por aviso de 'velocidade abaixo do esperado' a entregadores",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/keeta-e-denunciada-ao-mpt-por-aviso-de-velocidade-abaixo-do-esperado-a-entregadores.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Nasce Dom, primeiro filho de Lauana Prado e Tati Dias",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/nasce-dom-primeiro-filho-de-lauana-prado-e-tati-dias.shtml"
         },
         {
           "rank": 4,
@@ -54,8 +54,8 @@
         },
         {
           "rank": 4,
-          "title": "Bolsonaro é que vai decidir se Michelle será candidata, diz Valdemar",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/07/31/michelle-senado-reuniao-valdemar.ghtm"
+          "title": "Suspeitos trocam tiros com a PF em área próxima ao aeroporto de Guarulhos",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/31/ocorrendia-no-aeroporto-de-guarulhos-em-sao-paulo.ghtm"
         },
         {
           "rank": 5,
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Solo Empanadas volvió a pedir el concurso: la dueña de la famosa cadena de los '90 ya adeuda más de $ 1.000 millones",
-          "url": "https://www.clarin.com/economia/solo-empanadas-volvio-pedir-concurso-duena-famosa-cadena-90-adeuda-1000-millones_0_zXh5rVSEjb.html"
+          "title": "Marcos Llorente habló de sus fotos \"cariñosas\" con Ferran Torres en Ibiza tras el revuelo que generaron en España",
+          "url": "https://www.clarin.com/deportes/marcos-llorente-hablo-fotos-carinosas-ferran-torres-ibiza-revuelo-generaron-espana_0_1XaOaPFPNV.html"
         },
         {
           "rank": 2,
-          "title": "Marcos Llorente habló de sus fotos \"cariñosas\" con Ferran Torres en Ibiza tras el revuelo que generaron en España",
-          "url": "https://www.clarin.com/deportes/marcos-llorente-hablo-fotos-carinosas-ferran-torres-ibiza-revuelo-generaron-espana_0_1XaOaPFPNV.html"
+          "title": "Solo Empanadas volvió a pedir el concurso: la dueña de la famosa cadena de los '90 ya adeuda más de $ 1.000 millones",
+          "url": "https://www.clarin.com/economia/solo-empanadas-volvio-pedir-concurso-duena-famosa-cadena-90-adeuda-1000-millones_0_zXh5rVSEjb.html"
         },
         {
           "rank": 3,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 21:21",
+  "atualizado_em": "30/07/2026 21:26",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
-        },
-        {
-          "rank": 4,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
+          "rank": 4,
+          "title": "Tereza Cristina avisa a aliados que aceitou ser vice de Flávio; Ciro Nogueira resiste",
+          "url": "https://www.estadao.com.br/politica/tereza-cristina-avisa-a-aliados-que-aceitou-ser-vice-de-flavio-definicao-depende-do-aval-do-pp/"
+        },
+        {
           "rank": 5,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
+          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+          "url": "https://www.bbc.com/news/articles/cj03m512r4go"
+        },
+        {
+          "rank": 3,
           "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
           "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Two Americans convicted of murdering Canadian couple in Dominica",
           "url": "https://www.bbc.com/news/articles/c1e10792l21o"
-        },
-        {
-          "rank": 4,
-          "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-          "url": "https://www.bbc.com/news/articles/cj03m512r4go"
         },
         {
           "rank": 5,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Un gobernador quiere poner peajes a los camiones que van a Vaca Muerta: argumenta que el tránsito pesado creció el 900% en sus rutas",
-          "url": "https://www.clarin.com/politica/gobernador-quiere-poner-peajes-camiones-van-vaca-muerta-argumenta-transito-pesado-crecio-900-rutas_0_TDYvqJpeZe.html"
+          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
+          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
         },
         {
           "rank": 5,
-          "title": "Casas desde US$ 1.000 el metro: por qué muchos siguen evitando el barrio donde se filmó Montaña Rusa",
-          "url": "https://www.clarin.com/propiedades/casas-us-1000-metro-siguen-evitando-barrio-filmo-montana-rusa_0_8rqi30kByY.html"
+          "title": "Un gobernador quiere poner peajes a los camiones que van a Vaca Muerta: argumenta que el tránsito pesado creció el 900% en sus rutas",
+          "url": "https://www.clarin.com/politica/gobernador-quiere-poner-peajes-camiones-van-vaca-muerta-argumenta-transito-pesado-crecio-900-rutas_0_TDYvqJpeZe.html"
         }
       ],
       "erro": null

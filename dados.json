@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 04:21",
+  "atualizado_em": "31/07/2026 04:26",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
-          "title": "Justiça homologa a Recuperação Extrajudical da Raízen, a maior da história do Brasil",
-          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/justica-homologa-a-recuperacao-extrajudical-da-raizen-a-maior-da-historia-do-brasil.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Europa aprova boicote a torneios da Fifa até que Infantino desista de venda de ações; entenda",
           "url": "https://oglobo.globo.com/esportes/noticia/2026/07/30/europa-ameaca-boicotar-copa-do-mundo-se-infantino-mantiver-plano-de-privatizacao-entenda.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Justiça homologa a Recuperação Extrajudical da Raízen, a maior da história do Brasil",
+          "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/justica-homologa-a-recuperacao-extrajudical-da-raizen-a-maior-da-historia-do-brasil.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Qual velocidade do vento é capaz de te derrubar? Infográfico mostra impactos das rajadas sobre o corpo humano",
-          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/qual-velocidade-do-vento-e-capaz-de-te-derrubar-infografico-mostra-impactos-das-rajadas-sobre-o-corpo-humano.ghtml"
+          "title": "Flávio defende vídeo de Bolsonaro criado por IA e nega irregularidade: ‘Não tinha nada de errado’",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-defende-video-de-bolsonaro-criado-por-ia-e-nega-irregularidade-nao-tinha-nada-de-errado.ghtml"
         },
         {
           "rank": 5,
-          "title": "Flávio defende vídeo de Bolsonaro criado por IA e nega irregularidade: ‘Não tinha nada de errado’",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/07/30/flavio-defende-video-de-bolsonaro-criado-por-ia-e-nega-irregularidade-nao-tinha-nada-de-errado.ghtml"
+          "title": "Qual velocidade do vento é capaz de te derrubar? Infográfico mostra impactos das rajadas sobre o corpo humano",
+          "url": "https://oglobo.globo.com/brasil/noticia/2026/07/30/qual-velocidade-do-vento-e-capaz-de-te-derrubar-infografico-mostra-impactos-das-rajadas-sobre-o-corpo-humano.ghtml"
         }
       ],
       "erro": null
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
-        },
-        {
-          "rank": 2,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
+          "rank": 3,
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+        },
+        {
           "rank": 4,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         },
         {
           "rank": 5,

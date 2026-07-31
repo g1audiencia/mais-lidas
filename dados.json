@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 05:00",
+  "atualizado_em": "31/07/2026 05:05",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Como funciona o fundo soberano da Noruega, um cofre de US$ 2 trilhões que ninguém pode abrir",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/como-funciona-o-fundo-soberano-da-noruega-um-cofre-de-us-2-trilhoes-que-ninguem-pode-abrir/"
+        },
+        {
+          "rank": 3,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
-          "rank": 3,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
-        },
-        {
           "rank": 4,
-          "title": "Vídeo: milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 9 mortes",
-          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
+          "title": "Delator da Americanas disse que ‘obsessão’ do conselho por resultados fomentou fraudes de R$ 54 bi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/delator-da-americanas-disse-que-obsessao-do-conselho-por-resultados-fomentou-fraudes-de-r-54-bi/"
         },
         {
           "rank": 5,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+          "title": "Flávio e Moraes testam a Justiça Eleitoral",
+          "url": "https://www.estadao.com.br/opiniao/flavio-e-moraes-testam-a-justica-eleitoral/"
         }
       ],
       "erro": null

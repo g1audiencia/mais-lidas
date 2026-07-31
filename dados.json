@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 13:14",
+  "atualizado_em": "31/07/2026 13:20",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Cerca de 60 mil imigrantes do Marrocos entraram em Ceuta; Espanha reforça segurança da fronteira",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/ao-menos-49-mil-imigrantes-do-marrocos-entram-em-ceuta-em-24-horas-espanha-reforca-seguranca.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Fiji registra explosão de casos de HIV impulsionada por metanfetamina",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/saiba-onde-a-epidemia-de-hiv-tem-crescimento-mais-rapido-no-mundo-e-o-por-que.shtml"
         },
         {
+          "rank": 4,
+          "title": "Cerca de 60 mil imigrantes do Marrocos entraram em Ceuta; Espanha reforça segurança da fronteira",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/ao-menos-49-mil-imigrantes-do-marrocos-entram-em-ceuta-em-24-horas-espanha-reforca-seguranca.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Acidente entre ônibus e carros deixa dois feridos e bloqueia avenida da zona norte de São Paulo",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/acidente-entre-onibus-e-carros-deixa-dois-feridos-e-bloqueia-avenida-da-zona-norte-de-sao-paulo.shtml"
+          "title": "PF aciona governo contra medidas de Mendonça no caso INSS, que envolve Lulinha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/pf-aciona-governo-contra-medidas-de-mendonca-no-caso-inss-que-envolve-lulinha.shtml"
         }
       ],
       "erro": null
@@ -113,13 +113,13 @@
         },
         {
           "rank": 3,
-          "title": "Empresário brasileiro detido pelo ICE no aeroporto de Boston ficou 11 dias preso: 'Vi a final da Copa lá'",
-          "url": "https://oglobo.globo.com/mundo/noticia/2026/07/31/empresario-brasileiro-detido-pelo-ice-no-aeroporto-de-boston-ficou-11-dias-preso-vi-a-final-da-copa-la.ghtml"
+          "title": "Ana Clara Winter fala da participação em 'Quem ama cuida', da carreira de atriz e dos pais, Marcos Winter e Palomma Duarte",
+          "url": "https://oglobo.globo.com/play/entrevistas/noticia/2026/07/31/ana-clara-winter-fala-da-participacao-em-quem-ama-cuida-da-carreira-de-atriz-e-dos-pais-marcos-winter-e-palomma-duarte.ghtml"
         },
         {
           "rank": 4,
-          "title": "Ana Clara Winter fala da participação em 'Quem ama cuida', da carreira de atriz e dos pais, Marcos Winter e Palomma Duarte",
-          "url": "https://oglobo.globo.com/play/entrevistas/noticia/2026/07/31/ana-clara-winter-fala-da-participacao-em-quem-ama-cuida-da-carreira-de-atriz-e-dos-pais-marcos-winter-e-palomma-duarte.ghtml"
+          "title": "Empresário brasileiro detido pelo ICE no aeroporto de Boston ficou 11 dias preso: 'Vi a final da Copa lá'",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/07/31/empresario-brasileiro-detido-pelo-ice-no-aeroporto-de-boston-ficou-11-dias-preso-vi-a-final-da-copa-la.ghtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Odisseu realmente existiu? Descoberta mostra que ele era cultuado na antiga Ítaca",
-          "url": "https://www.estadao.com.br/cultura/cinema/odisseu-realmente-existiu-descoberta-mostra-que-ele-era-cultuado-na-antiga-itaca/"
+          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
+          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
         },
         {
           "rank": 3,
+          "title": "PF tentou driblar Mendonça no caso Lulinha",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
+        },
+        {
+          "rank": 4,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
-          "rank": 4,
-          "title": "Dívida pública fica mais cara e custo alcança o maior patamar em quase dez anos",
-          "url": "https://www.estadao.com.br/economia/divida-publica-cara-custo-maior-patamar-dez-anos/"
-        },
-        {
           "rank": 5,
-          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
-          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
+          "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
+          "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Crisis en Ceuta: otros dos países europeos apoyan a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
+          "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
         },
         {
           "rank": 4,
-          "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
+          "title": "Crisis en Ceuta: otros dos países europeos apoyan a Italia para suspender a España del espacio Schengen por la avalancha migratoria desde Marruecos",
+          "url": "https://www.clarin.com/mundo/crisis-ceuta-finlandia-apoya-italia-suspender-espana-espacio-schengen-avalancha-migratoria-marruecos_0_KMtiBtpSCo.html"
         },
         {
           "rank": 5,

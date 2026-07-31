@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 17:09",
+  "atualizado_em": "31/07/2026 17:17",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Keeta é denunciada ao MPT por aviso de 'velocidade abaixo do esperado' a entregadores",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/keeta-e-denunciada-ao-mpt-por-aviso-de-velocidade-abaixo-do-esperado-a-entregadores.shtml"
+          "title": "Rafael Greca desiste de candidatura a governador do Paraná e apoiará grupo de Ratinho Junior",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/greca-vai-anunciar-alianca-com-grupo-de-ratinho-junior-ao-governo-do-parana.shtml"
         },
         {
           "rank": 2,
-          "title": "Rafael Greca desiste de candidatura a governador do Paraná e apoiará grupo de Ratinho Junior",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/greca-vai-anunciar-alianca-com-grupo-de-ratinho-junior-ao-governo-do-parana.shtml"
+          "title": "Keeta é denunciada ao MPT por aviso de 'velocidade abaixo do esperado' a entregadores",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/keeta-e-denunciada-ao-mpt-por-aviso-de-velocidade-abaixo-do-esperado-a-entregadores.shtml"
         },
         {
           "rank": 3,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "PT e governo preveem artilharia, mas se dividem sobre dano eleitoral de inquérito contra Lulinha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/pt-e-governo-preveem-artilharia-mas-se-dividem-sobre-dano-eleitoral-de-inquerito-contra-lulinha.shtml"
+          "title": "Profanando Homero",
+          "url": "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/07/profanando-homero.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
-        },
-        {
-          "rank": 3,
           "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
           "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Lula diz que Alvorada é ‘desumano’ para morar: ‘café chega frio, cerveja chega quente’; veja vídeo",
           "url": "https://www.estadao.com.br/politica/lula-diz-que-palacio-da-alvorada-e-desumano-para-morar-nprp/"
         },
         {
+          "rank": 4,
+          "title": "Os quatro novos trunfos de Flávio que assombram Lula",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
+        },
+        {
           "rank": 5,
-          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
-          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
+          "title": "Quais são as cidades com mais roubos de celular? Veja onde está SP e o ranking das mais perigosas",
+          "url": "https://www.estadao.com.br/sao-paulo/quais-sao-as-cidades-com-mais-roubos-de-celular-veja-onde-esta-sp-e-o-ranking-das-mais-perigosas/"
         }
       ],
       "erro": null
@@ -221,23 +221,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "The Trump administration is ending a Medicare drug subsidy program. Here’s how it could affect costs",
+          "url": "https://apnews.com/article/medicare-drug-subsidy-trump-biden-insurance-3d3fdb43b1bf374a1a168506fded86c0"
+        },
+        {
+          "rank": 2,
           "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
           "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Spain deploys military to Ceuta after thousands of people breach Morocco’s border and at least 9 die",
           "url": "https://apnews.com/article/spain-ceuta-tarajal-morocco-migrants-5c864e5f951e2a7cf7a3eac417668e97"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Trump administration ends Medicare drug subsidy, Trump announces deal for Hamas to disarm in Gaza, border crisis",
           "url": "https://apnews.com/newsletter/morning-wire/july-31-2026"
-        },
-        {
-          "rank": 4,
-          "title": "US cites ‘unauthorized travel’ to end DACA status for a mother of 3 deported to Mexico",
-          "url": "https://apnews.com/article/daca-immigration-texas-uscis-09071c1707e6e1d385ca503c9c75bc6f"
         },
         {
           "rank": 5,
@@ -258,8 +258,8 @@
         },
         {
           "rank": 2,
-          "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
+          "title": "Red Arrows grounded in Canada after US tour",
+          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
         },
         {
           "rank": 3,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
-          "url": "https://www.bbc.com/news/articles/c89n0xykw2go"
+          "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
         },
         {
           "rank": 5,
-          "title": "Red Arrows grounded in Canada after US tour",
-          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
+          "title": "US admits 'unfortunate error' after mislabelling countries on map of Africa",
+          "url": "https://www.bbc.com/news/articles/c89n0xykw2go"
         }
       ],
       "erro": null
@@ -290,18 +290,18 @@
         },
         {
           "rank": 2,
+          "title": "Marcos Llorente habló de sus fotos \"cariñosas\" con Ferran Torres en Ibiza tras el revuelo que generaron en España",
+          "url": "https://www.clarin.com/deportes/marcos-llorente-hablo-fotos-carinosas-ferran-torres-ibiza-revuelo-generaron-espana_0_1XaOaPFPNV.html"
+        },
+        {
+          "rank": 3,
           "title": "En forma sorpresiva el director de Marketing de la AFA y supuesto testigo ante el Gran Jurado de Miami renunció a su cargo",
           "url": "https://www.clarin.com/politica/forma-sorpresiva-director-marketing-afa-supuesto-testigo-gran-jurado-miami-renuncio-cargo_0_S0JMMk8TSZ.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Una nueva encuesta enfrentó a Milei y Kicillof: amplia diferencia para primera vuelta, parejo en el balotaje",
           "url": "https://www.clarin.com/politica/nueva-encuesta-enfrento-milei-kicillof-amplia-diferencia-primera-vuelta-parejo-balotaje_0_0kaDEF0itr.html"
-        },
-        {
-          "rank": 4,
-          "title": "Marcos Llorente habló de sus fotos \"cariñosas\" con Ferran Torres en Ibiza tras el revuelo que generaron en España",
-          "url": "https://www.clarin.com/deportes/marcos-llorente-hablo-fotos-carinosas-ferran-torres-ibiza-revuelo-generaron-espana_0_1XaOaPFPNV.html"
         },
         {
           "rank": 5,

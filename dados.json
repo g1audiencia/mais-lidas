@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 18:18",
+  "atualizado_em": "31/07/2026 18:24",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+        },
+        {
+          "rank": 4,
           "title": "Lula diz que Alvorada é ‘desumano’ para morar: ‘café chega frio, cerveja chega quente’; veja vídeo",
           "url": "https://www.estadao.com.br/politica/lula-diz-que-palacio-da-alvorada-e-desumano-para-morar-nprp/"
         },
         {
-          "rank": 4,
-          "title": "PF troca tiros com suspeitos na área externa do Aeroporto de Guarulhos",
-          "url": "https://www.estadao.com.br/sao-paulo/pf-troca-tiros-suspeitos-area-externa-aeroporto-guarulhos-npr/"
-        },
-        {
           "rank": 5,
-          "title": "Quais são as cidades com mais roubos de celular? Veja onde está SP e o ranking das mais perigosas",
-          "url": "https://www.estadao.com.br/sao-paulo/quais-sao-as-cidades-com-mais-roubos-de-celular-veja-onde-esta-sp-e-o-ranking-das-mais-perigosas/"
+          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
+          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump claims Iran war helped drive Hamas to disarmament agreement",
-          "url": "https://apnews.com/live/trump-news-hamas-gaza-camp-david-updates-07-31-2026"
+          "title": "Senior FIFA executive says staff were deceived over Infantino’s World Cup sell-off plan",
+          "url": "https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Marcos Llorente habló de sus fotos \"cariñosas\" con Ferran Torres en Ibiza tras el revuelo que generaron en España",
-          "url": "https://www.clarin.com/deportes/marcos-llorente-hablo-fotos-carinosas-ferran-torres-ibiza-revuelo-generaron-espana_0_1XaOaPFPNV.html"
+          "title": "Solo Empanadas volvió a pedir el concurso: la dueña de la famosa cadena de los '90 ya adeuda más de $ 1.000 millones",
+          "url": "https://www.clarin.com/economia/solo-empanadas-volvio-pedir-concurso-duena-famosa-cadena-90-adeuda-1000-millones_0_zXh5rVSEjb.html"
         },
         {
           "rank": 2,
-          "title": "Solo Empanadas volvió a pedir el concurso: la dueña de la famosa cadena de los '90 ya adeuda más de $ 1.000 millones",
-          "url": "https://www.clarin.com/economia/solo-empanadas-volvio-pedir-concurso-duena-famosa-cadena-90-adeuda-1000-millones_0_zXh5rVSEjb.html"
+          "title": "Marcos Llorente habló de sus fotos \"cariñosas\" con Ferran Torres en Ibiza tras el revuelo que generaron en España",
+          "url": "https://www.clarin.com/deportes/marcos-llorente-hablo-fotos-carinosas-ferran-torres-ibiza-revuelo-generaron-espana_0_1XaOaPFPNV.html"
         },
         {
           "rank": 3,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Crisis migratoria en Ceuta, EN VIVO: el minuto a minuto del cruce masivo desde Marruecos",
-          "url": "https://www.clarin.com/mundo/crisis-migratoria-ceuta-vivo-minuto-minuto-cruce-masivo-marruecos_0_HTUBgdHUua.html"
+          "title": "Estaba prófugo por el crimen de un policía y lo detuvieron de paseo en un shopping: \"Mirá la vergüenza que me hacen pasar\"",
+          "url": "https://www.clarin.com/policiales/profugo-crimen-policia-detuvieron-paseo-shopping-mira-verguenza-hacen-pasar_0_M3umfFusDy.html"
         }
       ],
       "erro": null

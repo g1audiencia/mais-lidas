@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 00:50",
+  "atualizado_em": "31/07/2026 00:56",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Roberto DaMatta: ‘O maior sofrimento é nos conformarmos com a ideia de que somos finitos’",
-          "url": "https://www.estadao.com.br/cultura/literatura/roberto-damatta-o-maior-sofrimento-e-nos-conformarmos-com-a-ideia-de-que-somos-finitos/"
-        },
-        {
-          "rank": 4,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
           "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+        },
+        {
+          "rank": 5,
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Why limited war with the US may suit Iran better than peace",
-          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
+          "title": "Paramedics to grant dying wishes with special final ambulance trips",
+          "url": "https://www.bbc.com/news/articles/c1e16e2zwwjo"
         },
         {
           "rank": 5,
-          "title": "Paramedics to grant dying wishes with special final ambulance trips",
-          "url": "https://www.bbc.com/news/articles/c1e16e2zwwjo"
+          "title": "Why limited war with the US may suit Iran better than peace",
+          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
         }
       ],
       "erro": null

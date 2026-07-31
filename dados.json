@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 23:39",
+  "atualizado_em": "30/07/2026 23:44",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
-        },
-        {
-          "rank": 3,
           "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
           "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
+          "rank": 4,
+          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
+          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
+        },
+        {
           "rank": 5,
-          "title": "Wagner articulou encontro ‘discreto e protegido’ de Messias com ex-sócio do Master, mostra conversa",
-          "url": "https://www.estadao.com.br/politica/wagner-articulou-encontro-discreto-e-protegido-de-messias-com-ex-socio-do-master-mostra-conversa/"
+          "title": "Vídeo: milhares de migrantes chegam a nado em Ceuta; Espanha mobiliza Exército após 9 mortes",
+          "url": "https://www.estadao.com.br/internacional/video-milhares-migrantes-entram-ceuta-pelo-mar-npr/"
         }
       ],
       "erro": null
@@ -258,7 +258,7 @@
         },
         {
           "rank": 2,
-          "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
           "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {

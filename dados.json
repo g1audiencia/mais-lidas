@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 01:34",
+  "atualizado_em": "31/07/2026 01:40",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Mendonça autorizou PF a monitorar movimentos de celular de Jaques Wagner após suspeita de vazamento",
-          "url": "https://www.estadao.com.br/politica/mendonca-autorizou-pf-a-monitorar-movimentos-de-celular-de-jaques-wagner-apos-suspeita-de-vazamento/"
-        },
-        {
-          "rank": 2,
-          "title": "Como foi o roubo a residência com 12 ladrões e prejuízo de R$ 2 milhões no Morumbi: ‘Foge do padrão’",
-          "url": "https://www.estadao.com.br/sao-paulo/como-foi-o-roubo-a-residencia-com-12-ladroes-e-prejuizo-de-r-2-milhoes-no-morumbi-foge-do-padrao/"
-        },
-        {
-          "rank": 3,
           "title": "PF tentou driblar Mendonça no caso Lulinha",
           "url": "https://www.estadao.com.br/politica/raquel-landim/pf-tentou-driblar-mendonca-no-caso-lulinha/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+        },
+        {
+          "rank": 3,
           "title": "Os quatro novos trunfos de Flávio que assombram Lula",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/os-quatro-novos-trunfos-de-flavio-que-assombram-lula/"
         },
         {
+          "rank": 4,
+          "title": "Como ter renda extra de R$ 6,4 mil investindo no Tesouro Direto?",
+          "url": "https://www.estadao.com.br/einvestidor/fabrizio-gueratto/como-ter-renda-extra-de-r-64-mil-investindo-no-tesouro-direto/"
+        },
+        {
           "rank": 5,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Oprah Winfrey to close her school for girls in South Africa",
-          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
+          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
         },
         {
           "rank": 2,
-          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-          "url": "https://www.bbc.com/news/articles/cg4drwzkrkxo"
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         },
         {
           "rank": 3,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
-          "url": "https://www.bbc.com/news/articles/c4g3dv60ry9o"
+          "title": "Why limited war with the US may suit Iran better than peace",
+          "url": "https://www.bbc.com/news/articles/c78gnyq3wvdo"
         }
       ],
       "erro": null

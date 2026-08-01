@@ -1,11 +1,37 @@
 {
-  "atualizado_em": "01/08/2026 08:59",
+  "atualizado_em": "01/08/2026 09:06",
   "portais": [
     {
       "portal": "Folha",
-      "ok": false,
-      "items": [],
-      "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
+        },
+        {
+          "rank": 2,
+          "title": "Witzel tenta nova surpresa no RJ e busca carona em sucesso de governador interino",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/witzel-tenta-nova-surpresa-no-rj-e-busca-carona-em-sucesso-de-governador-interino.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Republicanos marca convenção para terça e deve rejeitar aliança com Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/poder/2026/07/republicanos-marca-convencao-para-terca-e-deve-rejeitar-alianca-com-flavio-bolsonaro.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "UOL",
@@ -114,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "TXE, o Tribunal Xandônico Eleitoral",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
           "rank": 3,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
-        },
-        {
-          "rank": 4,
           "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
           "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
+          "rank": 4,
+          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
+          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
+        },
+        {
           "rank": 5,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
         }
       ],
       "erro": null
@@ -269,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Cristina le embarra la cancha a Kicillof y Milei siempre es violento, no importa cómo le vaya",
-          "url": "https://www.clarin.com/opinion/cristina-embarra-cancha-kicillof-milei-siempre-violento-importa-vaya_0_zJQkv8J7b7.html"
+          "title": "\"Estos parásitos\": la feroz respuesta de Victoria Villarruel tras el pedido de renuncia que lanzó Diego Santilli",
+          "url": "https://www.clarin.com/politica/parasitos-feroz-respuesta-victoria-villarruel-pedido-renuncia-lanzo-diego-santilli_0_mtxxFAFz70.html"
         },
         {
           "rank": 4,
-          "title": "\"Estos parásitos\": la feroz respuesta de Victoria Villarruel tras el pedido de renuncia que lanzó Diego Santilli",
-          "url": "https://www.clarin.com/politica/parasitos-feroz-respuesta-victoria-villarruel-pedido-renuncia-lanzo-diego-santilli_0_mtxxFAFz70.html"
+          "title": "Cristina le embarra la cancha a Kicillof y Milei siempre es violento, no importa cómo le vaya",
+          "url": "https://www.clarin.com/opinion/cristina-embarra-cancha-kicillof-milei-siempre-violento-importa-vaya_0_zJQkv8J7b7.html"
         },
         {
           "rank": 5,

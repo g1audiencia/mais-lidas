@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 03:57",
+  "atualizado_em": "01/08/2026 04:03",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
-          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
+          "rank": 3,
+          "title": "Infantino desiste de plano para investimentos privados na Fifa após repercussão e ameaça de boicote",
+          "url": "https://www.estadao.com.br/esportes/futebol/fifa-ffe-plano-investimento-privado-desistencia/"
+        },
+        {
           "rank": 4,
-          "title": "TXE, o Tribunal Xandônico Eleitoral",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
+          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
         },
         {
           "rank": 5,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+          "title": "Pesquisador da USP é condenado a 12 anos de prisão por estupro de estudante que morreu de infecção",
+          "url": "https://www.estadao.com.br/sao-paulo/tj-sp-condena-pesquisador-usp-12-anos-prisao-estupro-estudante-npr/"
         }
       ],
       "erro": null
@@ -248,23 +248,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Red Arrows grounded in Canada after US tour",
-          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
+          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
         },
         {
           "rank": 2,
-          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
-        },
-        {
-          "rank": 3,
           "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
           "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
         },
         {
+          "rank": 3,
+          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
+        },
+        {
           "rank": 4,
-          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
+          "title": "Red Arrows grounded in Canada after US tour",
+          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
         },
         {
           "rank": 5,

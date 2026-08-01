@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 22:32",
+  "atualizado_em": "31/07/2026 22:37",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
+          "title": "Sumiu? Vozinha não se apresenta no Chile e goleiro pode ir para o Marrocos",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sumiu-vozinha-nao-se-apresenta-no-chile-e-goleiro-pode-ir-para-o-marrocos/"
+        },
+        {
+          "rank": 4,
           "title": "PP avisa a Tereza que ficará neutro em disputa presidencial",
           "url": "https://www.cnnbrasil.com.br/eleicoes/pp-avisa-a-tereza-que-ficara-neutro-em-disputa-presidencial/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Nasce primeiro filho de Lauana Prado; veja fotos",
           "url": "https://www.cnnbrasil.com.br/pop/celebridades/nasce-primeiro-filho-de-lauana-prado-e-tati-dias-veja-fotos/"
-        },
-        {
-          "rank": 5,
-          "title": "Espanha estima que 49 mil migrantes entraram em Ceuta em 24 horas",
-          "url": "https://www.cnnbrasil.com.br/internacional/espanha-estima-que-49-mil-migrantes-entraram-em-ceuta-em-24-horas/"
         }
       ],
       "erro": null

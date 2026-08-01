@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 11:55",
+  "atualizado_em": "01/08/2026 12:01",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
-        },
-        {
-          "rank": 3,
           "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
           "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
+          "rank": 3,
+          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
+          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+        },
+        {
           "rank": 4,
-          "title": "A ‘morte da História’",
-          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
           "rank": 5,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+          "title": "Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques",
+          "url": "https://www.estadao.com.br/politica/republicanos-lanca-candidatura-de-tarcisio-em-sp-com-discurso-de-flavio-e-ausencia-de-caciques/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
-          "url": "https://www.bbc.com/news/articles/c4gd82vvvdno"
+          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+          "url": "https://www.bbc.com/news/articles/ce973re9404o"
         },
         {
           "rank": 5,
-          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-          "url": "https://www.bbc.com/news/articles/ce973yvk7pko"
+          "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
+          "url": "https://www.bbc.com/news/articles/c4gd82vvvdno"
         }
       ],
       "erro": null

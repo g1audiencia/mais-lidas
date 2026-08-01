@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 17:33",
+  "atualizado_em": "01/08/2026 17:38",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Mega-Sena: quanto rendem R$ 100 milhões na poupança, Tesouro Direto ou CDB",
-          "url": "https://www.cnnbrasil.com.br/economia/investimentos/mega-sena-quanto-rendem-r-100-milhoes-na-poupanca-tesouro-direto-ou-cdb-8/"
+          "title": "Datafolha: Flamengo segue com a maior torcida do Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/datafolha-flamengo-segue-com-a-maior-torcida-do-brasil/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
-        },
-        {
-          "rank": 3,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
+          "rank": 3,
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+        },
+        {
           "rank": 4,
-          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         },
         {
           "rank": 5,
-          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
-          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
         }
       ],
       "erro": null

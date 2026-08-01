@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 06:32",
+  "atualizado_em": "01/08/2026 06:38",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
-        },
-        {
-          "rank": 2,
           "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
           "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
         },
         {
+          "rank": 2,
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+        },
+        {
           "rank": 3,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+          "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
           "rank": 4,
-          "title": "‘Se quiser vir Trump, que venha. Se quiser vir Milei, que venha. Não quero ajuda de fora’, diz Lula",
-          "url": "https://www.estadao.com.br/politica/se-quiser-vir-trump-que-venha-se-quiser-vir-milei-que-venha-nao-quero-ajuda-de-fora-diz-lula/"
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
           "rank": 5,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
+          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
-          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
+          "title": "FCC chairman defends actions against ABC, says broadcasters must operate ‘in the public interest’",
+          "url": "https://apnews.com/article/fcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b"
         },
         {
           "rank": 5,
-          "title": "FCC chairman defends actions against ABC, says broadcasters must operate ‘in the public interest’",
-          "url": "https://apnews.com/article/fcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b"
+          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
+          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
         }
       ],
       "erro": null
@@ -290,18 +290,18 @@
         },
         {
           "rank": 2,
-          "title": "\"Estos parásitos\": la feroz respuesta de Victoria Villarruel tras el pedido de renuncia que lanzó Diego Santilli",
-          "url": "https://www.clarin.com/politica/parasitos-feroz-respuesta-victoria-villarruel-pedido-renuncia-lanzo-diego-santilli_0_mtxxFAFz70.html"
-        },
-        {
-          "rank": 3,
           "title": "Tras el diluvio en la Ciudad y el GBA sigue el alerta naranja por tormentas: hasta qué hora continuarán las lluvias y las fuertes ráfagas",
           "url": "https://www.clarin.com/sociedad/diluvia-ciudad-gba-sigue-alerta-naranja-tormentas-hora-continuaran-lluvias-fuertes-rafagas_0_INQkDKztvy.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Cristina le embarra la cancha a Kicillof y Milei siempre es violento, no importa cómo le vaya",
           "url": "https://www.clarin.com/opinion/cristina-embarra-cancha-kicillof-milei-siempre-violento-importa-vaya_0_zJQkv8J7b7.html"
+        },
+        {
+          "rank": 4,
+          "title": "\"Estos parásitos\": la feroz respuesta de Victoria Villarruel tras el pedido de renuncia que lanzó Diego Santilli",
+          "url": "https://www.clarin.com/politica/parasitos-feroz-respuesta-victoria-villarruel-pedido-renuncia-lanzo-diego-santilli_0_mtxxFAFz70.html"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 01:23",
+  "atualizado_em": "01/08/2026 01:28",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
+          "rank": 4,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
-          "rank": 4,
-          "title": "Pesquisador da USP é condenado a 12 anos de prisão por estupro de estudante que morreu de infecção",
-          "url": "https://www.estadao.com.br/sao-paulo/tj-sp-condena-pesquisador-usp-12-anos-prisao-estupro-estudante-npr/"
-        },
-        {
           "rank": 5,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Tesouro Direto desativa aplicativo em agosto; veja data e o que muda",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/tesouro-direto-desativa-aplicativo-em-agosto-veja-data-e-o-que-muda/"
         }
       ],
       "erro": null

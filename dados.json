@@ -1,37 +1,11 @@
 {
-  "atualizado_em": "01/08/2026 08:54",
+  "atualizado_em": "01/08/2026 08:59",
   "portais": [
     {
       "portal": "Folha",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Witzel tenta nova surpresa no RJ e busca carona em sucesso de governador interino",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/witzel-tenta-nova-surpresa-no-rj-e-busca-carona-em-sucesso-de-governador-interino.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Republicanos marca convenção para terça e deve rejeitar aliança com Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/republicanos-marca-convencao-para-terca-e-deve-rejeitar-alianca-com-flavio-bolsonaro.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "portal": "UOL",
@@ -241,8 +215,8 @@
         },
         {
           "rank": 5,
-          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
-          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
+          "title": "Oprah Winfrey says she will close her school for girls in South Africa next year",
+          "url": "https://apnews.com/article/south-africa-oprah-winfrey-school-closure-8869f220df77c92d875911740557bdf5"
         }
       ],
       "erro": null

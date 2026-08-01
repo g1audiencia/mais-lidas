@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 16:07",
+  "atualizado_em": "01/08/2026 16:13",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Palmeiras critica STJD e se diz perplexo com denúncia contra Maurício",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/01/palmeiras-critica-stjd-e-se-diz-perplexo-com-denuncia-contra-mauricio.ghtm"
+        },
+        {
+          "rank": 2,
+          "title": "Mãe de apresentadora morreu logo após ser raptada, diz bilhete de resgate",
+          "url": "https://www.uol.com.br/splash/noticias/2026/08/01/policia-divulga-bilhetes-de-resgate-seis-meses-apos-sumico-de-nancy-guthrie.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Funcionário mata três colegas na fábrica da Bombril em SP, diz polícia",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/01/mortes-funcionarios-fabrica-bombril-sao-bernardo-do-campo.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Bolsonaro pede liberação de visita de cunhada por possível internação de Michelle",
           "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/01/bolsonaro-pede-liberacao-de-visita-por-possivel-internacao-de-michelle.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "10 cidades brasileiras para visitar antes de ficarem 'superturísticas'",
           "url": "https://www.uol.com.br/guia-de-compras/ultimas-noticias/2026/08/01/cidades-brasileiras-para-visitar-antes-de-ficarem-super-turisticas.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Ex-marido diz ter gratidão e respeito por Nivea Stelmann: 'Mulher incrível'",
-          "url": "https://www.uol.com.br/splash/noticias/2026/08/01/marcus-rocha-ex-marido-nivea-stelmann.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Após críticas, Xuxa 'esconde' virilha: 'Não vão conseguir ver'",
-          "url": "https://www.uol.com.br/splash/noticias/2026/08/01/apos-criticas-xuxa-esconde-virilha-e-provoca-nao-vao-conseguir-ver.ghtm"
         }
       ],
       "erro": null
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
           "rank": 3,
-          "title": "Governo do RN remaneja R$ 25,7 milhões da Educação para pagar penduricalho de procurador",
-          "url": "https://www.estadao.com.br/politica/governo-do-rn-remaneja-r-257-milhoes-da-educacao-para-pagar-penduricalho-de-procurador/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 4,
-          "title": "Tarcísio diz amar Bolsonaro ao ser oficializado candidato e que faria mais com Flávio presidente",
-          "url": "https://www.estadao.com.br/politica/tarcisio-diz-amar-bolsonaro-ao-ser-oficializado-candidato-e-que-faria-mais-com-flavio-presidente/"
+          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
         },
         {
           "rank": 5,
@@ -263,8 +263,8 @@
         },
         {
           "rank": 3,
-          "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
-          "url": "https://www.bbc.com/news/articles/ce973re9404o"
+          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+          "url": "https://www.bbc.com/news/articles/clyljq79kdko"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-          "url": "https://www.bbc.com/news/articles/clyljq79kdko"
+          "title": "'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released",
+          "url": "https://www.bbc.com/news/articles/ce973re9404o"
         }
       ],
       "erro": null

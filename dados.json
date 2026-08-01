@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 05:39",
+  "atualizado_em": "01/08/2026 05:47",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Tati Machado revela que espera um menino e anuncia nome do bebê",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/tati-machado-revela-que-espera-um-menino-e-anuncia-nome-do-bebe.shtml"
+        },
+        {
+          "rank": 4,
           "title": "De faixa a coroa: Miss Supranational 2026: Filipinas vence pela 2ª vez; brasileira Lara Marina fica em terceiro",
           "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-supranational-2026-filipinas-vence-pela-2a-vez-brasileira-lara-marina-fica-em-terceiro.shtml"
         },
         {
-          "rank": 4,
-          "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Tati Machado revela que espera um menino e anuncia nome do bebê",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/tati-machado-revela-que-espera-um-menino-e-anuncia-nome-do-bebe.shtml"
+          "title": "Fala sobre Vorcaro gera constrangimento em encontro de Flávio com vereadores de SP",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/07/fala-sobre-vorcaro-gera-constrangimento-em-encontro-de-flavio-com-vereadores-de-sp.shtml"
         }
       ],
       "erro": null
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
-          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Como Tamara Klink cozinha no meio do oceano: o hibisco que acompanha a velejadora",
-          "url": "https://www.estadao.com.br/paladar/como-tamara-klink-cozinha-no-meio-do-oceano-o-hibisco-que-acompanha-a-velejadora/"
+          "title": "Não consegue relaxar no fim de semana? Veja 8 dicas para descansar sem culpa nos dias de folga",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/nao-consegue-relaxar-no-fim-de-semana-veja-8-dicas-para-descansar-sem-culpa-nos-dias-de-folga-nprm/"
         }
       ],
       "erro": null
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
-          "title": "Trump administration ends Medicare drug subsidy, Trump announces deal for Hamas to disarm in Gaza, border crisis",
-          "url": "https://apnews.com/newsletter/morning-wire/july-31-2026"
-        },
-        {
-          "rank": 3,
           "title": "The Trump administration is ending a Medicare drug subsidy program. Here’s how it could affect costs",
           "url": "https://apnews.com/article/medicare-drug-subsidy-trump-biden-insurance-3d3fdb43b1bf374a1a168506fded86c0"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Senior FIFA executive says staff were deceived over Infantino’s World Cup sell-off plan",
           "url": "https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
           "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
+        },
+        {
+          "rank": 5,
+          "title": "FCC chairman defends actions against ABC, says broadcasters must operate ‘in the public interest’",
+          "url": "https://apnews.com/article/fcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-          "url": "https://www.bbc.com/news/articles/cx2kp639yx4o"
-        },
-        {
-          "rank": 4,
           "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
           "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
           "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
+        },
+        {
+          "rank": 5,
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+          "url": "https://www.bbc.com/news/articles/cx2kp639yx4o"
         }
       ],
       "erro": null

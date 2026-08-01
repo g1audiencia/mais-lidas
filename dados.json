@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 12:40",
+  "atualizado_em": "01/08/2026 12:46",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Concorrência cresce, e vendas do Brasil à Argentina despencam no 1º semestre",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/concorrencia-cresce-e-vendas-do-brasil-a-argentina-despencam-no-1o-semestre.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
           "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
         },
         {
+          "rank": 4,
+          "title": "Concorrência cresce, e vendas do Brasil à Argentina despencam no 1º semestre",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/concorrencia-cresce-e-vendas-do-brasil-a-argentina-despencam-no-1o-semestre.shtml"
+        },
+        {
           "rank": 5,
-          "title": "BRTs de R$ 1 bilhão começam a ganhar forma em São Paulo após espera de mais de uma década",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/brts-de-r-1-bilhao-comecam-a-ganhar-forma-em-sao-paulo-apos-espera-de-mais-de-uma-decada.shtml"
+          "title": "Funcionário mata três colegas em fábrica da Bombril em São Bernardo do Campo (SP)",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/funcionario-mata-tres-colegas-em-fabrica-da-bombril-em-sao-bernardo-do-campo-sp.shtml"
         }
       ],
       "erro": null
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "TJSP reconhece falsidade de assinatura de Ana Hickmann em dívida com banco",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tjsp-reconhece-falsidade-de-assinatura-de-ana-hickmann-em-divida-com-banco/"
+          "title": "Mega-Sena: quanto rendem R$ 100 milhões na poupança, Tesouro Direto ou CDB",
+          "url": "https://www.cnnbrasil.com.br/economia/investimentos/mega-sena-quanto-rendem-r-100-milhoes-na-poupanca-tesouro-direto-ou-cdb-8/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-          "url": "https://www.bbc.com/news/articles/ce973yvk7pko"
+          "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
+          "url": "https://www.bbc.com/news/articles/c4gd82vvvdno"
         }
       ],
       "erro": null

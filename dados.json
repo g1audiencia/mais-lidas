@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 20:46",
+  "atualizado_em": "01/08/2026 20:52",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
+        },
+        {
+          "rank": 3,
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+        },
+        {
+          "rank": 4,
           "title": "Governo do RN remaneja R$ 25,7 milhões da Educação para pagar penduricalho de procurador",
           "url": "https://www.estadao.com.br/politica/governo-do-rn-remaneja-r-257-milhoes-da-educacao-para-pagar-penduricalho-de-procurador/"
         },
         {
-          "rank": 3,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
-          "rank": 4,
-          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
-          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
-        },
-        {
           "rank": 5,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+          "title": "‘O Diabo Veste Prada 2′, ‘Fúria’, acidente aéreo, tubarão e spin off: as estreias do streaming",
+          "url": "https://www.estadao.com.br/cultura/cinema/o-diabo-veste-prada-2-furia-acidente-aereo-tubarao-e-spin-off-as-estreias-do-streaming-nprec/"
         }
       ],
       "erro": null

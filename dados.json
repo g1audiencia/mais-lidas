@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 05:58",
+  "atualizado_em": "01/08/2026 06:03",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "TXE, o Tribunal Xandônico Eleitoral",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+          "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
           "rank": 3,
-          "title": "Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques",
-          "url": "https://www.estadao.com.br/politica/republicanos-lanca-candidatura-de-tarcisio-em-sp-com-discurso-de-flavio-e-ausencia-de-caciques/"
-        },
-        {
-          "rank": 4,
           "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
           "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
         },
         {
+          "rank": 4,
+          "title": "Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques",
+          "url": "https://www.estadao.com.br/politica/republicanos-lanca-candidatura-de-tarcisio-em-sp-com-discurso-de-flavio-e-ausencia-de-caciques/"
+        },
+        {
           "rank": 5,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+          "url": "https://www.bbc.com/news/articles/cx2kp639yx4o"
         },
         {
           "rank": 5,
-          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-          "url": "https://www.bbc.com/news/articles/cx2kp639yx4o"
+          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
         }
       ],
       "erro": null

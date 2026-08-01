@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 00:23",
+  "atualizado_em": "01/08/2026 00:28",
   "portais": [
     {
       "portal": "Folha",
@@ -145,13 +145,13 @@
         },
         {
           "rank": 3,
-          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
-          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
           "rank": 4,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
+          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
         },
         {
           "rank": 5,
@@ -231,13 +231,13 @@
         },
         {
           "rank": 3,
-          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
-          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
+          "title": "Senior FIFA executive says staff were deceived over Infantino’s World Cup sell-off plan",
+          "url": "https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab"
         },
         {
           "rank": 4,
-          "title": "Senior FIFA executive says staff were deceived over Infantino’s World Cup sell-off plan",
-          "url": "https://apnews.com/article/cordeiro-infantino-fifa-executive-world-cup-4cff20f6e2dda925e6d5395b56dcf9ab"
+          "title": "Scouting America drops diversity initiatives from event after pressure from the Pentagon",
+          "url": "https://apnews.com/article/scouting-america-national-jamboree-inclusion-hegseth-e510d8e7c848774baae1612c976ecb6d"
         },
         {
           "rank": 5,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
+          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+          "url": "https://www.bbc.com/news/articles/ce973re9404o"
         },
         {
           "rank": 5,
-          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
-          "url": "https://www.bbc.com/news/articles/ce973re9404o"
+          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
         }
       ],
       "erro": null
@@ -285,23 +285,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Diluvia en la Ciudad y el GBA y sigue el alerta naranja por tormentas: hasta qué hora continuarán las lluvias y las fuertes ráfagas",
-          "url": "https://www.clarin.com/sociedad/alerta-naranja-tormentas-ciudad-provincia-buenos-aires-preven-lluvias-intensas-granizo-rafagas-50-kmh_0_qjl6X4QzwB.html"
-        },
-        {
-          "rank": 2,
           "title": "\"Estos parásitos\": la feroz respuesta de Victoria Villarruel tras el pedido de renuncia que lanzó Diego Santilli",
           "url": "https://www.clarin.com/politica/parasitos-feroz-respuesta-victoria-villarruel-pedido-renuncia-lanzo-diego-santilli_0_mtxxFAFz70.html"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Crisis migratoria en España: dudas y un opaco trasfondo político detrás del aluvión de marroquíes en Ceuta",
           "url": "https://www.clarin.com/mundo/crisis-migratoria-espana-dudas-opaco-trasfondo-politico-detras-aluvion-marroquies-ceuta_0_49bRMqNp9z.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Solo Empanadas volvió a pedir el concurso: la dueña de la famosa cadena de los '90 ya adeuda más de $ 1.000 millones",
           "url": "https://www.clarin.com/economia/solo-empanadas-volvio-pedir-concurso-duena-famosa-cadena-90-adeuda-1000-millones_0_zXh5rVSEjb.html"
+        },
+        {
+          "rank": 4,
+          "title": "Diluvia en la Ciudad y el GBA y sigue el alerta naranja por tormentas: hasta qué hora continuarán las lluvias y las fuertes ráfagas",
+          "url": "https://www.clarin.com/sociedad/diluvia-ciudad-gba-sigue-alerta-naranja-tormentas-hora-continuaran-lluvias-fuertes-rafagas_0_INQkDKztvy.html"
         },
         {
           "rank": 5,

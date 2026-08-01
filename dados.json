@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 21:14",
+  "atualizado_em": "31/07/2026 21:19",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Paraguai entrega nota de repúdio a embaixador brasileiro, e vice diz não querer aprofundar rusga",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-e-vice-diz-nao-querer-aprofundar-rusga.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Nico Williams termina namoro após título mundial e flagra em iate",
           "url": "https://f5.folha.uol.com.br/voceviu/2026/07/nico-williams-termina-namoro-apos-titulo-mundial-e-flagra-em-iate.shtml"
         },
         {
+          "rank": 3,
+          "title": "Paraguai entrega nota de repúdio a embaixador brasileiro, e vice diz não querer aprofundar rusga",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-e-vice-diz-nao-querer-aprofundar-rusga.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Justiça atesta assinatura falsa de Ana Hickmann e a livra de dívida de R$ 1 milhão",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/justica-atesta-assinatura-falsa-de-ana-hickmann-e-a-livra-de-divida-de-r-1-milhao.shtml"
+          "title": "Marcos Llorente critica reação a fotos com Ferran Torres: 'Nada mais masculino'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/marcos-llorente-critica-reacao-a-fotos-com-ferran-torres-nada-mais-masculino.shtml"
         },
         {
           "rank": 5,
-          "title": "Nasce Dom, primeiro filho de Lauana Prado e Tati Dias",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/nasce-dom-primeiro-filho-de-lauana-prado-e-tati-dias.shtml"
+          "title": "Justiça atesta assinatura falsa de Ana Hickmann e a livra de dívida de R$ 1 milhão",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/justica-atesta-assinatura-falsa-de-ana-hickmann-e-a-livra-de-divida-de-r-1-milhao.shtml"
         }
       ],
       "erro": null
@@ -44,8 +44,8 @@
         },
         {
           "rank": 2,
-          "title": "Maierovitch: Lulinha não deveria ter ganhado foro privilegiado",
-          "url": "https://noticias.uol.com.br/colunas/walter-maierovitch/2026/07/31/lulinha-tem-foro-privilegiado.htm"
+          "title": "Infantino desiste de vender fatia da Copa do Mundo após racha interno na Fifa",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/07/31/infantino-desiste-de-vender-fatia-da-copa-do-mundo-apos-divisao-na-fifa.ghtm"
         },
         {
           "rank": 3,

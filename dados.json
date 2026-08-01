@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 08:34",
+  "atualizado_em": "01/08/2026 08:43",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
-        },
-        {
-          "rank": 4,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
+          "rank": 4,
+          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
+          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+        },
+        {
           "rank": 5,
-          "title": "TXE, o Tribunal Xandônico Eleitoral",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
+        },
+        {
+          "rank": 3,
           "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
           "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Red Arrows grounded in Canada after US tour",
           "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
-        },
-        {
-          "rank": 4,
-          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-          "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
         },
         {
           "rank": 5,

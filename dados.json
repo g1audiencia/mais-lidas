@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 22:26",
+  "atualizado_em": "31/07/2026 22:32",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Nico Williams termina namoro após título mundial e flagra em iate",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/nico-williams-termina-namoro-apos-titulo-mundial-e-flagra-em-iate.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Paraguai entrega nota de repúdio a embaixador brasileiro, e vice diz não querer aprofundar rusga",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-e-vice-diz-nao-querer-aprofundar-rusga.shtml"
         },
         {
+          "rank": 2,
+          "title": "Nico Williams termina namoro após título mundial e flagra em iate",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/nico-williams-termina-namoro-apos-titulo-mundial-e-flagra-em-iate.shtml"
+        },
+        {
           "rank": 3,
+          "title": "Tarcísio Filho mostra DRT e nega irregularidade apontada por sindicato",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/tarcisio-filho-mostra-drt-e-nega-irregularidade-apontada-por-sindicato.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Marcos Llorente critica reação a fotos com Ferran Torres: 'Nada mais masculino'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/07/marcos-llorente-critica-reacao-a-fotos-com-ferran-torres-nada-mais-masculino.shtml"
         },
         {
-          "rank": 4,
-          "title": "Justiça atesta assinatura falsa de Ana Hickmann e a livra de dívida de R$ 1 milhão",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/justica-atesta-assinatura-falsa-de-ana-hickmann-e-a-livra-de-divida-de-r-1-milhao.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Tarcísio Filho mostra DRT e nega irregularidade apontada por sindicato",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/tarcisio-filho-mostra-drt-e-nega-irregularidade-apontada-por-sindicato.shtml"
+          "title": "Receita gera primeiro CNPJ em formato alfanumérico para filial do BB",
+          "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/receita-gera-primeiro-cnpj-em-formato-alfanumerico-para-filial-do-bb.shtml"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Espanha estima que 49 mil migrantes entraram em Ceuta em 24 horas",
-          "url": "https://www.cnnbrasil.com.br/internacional/espanha-estima-que-49-mil-migrantes-entraram-em-ceuta-em-24-horas/"
+          "title": "Nasce primeiro filho de Lauana Prado; veja fotos",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/nasce-primeiro-filho-de-lauana-prado-e-tati-dias-veja-fotos/"
         },
         {
           "rank": 5,
-          "title": "Nasce primeiro filho de Lauana Prado; veja fotos",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/nasce-primeiro-filho-de-lauana-prado-e-tati-dias-veja-fotos/"
+          "title": "Espanha estima que 49 mil migrantes entraram em Ceuta em 24 horas",
+          "url": "https://www.cnnbrasil.com.br/internacional/espanha-estima-que-49-mil-migrantes-entraram-em-ceuta-em-24-horas/"
         }
       ],
       "erro": null

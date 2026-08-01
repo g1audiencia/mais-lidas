@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 23:10",
+  "atualizado_em": "31/07/2026 23:16",
   "portais": [
     {
       "portal": "Folha",
@@ -103,23 +103,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Com dívida pública acima de R$ 10 tri, Lula deve terminar o terceiro mandato com déficit nominal recorde",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/07/31/com-divida-publica-acima-de-r-10-tri-lula-deve-terminar-o-terceiro-mandato-com-deficit-nominal-recorde.ghtml"
+          "title": "Fifa desiste de projeto de abrir direitos comerciais a investidores privados após repercussão negativa",
+          "url": "https://oglobo.globo.com/esportes/futebol/noticia/2026/07/31/infantino-desiste-de-projeto-de-venda-de-acoes-da-copa-apos-reacao-negativa-do-mundo-do-futebol.ghtml"
         },
         {
           "rank": 2,
-          "title": "Fotos de Virginia Fonseca e Vini Jr. em festa de família levam web a suspeitar de gravidez",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/07/31/fotos-de-virginia-fonseca-e-vini-jr-em-festa-de-familia-levam-web-a-suspeitar-de-gravidez.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Atacante do Chelsea, Mudryk é liberado para voltar a jogar após suspensão por doping",
           "url": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/07/31/atacante-do-chelsea-mudryk-e-liberado-para-voltar-a-jogar-apos-suspensao-por-doping.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Com dívida pública acima de R$ 10 tri, Lula deve terminar o terceiro mandato com déficit nominal recorde",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/07/31/com-divida-publica-acima-de-r-10-tri-lula-deve-terminar-o-terceiro-mandato-com-deficit-nominal-recorde.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Piloto é preso com mais de 70 mil comprimidos de ecstasy após pousar avião e pode ser condenado à morte na Malásia",
-          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/31/piloto-e-preso-com-mais-de-70-mil-comprimidos-de-ecstasy-apos-pousar-aviao-e-pode-ser-condenado-a-morte-na-malasia.ghtml"
+          "title": "Flamengo registra crescimento de receita, mas fecha primeiro semestre com déficit de R$ 33 milhões",
+          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/31/flamengo-confirma-valor-da-venda-de-ryan-roberto-e-fecha-primeiro-semestre-em-alta-na-comparacao-com-2025.ghtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O que se sabe sobre a entrada em massa de migrantes no território espanhol de Ceuta?",
-          "url": "https://www.estadao.com.br/internacional/o-que-se-sabe-entrada-massa-migrantes-territorio-espanhol-ceuta-npr/"
+          "title": "Pesquisador da USP é condenado a 12 anos de prisão por estupro de estudante que morreu de infecção",
+          "url": "https://www.estadao.com.br/sao-paulo/tj-sp-condena-pesquisador-usp-12-anos-prisao-estupro-estudante-npr/"
         },
         {
           "rank": 3,
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+        },
+        {
+          "rank": 4,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "PF pede segundo inquérito para apurar tráfico de influência de Lulinha e empresário na Dataprev",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-pede-segundo-inquerito-para-apurar-trafico-de-influencia-de-lulinha-e-empresario-na-dataprev/"
-        },
-        {
-          "rank": 5,
-          "title": "Como Tamara Klink cozinha no meio do oceano: o hibisco que acompanha a velejadora",
-          "url": "https://www.estadao.com.br/paladar/como-tamara-klink-cozinha-no-meio-do-oceano-o-hibisco-que-acompanha-a-velejadora/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
-          "url": "https://www.bbc.com/news/articles/ce973re9404o"
+          "title": "Amnesty apologises to JK Rowling's sexual violence support centre",
+          "url": "https://www.bbc.com/news/articles/cdrvk32y2ypo"
         },
         {
           "rank": 5,
-          "title": "Amnesty apologises to JK Rowling's sexual violence support centre",
-          "url": "https://www.bbc.com/news/articles/cdrvk32y2ypo"
+          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+          "url": "https://www.bbc.com/news/articles/ce973re9404o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 19:27",
+  "atualizado_em": "01/08/2026 19:34",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Inquéritos sobre Lulinha acirram tensão entre Mendonça e PF",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/inqueritos-sobre-lulinha-acirram-tensao-entre-mendonca-e-pf.shtml"
+          "title": "Paixão por tarifa",
+          "url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/07/paixao-por-tarifa.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
-        },
-        {
-          "rank": 3,
-          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
-          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
-        },
-        {
-          "rank": 4,
           "title": "Os melhores e os piores hábitos para o fígado",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         },
         {
+          "rank": 3,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
+          "rank": 4,
+          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
+          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
+        },
+        {
           "rank": 5,
-          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
-          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Will Canada's WestJet airline strike go ahead - and can I get a refund?",
-          "url": "https://www.bbc.com/news/articles/cq568j06zgxo"
+          "title": "US urges its citizens in Middle East to be ready to leave in case of escalation",
+          "url": "https://www.bbc.com/news/articles/cgk4nyr0j73o"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Flavio Briatore habló de Franco Colapinto y dejó una señal sobre qué puede pasar con su continuidad en Alpine",
-          "url": "https://www.clarin.com/deportes/flavio-briatore-hablo-franco-colapinto-dejo-senal-puede-pasar-continuidad-alpine_0_k6Yg0exaDq.html"
+          "title": "Sucesión, tensiones con el PRO y la sombra de Villarruel: el operativo reelección de Milei reordena el tablero",
+          "url": "https://www.clarin.com/politica/sucesion-tensiones-pro-sombra-villarruel-operativo-reeleccion-milei-reordena-tablero_0_SMNgVKIFBF.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 11:46",
+  "atualizado_em": "01/08/2026 11:55",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
+          "title": "Funcionário mata três colegas na fábrica da Bombril em SP, diz polícia",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/01/mortes-funcionarios-fabrica-bombril-sao-bernardo-do-campo.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Uefa cita 'esquema secreto' e diz que perdeu confiança em Infantino na Fifa",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/01/uefa-cita-esquema-secreto-e-diz-que-perdeu-confianca-em-infantino-na-fifa.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "O que está acontecendo em Ceuta? Entenda a crise migratória na Espanha",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/31/o-que-esta-acontecendo-em-ceuta-entenda-crise-migratoria-na-espanha.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ex-marido diz ter gratidão e respeito por Nivea Stelmann: 'Mulher incrível'",
           "url": "https://www.uol.com.br/splash/noticias/2026/08/01/marcus-rocha-ex-marido-nivea-stelmann.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Palmeiras aproveita pausa do Fla, e Abel deve poupar jogadores na Copa do Brasil",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/01/palmeiras-marca-flamengo-e-abel-prepara-mudancas-na-copa-do-brasil.ghtm"
         }
       ],
       "erro": null
@@ -108,18 +108,18 @@
         },
         {
           "rank": 2,
+          "title": "Flamengo segue com a maior torcida do Brasil; veja quem são os concorrentes, segundo Datafolha",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/01/flamengo-segue-com-a-maior-torcida-do-brasil-veja-quem-sao-os-concorrentes-segundo-datafolha.ghtml"
+        },
+        {
+          "rank": 3,
           "title": "Justiça determina força-tarefa para enfrentar crise humanitária dos Maxakali em Minas Gerais",
           "url": "https://oglobo.globo.com/brasil/noticia/2026/08/01/justica-determina-forca-tarefa-para-enfrentar-crise-humanitaria-dos-maxakali-em-minas-gerais.ghtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Etanol ou gasolina? Calcule o que é mais vantajoso para abastecer seu carro",
           "url": "https://oglobo.globo.com/economia/noticia/2026/08/01/etanol-ou-gasolina-calcule-o-que-e-mais-vantajoso-para-abastecer-seu-carro.ghtml"
-        },
-        {
-          "rank": 4,
-          "title": "Flamengo segue com a maior torcida do Brasil; veja quem são os concorrentes, segundo Datafolha",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/01/flamengo-segue-com-a-maior-torcida-do-brasil-veja-quem-sao-os-concorrentes-segundo-datafolha.ghtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
-        },
-        {
-          "rank": 3,
           "title": "O que está por trás da preferência da geração Z por ficar em casa?",
           "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
         },
         {
+          "rank": 3,
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+        },
+        {
           "rank": 4,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+          "title": "A ‘morte da História’",
+          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
         },
         {
           "rank": 5,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
+          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
         }
       ],
       "erro": null

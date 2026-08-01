@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 19:46",
+  "atualizado_em": "01/08/2026 19:59",
   "portais": [
     {
       "portal": "Folha",
@@ -17,8 +17,8 @@
         },
         {
           "rank": 3,
-          "title": "Magreza de Ariana Grande em novo clipe, 'Petal', chama atenção de fãs",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/magreza-de-ariana-grande-em-novo-clipe-petal-chama-atencao-de-fas.shtml"
+          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Paixão por tarifa",
-          "url": "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/07/paixao-por-tarifa.shtml"
+          "title": "Magreza de Ariana Grande em novo clipe, 'Petal', chama atenção de fãs",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/magreza-de-ariana-grande-em-novo-clipe-petal-chama-atencao-de-fas.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
-          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
-        },
-        {
-          "rank": 3,
-          "title": "‘O Diabo Veste Prada 2′, ‘Fúria’, acidente aéreo, tubarão e spin off: as estreias do streaming",
-          "url": "https://www.estadao.com.br/cultura/cinema/o-diabo-veste-prada-2-furia-acidente-aereo-tubarao-e-spin-off-as-estreias-do-streaming-nprec/"
-        },
-        {
-          "rank": 4,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
+          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
+        },
+        {
+          "rank": 4,
           "title": "Os melhores e os piores hábitos para o fígado",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+        },
+        {
+          "rank": 5,
+          "title": "Governo do RN remaneja R$ 25,7 milhões da Educação para pagar penduricalho de procurador",
+          "url": "https://www.estadao.com.br/politica/governo-do-rn-remaneja-r-257-milhoes-da-educacao-para-pagar-penduricalho-de-procurador/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Will Canada's WestJet airline strike go ahead - and can I get a refund?",
-          "url": "https://www.bbc.com/news/articles/cq568j06zgxo"
+          "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+          "url": "https://www.bbc.com/news/articles/ce97nyz4rvmo"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Gerardo Zamora tildó de \"colaboracionistas\" a cuatro gobernadores y aseguró que le pidieron plata a Milei para pagar aguinaldos a cambio de apoyar la política económica",
-          "url": "https://www.clarin.com/politica/gerardo-zamora-tildo-colaboracionistas-gobernadores-aseguro-pidieron-plata-milei-pagar-aguinaldos-cambio-apoyar-politica-economica_0_d3HlT9ZYw9.html"
+          "title": "Sucesión, tensiones con el PRO y la sombra de Villarruel: el operativo reelección de Milei reordena el tablero",
+          "url": "https://www.clarin.com/politica/sucesion-tensiones-pro-sombra-villarruel-operativo-reeleccion-milei-reordena-tablero_0_SMNgVKIFBF.html"
         },
         {
           "rank": 5,
-          "title": "Sucesión, tensiones con el PRO y la sombra de Villarruel: el operativo reelección de Milei reordena el tablero",
-          "url": "https://www.clarin.com/politica/sucesion-tensiones-pro-sombra-villarruel-operativo-reeleccion-milei-reordena-tablero_0_SMNgVKIFBF.html"
+          "title": "Gerardo Zamora tildó de \"colaboracionistas\" a cuatro gobernadores y aseguró que le pidieron plata a Milei para pagar aguinaldos a cambio de apoyar la política económica",
+          "url": "https://www.clarin.com/politica/gerardo-zamora-tildo-colaboracionistas-gobernadores-aseguro-pidieron-plata-milei-pagar-aguinaldos-cambio-apoyar-politica-economica_0_d3HlT9ZYw9.html"
         }
       ],
       "erro": null

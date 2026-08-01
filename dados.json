@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 09:12",
+  "atualizado_em": "01/08/2026 09:17",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Concorrência cresce, e vendas do Brasil à Argentina despencam no 1º semestre",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/concorrencia-cresce-e-vendas-do-brasil-a-argentina-despencam-no-1o-semestre.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Witzel tenta nova surpresa no RJ e busca carona em sucesso de governador interino",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/witzel-tenta-nova-surpresa-no-rj-e-busca-carona-em-sucesso-de-governador-interino.shtml"
         },
         {
-          "rank": 3,
-          "title": "Republicanos marca convenção para terça e deve rejeitar aliança com Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/republicanos-marca-convencao-para-terca-e-deve-rejeitar-alianca-com-flavio-bolsonaro.shtml"
-        },
-        {
           "rank": 4,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+          "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
         },
         {
           "rank": 5,
-          "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
+          "title": "Um ato de lesa-banana",
+          "url": "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/um-ato-de-lesa-banana.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
-        },
-        {
-          "rank": 4,
           "title": "TXE, o Tribunal Xandônico Eleitoral",
           "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+        },
+        {
+          "rank": 5,
+          "title": "A ‘morte da História’",
+          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-          "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
+          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
         },
         {
           "rank": 3,
-          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
         },
         {
           "rank": 4,

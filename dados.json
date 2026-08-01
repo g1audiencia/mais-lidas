@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 06:03",
+  "atualizado_em": "01/08/2026 06:09",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
-        },
-        {
-          "rank": 2,
           "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
+          "rank": 2,
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+        },
+        {
           "rank": 3,
-          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
-          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 4,
-          "title": "Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques",
-          "url": "https://www.estadao.com.br/politica/republicanos-lanca-candidatura-de-tarcisio-em-sp-com-discurso-de-flavio-e-ausencia-de-caciques/"
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
           "rank": 5,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+          "title": "Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques",
+          "url": "https://www.estadao.com.br/politica/republicanos-lanca-candidatura-de-tarcisio-em-sp-com-discurso-de-flavio-e-ausencia-de-caciques/"
         }
       ],
       "erro": null

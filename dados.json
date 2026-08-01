@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 06:38",
+  "atualizado_em": "01/08/2026 06:43",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
-        },
-        {
-          "rank": 2,
-          "title": "TXE, o Tribunal Xandônico Eleitoral",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
-        },
-        {
-          "rank": 3,
-          "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
-        },
-        {
-          "rank": 4,
           "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
           "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
+          "rank": 2,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
+          "rank": 3,
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+        },
+        {
+          "rank": 4,
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+        },
+        {
           "rank": 5,
-          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
-          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
+          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
+          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 06:20",
+  "atualizado_em": "01/08/2026 06:27",
   "portais": [
     {
       "portal": "Folha",
@@ -108,23 +108,23 @@
         },
         {
           "rank": 2,
+          "title": "O erro de Flávio Bolsonaro que inviabilizou Tereza Cristina como vice, segundo aliados",
+          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/08/o-erro-de-flavio-bolsonaro-que-inviabilizou-tereza-cristina-como-vice-segundo-aliados.ghtml"
+        },
+        {
+          "rank": 3,
           "title": "Atacante do Chelsea, Mudryk é liberado para voltar a jogar após suspensão por doping",
           "url": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/07/31/atacante-do-chelsea-mudryk-e-liberado-para-voltar-a-jogar-apos-suspensao-por-doping.ghtml"
         },
         {
-          "rank": 3,
-          "title": "Real Madrid dá ultimato a Vini Jr.: renovar ou ser negociado nesta janela, diz jornal",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/31/real-madrid-da-ultimato-a-vini-jr-renovar-ou-ser-negociado-nesta-janela-diz-jornal.ghtml"
-        },
-        {
           "rank": 4,
-          "title": "Piloto é preso com mais de 70 mil comprimidos de ecstasy após pousar avião e pode ser condenado à morte na Malásia",
-          "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/07/31/piloto-e-preso-com-mais-de-70-mil-comprimidos-de-ecstasy-apos-pousar-aviao-e-pode-ser-condenado-a-morte-na-malasia.ghtml"
+          "title": "Etanol ou gasolina? Calcule o que é mais vantajoso para abastecer seu carro",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/08/01/etanol-ou-gasolina-calcule-o-que-e-mais-vantajoso-para-abastecer-seu-carro.ghtml"
         },
         {
           "rank": 5,
-          "title": "Flamengo registra crescimento de receita, mas fecha primeiro semestre com déficit de R$ 33 milhões",
-          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/07/31/flamengo-confirma-valor-da-venda-de-ryan-roberto-e-fecha-primeiro-semestre-em-alta-na-comparacao-com-2025.ghtml"
+          "title": "Real Madrid dá ultimato a Vini Jr.: renovar ou ser negociado nesta janela, diz jornal",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/07/31/real-madrid-da-ultimato-a-vini-jr-renovar-ou-ser-negociado-nesta-janela-diz-jornal.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
-        },
-        {
-          "rank": 2,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
-        },
-        {
-          "rank": 3,
           "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
+          "rank": 2,
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+        },
+        {
+          "rank": 3,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
           "rank": 4,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+          "title": "PF pede segundo inquérito para apurar tráfico de influência de Lulinha e empresário na Dataprev",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-pede-segundo-inquerito-para-apurar-trafico-de-influencia-de-lulinha-e-empresario-na-dataprev/"
         },
         {
           "rank": 5,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
+          "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
         }
       ],
       "erro": null

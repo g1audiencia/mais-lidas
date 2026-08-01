@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 10:50",
+  "atualizado_em": "01/08/2026 10:57",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "TXE, o Tribunal Xandônico Eleitoral",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+          "title": "A ‘morte da História’",
+          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
         },
         {
           "rank": 5,
-          "title": "Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques",
-          "url": "https://www.estadao.com.br/politica/republicanos-lanca-candidatura-de-tarcisio-em-sp-com-discurso-de-flavio-e-ausencia-de-caciques/"
+          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
+          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
-          "url": "https://www.bbc.com/news/articles/c4gd82vvvdno"
+          "title": "Red Arrows grounded in Canada after US tour",
+          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
         },
         {
           "rank": 5,
-          "title": "Red Arrows grounded in Canada after US tour",
-          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
+          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+          "url": "https://www.bbc.com/news/articles/ce973re9404o"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Calles inundadas, destrozos y cortes de luz: lo que dejó el diluvio en la Ciudad y el GBA",
-          "url": "https://www.clarin.com/sociedad/diluvia-ciudad-gba-sigue-alerta-naranja-tormentas-hora-continuaran-lluvias-fuertes-rafagas_0_INQkDKztvy.html"
-        },
-        {
-          "rank": 4,
           "title": "Mundos íntimos. Un guardavidas ayudó a una mujer a ir al agua. Subí la foto y se viralizó. Sorpresa: la gentileza aún es un valor.",
           "url": "https://www.clarin.com/sociedad/mundos-intimos-guardavidas-ayudo-mujer-ir-agua-subi-foto-viralizo-sorpresa-gentileza-valor_0_NniOGkjjAb.html"
         },
         {
+          "rank": 4,
+          "title": "Crisis en Ceuta: España puso una \"barrera\" en el mar para evitar el cruce de más marroquíes",
+          "url": "https://www.clarin.com/mundo/crisis-ceuta-espana-puso-barrera-mar-evitar-cruce-marroquies_0_cGWX740ReP.html"
+        },
+        {
           "rank": 5,
-          "title": "\"Estos parásitos\": la feroz respuesta de Victoria Villarruel tras el pedido de renuncia que lanzó Diego Santilli",
-          "url": "https://www.clarin.com/politica/parasitos-feroz-respuesta-victoria-villarruel-pedido-renuncia-lanzo-diego-santilli_0_mtxxFAFz70.html"
+          "title": "Calles inundadas, destrozos y cortes de luz: lo que dejó el diluvio en la Ciudad y el GBA",
+          "url": "https://www.clarin.com/sociedad/diluvia-ciudad-gba-sigue-alerta-naranja-tormentas-hora-continuaran-lluvias-fuertes-rafagas_0_INQkDKztvy.html"
         }
       ],
       "erro": null

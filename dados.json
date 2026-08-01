@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 11:08",
+  "atualizado_em": "01/08/2026 11:18",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Flamengo continua com a maior torcida do Brasil, com 22%, aponta Datafolha",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/flamengo-continua-com-a-maior-torcida-do-brasil-com-22-aponta-datafolha.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Concorrência cresce, e vendas do Brasil à Argentina despencam no 1º semestre",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/concorrencia-cresce-e-vendas-do-brasil-a-argentina-despencam-no-1o-semestre.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
           "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Witzel tenta nova surpresa no RJ e busca carona em sucesso de governador interino",
           "url": "https://www1.folha.uol.com.br/poder/2026/07/witzel-tenta-nova-surpresa-no-rj-e-busca-carona-em-sucesso-de-governador-interino.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Um ato de lesa-banana",
-          "url": "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/um-ato-de-lesa-banana.shtml"
         }
       ],
       "erro": null
@@ -76,18 +76,18 @@
         },
         {
           "rank": 2,
-          "title": "Itália suspende acordo de livre circulação com Espanha por crise migratória",
-          "url": "https://www.cnnbrasil.com.br/internacional/italia-suspende-acordo-de-livre-circulacao-com-espanha-por-crise-migratoria/"
-        },
-        {
-          "rank": 3,
           "title": "Mãe da 3ª filha de Neymar reage à festa feita por Bruna Biancardi",
           "url": "https://www.cnnbrasil.com.br/pop/celebridades/mae-da-3a-filha-de-neymar-reage-a-festa-feita-por-bruna-biancardi/"
         },
         {
+          "rank": 3,
+          "title": "Itália suspende acordo de livre circulação com Espanha por crise migratória",
+          "url": "https://www.cnnbrasil.com.br/internacional/italia-suspende-acordo-de-livre-circulacao-com-espanha-por-crise-migratoria/"
+        },
+        {
           "rank": 4,
-          "title": "Sumiu? Vozinha não se apresenta no Chile e goleiro pode ir para o Marrocos",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sumiu-vozinha-nao-se-apresenta-no-chile-e-goleiro-pode-ir-para-o-marrocos/"
+          "title": "Em dois dias, Mendonça amplia cerco a Lulinha e atrito com a PF escala",
+          "url": "https://www.cnnbrasil.com.br/politica/em-dois-dias-mendonca-amplia-cerco-a-lulinha-e-atrito-com-a-pf-escala/"
         },
         {
           "rank": 5,
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "TXE, o Tribunal Xandônico Eleitoral",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
           "rank": 3,
-          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
-          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Red Arrows grounded in Canada after US tour",
-          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
+          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
+          "url": "https://www.bbc.com/news/articles/ce973re9404o"
         },
         {
           "rank": 5,
-          "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
-          "url": "https://www.bbc.com/news/articles/ce973re9404o"
+          "title": "Red Arrows grounded in Canada after US tour",
+          "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
         }
       ],
       "erro": null

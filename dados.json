@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 02:44",
+  "atualizado_em": "01/08/2026 02:49",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Nico Williams termina namoro após título mundial e flagra em iate",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/nico-williams-termina-namoro-apos-titulo-mundial-e-flagra-em-iate.shtml"
-        },
-        {
-          "rank": 4,
           "title": "De faixa a coroa: Miss Supranational 2026: Filipinas vence pela 2ª vez; brasileira Lara Marina fica em terceiro",
           "url": "https://f5.folha.uol.com.br/colunistas/de-faixa-a-coroa/2026/07/miss-supranational-2026-filipinas-vence-pela-2a-vez-brasileira-lara-marina-fica-em-terceiro.shtml"
         },
         {
+          "rank": 4,
+          "title": "Nico Williams termina namoro após título mundial e flagra em iate",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/07/nico-williams-termina-namoro-apos-titulo-mundial-e-flagra-em-iate.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Observatório brasileiro registra chuva de meteoros; veja",
-          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/observatorio-brasileiro-registra-chuva-de-meteoros-veja.shtml"
+          "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 18:38",
+  "atualizado_em": "01/08/2026 18:44",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
-        },
-        {
-          "rank": 2,
           "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
+          "rank": 2,
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+        },
+        {
           "rank": 3,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Tarcísio diz amar Bolsonaro ao ser oficializado candidato e que faria mais com Flávio presidente",
-          "url": "https://www.estadao.com.br/politica/tarcisio-diz-amar-bolsonaro-ao-ser-oficializado-candidato-e-que-faria-mais-com-flavio-presidente/"
+          "title": "A maldição de Pelé",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/a-maldicao-de-pele/"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-          "url": "https://www.bbc.com/news/articles/c86n4ljxp63o"
+          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+          "url": "https://www.bbc.com/news/articles/cz7d17r455go"
         },
         {
           "rank": 3,
-          "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-          "url": "https://www.bbc.com/news/articles/cz7d17r455go"
+          "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+          "url": "https://www.bbc.com/news/articles/c86n4ljxp63o"
         },
         {
           "rank": 4,

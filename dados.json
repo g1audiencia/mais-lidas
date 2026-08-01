@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 09:06",
+  "atualizado_em": "01/08/2026 09:12",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
-        },
-        {
-          "rank": 3,
           "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
           "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
+          "rank": 3,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
           "rank": 4,
-          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
-          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
         },
         {
           "rank": 5,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         }
       ],
       "erro": null

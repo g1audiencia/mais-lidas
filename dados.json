@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 07:53",
+  "atualizado_em": "01/08/2026 07:58",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
-        },
-        {
-          "rank": 3,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
+          "rank": 3,
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+        },
+        {
           "rank": 4,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
           "rank": 5,
-          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
-          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
+          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
         }
       ],
       "erro": null

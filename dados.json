@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 08:17",
+  "atualizado_em": "01/08/2026 08:23",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Paraguai entrega nota de repúdio a embaixador brasileiro, e vice diz não querer aprofundar rusga",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-e-vice-diz-nao-querer-aprofundar-rusga.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
         },
         {
+          "rank": 3,
+          "title": "Paraguai entrega nota de repúdio a embaixador brasileiro, e vice diz não querer aprofundar rusga",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-e-vice-diz-nao-querer-aprofundar-rusga.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Navio japonês que transportava mil prisioneiros é encontrado no Pacífico após 80 anos",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/navio-japones-que-transportava-mil-prisioneiros-e-encontrado-no-pacifico-apos-80-anos.shtml"
+          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
         },
         {
           "rank": 5,
-          "title": "Luciano Huck celebra aprovação de Benício em faculdade",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/luciano-huck-celebra-aprovacao-de-benicio-em-faculdade.shtml"
+          "title": "Navio japonês que transportava mil prisioneiros é encontrado no Pacífico após 80 anos",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/navio-japones-que-transportava-mil-prisioneiros-e-encontrado-no-pacifico-apos-80-anos.shtml"
         }
       ],
       "erro": null

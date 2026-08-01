@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 00:17",
+  "atualizado_em": "01/08/2026 00:23",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Paraguai entrega nota de repúdio a embaixador brasileiro, e vice diz não querer aprofundar rusga",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-e-vice-diz-nao-querer-aprofundar-rusga.shtml"
+          "title": "Marcos Llorente critica reação a fotos com Ferran Torres: 'Nada mais masculino'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/marcos-llorente-critica-reacao-a-fotos-com-ferran-torres-nada-mais-masculino.shtml"
         },
         {
           "rank": 2,
-          "title": "Marcos Llorente critica reação a fotos com Ferran Torres: 'Nada mais masculino'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/07/marcos-llorente-critica-reacao-a-fotos-com-ferran-torres-nada-mais-masculino.shtml"
+          "title": "Paraguai entrega nota de repúdio a embaixador brasileiro, e vice diz não querer aprofundar rusga",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/07/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-e-vice-diz-nao-querer-aprofundar-rusga.shtml"
         },
         {
           "rank": 3,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Tarcísio Filho mostra DRT e nega irregularidade apontada por sindicato",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/07/tarcisio-filho-mostra-drt-e-nega-irregularidade-apontada-por-sindicato.shtml"
+          "title": "Observatório brasileiro registra chuva de meteoros; veja",
+          "url": "https://www1.folha.uol.com.br/ciencia/2026/07/observatorio-brasileiro-registra-chuva-de-meteoros-veja.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Pesquisador da USP é condenado a 12 anos de prisão por estupro de estudante que morreu de infecção",
-          "url": "https://www.estadao.com.br/sao-paulo/tj-sp-condena-pesquisador-usp-12-anos-prisao-estupro-estudante-npr/"
-        },
-        {
-          "rank": 2,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 2,
+          "title": "Pesquisador da USP é condenado a 12 anos de prisão por estupro de estudante que morreu de infecção",
+          "url": "https://www.estadao.com.br/sao-paulo/tj-sp-condena-pesquisador-usp-12-anos-prisao-estupro-estudante-npr/"
+        },
+        {
           "rank": 3,
+          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
+          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
+        },
+        {
+          "rank": 4,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         },
         {
-          "rank": 4,
-          "title": "PF pede segundo inquérito para apurar tráfico de influência de Lulinha e empresário na Dataprev",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-pede-segundo-inquerito-para-apurar-trafico-de-influencia-de-lulinha-e-empresario-na-dataprev/"
-        },
-        {
           "rank": 5,
-          "title": "Por que a crise em Ceuta se tornou um problema generalizado para a Europa? Entenda",
-          "url": "https://www.estadao.com.br/internacional/por-que-a-crise-em-ceuta-se-tornou-um-problema-generalizado-para-a-europa-entenda/"
+          "title": "Marca de calçados de brasileiros que conquistou Taylor Swift e Lady Gaga agora quer avançar no País",
+          "url": "https://www.estadao.com.br/economia/negocios/marca-calcados-brasileiros-conquistou-taylor-swift-lady-gaga/"
         }
       ],
       "erro": null

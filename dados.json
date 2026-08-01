@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 11:29",
+  "atualizado_em": "01/08/2026 11:34",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flamengo continua com a maior torcida do Brasil, com 22%, aponta Datafolha",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/07/flamengo-continua-com-a-maior-torcida-do-brasil-com-22-aponta-datafolha.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
         },
         {
-          "rank": 3,
-          "title": "Concorrência cresce, e vendas do Brasil à Argentina despencam no 1º semestre",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/07/concorrencia-cresce-e-vendas-do-brasil-a-argentina-despencam-no-1o-semestre.shtml"
+          "rank": 2,
+          "title": "Flamengo continua com a maior torcida do Brasil, com 22%, aponta Datafolha",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/07/flamengo-continua-com-a-maior-torcida-do-brasil-com-22-aponta-datafolha.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
           "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
         },
         {
+          "rank": 4,
+          "title": "Concorrência cresce, e vendas do Brasil à Argentina despencam no 1º semestre",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/07/concorrencia-cresce-e-vendas-do-brasil-a-argentina-despencam-no-1o-semestre.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Witzel tenta nova surpresa no RJ e busca carona em sucesso de governador interino",
-          "url": "https://www1.folha.uol.com.br/poder/2026/07/witzel-tenta-nova-surpresa-no-rj-e-busca-carona-em-sucesso-de-governador-interino.shtml"
+          "title": "Um ato de lesa-banana",
+          "url": "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/um-ato-de-lesa-banana.shtml"
         }
       ],
       "erro": null

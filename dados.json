@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 12:01",
+  "atualizado_em": "01/08/2026 12:06",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
         },
         {
           "rank": 3,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+          "title": "A cada vez mais difícil renovação política",
+          "url": "https://www.estadao.com.br/opiniao/a-cada-vez-mais-dificil-renovacao-politica/"
         },
         {
           "rank": 4,
-          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
+          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
         },
         {
           "rank": 5,
-          "title": "Republicanos lança candidatura de Tarcísio em SP, com discurso de Flávio e ausência de caciques",
-          "url": "https://www.estadao.com.br/politica/republicanos-lanca-candidatura-de-tarcisio-em-sp-com-discurso-de-flavio-e-ausencia-de-caciques/"
+          "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Empresa para a qual Lulinha fez lobby ganhou R$ 86 milhões em contratos do governo federal",
-          "url": "https://www.metropoles.com/colunas/tacio-lorran/empresa-para-qual-lulinha-fez-lobby-ganhou-r-86-milhoes-em-contratos-do-governo-federal"
+          "title": "Itamaraty diz que Defesa aprovou general sancionado pelos EUA como adido",
+          "url": "https://www.metropoles.com/colunas/grande-angular/itamaraty-diz-que-defesa-aprovou-general-sancionado-pelos-eua-como-adido"
         },
         {
           "rank": 2,
-          "title": "Ex-secretário é preso por corrupção de R$ 100 milhões no PR",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/ex-secretario-e-preso-por-corrupcao-de-r-100-milhoes-no-pr"
+          "title": "Governo Trump torna permanente caução de até US$ 20 mil para vistos",
+          "url": "https://www.metropoles.com/mundo/governo-trump-caucao-20-mil-vistos"
         },
         {
           "rank": 3,
-          "title": "Comprador da Naskar desviou R$ 60 milhões de empresa da família de Zema",
-          "url": "https://www.metropoles.com/distrito-federal/comprador-da-naskar-desviou-r-60-milhoes-de-empresa-da-familia-de-zema"
+          "title": "Convenção confirma Tarcísio como candidato à reeleição em SP",
+          "url": "https://www.metropoles.com/sao-paulo/convencao-confirma-tarcisio-como-candidato-a-reeleicao-em-sp"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Mundos íntimos. Un guardavidas ayudó a una mujer a ir al agua. Subí la foto y se viralizó. Sorpresa: la gentileza aún es un valor.",
-          "url": "https://www.clarin.com/sociedad/mundos-intimos-guardavidas-ayudo-mujer-ir-agua-subi-foto-viralizo-sorpresa-gentileza-valor_0_NniOGkjjAb.html"
-        },
-        {
-          "rank": 2,
           "title": "Cristina le embarra la cancha a Kicillof y Milei siempre es violento, no importa cómo le vaya",
           "url": "https://www.clarin.com/opinion/cristina-embarra-cancha-kicillof-milei-siempre-violento-importa-vaya_0_zJQkv8J7b7.html"
         },
         {
+          "rank": 2,
+          "title": "Mundos íntimos. Un guardavidas ayudó a una mujer a ir al agua. Subí la foto y se viralizó. Sorpresa: la gentileza aún es un valor.",
+          "url": "https://www.clarin.com/sociedad/mundos-intimos-guardavidas-ayudo-mujer-ir-agua-subi-foto-viralizo-sorpresa-gentileza-valor_0_NniOGkjjAb.html"
+        },
+        {
           "rank": 3,
+          "title": "Iban ocho personas en un viejo auto y los chocó un camión: siete muertos",
+          "url": "https://www.clarin.com/sociedad/tragedia-vial-lujan-muertos-choque-auto-camion_0_8GGJP0O5ah.html"
+        },
+        {
+          "rank": 4,
           "title": "Crisis migratoria en España: dudas y un opaco trasfondo político detrás del aluvión de marroquíes en Ceuta",
           "url": "https://www.clarin.com/mundo/crisis-migratoria-espana-dudas-opaco-trasfondo-politico-detras-aluvion-marroquies-ceuta_0_49bRMqNp9z.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Crisis en Ceuta: España puso una \"barrera\" en el mar para evitar el cruce de más marroquíes",
           "url": "https://www.clarin.com/mundo/crisis-ceuta-espana-puso-barrera-mar-evitar-cruce-marroquies_0_cGWX740ReP.html"
-        },
-        {
-          "rank": 5,
-          "title": "Tragedia vial en Luján: hay siete muertos por el choque entre un auto y un camión",
-          "url": "https://www.clarin.com/sociedad/tragedia-vial-lujan-muertos-choque-auto-camion_0_8GGJP0O5ah.html"
         }
       ],
       "erro": null

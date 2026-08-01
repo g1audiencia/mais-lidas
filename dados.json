@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 14:39",
+  "atualizado_em": "01/08/2026 14:48",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Neymar se desculpa por traje no casamento de Gabriel Medina",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/neymar-se-desculpa-por-traje-no-casamento-de-gabriel-medina.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Itamaraty veta cônsul de Israel em São Paulo e aponta obstáculo de dupla nacionalidade",
           "url": "https://www1.folha.uol.com.br/mundo/2026/07/itamaraty-veta-consul-de-israel-em-sao-paulo-e-aponta-obstaculo-de-dupla-nacionalidade.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Concorrência cresce, e vendas do Brasil à Argentina despencam no 1º semestre",
           "url": "https://www1.folha.uol.com.br/mercado/2026/07/concorrencia-cresce-e-vendas-do-brasil-a-argentina-despencam-no-1o-semestre.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Funcionário mata três colegas em fábrica da Bombril em São Bernardo do Campo (SP)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/funcionario-mata-tres-colegas-em-fabrica-da-bombril-em-sao-bernardo-do-campo-sp.shtml"
         }
       ],
       "erro": null
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "10 cidades brasileiras para visitar antes de ficarem 'superturísticas'",
-          "url": "https://www.uol.com.br/guia-de-compras/ultimas-noticias/2026/08/01/cidades-brasileiras-para-visitar-antes-de-ficarem-super-turisticas.ghtm"
-        },
-        {
-          "rank": 2,
           "title": "Funcionário mata três colegas na fábrica da Bombril em SP, diz polícia",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/01/mortes-funcionarios-fabrica-bombril-sao-bernardo-do-campo.ghtm"
         },
         {
+          "rank": 2,
+          "title": "10 cidades brasileiras para visitar antes de ficarem 'superturísticas'",
+          "url": "https://www.uol.com.br/guia-de-compras/ultimas-noticias/2026/08/01/cidades-brasileiras-para-visitar-antes-de-ficarem-super-turisticas.ghtm"
+        },
+        {
           "rank": 3,
-          "title": "Flávio Bolsonaro depende de Tarcísio para chegar no 2º turno, diz professor",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/01/bolsonaro-depende-mais-de-tarcisio-diz-fabio-andrade.ghtm"
+          "title": "Ex-marido diz ter gratidão e respeito por Nivea Stelmann: 'Mulher incrível'",
+          "url": "https://www.uol.com.br/splash/noticias/2026/08/01/marcus-rocha-ex-marido-nivea-stelmann.ghtm"
         },
         {
           "rank": 4,
-          "title": "Ex-marido diz ter gratidão e respeito por Nivea Stelmann: 'Mulher incrível'",
-          "url": "https://www.uol.com.br/splash/noticias/2026/08/01/marcus-rocha-ex-marido-nivea-stelmann.ghtm"
+          "title": "Disputa acaba com casarão do Michael Jackson fechado e à venda em Salvador",
+          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/01/disputa-acaba-com-casarao-do-michael-jackson-fechado-e-a-venda-em-salvador.htm"
         },
         {
           "rank": 5,
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Homem mata três pessoas em ataque a fábrica da Bombril no ABC",
-          "url": "https://www.estadao.com.br/sao-paulo/homem-mata-tres-pessoas-em-ataque-em-fabrica-da-bombril-no-abc/"
+          "title": "Tesouro Direto desativa aplicativo em agosto; veja data e o que muda",
+          "url": "https://www.estadao.com.br/einvestidor/financas-pessoais/tesouro-direto-desativa-aplicativo-em-agosto-veja-data-e-o-que-muda/"
         }
       ],
       "erro": null

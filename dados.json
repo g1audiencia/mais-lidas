@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 08:48",
+  "atualizado_em": "01/08/2026 08:54",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "TXE, o Tribunal Xandônico Eleitoral",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
+        },
+        {
+          "rank": 3,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
+          "rank": 4,
           "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
           "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "O que fez um dos principais partidos do Centrão rejeitar Flávio Bolsonaro",
           "url": "https://www.estadao.com.br/politica/o-que-fez-um-dos-principais-partidos-do-centrao-rejeitar-flavio-bolsonaro/"
-        },
-        {
-          "rank": 4,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
-        },
-        {
-          "rank": 5,
-          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Calles inundadas, destrozos y cortes de luz: lo que dejó el diluvio en la Ciudad y el GBA",
-          "url": "https://www.clarin.com/sociedad/diluvia-ciudad-gba-sigue-alerta-naranja-tormentas-hora-continuaran-lluvias-fuertes-rafagas_0_INQkDKztvy.html"
+          "title": "Crisis migratoria en España: dudas y un opaco trasfondo político detrás del aluvión de marroquíes en Ceuta",
+          "url": "https://www.clarin.com/mundo/crisis-migratoria-espana-dudas-opaco-trasfondo-politico-detras-aluvion-marroquies-ceuta_0_49bRMqNp9z.html"
         },
         {
           "rank": 2,
-          "title": "Crisis migratoria en España: dudas y un opaco trasfondo político detrás del aluvión de marroquíes en Ceuta",
-          "url": "https://www.clarin.com/mundo/crisis-migratoria-espana-dudas-opaco-trasfondo-politico-detras-aluvion-marroquies-ceuta_0_49bRMqNp9z.html"
+          "title": "Calles inundadas, destrozos y cortes de luz: lo que dejó el diluvio en la Ciudad y el GBA",
+          "url": "https://www.clarin.com/sociedad/diluvia-ciudad-gba-sigue-alerta-naranja-tormentas-hora-continuaran-lluvias-fuertes-rafagas_0_INQkDKztvy.html"
         },
         {
           "rank": 3,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 03:17",
+  "atualizado_em": "01/08/2026 03:23",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Pesquisador da USP é condenado a 12 anos de prisão por estupro de estudante que morreu de infecção",
-          "url": "https://www.estadao.com.br/sao-paulo/tj-sp-condena-pesquisador-usp-12-anos-prisao-estupro-estudante-npr/"
+          "title": "PF pede segundo inquérito para apurar tráfico de influência de Lulinha e empresário na Dataprev",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-pede-segundo-inquerito-para-apurar-trafico-de-influencia-de-lulinha-e-empresario-na-dataprev/"
         },
         {
           "rank": 4,
-          "title": "Tati Machado revela sexo e nome do bebê: ‘Te amar sem limites’",
-          "url": "https://www.estadao.com.br/emais/gente/tati-machado-revela-sexo-e-nome-do-bebe-te-amar-sem-limites-nprec/"
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
         },
         {
           "rank": 5,
-          "title": "Chef Maristella Sodré ensina crepioca sustentável com suco de cenoura",
-          "url": "https://www.estadao.com.br/paladar/receita/receita-de-crepioca-sustentavel-da-chef-maristella-sodre/"
+          "title": "7 frases de Mario Quintana para refletir sobre a vida; poeta nascia há 120 anos",
+          "url": "https://www.estadao.com.br/cultura/literatura/7-frases-de-mario-quintana-poeta-nascia-ha-120-anos-nprec/"
         }
       ],
       "erro": null
@@ -248,18 +248,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
-        },
-        {
-          "rank": 2,
           "title": "Red Arrows grounded in Canada after US tour",
           "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
           "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
+        },
+        {
+          "rank": 3,
+          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
         },
         {
           "rank": 4,

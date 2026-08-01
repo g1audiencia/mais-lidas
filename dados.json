@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 06:49",
+  "atualizado_em": "01/08/2026 06:58",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
-        },
-        {
-          "rank": 2,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
-        },
-        {
-          "rank": 3,
           "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "TXE, o Tribunal Xandônico Eleitoral",
           "url": "https://www.estadao.com.br/politica/carlos-andreazza/txe-o-tribunal-xandonico-eleitoral/"
         },
         {
+          "rank": 3,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
+          "rank": 4,
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+        },
+        {
           "rank": 5,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Paraguai cobra devolução de canhão de Guerra da Tríplice Aliança após crise por fala de Lula",
+          "url": "https://www.estadao.com.br/internacional/paraguai-cobra-devolucao-de-canhao-de-guerra-da-triplice-alianca-apos-crise-por-fala-de-lula/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Exclusivo: André Mendonça apura se diretor-geral da PF obstruiu justiça em caso do INSS",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/andre-mendonca-investiga-se-diretor-geral-da-pf-obstruiu-justica-em-caso-do-inss"
+          "title": "Empresa para a qual Lulinha fez lobby ganhou R$ 86 milhões em contratos do governo federal",
+          "url": "https://www.metropoles.com/colunas/tacio-lorran/empresa-para-qual-lulinha-fez-lobby-ganhou-r-86-milhoes-em-contratos-do-governo-federal"
         },
         {
           "rank": 2,
-          "title": "Justiça do DF impõe medida protetiva contra ex-procurador da Lava Jato",
-          "url": "https://www.metropoles.com/colunas/milena-teixeira/justica-do-df-impoe-medida-protetiva-contra-ex-procurador-da-lava-jato"
+          "title": "Ex-secretário é preso por corrupção de R$ 100 milhões no PR",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/ex-secretario-e-preso-por-corrupcao-de-r-100-milhoes-no-pr"
         },
         {
           "rank": 3,
-          "title": "Jornal espanhol define Endrick como \"vítima\" após nova contratação",
-          "url": "https://www.metropoles.com/esportes/jornal-espanhol-define-endrick-como-vitima-apos-nova-contratacao"
+          "title": "Comprador da Naskar desviou R$ 60 milhões de empresa da família de Zema",
+          "url": "https://www.metropoles.com/distrito-federal/comprador-da-naskar-desviou-r-60-milhoes-de-empresa-da-familia-de-zema"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-          "url": "https://www.bbc.com/news/articles/cddjz1r01l8o"
+          "title": "Oprah Winfrey to close her school for girls in South Africa",
+          "url": "https://www.bbc.com/news/articles/c75gre70vr6o"
         }
       ],
       "erro": null

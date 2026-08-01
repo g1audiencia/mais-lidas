@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 15:20",
+  "atualizado_em": "01/08/2026 15:26",
   "portais": [
     {
       "portal": "Folha",
@@ -44,22 +44,22 @@
         },
         {
           "rank": 2,
+          "title": "Bolsonaro pede liberação de visita de cunhada por possível internação de Michelle",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/01/bolsonaro-pede-liberacao-de-visita-por-possivel-internacao-de-michelle.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "10 cidades brasileiras para visitar antes de ficarem 'superturísticas'",
           "url": "https://www.uol.com.br/guia-de-compras/ultimas-noticias/2026/08/01/cidades-brasileiras-para-visitar-antes-de-ficarem-super-turisticas.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ex-marido diz ter gratidão e respeito por Nivea Stelmann: 'Mulher incrível'",
           "url": "https://www.uol.com.br/splash/noticias/2026/08/01/marcus-rocha-ex-marido-nivea-stelmann.ghtm"
         },
         {
-          "rank": 4,
-          "title": "Disputa acaba com casarão do Michael Jackson fechado e à venda em Salvador",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/01/disputa-acaba-com-casarao-do-michael-jackson-fechado-e-a-venda-em-salvador.htm"
-        },
-        {
           "rank": 5,
-          "title": "Após críticas, Xuxa 'esconde' virilha e provoca: 'Não vão conseguir ver'",
+          "title": "Após críticas, Xuxa 'esconde' virilha: 'Não vão conseguir ver'",
           "url": "https://www.uol.com.br/splash/noticias/2026/08/01/apos-criticas-xuxa-esconde-virilha-e-provoca-nao-vao-conseguir-ver.ghtm"
         }
       ],
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
-          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
-        },
-        {
-          "rank": 3,
           "title": "Os melhores e os piores hábitos para o fígado",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         },
         {
+          "rank": 3,
+          "title": "Os valores que fizeram a Fifa acreditar no plano de Infantino e os números que derrubaram a ideia",
+          "url": "https://www.estadao.com.br/esportes/futebol/plano-de-investimento-privado-da-fifa-saiba-numeros-e-entenda-o-que-e-preciso-para-a-aprovacao/"
+        },
+        {
           "rank": 4,
-          "title": "O que está por trás da preferência da geração Z por ficar em casa?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/o-que-esta-por-tras-da-preferencia-da-geracao-z-por-ficar-em-casa/"
+          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
+          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 04:19",
+  "atualizado_em": "01/08/2026 04:25",
   "portais": [
     {
       "portal": "Folha",
@@ -248,23 +248,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
-        },
-        {
-          "rank": 2,
           "title": "Red Arrows grounded in Canada after US tour",
           "url": "https://www.bbc.com/news/articles/cy8ejd840ego"
         },
         {
+          "rank": 2,
+          "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+          "url": "https://www.bbc.com/news/articles/cz05yx5dd7yo"
+        },
+        {
           "rank": 3,
-          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-          "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
+          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
         },
         {
           "rank": 4,
-          "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-          "url": "https://www.bbc.com/news/articles/c80nkgdnl4no"
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "url": "https://www.bbc.com/news/articles/c4g4djgdyk2o"
         },
         {
           "rank": 5,

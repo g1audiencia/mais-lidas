@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 21:17",
+  "atualizado_em": "01/08/2026 21:22",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
-        },
-        {
-          "rank": 3,
-          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
-          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
-        },
-        {
-          "rank": 4,
           "title": "Governo do RN remaneja R$ 25,7 milhões da Educação para pagar penduricalho de procurador",
           "url": "https://www.estadao.com.br/politica/governo-do-rn-remaneja-r-257-milhoes-da-educacao-para-pagar-penduricalho-de-procurador/"
         },
         {
+          "rank": 3,
+          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
+          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
+        },
+        {
+          "rank": 4,
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+        },
+        {
           "rank": 5,
-          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
-          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         }
       ],
       "erro": null

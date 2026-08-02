@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 21:52",
+  "atualizado_em": "01/08/2026 22:00",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
-        },
-        {
-          "rank": 2,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
-          "rank": 3,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+          "rank": 2,
+          "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
           "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
         },
         {
+          "rank": 4,
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+        },
+        {
           "rank": 5,
-          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
-          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Todo por la reelección de Milei: pedido                                   de renuncia, insultos y Cristina en el centro",
-          "url": "https://www.clarin.com/opinion/reeleccion-milei-pedido-renuncia-insultos-cristina-centro_0_QoVtk0Jdmj.html"
+          "title": "Patricia Bullrich: \"Después de la reelección de Milei, quiero ser presidenta\"",
+          "url": "https://www.clarin.com/politica/patricia-bullrich-despues-reeleccion-milei-quiero-presidenta_0_ynMIo5rEUC.html"
         },
         {
           "rank": 5,
-          "title": "Milei y el operativo de invierno",
-          "url": "https://www.clarin.com/opinion/milei-operativo-invierno_0_1PCB64MHJ7.html"
+          "title": "Todo por la reelección de Milei: pedido                                   de renuncia, insultos y Cristina en el centro",
+          "url": "https://www.clarin.com/opinion/reeleccion-milei-pedido-renuncia-insultos-cristina-centro_0_QoVtk0Jdmj.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 17:43",
+  "atualizado_em": "02/08/2026 17:49",
   "portais": [
     {
       "portal": "Folha",
@@ -7,37 +7,63 @@
       "items": [
         {
           "rank": 1,
-          "title": "Viúvo de Rita Lee posta mais uma foto em Paris com ex-esposa de Fernando Collor",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/viuvo-de-rita-lee-posta-mais-uma-foto-em-paris-com-ex-esposa-de-fernando-collor.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
-        },
-        {
-          "rank": 3,
           "title": "A chilena declarada desaparecida na era Pinochet e encontrada viva 5 décadas depois",
           "url": "https://www1.folha.uol.com.br/mundo/2026/08/a-chilena-declarada-desaparecida-na-era-pinochet-e-encontrada-viva-5-decadas-depois.shtml"
         },
         {
+          "rank": 2,
+          "title": "Viúvo de Rita Lee posta mais uma foto em Paris com ex-esposa de Fernando Collor",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/viuvo-de-rita-lee-posta-mais-uma-foto-em-paris-com-ex-esposa-de-fernando-collor.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Roberto de Carvalho assume namoro com empresária: 'Saímos oficialmente do armário'",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/roberto-de-carvalho-assume-namoro-com-empresaria-saimos-oficialmente-do-armario.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Passei pela maior provação de uma mãe, diz Christiane Torloni sobre perda do filho de 12 anos",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/passei-pela-maior-provacao-de-uma-mae-diz-christiane-torloni-sobre-perda-do-filho-de-12-anos.shtml"
+          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
         },
         {
           "rank": 5,
-          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
+          "title": "Passei pela maior provação de uma mãe, diz Christiane Torloni sobre perda do filho de 12 anos",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/passei-pela-maior-provacao-de-uma-mae-diz-christiane-torloni-sobre-perda-do-filho-de-12-anos.shtml"
         }
       ],
       "erro": null
     },
     {
       "portal": "UOL",
-      "ok": false,
-      "items": [],
-      "erro": "403 Client Error: Forbidden for url: https://www.uol.com.br/"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Horas antes de convenção com Flávio, Michelle informa que continua internada",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/02/horas-antes-de-convencao-com-flavio-michelle-diz-que-segue-internada.ghtm"
+        },
+        {
+          "rank": 2,
+          "title": "Sakamoto: Lula salva evento de vexame ao chamar Janja para discursar no palco",
+          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/08/02/lula-salva-evento-de-vexame-ao-chamar-janja-para-discursar-no-palco.htm"
+        },
+        {
+          "rank": 3,
+          "title": "Conheça sete sinais de que é hora de o idoso parar de dirigir",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/02/hora-de-parar-7-sinais-de-que-o-idoso-pode-afetar-a-seguranca-ao-dirigir.htm"
+        },
+        {
+          "rank": 4,
+          "title": "Situação de rua e mais: 6 artistas que morreram completamente falidos",
+          "url": "https://natelinha.uol.com.br/tv-historia/2026/08/02/situacao-de-rua-e-mais-6-artistas-que-morreram-completamente-falidos-245550.php"
+        },
+        {
+          "rank": 5,
+          "title": "Leila Pereira rebate nota do Flamengo sobre arbitragem: 'Cara de pau'",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/leila-pereira-rebate-nota-do-flamengo-sobre-arbitragem-cara-de-pau.ghtm"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "CNN Brasil",

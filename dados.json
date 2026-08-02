@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 18:22",
+  "atualizado_em": "02/08/2026 18:28",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Michelle Bolsonaro diz que está internada em hospital e é dúvida na convenção do PL",
-          "url": "https://www.estadao.com.br/politica/michelle-bolsonaro-diz-que-esta-internada-em-hospital-e-e-duvida-na-convencao-do-pl/"
-        },
-        {
-          "rank": 3,
           "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
           "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
         },
         {
+          "rank": 3,
+          "title": "Lula é oficializado candidato, promete investir em defesa e proteger terras raras de China e EUA",
+          "url": "https://www.estadao.com.br/politica/lula-e-oficializado-candidato-promete-investir-em-defesa-e-proteger-terras-raras-de-china-e-eua/"
+        },
+        {
           "rank": 4,
-          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
-          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
           "rank": 5,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
+          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
+        },
+        {
+          "rank": 2,
           "title": "Massive Attack respond after Singapore ban over Palestine display",
           "url": "https://www.bbc.com/news/articles/cr59qe86yj4o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
           "url": "https://www.bbc.com/news/articles/c1417713ve6o"
-        },
-        {
-          "rank": 3,
-          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-          "url": "https://www.bbc.com/news/articles/c998gg5pe09o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-          "url": "https://www.bbc.com/news/articles/cjwx74qgld2o"
+          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+          "url": "https://www.bbc.com/news/articles/c998gg5pe09o"
         }
       ],
       "erro": null

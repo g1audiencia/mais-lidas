@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 18:33",
+  "atualizado_em": "02/08/2026 18:38",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
-        },
-        {
-          "rank": 3,
-          "title": "Michelle Bolsonaro diz que está internada em hospital e é dúvida na convenção do PL",
-          "url": "https://www.estadao.com.br/politica/michelle-bolsonaro-diz-que-esta-internada-em-hospital-e-e-duvida-na-convencao-do-pl/"
-        },
-        {
-          "rank": 4,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+        },
+        {
+          "rank": 4,
+          "title": "Michelle Bolsonaro tem alta de hospital, mas presença em convenção do PL ainda não foi confirmada",
+          "url": "https://www.estadao.com.br/politica/michelle-bolsonaro-diz-que-esta-internada-em-hospital-e-e-duvida-na-convencao-do-pl/"
+        },
+        {
+          "rank": 5,
+          "title": "Lula é oficializado candidato, promete investir em defesa e proteger terras raras de China e EUA",
+          "url": "https://www.estadao.com.br/politica/lula-e-oficializado-candidato-promete-investir-em-defesa-e-proteger-terras-raras-de-china-e-eua/"
         }
       ],
       "erro": null
@@ -194,23 +194,23 @@
         },
         {
           "rank": 2,
+          "title": "Nicola: Empresa de Leila se junta ao Vasco para tentar 'melar' ida de Almada ao Fla",
+          "url": "https://esportes.r7.com/prisma/blog-do-nicola/crefisa-e-vasco-podem-melar-ida-de-almada-para-o-flamengo-02082026/"
+        },
+        {
+          "rank": 3,
           "title": "Cuca não garante Neymar em decisão contra o Remo por ida a leilão",
           "url": "https://esportes.r7.com/futebol/cuca-nao-garante-neymar-em-decisao-contra-o-remo-por-participacao-em-leilao-02082026/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Abrigo cria cadeira de rodas para devolver mobilidade a gatinho",
           "url": "https://entretenimento.r7.com/rpet/abrigo-cria-cadeira-de-rodas-improvisada-para-devolver-mobilidade-a-gatinho-31072026/"
         },
         {
-          "rank": 4,
-          "title": "Cocaína apreendida no aeroporto de Guarulhos valeria R$ 3,6 bilhões",
-          "url": "https://record.r7.com/fala-brasil/video/cocaina-apreendida-no-aeroporto-de-guarulhos-valeria-r-36-bilhoes-na-europa-01082026/"
-        },
-        {
           "rank": 5,
-          "title": "Pesquisadores descobrem peixe ‘monstruoso’ sob antiga base da Segunda Guerra",
-          "url": "https://noticias.r7.com/internacional/pesquisadores-descobrem-peixe-monstruoso-sob-antiga-base-de-armas-quimicas-da-2-guerra-02082026/"
+          "title": "Virginia anuncia que irá se afastar das redes após cirurgia das filhas: ‘Até a alta’",
+          "url": "https://entretenimento.r7.com/famosos-e-tv/virginia-fonseca-anuncia-que-ira-se-afastar-das-redes-apos-cirurgia-das-filhas-ate-a-alta-delas-02082026/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
+          "url": "https://apnews.com/article/spain-ceuta-morocco-migration-border-vox-9960b15a7cf31a0592b09ac47a8eac3f"
+        },
+        {
+          "rank": 4,
           "title": "FCC chairman defends actions against ABC, says broadcasters must operate ‘in the public interest’",
           "url": "https://apnews.com/article/fcc-brendan-carr-abc-licenses-59a1af6fd76ed310a89b9764ae1fad8b"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan",
           "url": "https://apnews.com/article/infantino-fifa-uefa-b07dfbbbc0e79c60a902d7fd0e0e39b9"
-        },
-        {
-          "rank": 5,
-          "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
-          "url": "https://apnews.com/article/trump-truth-social-media-insider-trading-posts-feeds-traders-25c2c5be926f2650d0610c84100cffb8"
         }
       ],
       "erro": null
@@ -295,7 +295,7 @@
         },
         {
           "rank": 3,
-          "title": "Javier Milei y sus medidas, EN VIVO: \"Tengo definido mi compañero de fórmula para el año que viene\", afirmó el Presidente",
+          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente ratificó que insistirá para que el Congreso elimine las PASO",
           "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-advierte-sanciones-gremios-docentes-paro-manana-busca-avanzar-proyecto-permite-venderle-tierras-extranjeros_0_S8ZHJM4cPp.html"
         },
         {
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Zapatillas: marca por marca, los mejores y peores modelos para salir a caminar",
-          "url": "https://www.clarin.com/tecnologia/zapatillas-marca-marca-mejores-peores-modelos-hacer-largas-caminatas_0_ypdwykt49Q.html"
+          "title": "El viaje por la mudanza a una nueva casa que terminó en tragedia: la historia de la familia que murió en el choque en Luján",
+          "url": "https://www.clarin.com/sociedad/viaje-mudanza-nueva-casa-termino-tragedia-historia-familia-murio-choque-lujan_0_LFrWbXsnC6.html"
         }
       ],
       "erro": null

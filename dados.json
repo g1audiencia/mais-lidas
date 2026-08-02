@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 00:17",
+  "atualizado_em": "02/08/2026 00:24",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Fernanda Gentil é contratada pela TV Connect USA após Copa do Mundo",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/fernanda-gentil-e-contratada-pela-tv-connect-usa-apos-copa-do-mundo.shtml"
+          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
         },
         {
           "rank": 3,
-          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
+          "title": "Fernanda Gentil é contratada pela TV Connect USA após Copa do Mundo",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/fernanda-gentil-e-contratada-pela-tv-connect-usa-apos-copa-do-mundo.shtml"
         },
         {
           "rank": 4,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
+          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
+        },
+        {
+          "rank": 4,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
-          "rank": 4,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
-        },
-        {
           "rank": 5,
-          "title": "Lula chega à sétima disputa ao Planalto com versão 3.0 do ‘nós contra eles’",
-          "url": "https://www.estadao.com.br/politica/lula-chega-a-setima-disputa-ao-planalto-com-versao-30-do-nos-contra-eles/"
+          "title": "Banco da Amazônia comprou R$ 40 milhões em títulos sem garantia do Banco Master",
+          "url": "https://www.estadao.com.br/economia/banco-amazonia-compra-letras-financeiras-master-sem-garantia/"
         }
       ],
       "erro": null

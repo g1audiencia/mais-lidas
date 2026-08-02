@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 21:09",
+  "atualizado_em": "01/08/2026 21:17",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Neymar se desculpa por traje no casamento de Gabriel Medina",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/neymar-se-desculpa-por-traje-no-casamento-de-gabriel-medina.shtml"
+          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
         },
         {
           "rank": 2,
-          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
+          "title": "Neymar se desculpa por traje no casamento de Gabriel Medina",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/neymar-se-desculpa-por-traje-no-casamento-de-gabriel-medina.shtml"
         },
         {
           "rank": 3,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
-          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         },
         {
           "rank": 3,
-          "title": "Palmeiras sobe tom contra denúncia de Maurício e cita Flamengo e Corinthians em protesto",
-          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-sobe-tom-contra-denuncia-de-mauricio-e-cita-flamengo-e-corinthians-em-protesto/"
+          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
+          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
         },
         {
           "rank": 4,
-          "title": "Michelle Bolsonaro será candidata ao Senado pelo PL do Distrito Federal, diz Bia Kicis",
-          "url": "https://www.estadao.com.br/politica/michelle-bolsonaro-sera-candidata-ao-senado-pelo-pl-do-distrito-federal-diz-bia-kicis/"
+          "title": "Governo do RN remaneja R$ 25,7 milhões da Educação para pagar penduricalho de procurador",
+          "url": "https://www.estadao.com.br/politica/governo-do-rn-remaneja-r-257-milhoes-da-educacao-para-pagar-penduricalho-de-procurador/"
         },
         {
           "rank": 5,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
         }
       ],
       "erro": null
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Iban ocho personas en un viejo auto y los chocó un camión: siete muertos",
-          "url": "https://www.clarin.com/sociedad/tragedia-vial-lujan-muertos-choque-auto-camion_0_8GGJP0O5ah.html"
-        },
-        {
-          "rank": 4,
           "title": "Los economistas ven riesgo de una corrida y Caputo les contestó: “No saben, yo tengo más información”",
           "url": "https://www.clarin.com/economia/economistas-ven-riesgo-corrida-caputo-contesto-saben-informacion_0_OvN6JXHWVI.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Sucesión, tensiones con el PRO y la sombra de Villarruel: el operativo reelección de Milei reordena el tablero",
           "url": "https://www.clarin.com/politica/sucesion-tensiones-pro-sombra-villarruel-operativo-reeleccion-milei-reordena-tablero_0_SMNgVKIFBF.html"
+        },
+        {
+          "rank": 5,
+          "title": "Iban ocho personas en un viejo auto y los chocó un camión: siete muertos",
+          "url": "https://www.clarin.com/sociedad/tragedia-vial-lujan-muertos-choque-auto-camion_0_8GGJP0O5ah.html"
         }
       ],
       "erro": null

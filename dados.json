@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 20:45",
+  "atualizado_em": "02/08/2026 20:51",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Abel rebate nota do Fla e cita final da Libertadores, Vaticano e Série B",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/abel-rebate-nota-do-fla-e-cita-final-da-libertadores-vaticano-e-serie-b.ghtm"
-        },
-        {
-          "rank": 2,
           "title": "Situação de rua e mais: 6 artistas que morreram completamente falidos",
           "url": "https://natelinha.uol.com.br/tv-historia/2026/08/02/situacao-de-rua-e-mais-6-artistas-que-morreram-completamente-falidos-245550.php"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Conheça sete sinais de que é hora de o idoso parar de dirigir",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/02/hora-de-parar-7-sinais-de-que-o-idoso-pode-afetar-a-seguranca-ao-dirigir.htm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Milly: Palmeiras vence o tédio e deixa escapar o seu segredo mais bem guardado",
           "url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2026/08/02/palmeiras-vence-o-tedio-e-deixa-escapar-o-seu-segredo-mais-bem-guardado.htm"
         },
         {
+          "rank": 4,
+          "title": "Abel rebate nota do Fla e cita final da Libertadores, Vaticano e Série B",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/abel-rebate-nota-do-fla-e-cita-final-da-libertadores-vaticano-e-serie-b.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Sakamoto: Lula salva evento de vexame ao chamar Janja para discursar no palco",
-          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/08/02/lula-salva-evento-de-vexame-ao-chamar-janja-para-discursar-no-palco.htm"
+          "title": "Rafael Cardoso detalha internação em clínica de reabilitação e se diz 'orgulhoso'",
+          "url": "https://noticiasdatv.uol.com.br/noticia/celebridades/rafael-cardoso-detalha-internacao-em-clinica-de-reabilitacao-e-se-diz-orgulhoso-154818"
         }
       ],
       "erro": null
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
+          "title": "Conversa para boi dormir",
+          "url": "https://www.estadao.com.br/opiniao/conversa-para-boi-dormir/"
         },
         {
           "rank": 5,

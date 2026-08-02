@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 23:08",
+  "atualizado_em": "01/08/2026 23:14",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Autor de crime em fábrica da Bombril era 'quieto' e 'bom funcionário', diz colega",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/01/autor-de-crime-na-bombril-era-quieto-e-bom-funcionario-diz-colega.htm"
-        },
-        {
-          "rank": 3,
-          "title": "Renan chama Moro de 'vassalo' e diz que vai tirar Flávio do segundo turno",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/01/renan-chama-moro-de-vassalo-e-diz-que-vai-tirar-flavio-do-segundo-turno.htm"
-        },
-        {
-          "rank": 4,
           "title": "General americano alerta que poderá ter de escolher defender EUA ou Israel",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/01/general-dos-eua-alerta-falta-de-meios-para-defender-israel.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Autor de crime em fábrica da Bombril era 'quieto' e 'bom funcionário', diz colega",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/01/autor-de-crime-na-bombril-era-quieto-e-bom-funcionario-diz-colega.htm"
+        },
+        {
+          "rank": 4,
           "title": "Maratonista olímpico Danielzinho é encontrado na zona leste de SP após 44 dias",
           "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/08/01/ex-maratonista-olimpico-daniel-do-nascimento-e-encontrado-em-sp-apos-44-dias.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Santos só empata com Remo em noite apagada de Neymar e Gabigol",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/01/santos-x-remo.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
+        },
+        {
+          "rank": 3,
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+        },
+        {
+          "rank": 4,
           "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
           "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
         },
         {
-          "rank": 3,
-          "title": "Lula chega à sétima disputa ao Planalto com versão 3.0 do ‘nós contra eles’",
-          "url": "https://www.estadao.com.br/politica/lula-chega-a-setima-disputa-ao-planalto-com-versao-30-do-nos-contra-eles/"
-        },
-        {
-          "rank": 4,
-          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
-          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
-        },
-        {
           "rank": 5,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         }
       ],
       "erro": null

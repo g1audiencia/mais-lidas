@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 19:23",
+  "atualizado_em": "02/08/2026 19:28",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+        },
+        {
+          "rank": 3,
           "title": "Michelle Bolsonaro tem alta de hospital, mas presença em convenção do PL ainda não foi confirmada",
           "url": "https://www.estadao.com.br/politica/michelle-bolsonaro-diz-que-esta-internada-em-hospital-e-e-duvida-na-convencao-do-pl/"
         },
         {
-          "rank": 3,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
           "rank": 4,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 5,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
+          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
+          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
+        },
+        {
+          "rank": 4,
           "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
           "url": "https://www.bbc.com/news/articles/c1417713ve6o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
           "url": "https://www.bbc.com/news/articles/cjwx74qgld2o"
-        },
-        {
-          "rank": 5,
-          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-          "url": "https://www.bbc.com/news/articles/c998gg5pe09o"
         }
       ],
       "erro": null

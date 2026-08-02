@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 00:07",
+  "atualizado_em": "02/08/2026 00:17",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Alpinista mais famoso do mundo morre aos 43 anos em avalanche no Paquistão",
-          "url": "https://www.estadao.com.br/internacional/alpinista-mais-famoso-do-mundo-morre-em-avalanche-no-paquistao/"
-        },
-        {
-          "rank": 3,
           "title": "Os melhores e os piores hábitos para o fígado",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
           "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+        },
+        {
+          "rank": 5,
+          "title": "Lula chega à sétima disputa ao Planalto com versão 3.0 do ‘nós contra eles’",
+          "url": "https://www.estadao.com.br/politica/lula-chega-a-setima-disputa-ao-planalto-com-versao-30-do-nos-contra-eles/"
         }
       ],
       "erro": null

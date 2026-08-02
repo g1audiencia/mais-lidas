@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 17:38",
+  "atualizado_em": "02/08/2026 17:43",
   "portais": [
     {
       "portal": "Folha",
@@ -35,35 +35,9 @@
     },
     {
       "portal": "UOL",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Horas antes de convenção com Flávio, Michelle informa que continua internada",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/02/horas-antes-de-convencao-com-flavio-michelle-diz-que-segue-internada.ghtm"
-        },
-        {
-          "rank": 2,
-          "title": "Sakamoto: Lula salva evento de vexame ao chamar Janja para discursar no palco",
-          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/08/02/lula-salva-evento-de-vexame-ao-chamar-janja-para-discursar-no-palco.htm"
-        },
-        {
-          "rank": 3,
-          "title": "Conheça sete sinais de que é hora de o idoso parar de dirigir",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/02/hora-de-parar-7-sinais-de-que-o-idoso-pode-afetar-a-seguranca-ao-dirigir.htm"
-        },
-        {
-          "rank": 4,
-          "title": "Situação de rua e mais: 6 artistas que morreram completamente falidos",
-          "url": "https://natelinha.uol.com.br/tv-historia/2026/08/02/situacao-de-rua-e-mais-6-artistas-que-morreram-completamente-falidos-245550.php"
-        },
-        {
-          "rank": 5,
-          "title": "Leila Pereira rebate nota do Flamengo sobre arbitragem: 'Cara de pau'",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/leila-pereira-rebate-nota-do-flamengo-sobre-arbitragem-cara-de-pau.ghtm"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "403 Client Error: Forbidden for url: https://www.uol.com.br/"
     },
     {
       "portal": "CNN Brasil",
@@ -140,8 +114,8 @@
         },
         {
           "rank": 2,
-          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
-          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 3,
@@ -150,13 +124,13 @@
         },
         {
           "rank": 4,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Michelle Bolsonaro diz que está internada em hospital e é dúvida na convenção do PL",
+          "url": "https://www.estadao.com.br/politica/michelle-bolsonaro-diz-que-esta-internada-em-hospital-e-e-duvida-na-convencao-do-pl/"
         },
         {
           "rank": 5,
-          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
-          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
+          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
         }
       ],
       "erro": null
@@ -273,8 +247,8 @@
         },
         {
           "rank": 5,
-          "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-          "url": "https://www.bbc.com/news/articles/c5y63dw2x3wo"
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "url": "https://www.bbc.com/news/articles/c1417713ve6o"
         }
       ],
       "erro": null
@@ -290,18 +264,18 @@
         },
         {
           "rank": 2,
-          "title": "Javier Milei y sus medidas, EN VIVO: \"Tengo definido mi compañero de fórmula para el año que viene\", afirmó el Presidente",
-          "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-advierte-sanciones-gremios-docentes-paro-manana-busca-avanzar-proyecto-permite-venderle-tierras-extranjeros_0_S8ZHJM4cPp.html"
-        },
-        {
-          "rank": 3,
           "title": "La engañaron con una falsa entrevista de trabajo y apareció asesinada en una playa: el brutal femicidio que conmueve a Mar del Plata",
           "url": "https://www.clarin.com/sociedad/enganaron-falsa-entrevista-trabajo-aparecio-asesinada-playa-brutal-femicidio-conmueve-mar-plata_0_v1XibyGse9.html"
         },
         {
+          "rank": 3,
+          "title": "Javier Milei y sus medidas, EN VIVO: \"Tengo definido mi compañero de fórmula para el año que viene\", afirmó el Presidente",
+          "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-advierte-sanciones-gremios-docentes-paro-manana-busca-avanzar-proyecto-permite-venderle-tierras-extranjeros_0_S8ZHJM4cPp.html"
+        },
+        {
           "rank": 4,
-          "title": "Dos helicópteros chocaron en pleno vuelo mientras combatían los incendios forestales en Grecia: hay dos muertos",
-          "url": "https://www.clarin.com/mundo/helicopteros-chocaron-pleno-vuelo-combatian-incendios-forestales-grecia_0_NpbvH6sj6U.html"
+          "title": "Zapatillas: marca por marca, los mejores y peores modelos para salir a caminar",
+          "url": "https://www.clarin.com/tecnologia/zapatillas-marca-marca-mejores-peores-modelos-hacer-largas-caminatas_0_ypdwykt49Q.html"
         },
         {
           "rank": 5,

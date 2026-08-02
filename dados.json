@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 23:49",
+  "atualizado_em": "01/08/2026 23:56",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
-        },
-        {
-          "rank": 3,
           "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
           "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
         },
         {
+          "rank": 3,
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+        },
+        {
           "rank": 4,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Sem merecer novo mandato, Lula é favorito com discurso velho e erros do rival",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/sem-merecer-novo-mandato-lula-e-favorito-com-discurso-velho-e-erros-do-rival/"
         },
         {
           "rank": 5,
-          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
-          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+          "title": "A ‘morte da História’",
+          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump has been losing his battle to cut interest rates",
-          "url": "https://apnews.com/article/trump-interest-rates-midterms-iran-9db7b892114e7863064323396f633c9d"
+          "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan",
+          "url": "https://apnews.com/article/infantino-fifa-uefa-b07dfbbbc0e79c60a902d7fd0e0e39b9"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "I had a vasectomy in my 20s after the trauma of my sons' births",
-          "url": "https://www.bbc.com/news/articles/c04kdk9v590o"
-        },
-        {
-          "rank": 2,
           "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
           "url": "https://www.bbc.com/news/articles/cjwx74qgld2o"
         },
         {
-          "rank": 3,
-          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-          "url": "https://www.bbc.com/news/articles/czrjyevmv61o"
+          "rank": 2,
+          "title": "I had a vasectomy in my 20s after the trauma of my sons' births",
+          "url": "https://www.bbc.com/news/articles/c04kdk9v590o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
           "url": "https://www.bbc.com/news/articles/c62vl925dqdo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "The Sopranos star Vincent Pastore dies aged 80",
           "url": "https://www.bbc.com/news/articles/cm2gz0epljgo"
+        },
+        {
+          "rank": 5,
+          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+          "url": "https://www.bbc.com/news/articles/czrjyevmv61o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 22:35",
+  "atualizado_em": "01/08/2026 22:41",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
-        },
-        {
-          "rank": 3,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
+          "rank": 3,
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+        },
+        {
           "rank": 4,
-          "title": "Sem merecer novo mandato, Lula é favorito com discurso velho e erros do rival",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/sem-merecer-novo-mandato-lula-e-favorito-com-discurso-velho-e-erros-do-rival/"
+          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
+          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
         },
         {
           "rank": 5,
-          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
-          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+          "title": "Lula chega à sétima disputa ao Planalto com versão 3.0 do ‘nós contra eles’",
+          "url": "https://www.estadao.com.br/politica/lula-chega-a-setima-disputa-ao-planalto-com-versao-30-do-nos-contra-eles/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Itamaraty diz que Defesa aprovou general sancionado pelos EUA como adido",
-          "url": "https://www.metropoles.com/colunas/grande-angular/itamaraty-diz-que-defesa-aprovou-general-sancionado-pelos-eua-como-adido"
+          "title": "Eduardo Leite confirma fim de união estável com médico capixaba",
+          "url": "https://www.metropoles.com/brasil/eduardo-leite-confirma-fim-de-uniao-estavel-com-medico-capixaba"
         },
         {
           "rank": 2,
-          "title": "Governo Trump torna permanente caução de até US$ 20 mil para vistos",
-          "url": "https://www.metropoles.com/mundo/governo-trump-caucao-20-mil-vistos"
+          "title": "Pais de família e colegas: os rostos da tragédia na fábrica da Bombril",
+          "url": "https://www.metropoles.com/sao-paulo/pais-de-familia-e-colegas-os-rostos-da-tragedia-na-fabrica-da-bombril"
         },
         {
           "rank": 3,
-          "title": "\"O PT nunca governou São Paulo e não vai\", diz Tarcísio em convenção",
-          "url": "https://www.metropoles.com/sao-paulo/o-pt-nunca-governou-sao-paulo-e-nao-vai-diz-tarcisio-em-convencao"
+          "title": "Campanha de Flávio vai acionar TSE após Lula pedir votos para Jaques e Rui",
+          "url": "https://www.metropoles.com/colunas/milena-teixeira/campanha-de-flavio-vai-acionar-tse-apos-lula-pedir-votos-para-jaques-e-rui"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Tourist plane crashes in Peru, killing 13",
-          "url": "https://www.bbc.com/news/articles/c70g132erlko"
+          "title": "The Sopranos star Vincent Pastore dies aged 80",
+          "url": "https://www.bbc.com/news/articles/cm2gz0epljgo"
         },
         {
           "rank": 4,
-          "title": "The Sopranos star Vincent Pastore dies aged 80",
-          "url": "https://www.bbc.com/news/articles/cm2gz0epljgo"
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "url": "https://www.bbc.com/news/articles/c62vl925dqdo"
         },
         {
           "rank": 5,

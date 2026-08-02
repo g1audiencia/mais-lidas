@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 20:18",
+  "atualizado_em": "02/08/2026 20:23",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 3,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
-        },
-        {
-          "rank": 4,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Em convenção, trunfos de Lula tornam-se também suas contradições",
+          "url": "https://www.estadao.com.br/politica/diogo-schelp/em-convencao-trunfos-de-lula-tornam-se-tambem-suas-contradicoes/"
+        },
+        {
+          "rank": 4,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+        },
+        {
+          "rank": 5,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         }
       ],
       "erro": null
@@ -248,7 +248,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
           "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
         },
         {
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-          "url": "https://www.bbc.com/news/articles/c998gg5pe09o"
+          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+          "url": "https://www.bbc.com/news/articles/c1417713ve6o"
         },
         {
           "rank": 5,
-          "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-          "url": "https://www.bbc.com/news/articles/c1417713ve6o"
+          "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+          "url": "https://www.bbc.com/news/articles/cjwx74qgld2o"
         }
       ],
       "erro": null
@@ -285,8 +285,8 @@
         },
         {
           "rank": 2,
-          "title": "Boca reaccionó sobre el final, rescató un empate con Newell's y sigue en deuda con el juego",
-          "url": "https://www.clarin.com/deportes/newells-vs-boca-torneo-clausura-vivo-hora-juegan-formaciones-ver_0_6k59lUw8Pa.html"
+          "title": "Femicidio en Mar del Plata: la familia de Mailén sospecha que el remisero que la llevó a la entrevista pudo haber sido el entregador",
+          "url": "https://www.clarin.com/sociedad/femicidio-mar-plata-familia-mailen-sospecha-remisero-llevo-entrevista-pudo-entregador_0_Or7e2tj9KD.html"
         },
         {
           "rank": 3,
@@ -300,8 +300,8 @@
         },
         {
           "rank": 5,
-          "title": "Femicidio en Mar del Plata: la familia de Mailén sospecha que el remisero que la llevó a la entrevista pudo haber sido el entregador",
-          "url": "https://www.clarin.com/sociedad/femicidio-mar-plata-familia-mailen-sospecha-remisero-llevo-entrevista-pudo-entregador_0_Or7e2tj9KD.html"
+          "title": "River vs Rosario Central, por el Torneo Clausura, EN VIVO: cómo va, resultado  y minuto a minuto del partido",
+          "url": "https://www.clarin.com/deportes/river-vs-rosario-central-torneo-clausura-vivo-hora-formaciones-ver-partido_0_ahjuyBAdUO.html"
         }
       ],
       "erro": null

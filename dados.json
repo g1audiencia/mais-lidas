@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 00:47",
+  "atualizado_em": "02/08/2026 00:53",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Magreza de Ariana Grande em novo clipe, 'Petal', chama atenção de fãs",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/magreza-de-ariana-grande-em-novo-clipe-petal-chama-atencao-de-fas.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Queda de avião mata 13 pessoas que visitavam Linhas de Nazca no Peru",
           "url": "https://www1.folha.uol.com.br/mundo/2026/08/queda-de-aviao-mata-13-pessoas-que-visitavam-linhas-de-nazca-no-peru.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
-        },
-        {
-          "rank": 2,
-          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
-          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
-        },
-        {
-          "rank": 3,
           "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
+          "rank": 2,
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
+        },
+        {
+          "rank": 3,
+          "title": "Palmeiras sobe tom contra denúncia de Maurício e cita Flamengo e Corinthians em protesto",
+          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-sobe-tom-contra-denuncia-de-mauricio-e-cita-flamengo-e-corinthians-em-protesto/"
+        },
+        {
           "rank": 4,
-          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
-          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 5,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         }
       ],
       "erro": null

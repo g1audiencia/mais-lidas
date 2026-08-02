@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 22:13",
+  "atualizado_em": "01/08/2026 22:23",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
-        },
-        {
-          "rank": 2,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
-          "rank": 3,
-          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
-          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
+          "rank": 2,
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
+          "rank": 4,
+          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
+          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
+        },
+        {
           "rank": 5,
-          "title": "A ‘morte da História’",
-          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
+          "title": "Lula chega à sétima disputa ao Planalto com versão 3.0 do ‘nós contra eles’",
+          "url": "https://www.estadao.com.br/politica/lula-chega-a-setima-disputa-ao-planalto-com-versao-30-do-nos-contra-eles/"
         }
       ],
       "erro": null

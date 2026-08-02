@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 22:41",
+  "atualizado_em": "01/08/2026 22:47",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
+          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
+        },
+        {
+          "rank": 3,
+          "title": "A ‘morte da História’",
+          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
+        },
+        {
+          "rank": 4,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Os melhores e os piores hábitos para o fígado",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
-        },
-        {
-          "rank": 4,
-          "title": "Renan Santos ataca Lula e Flávio, chama Moro de ‘vassalo’ e promete ‘matar quem roubar’",
-          "url": "https://www.estadao.com.br/politica/renan-santos-ataca-lula-e-flavio-chama-moro-de-vassalo-e-promete-matar-quem-roubar/"
-        },
-        {
-          "rank": 5,
-          "title": "Lula chega à sétima disputa ao Planalto com versão 3.0 do ‘nós contra eles’",
-          "url": "https://www.estadao.com.br/politica/lula-chega-a-setima-disputa-ao-planalto-com-versao-30-do-nos-contra-eles/"
         }
       ],
       "erro": null

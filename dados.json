@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 01:07",
+  "atualizado_em": "02/08/2026 01:33",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Fernanda Gentil é contratada pela TV Connect USA após Copa do Mundo",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/08/fernanda-gentil-e-contratada-pela-tv-connect-usa-apos-copa-do-mundo.shtml"
         },
         {
+          "rank": 2,
+          "title": "Outro Canal: Marcos Mion apresenta queixa-crime contra Bento Ribeiro e o acusa de calúnia e difamação",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/marcos-mion-apresenta-queixa-crime-contra-bento-ribeiro-e-o-acusa-de-calunia-e-difamacao.shtml"
+        },
+        {
           "rank": 3,
+          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Magreza de Ariana Grande em novo clipe, 'Petal', chama atenção de fãs",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/magreza-de-ariana-grande-em-novo-clipe-petal-chama-atencao-de-fas.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Queda de avião mata 13 pessoas que visitavam Linhas de Nazca no Peru",
           "url": "https://www1.folha.uol.com.br/mundo/2026/08/queda-de-aviao-mata-13-pessoas-que-visitavam-linhas-de-nazca-no-peru.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
         }
       ],
       "erro": null
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Flamengo segue com a maior torcida do Brasil; veja quem são os concorrentes, segundo Datafolha",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/01/flamengo-segue-com-a-maior-torcida-do-brasil-veja-quem-sao-os-concorrentes-segundo-datafolha.ghtml"
+          "title": "Avião da TAP saindo de Lisboa com destino a Curitiba tem emergência durante voo e retorna a Portugal",
+          "url": "https://oglobo.globo.com/brasil/noticia/2026/08/01/aviao-saindo-de-lisboa-com-destino-a-curitiba-tem-emergencia-durante-voo-e-retorna-a-portugal.ghtml"
         },
         {
           "rank": 5,
-          "title": "Avião da TAP saindo de Lisboa com destino a Curitiba tem emergência durante voo e retorna a Portugal",
-          "url": "https://oglobo.globo.com/brasil/noticia/2026/08/01/aviao-saindo-de-lisboa-com-destino-a-curitiba-tem-emergencia-durante-voo-e-retorna-a-portugal.ghtml"
+          "title": "Flamengo segue com a maior torcida do Brasil; veja quem são os concorrentes, segundo Datafolha",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/01/flamengo-segue-com-a-maior-torcida-do-brasil-veja-quem-sao-os-concorrentes-segundo-datafolha.ghtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 3,
-          "title": "Acordo de desarmamento é uma manobra política do Hamas em que Trump embarcou por conveniência",
-          "url": "https://www.estadao.com.br/internacional/lourival-santanna/acordo-de-desarmamento-e-uma-manobra-politica-do-hamas-que-trump-embarcou-por-conveniencia/"
+          "title": "Palmeiras sobe tom contra denúncia de Maurício e cita Flamengo e Corinthians em protesto",
+          "url": "https://www.estadao.com.br/esportes/futebol/palmeiras-sobe-tom-contra-denuncia-de-mauricio-e-cita-flamengo-e-corinthians-em-protesto/"
         },
         {
           "rank": 4,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+          "title": "Passar por dificuldade financeira ao longo da vida pode acelerar envelhecimento cerebral, diz estudo",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/passar-por-dificuldade-financeira-ao-longo-da-vida-pode-acelerar-envelhecimento-cerebral-diz-estudo-nprm/"
         },
         {
           "rank": 5,
-          "title": "Intenção de compra de imóveis sobe, mas classe média compra usados por falta de opções",
-          "url": "https://www.estadao.com.br/economia/intencao-compra-imoveis-sobe-classe-media-compra-usados/"
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-          "url": "https://www.bbc.com/news/articles/c62vl925dqdo"
+          "title": "The Sopranos star Vincent Pastore dies aged 80",
+          "url": "https://www.bbc.com/news/articles/cm2gz0epljgo"
         },
         {
           "rank": 5,
-          "title": "The Sopranos star Vincent Pastore dies aged 80",
-          "url": "https://www.bbc.com/news/articles/cm2gz0epljgo"
+          "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+          "url": "https://www.bbc.com/news/articles/c62vl925dqdo"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Quiénes eran las siete víctimas del choque en Luján y cómo fue la maniobra de la tragedia",
-          "url": "https://www.clarin.com/sociedad/victimas-choque-lujan-maniobra-tragedia_0_3XlMc2UInb.html"
+          "title": "Quiso sobrepasar a un camión en plena curva y provocó un accidente múltiple que dejó tres heridos en la Ruta 14",
+          "url": "https://www.clarin.com/sociedad/quiso-sobrepasar-camion-plena-curva-provoco-accidente-multiple-dejo-heridos-ruta-14_0_Gu6eusn49L.html"
         }
       ],
       "erro": null

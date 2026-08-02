@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 00:24",
+  "atualizado_em": "02/08/2026 00:35",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
+          "title": "Fernanda Gentil é contratada pela TV Connect USA após Copa do Mundo",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/fernanda-gentil-e-contratada-pela-tv-connect-usa-apos-copa-do-mundo.shtml"
         },
         {
           "rank": 3,
-          "title": "Fernanda Gentil é contratada pela TV Connect USA após Copa do Mundo",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/fernanda-gentil-e-contratada-pela-tv-connect-usa-apos-copa-do-mundo.shtml"
+          "title": "Michelle Bolsonaro será candidata ao Senado, diz Bia Kicis",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/michelle-bolsonaro-sera-candidata-ao-senado-diz-bia-kicis.shtml"
         },
         {
           "rank": 4,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os melhores e os piores hábitos para o fígado",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
-        },
-        {
-          "rank": 3,
-          "title": "Como é o ‘Copacabana Palace de SP’, que pode ganhar uma nova vida",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-o-copacabana-palace-de-sp-que-pode-ganhar-uma-nova-vida/"
-        },
-        {
-          "rank": 4,
           "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
         },
         {
+          "rank": 3,
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
+        },
+        {
+          "rank": 4,
+          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
+          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
+        },
+        {
           "rank": 5,
-          "title": "Banco da Amazônia comprou R$ 40 milhões em títulos sem garantia do Banco Master",
-          "url": "https://www.estadao.com.br/economia/banco-amazonia-compra-letras-financeiras-master-sem-garantia/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "60,000 Moroccan migrants cross into the Spanish territory of Ceuta, triggering a humanitarian crisis",
-          "url": "https://apnews.com/article/spain-ceuta-migration-66839d113f24ba80d08b36d2b337201c"
+          "title": "Democrats see a chance to flip a seat as focus on abuse claims mounts against Ohio Rep. Max Miller",
+          "url": "https://apnews.com/article/max-miller-abuse-allegations-moreno-ohio-congress-2073ea5014328322decb23aaaed3bcfe"
         },
         {
           "rank": 5,
-          "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan",
-          "url": "https://apnews.com/article/infantino-fifa-uefa-b07dfbbbc0e79c60a902d7fd0e0e39b9"
+          "title": "60,000 Moroccan migrants cross into the Spanish territory of Ceuta, triggering a humanitarian crisis",
+          "url": "https://apnews.com/article/spain-ceuta-migration-66839d113f24ba80d08b36d2b337201c"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+          "url": "https://www.bbc.com/news/articles/czrjyevmv61o"
+        },
+        {
+          "rank": 4,
           "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
           "url": "https://www.bbc.com/news/articles/c62vl925dqdo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Sopranos star Vincent Pastore dies aged 80",
           "url": "https://www.bbc.com/news/articles/cm2gz0epljgo"
-        },
-        {
-          "rank": 5,
-          "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-          "url": "https://www.bbc.com/news/articles/czrjyevmv61o"
         }
       ],
       "erro": null

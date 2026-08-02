@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 19:06",
+  "atualizado_em": "02/08/2026 19:11",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Horas antes de convenção com Flávio, Michelle informa que continua internada",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/02/horas-antes-de-convencao-com-flavio-michelle-diz-que-segue-internada.ghtm"
+          "title": "Milly: Palmeiras vence o tédio e deixa escapar o seu segredo mais bem guardado",
+          "url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2026/08/02/palmeiras-vence-o-tedio-e-deixa-escapar-o-seu-segredo-mais-bem-guardado.htm"
         },
         {
           "rank": 2,
-          "title": "Sakamoto: Lula salva evento de vexame ao chamar Janja para discursar no palco",
-          "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/08/02/lula-salva-evento-de-vexame-ao-chamar-janja-para-discursar-no-palco.htm"
+          "title": "Palmeiras acorda, vence o Fortaleza e encaminha vaga na Copa do Brasil",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/palmeiras-x-fortaleza-copa-do-brasil-oitavas-de-final-ida-como-foi-o-jogo.ghtm"
         },
         {
           "rank": 3,
-          "title": "Conheça sete sinais de que é hora de o idoso parar de dirigir",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/02/hora-de-parar-7-sinais-de-que-o-idoso-pode-afetar-a-seguranca-ao-dirigir.htm"
-        },
-        {
-          "rank": 4,
           "title": "Situação de rua e mais: 6 artistas que morreram completamente falidos",
           "url": "https://natelinha.uol.com.br/tv-historia/2026/08/02/situacao-de-rua-e-mais-6-artistas-que-morreram-completamente-falidos-245550.php"
         },
         {
+          "rank": 4,
+          "title": "Abel rebate nota do Fla e cita final da Libertadores, Vaticano e Série B",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/abel-rebate-nota-do-fla-e-cita-final-da-libertadores-vaticano-e-serie-b.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Árbitro deixa partida do Campeonato Paulista sub-15 após ser alvo de racismo",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/arbitro-deixa-partida-do-paulista-sub-15-apos-ser-alvo-de-racismo.ghtm"
+          "title": "Conheça sete sinais de que é hora de o idoso parar de dirigir",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/02/hora-de-parar-7-sinais-de-que-o-idoso-pode-afetar-a-seguranca-ao-dirigir.htm"
         }
       ],
       "erro": null
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+          "title": "Em convenção, trunfos de Lula tornam-se também suas contradições",
+          "url": "https://www.estadao.com.br/politica/diogo-schelp/em-convencao-trunfos-de-lula-tornam-se-tambem-suas-contradicoes/"
         },
         {
           "rank": 5,
-          "title": "Em convenção, trunfos de Lula tornam-se também suas contradições",
-          "url": "https://www.estadao.com.br/politica/diogo-schelp/em-convencao-trunfos-de-lula-tornam-se-tambem-suas-contradicoes/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         }
       ],
       "erro": null
@@ -295,7 +295,7 @@
         },
         {
           "rank": 3,
-          "title": "Newell's vs Boca, por el Torneo Clausura, EN VIVO: cómo va, resultado y minuto a minuto del partido",
+          "title": "Newell's vs Boca, por el Torneo Clausura, EN VIVO: resultado, goles y cómo quedó el partido",
           "url": "https://www.clarin.com/deportes/newells-vs-boca-torneo-clausura-vivo-hora-juegan-formaciones-ver_0_6k59lUw8Pa.html"
         },
         {
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Javier Milei y sus medidas, EN VIVO: el Presidente ratificó que insistirá para que el Congreso elimine las PASO",
-          "url": "https://www.clarin.com/politica/javier-milei-medidas-vivo-gobierno-advierte-sanciones-gremios-docentes-paro-manana-busca-avanzar-proyecto-permite-venderle-tierras-extranjeros_0_S8ZHJM4cPp.html"
+          "title": "Zapatillas: marca por marca, los mejores y peores modelos para salir a caminar",
+          "url": "https://www.clarin.com/tecnologia/zapatillas-marca-marca-mejores-peores-modelos-hacer-largas-caminatas_0_ypdwykt49Q.html"
         }
       ],
       "erro": null

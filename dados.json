@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 23:56",
+  "atualizado_em": "02/08/2026 00:02",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘Sonho destruído’, ‘sofrimento’, ‘racismo’: a desilusão dos marroquinos expulsos de Ceuta",
-          "url": "https://www.estadao.com.br/internacional/sonho-destruido-sofrimento-racismo-a-desilusao-dos-marroquinos-expulsos-de-ceuta/"
-        },
-        {
-          "rank": 4,
           "title": "Sem merecer novo mandato, Lula é favorito com discurso velho e erros do rival",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/sem-merecer-novo-mandato-lula-e-favorito-com-discurso-velho-e-erros-do-rival/"
         },
         {
+          "rank": 4,
+          "title": "Lula chega à sétima disputa ao Planalto com versão 3.0 do ‘nós contra eles’",
+          "url": "https://www.estadao.com.br/politica/lula-chega-a-setima-disputa-ao-planalto-com-versao-30-do-nos-contra-eles/"
+        },
+        {
           "rank": 5,
-          "title": "A ‘morte da História’",
-          "url": "https://www.estadao.com.br/opiniao/a-morte-da-historia/"
+          "title": "Os melhores e os piores hábitos para o fígado",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-melhores-e-os-piores-habitos-para-o-figado/"
         }
       ],
       "erro": null

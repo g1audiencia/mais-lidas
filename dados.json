@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 18:49",
+  "atualizado_em": "02/08/2026 18:55",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
+          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
+        },
+        {
+          "rank": 4,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
           "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 5,
-          "title": "Michelle Bolsonaro tem alta de hospital, mas presença em convenção do PL ainda não foi confirmada",
-          "url": "https://www.estadao.com.br/politica/michelle-bolsonaro-diz-que-esta-internada-em-hospital-e-e-duvida-na-convencao-do-pl/"
         }
       ],
       "erro": null

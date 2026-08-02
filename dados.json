@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 19:56",
+  "atualizado_em": "02/08/2026 20:01",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Em convenção, trunfos de Lula tornam-se também suas contradições",
-          "url": "https://www.estadao.com.br/politica/diogo-schelp/em-convencao-trunfos-de-lula-tornam-se-tambem-suas-contradicoes/"
-        },
-        {
-          "rank": 3,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
+          "rank": 3,
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+        },
+        {
           "rank": 4,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Em convenção, trunfos de Lula tornam-se também suas contradições",
+          "url": "https://www.estadao.com.br/politica/diogo-schelp/em-convencao-trunfos-de-lula-tornam-se-tambem-suas-contradicoes/"
         },
         {
           "rank": 5,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Conversa para boi dormir",
+          "url": "https://www.estadao.com.br/opiniao/conversa-para-boi-dormir/"
         }
       ],
       "erro": null

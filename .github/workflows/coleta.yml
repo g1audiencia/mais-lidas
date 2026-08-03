@@ -2,10 +2,21 @@ name: Coletar mais lidas
 
 on:
   workflow_dispatch:
+  schedule:
+    # Rede de segurança: se a corrente auto-encadeada morrer,
+    # isso a reergue sozinha dentro de uma hora.
+    - cron: '7 * * * *'
 
 permissions:
   contents: write
   actions: write
+
+# Garante que existe no máximo UMA corrente rodando.
+# Se o cron disparar enquanto a corrente está viva, a nova execução
+# assume e a antiga é cancelada — evitando correntes paralelas se multiplicando.
+concurrency:
+  group: coleta-mais-lidas
+  cancel-in-progress: true
 
 jobs:
   coletar:
@@ -32,9 +43,10 @@ jobs:
     if: always()
     runs-on: ubuntu-latest
     steps:
-      - name: Esperar 10 minutos e disparar de novo
+      - name: Esperar 5 minutos e disparar de novo
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Usa o PAT se existir; se não, cai no token padrão.
+          GH_TOKEN: ${{ secrets.PAT_RONDA || secrets.GITHUB_TOKEN }}
         run: |
           sleep 300
           curl -X POST \

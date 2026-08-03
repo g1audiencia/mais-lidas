@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 12:50",
+  "atualizado_em": "03/08/2026 12:56",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
-        },
-        {
-          "rank": 4,
           "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
           "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
           "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
+        },
+        {
+          "rank": 5,
+          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
+          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         }
       ],
       "erro": null
@@ -221,13 +221,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
-          "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
+          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
+          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
         },
         {
           "rank": 2,
-          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
-          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
+          "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
+          "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
         },
         {
           "rank": 3,

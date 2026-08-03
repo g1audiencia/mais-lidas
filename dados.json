@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 23:09",
+  "atualizado_em": "02/08/2026 23:15",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 4,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 4,
+          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+        },
+        {
           "rank": 5,
-          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
-          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         }
       ],
       "erro": null

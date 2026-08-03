@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 11:46",
+  "atualizado_em": "03/08/2026 11:51",
   "portais": [
     {
       "portal": "Folha",
@@ -12,18 +12,18 @@
         },
         {
           "rank": 2,
-          "title": "Sete dicas para manter a libido durante o uso de antidepressivos",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/sete-dicas-para-manter-a-libido-durante-o-uso-de-antidepressivos.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Documento da PM recomenda expulsão de soldado por morte de estudante de medicina em São Paulo",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/documento-da-pm-recomenda-expulsao-de-soldado-por-morte-de-estudante-de-medicina-em-sao-paulo.shtml"
         },
         {
+          "rank": 3,
+          "title": "Rafael Cardoso relata luta contra dependência após internação: 'Achei que iria morrer sozinho'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/rafael-cardoso-relata-luta-contra-dependencia-apos-internacao-achei-que-iria-morrer-sozinho.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
+          "title": "Sete dicas para manter a libido durante o uso de antidepressivos",
+          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/sete-dicas-para-manter-a-libido-durante-o-uso-de-antidepressivos.shtml"
         },
         {
           "rank": 5,
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
-          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 2,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
+          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
         },
         {
           "rank": 3,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
+          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         }
       ],
       "erro": null
@@ -226,7 +226,7 @@
         },
         {
           "rank": 2,
-          "title": "GOP holdouts say they will vote to advance Blanche’s nomination for attorney general",
+          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
           "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
         },
         {

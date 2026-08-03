@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 03:37",
+  "atualizado_em": "03/08/2026 03:43",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Agência de Comunicação",
-          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/releases/releases-geral/presente-do-pai-primeira-vez-no-mundo-menino-de-seis-anos-e-o-primeiro-paciente-a-receber-um-transplante-de-figado-com-uma-unica-incisao-robotica/"
+          "title": "‘Carro de rico’ virou ‘carne de vaca’",
+          "url": "https://jornaldocarro.estadao.com.br/primeira-classe/carro-de-rico-virou-carne-de-vaca/"
         },
         {
           "rank": 2,
+          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+        },
+        {
+          "rank": 3,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
-          "rank": 3,
-          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
-          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
-        },
-        {
           "rank": 4,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
           "rank": 5,
-          "title": "Fugindo do debate",
-          "url": "https://www.estadao.com.br/opiniao/fugindo-do-debate/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         }
       ],
       "erro": null

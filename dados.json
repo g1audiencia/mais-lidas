@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 02:01",
+  "atualizado_em": "03/08/2026 02:06",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
-          "rank": 2,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
+          "rank": 3,
+          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
+          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
+        },
+        {
           "rank": 4,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Milei volta a chamar Lula de ‘ladrão’ e ‘corrupto’",
+          "url": "https://www.estadao.com.br/internacional/milei-volta-a-chamar-lula-de-ladrao-e-corrupto-npr/"
         },
         {
           "rank": 5,
-          "title": "Milei volta a chamar Lula de ‘ladrão’ e ‘corrupto’",
-          "url": "https://www.estadao.com.br/internacional/milei-volta-a-chamar-lula-de-ladrao-e-corrupto-npr/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         }
       ],
       "erro": null

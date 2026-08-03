@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 14:26",
+  "atualizado_em": "03/08/2026 14:32",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Proposta de Fachin contra conflito de interesses prevê regras sobre eventos, presentes e familiares",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/proposta-de-fachin-contra-conflito-de-interesses-preve-regras-sobre-eventos-presentes-e-familiares.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Rafael Cardoso relata luta contra dependência após internação: 'Achei que iria morrer sozinho'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/08/rafael-cardoso-relata-luta-contra-dependencia-apos-internacao-achei-que-iria-morrer-sozinho.shtml"
         },
         {
-          "rank": 3,
-          "title": "Dívida pública em alta vai exigir negociação de medidas logo após as eleições",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/08/divida-publica-em-alta-vai-exigir-negociacao-de-medidas-logo-apos-as-eleicoes.shtml"
-        },
-        {
           "rank": 4,
-          "title": "Silvia Buarque fala de novo câncer no seio e dupla mastectomia",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/silvia-buarque-fala-de-tratamento-contra-novo-cancer-e-diz-que-quer-ser-farol-para-mulheres.shtml"
+          "title": "Brunna Gonçalves processa Alexandre Frota e pede R$ 40 mil por ataques nas redes sociais",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/brunna-goncalves-processa-alexandre-frota-e-pede-r-40-mil-por-ataques-nas-redes-sociais.shtml"
         },
         {
           "rank": 5,
-          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
+          "title": "Silvia Buarque fala de novo câncer no seio e dupla mastectomia",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/silvia-buarque-fala-de-tratamento-contra-novo-cancer-e-diz-que-quer-ser-farol-para-mulheres.shtml"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
+          "title": "Washington state wildfires force 60,000 people to evacuate homes",
+          "url": "https://www.bbc.com/news/articles/c3046g80yj7o"
         },
         {
           "rank": 4,
-          "title": "Washington state wildfires force 60,000 people to evacuate homes",
-          "url": "https://www.bbc.com/news/articles/c3046g80yj7o"
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
         },
         {
           "rank": 5,

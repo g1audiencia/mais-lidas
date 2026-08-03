@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 15:20",
+  "atualizado_em": "03/08/2026 15:25",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
-        },
-        {
-          "rank": 4,
           "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
           "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
         },
         {
+          "rank": 4,
+          "title": "Sessões de retorno das atividades do STF e do TSE serão novo capítulo na tensão entre as Cortes",
+          "url": "https://www.estadao.com.br/politica/sessoes-de-retorno-das-atividades-do-stf-e-do-tse-serao-novo-capitulo-na-tensao-entre-as-cortes/"
+        },
+        {
           "rank": 5,
-          "title": "Trump blefou de novo. Como isso beneficia a estratégia do Irã na guerra?",
-          "url": "https://www.estadao.com.br/internacional/trump-blefou-de-novo-como-isso-beneficia-a-estrategia-do-ira-na-guerra/"
+          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "Grupo estupra estagiária de 17 anos, grava crime e posta no TikTok",
-          "url": "https://www.metropoles.com/colunas/alfredo-henrique/grupo-estupra-estagiaria-de-17-anos-grava-crime-e-posta-no-tiktok"
+          "title": "Exclusivo: empresa para a qual Lulinha fez lobby pagou R$ 150 mil a Roberta Luchsinger",
+          "url": "https://www.metropoles.com/colunas/tacio-lorran/empresa-para-a-qual-lulinha-fez-lobby-pagou-r-150-mil-a-roberta-luchsinger"
         },
         {
           "rank": 3,
-          "title": "Exclusivo: empresa para a qual Lulinha fez lobby pagou R$ 150 mil a Roberta Luchsinger",
-          "url": "https://www.metropoles.com/colunas/tacio-lorran/empresa-para-a-qual-lulinha-fez-lobby-pagou-r-150-mil-a-roberta-luchsinger"
+          "title": "Tráfico de influência: PF pede ao STF novo inquérito contra Lulinha",
+          "url": "https://www.metropoles.com/brasil/trafico-de-influencia-pf-pede-ao-stf-novo-inquerito-contra-lulinha"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
-          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
-        },
-        {
-          "rank": 2,
           "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
           "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
           "url": "https://apnews.com/article/max-miller-abuse-allegations-trump-335959b543bb410b51540ea9c6ec2571"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
           "url": "https://apnews.com/article/twin-falls-idaho-shooting-fast-food-restaurant-2b1104d872124c2733faec0ddb89ffc4"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Trump says Gulf leaders’ input weighed heavily in decision to hold off on ordering new Iran strikes",
           "url": "https://apnews.com/article/trump-iran-strait-hormuz-israel-gaza-mideast-f4c225f6667d9fd171616304701825a0"
+        },
+        {
+          "rank": 5,
+          "title": "Senate leaders reach funding deal to avoid shutdown during campaign season",
+          "url": "https://apnews.com/article/government-shutdown-deal-funding-recess-081d1e1e72cb717243c2e51d17bace7a"
         }
       ],
       "erro": null

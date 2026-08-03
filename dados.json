@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 05:22",
+  "atualizado_em": "03/08/2026 05:28",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Javier Milei faz novos ataques a Lula e o chama de 'ladrão' e 'corrupto'",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/03/milei-faz-novos-ataques-a-lula-e-o-chama-de-ladrao-e-corrupto.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Situação de rua e mais: seis artistas que morreram completamente falidos",
           "url": "https://natelinha.uol.com.br/tv-historia/2026/08/02/situacao-de-rua-e-mais-6-artistas-que-morreram-completamente-falidos-245550.php"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ariana Grande desiste de musical e planeja hiato após onda de ataques na internet",
           "url": "https://noticiasdatv.uol.com.br/noticia/celebridades/ariana-grande-desiste-de-musical-e-planeja-hiato-apos-onda-de-ataques-na-web-154819"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Rafael Cardoso detalha internação em clínica de reabilitação e se diz 'orgulhoso'",
           "url": "https://noticiasdatv.uol.com.br/noticia/celebridades/rafael-cardoso-detalha-internacao-em-clinica-de-reabilitacao-e-se-diz-orgulhoso-154818"
         },
         {
-          "rank": 4,
-          "title": "Advogada que salvou família em incêndio no Paraná se candidata a deputada estadual",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/02/advogada-que-salvou-familia-de-incendio-anuncia-candidatura-nas-eleicoes-2026.ghtm"
-        },
-        {
           "rank": 5,
-          "title": "Inter vence o Corinthians e fica mais perto das quartas da Copa do Brasil",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/internacional-corinthians-copa-do-brasil.ghtm"
+          "title": "Conheça 7 sinais de que é hora de o idoso parar de dirigir",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/02/hora-de-parar-7-sinais-de-que-o-idoso-pode-afetar-a-seguranca-ao-dirigir.htm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
-          "rank": 2,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
-        },
-        {
-          "rank": 3,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
+          "rank": 2,
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+        },
+        {
+          "rank": 3,
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+        },
+        {
           "rank": 4,
-          "title": "Lula faz promessa de investimento em defesa, mas discurso não agrada parte do PT; entenda o motivo",
-          "url": "https://www.estadao.com.br/politica/lula-faz-promessa-de-investimento-em-defesa-mas-discurso-nao-agrada-parte-do-pt-entenda-o-motivo/"
+          "title": "Em convenção, trunfos de Lula tornam-se também suas contradições",
+          "url": "https://www.estadao.com.br/politica/diogo-schelp/em-convencao-trunfos-de-lula-tornam-se-tambem-suas-contradicoes/"
         },
         {
           "rank": 5,
-          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
-          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+          "title": "Podemos define em três dias se Renata Abreu será vice de Flávio ou mantém neutralidade",
+          "url": "https://www.estadao.com.br/politica/podemos-define-em-tres-dias-se-renata-abreu-sera-vice-de-flavio-ou-mantem-neutralidade/"
         }
       ],
       "erro": null
@@ -248,8 +248,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
-          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
+          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+          "url": "https://www.bbc.com/news/articles/c1e1d5j6660o"
         },
         {
           "rank": 2,
@@ -258,8 +258,8 @@
         },
         {
           "rank": 3,
-          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-          "url": "https://www.bbc.com/news/articles/c1e1d5j6660o"
+          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
+          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
         },
         {
           "rank": 4,

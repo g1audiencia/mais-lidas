@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 17:18",
+  "atualizado_em": "03/08/2026 17:23",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 2,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 3,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
-          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
+          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
+          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
         },
         {
           "rank": 5,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Barrios revelación de CABA: los 6 lugares que se reconvirtieron y hoy son los más buscados para vivir",
-          "url": "https://www.clarin.com/propiedades/barrios-revelacion-caba-6-lugares-reconvirtieron-hoy-buscados-vivir_0_MIXnoDHYRg.html"
-        },
-        {
-          "rank": 4,
           "title": "Murió un matrimonio el día de los 15 de su hija al caer un árbol sobre su camioneta",
           "url": "https://www.clarin.com/sociedad/murio-matrimonio-dia-15-hija-caer-arbol-camioneta_0_9ZnERNV6pF.html"
         },
         {
+          "rank": 4,
+          "title": "Barrios revelación de CABA: los 6 lugares que se reconvirtieron y hoy son los más buscados para vivir",
+          "url": "https://www.clarin.com/propiedades/barrios-revelacion-caba-6-lugares-reconvirtieron-hoy-buscados-vivir_0_MIXnoDHYRg.html"
+        },
+        {
           "rank": 5,
-          "title": "Giro en el Senado: por qué la Rosada cede y acepta retocar la polémica ley de tierras",
-          "url": "https://www.clarin.com/politica/giro-senado-rosada-cede-acepta-retocar-polemica-ley-tierras_0_j9Mha6AIu4.html"
+          "title": "Por la sequía extrema, Rumania dinamita el río Danubio para desviar agua hacia una planta nuclear",
+          "url": "https://www.clarin.com/mundo/sequia-extrema-rumania-dinamita-rio-danubio-desviar-agua-planta-nuclear_0_834eXlpgMS.html"
         }
       ],
       "erro": null

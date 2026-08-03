@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 07:30",
+  "atualizado_em": "03/08/2026 07:35",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "'Jamais vou ganhar o Nobel': Quem é Marilda Sotomayor, brasileira referência em teoria dos jogos",
-          "url": "https://www1.folha.uol.com.br/ilustrissima/2026/08/jamais-vou-ganhar-o-nobel-quem-e-marilda-sotomayor-brasileira-referencia-em-teoria-dos-jogos.shtml"
+          "title": "Da prisão em Nova York, Maduro defende diálogo para consolidar paz na Venezuela",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/da-prisao-em-nova-york-maduro-defende-dialogo-para-consolidar-paz-na-venezuela.shtml"
         }
       ],
       "erro": null
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 3,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 4,
@@ -231,11 +231,6 @@
         },
         {
           "rank": 3,
-          "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
-          "url": "https://apnews.com/article/pirro-trump-reflecting-pool-damage-vandalism-fecb6e13f1475dfe8a38898360c0446f"
-        },
-        {
-          "rank": 4,
           "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
           "url": "https://apnews.com/article/spain-ceuta-morocco-migration-border-vox-9960b15a7cf31a0592b09ac47a8eac3f"
         }

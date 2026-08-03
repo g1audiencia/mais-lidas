@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 19:54",
+  "atualizado_em": "03/08/2026 20:00",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
-          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
-        },
-        {
-          "rank": 3,
           "title": "Fachin apresenta novo código de ética para juízes, mas não para ministros do STF; veja as regras",
           "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
           "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
+        },
+        {
+          "rank": 4,
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         },
         {
           "rank": 5,
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Condenado e foragido há três anos, coronel da PMDF recebe salário de R$ 25 mil",
-          "url": "https://www.metropoles.com/distrito-federal/na-mira/condenado-e-foragido-coronel-da-pmdf-recebia-salario-de-r-25-mil"
+          "title": "Líder nas pesquisas, Alvaro Dias desiste de candidatura ao Senado",
+          "url": "https://www.metropoles.com/brasil/lider-nas-pesquisas-alvaro-dias-desiste-de-candidatura-ao-senado"
         },
         {
           "rank": 2,
-          "title": "Irmão de Bolsonaro declara ao TSE estar R$ 2,9 milhões mais pobre",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/irmao-de-bolsonaro-declara-ao-tse-estar-r-29-milhoes-mais-pobre"
+          "title": "Foragido, coronel da PMDF acumulou R$ 847,9 mil em salários por 3 anos",
+          "url": "https://www.metropoles.com/distrito-federal/na-mira/foragido-coronel-da-pmdf-acumulou-r-8479-mil-em-salarios-por-3-anos"
         },
         {
           "rank": 3,
-          "title": "Policial disfarçado de arbusto multa 74 motoristas em seis horas",
-          "url": "https://www.metropoles.com/mundo/policial-disfarcado-de-arbusto-multa-74-motoristas-em-seis-horas"
+          "title": "Irmão de Bolsonaro declara ao TSE estar R$ 2,9 milhões mais pobre",
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/irmao-de-bolsonaro-declara-ao-tse-estar-r-29-milhoes-mais-pobre"
         }
       ],
       "erro": null
@@ -290,18 +290,18 @@
         },
         {
           "rank": 2,
-          "title": "Llegó apuñalado al hospital y murió a las pocas horas: detuvieron a su novia",
-          "url": "https://www.clarin.com/policiales/llego-apunalado-hospital-murio-pocas-horas-detuvieron-novia_0_xqBWAxbaml.html"
-        },
-        {
-          "rank": 3,
           "title": "Puertos paralizados por un decreto de Sturzenegger: hay más de 150 barcos sin poder operar y afecta a las exportaciones",
           "url": "https://www.clarin.com/rural/mucha-preocupacion-practicos-dejaron-prestar-servicios-desregulacion-gobierno-150-barcos-paralizados_0_2dVxjgdblt.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "\"Abucheos en todos los estadios\": los hinchas del Chelsea cuestionan el fichaje de Valentín Barco y recuerdan el golpe de Bellingham en el Mundial",
           "url": "https://www.clarin.com/deportes/abucheos-estadios-hinchas-chelsea-cuestionan-fichaje-valentin-barco-recuerdan-golpe-bellingham-mundial_0_oBO9vtLxP4.html"
+        },
+        {
+          "rank": 4,
+          "title": "Llegó apuñalado al hospital y murió a las pocas horas: detuvieron a su novia",
+          "url": "https://www.clarin.com/policiales/llego-apunalado-hospital-murio-pocas-horas-detuvieron-novia_0_xqBWAxbaml.html"
         },
         {
           "rank": 5,

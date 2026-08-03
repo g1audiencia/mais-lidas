@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 16:38",
+  "atualizado_em": "03/08/2026 16:44",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Cleitinho anuncia que não será candidato ao Governo de MG",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/cleitinho-anuncia-que-nao-sera-candidato-ao-governo-de-minas-gerais.ghtm"
+        },
+        {
+          "rank": 2,
+          "title": "Neymar critica lista e pede Ceni e Marcos entre maiores goleiros",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/neymar-cobra-ceni-e-marcos-em-lista-de-maiores-goleiros-da-historia.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Ator processa CazéTV por comentário em vídeo e pede R$ 120 mil",
           "url": "https://www.uol.com.br/splash/noticias/2026/08/03/ator-processa-caze-tv-e-pede-r-120-mil-por-danos-morais.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "PF pede a abertura de 3º inquérito contra Lulinha por suspeita de tráfico de influência",
           "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/03/policia-federal-pede-abertura-de-3-inquerito-contra-lulinha.ghtm"
         },
         {
-          "rank": 3,
-          "title": "Por que este canhão em museu do Rio de Janeiro irrita o Paraguai até hoje",
-          "url": "https://www.uol.com.br/nossa/colunas/terra-a-vista/2026/08/03/por-que-este-canhao-em-museu-do-rio-de-janeiro-irrita-o-paraguai-ate-hoje.htm"
-        },
-        {
-          "rank": 4,
-          "title": "Dublador detalha acusação de Hugo a árbitro: 'Chamou o Matheus na mão'",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/dublador-hugo-souza-corinthians-arbitro-inter.ghtm"
-        },
-        {
           "rank": 5,
-          "title": "Cataratas do Iguaçu vão fechar passarelas da Garganta do Diabo por 40 dias",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/03/cataratas-do-iguacu-vao-fechar-passarelas-da-garganta-do-diabo-por-40-dias.ghtm"
+          "title": "Veja os nomes cotados para compor chapa com Flávio Bolsonaro",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/quem-sera-vice-de-flavio-bolsonaro-veja-os-nomes-cotados-na-reta-final.ghtm"
         }
       ],
       "erro": null
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Cleitinho Azevedo anuncia desistência de candidatura ao governo de Minas",
-          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
+          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
         },
         {
           "rank": 5,
-          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
-          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
+          "title": "Cleitinho Azevedo anuncia desistência de candidatura ao governo de Minas",
+          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
         }
       ],
       "erro": null

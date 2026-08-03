@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 16:27",
+  "atualizado_em": "03/08/2026 16:33",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Cleitinho anuncia que não será candidato ao Governo de Minas Gerais",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/cleitinho-anuncia-que-nao-sera-candidato-ao-governo-de-minas-gerais.shtml"
+        },
+        {
+          "rank": 2,
+          "title": "STF tem de aceitar que decisões sejam contestadas pela opinião pública, diz Fachin",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/stf-tem-de-aceitar-que-decisoes-sejam-contestadas-pela-opiniao-publica-diz-fachin.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Lula vê dificuldade para ampliar eleitorado, e PT teme 2º turno na eleição",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/lula-ve-dificuldade-para-ampliar-eleitorado-e-pt-teme-2o-turno-na-eleicao.shtml"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Proposta de Fachin contra conflito de interesses prevê regras sobre eventos, presentes e familiares",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/proposta-de-fachin-contra-conflito-de-interesses-preve-regras-sobre-eventos-presentes-e-familiares.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Brunna Gonçalves processa Alexandre Frota e pede R$ 40 mil por ataques nas redes sociais",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/brunna-goncalves-processa-alexandre-frota-e-pede-r-40-mil-por-ataques-nas-redes-sociais.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "STF tem de aceitar que decisões sejam contestadas pela opinião pública, diz Fachin",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/stf-tem-de-aceitar-que-decisoes-sejam-contestadas-pela-opiniao-publica-diz-fachin.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
-        },
-        {
-          "rank": 4,
           "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
           "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
         },
         {
+          "rank": 4,
+          "title": "Cleitinho Azevedo anuncia desistência de candidatura ao governo de Minas",
+          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
+        },
+        {
           "rank": 5,
-          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
+          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
+          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
         }
       ],
       "erro": null

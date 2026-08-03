@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 07:19",
+  "atualizado_em": "03/08/2026 07:24",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "\"Ladrão\": Milei volta a criticar Lula em meio à tensões diplomáticas",
-          "url": "https://www.cnnbrasil.com.br/internacional/ladrao-milei-volta-a-criticar-lula-em-meio-a-tensoes-diplomaticas/"
+          "title": "Virginia anuncia afastamento das redes após filhas passarem por cirurgia",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-anuncia-afastamento-das-redes-apos-filhas-passarem-por-cirurgia/"
         },
         {
           "rank": 4,
-          "title": "Virginia anuncia afastamento das redes após filhas passarem por cirurgia",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-anuncia-afastamento-das-redes-apos-filhas-passarem-por-cirurgia/"
+          "title": "Kleberson passa por cateterismo; entenda como funciona o procedimento",
+          "url": "https://www.cnnbrasil.com.br/saude/kleberson-passa-por-cateterismo-entenda-como-funciona-o-procedimento/"
         },
         {
           "rank": 5,
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Preso nos EUA, Maduro diz que acolhe 'qualquer caminho para o diálogo' na Venezuela",
-          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/02/preso-nos-eua-maduro-diz-que-acolhe-qualquer-caminho-para-o-dialogo-na-venezuela.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Recuo do recuo: Republicanos se reúne para reavaliar veto a candidatura de Cleitinho em Minas",
           "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/03/recuo-do-recuo-republicanos-se-reune-para-reavaliar-veto-a-candidatura-de-cleitinho-em-minas.ghtml"
         },
         {
+          "rank": 4,
+          "title": "Preso nos EUA, Maduro diz que acolhe 'qualquer caminho para o diálogo' na Venezuela",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/02/preso-nos-eua-maduro-diz-que-acolhe-qualquer-caminho-para-o-dialogo-na-venezuela.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "Flávio Bolsonaro afirma que vai aceitar resultado de eleição, mas pede mais 'transparência' em urna eletrônica",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/02/flavio-bolsonaro-afirma-que-vai-aceitar-resultado-de-eleicao-mas-pede-mais-transparencia-em-urna-eletronica.ghtml"
+          "title": "PGR foi contra apreensão de dinheiro e relógios de Jaques Wagner",
+          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/08/pgr-foi-contra-apreensao-de-dinheiro-e-relogios-de-jaques-wagner.ghtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
-        },
-        {
-          "rank": 3,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 3,
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+        },
+        {
           "rank": 4,
-          "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
-          "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
+          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
         },
         {
           "rank": 5,
-          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
+          "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
+          "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
         }
       ],
       "erro": null

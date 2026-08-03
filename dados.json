@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 07:46",
+  "atualizado_em": "03/08/2026 07:52",
   "portais": [
     {
       "portal": "Folha",
@@ -76,7 +76,7 @@
         },
         {
           "rank": 2,
-          "title": "Novo \"Homem-Aranha\" bate quase 1 bilhão em bilheteria em 1º fim de semana",
+          "title": "Novo \"Homem-Aranha\" bate quase US$ 1 bilhão em bilheteria na estreia",
           "url": "https://www.cnnbrasil.com.br/pop/cinema/novo-homem-aranha-bate-quase-1-bilhao-em-bilheteria-em-1o-fim-de-semana/"
         },
         {
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+        },
+        {
+          "rank": 3,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
-          "rank": 3,
-          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
-        },
-        {
           "rank": 4,
-          "title": "Pedido da PF para abrir inquérito contra Lulinha gera estranhamento no STF; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pedido-da-pf-para-abrir-inquerito-contra-lulinha-gera-estranhamento-no-stf-veja-bastidores/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 5,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
         }
       ],
       "erro": null

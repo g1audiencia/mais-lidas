@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 17:51",
+  "atualizado_em": "03/08/2026 17:57",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cleitinho anuncia que não será candidato ao Governo de MG",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/cleitinho-anuncia-que-nao-sera-candidato-ao-governo-de-minas-gerais.ghtm"
-        },
-        {
-          "rank": 2,
           "title": "Neymar critica lista e pede Ceni e Marcos entre maiores goleiros",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/neymar-cobra-ceni-e-marcos-em-lista-de-maiores-goleiros-da-historia.ghtm"
         },
         {
+          "rank": 2,
+          "title": "PVC: Nota do Flamengo sobre Palmeiras beneficiado põe Brasileirão em risco",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/pvc-raciocinio-e-leviano-ao-criticar-nota-do-flamengo-sobre-o-palmeiras.ghtm"
+        },
+        {
           "rank": 3,
-          "title": "Ator processa CazéTV por comentário em vídeo e pede R$ 120 mil",
-          "url": "https://www.uol.com.br/splash/noticias/2026/08/03/ator-processa-caze-tv-e-pede-r-120-mil-por-danos-morais.ghtm"
+          "title": "Sem Cleitinho, Kalil lidera para o Governo de MG, diz Genial/Quaest",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/sem-cleitinho-kalil-lidera-para-o-governo-de-mg-diz-genialquaest.ghtm"
         },
         {
           "rank": 4,
-          "title": "PF pede a abertura de 3º inquérito contra Lulinha por suspeita de tráfico de influência",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/03/policia-federal-pede-abertura-de-3-inquerito-contra-lulinha.ghtm"
+          "title": "Cleitinho anuncia que não será candidato ao Governo de MG",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/cleitinho-anuncia-que-nao-sera-candidato-ao-governo-de-minas-gerais.ghtm"
         },
         {
           "rank": 5,
-          "title": "PVC: Nota do Flamengo sobre Palmeiras beneficiado põe Brasileirão em risco",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/pvc-raciocinio-e-leviano-ao-criticar-nota-do-flamengo-sobre-o-palmeiras.ghtm"
+          "title": "Ator processa CazéTV por comentário em vídeo e pede R$ 120 mil",
+          "url": "https://www.uol.com.br/splash/noticias/2026/08/03/ator-processa-caze-tv-e-pede-r-120-mil-por-danos-morais.ghtm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
-          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
+          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
+          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
         },
         {
           "rank": 4,
-          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
-          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
+          "title": "Fachin propõe código de ética para Judiciário com regras sobre presentes e eventos",
+          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
         },
         {
           "rank": 5,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
+          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
+          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
         }
       ],
       "erro": null

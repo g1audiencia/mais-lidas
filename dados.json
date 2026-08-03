@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 17:46",
+  "atualizado_em": "03/08/2026 17:51",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "STF tem de aceitar que decisões sejam contestadas pela opinião pública, diz Fachin",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/stf-tem-de-aceitar-que-decisoes-sejam-contestadas-pela-opiniao-publica-diz-fachin.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
         },
         {
+          "rank": 2,
+          "title": "STF tem de aceitar que decisões sejam contestadas pela opinião pública, diz Fachin",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/stf-tem-de-aceitar-que-decisoes-sejam-contestadas-pela-opiniao-publica-diz-fachin.shtml"
+        },
+        {
           "rank": 3,
+          "title": "Patrimônio de Jaques Wagner cresce 630% em oito anos e chega a R$ 24 milhões",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/patrimonio-de-jaques-wagner-cresce-630-em-oito-anos-e-chega-a-r-24-milhoes.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Cleitinho anuncia que não será candidato ao Governo de Minas Gerais",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/cleitinho-anuncia-que-nao-sera-candidato-ao-governo-de-minas-gerais.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Flávio cogita estender busca por vice até o dia 15",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/flavio-cogita-estender-busca-por-vice-ate-o-dia-15.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Brunna Gonçalves processa Alexandre Frota e pede R$ 40 mil por ataques nas redes sociais",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/brunna-goncalves-processa-alexandre-frota-e-pede-r-40-mil-por-ataques-nas-redes-sociais.shtml"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Barrios revelación de CABA: los 6 lugares que se reconvirtieron y hoy son los más buscados para vivir",
-          "url": "https://www.clarin.com/propiedades/barrios-revelacion-caba-6-lugares-reconvirtieron-hoy-buscados-vivir_0_MIXnoDHYRg.html"
+          "title": "Llegó apuñalado al hospital y murió a las pocas horas: detuvieron a su novia",
+          "url": "https://www.clarin.com/policiales/llego-apunalado-hospital-murio-pocas-horas-detuvieron-novia_0_xqBWAxbaml.html"
         },
         {
           "rank": 4,
-          "title": "Murió un matrimonio el día de los 15 de su hija al caer un árbol sobre su camioneta",
-          "url": "https://www.clarin.com/sociedad/murio-matrimonio-dia-15-hija-caer-arbol-camioneta_0_9ZnERNV6pF.html"
+          "title": "Barrios revelación de CABA: los 6 lugares que se reconvirtieron y hoy son los más buscados para vivir",
+          "url": "https://www.clarin.com/propiedades/barrios-revelacion-caba-6-lugares-reconvirtieron-hoy-buscados-vivir_0_MIXnoDHYRg.html"
         },
         {
           "rank": 5,

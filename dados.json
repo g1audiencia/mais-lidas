@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 12:44",
+  "atualizado_em": "03/08/2026 12:50",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
+          "title": "Lula vê dificuldade para ampliar eleitorado, e PT teme 2º turno na eleição",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/lula-ve-dificuldade-para-ampliar-eleitorado-e-pt-teme-2o-turno-na-eleicao.shtml"
         },
         {
           "rank": 5,
-          "title": "Empresas devem emitir notas fiscais com informações da reforma tributária a partir desta segunda",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/08/empresas-devem-emitir-notas-fiscais-com-informacoes-da-reforma-tributaria-a-partir-desta-segunda.shtml"
+          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
-          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 2,
+          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
+          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
+        },
+        {
           "rank": 3,
-          "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
-          "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
+          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
+          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
           "rank": 4,
-          "title": "Alex Stefano erra de novo em Inter x Corinthians pela Copa do Brasil e amplia polêmicas",
-          "url": "https://www.estadao.com.br/esportes/paulo-caravina/alex-stefano-erra-de-novo-em-inter-x-corinthians-e-amplia-polemicas/"
+          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
+          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
         },
         {
           "rank": 5,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
+          "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
+          "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
         }
       ],
       "erro": null

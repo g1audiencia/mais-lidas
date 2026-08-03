@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 03:43",
+  "atualizado_em": "03/08/2026 03:48",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "A chilena declarada desaparecida na era Pinochet e encontrada viva 5 décadas depois",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/a-chilena-declarada-desaparecida-na-era-pinochet-e-encontrada-viva-5-decadas-depois.shtml"
+          "title": "Roberto de Carvalho assume namoro com empresária: 'Saímos oficialmente do armário'",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/roberto-de-carvalho-assume-namoro-com-empresaria-saimos-oficialmente-do-armario.shtml"
         },
         {
           "rank": 2,
-          "title": "Roberto de Carvalho assume namoro com empresária: 'Saímos oficialmente do armário'",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/roberto-de-carvalho-assume-namoro-com-empresaria-saimos-oficialmente-do-armario.shtml"
+          "title": "A chilena declarada desaparecida na era Pinochet e encontrada viva 5 décadas depois",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/a-chilena-declarada-desaparecida-na-era-pinochet-e-encontrada-viva-5-decadas-depois.shtml"
         },
         {
           "rank": 3,
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
+          "title": "Viúvo de Rita Lee posta mais uma foto em Paris com ex-esposa de Fernando Collor",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/viuvo-de-rita-lee-posta-mais-uma-foto-em-paris-com-ex-esposa-de-fernando-collor.shtml"
         },
         {
           "rank": 5,
-          "title": "Da prisão em Nova York, Maduro defende diálogo para consolidar paz na Venezuela",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/da-prisao-em-nova-york-maduro-defende-dialogo-para-consolidar-paz-na-venezuela.shtml"
+          "title": "'Jamais vou ganhar o Nobel': Quem é Marilda Sotomayor, brasileira referência em teoria dos jogos",
+          "url": "https://www1.folha.uol.com.br/ilustrissima/2026/08/jamais-vou-ganhar-o-nobel-quem-e-marilda-sotomayor-brasileira-referencia-em-teoria-dos-jogos.shtml"
         }
       ],
       "erro": null
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Preso nos EUA, Maduro diz que acolhe 'qualquer caminho para o diálogo' na Venezuela",
-          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/02/preso-nos-eua-maduro-diz-que-acolhe-qualquer-caminho-para-o-dialogo-na-venezuela.ghtml"
-        },
-        {
-          "rank": 2,
           "title": "Ele vive sozinho em uma cidade abandonada há mais de 10 anos (e foi isso que ele descobriu)",
           "url": "https://oglobo.globo.com/saude/noticia/2026/08/01/ele-vive-sozinho-em-uma-cidade-abandonada-ha-mais-de-10-anos-e-foi-isso-que-ele-descobriu.ghtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Flávio Bolsonaro afirma que vai aceitar resultado de eleição, mas pede mais 'transparência' em urna eletrônica",
           "url": "https://oglobo.globo.com/politica/noticia/2026/08/02/flavio-bolsonaro-afirma-que-vai-aceitar-resultado-de-eleicao-mas-pede-mais-transparencia-em-urna-eletronica.ghtml"
         },
         {
+          "rank": 3,
+          "title": "Preso nos EUA, Maduro diz que acolhe 'qualquer caminho para o diálogo' na Venezuela",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/02/preso-nos-eua-maduro-diz-que-acolhe-qualquer-caminho-para-o-dialogo-na-venezuela.ghtml"
+        },
+        {
           "rank": 4,
-          "title": "Christiane Torloni fala sobre a peça 'Dois de nós', surfe e 50 anos de carreira: 'Eu não desisti'",
-          "url": "https://oglobo.globo.com/ela/gente/noticia/2026/08/02/christiane-torloni-fala-sobre-a-peca-dois-de-nos-surfe-e-50-anos-de-carreira-eu-nao-desisti.ghtml"
+          "title": "Michelle Bolsonaro: o que é o bloqueio anestésico dos nervos cranianos, procedimento feito pela ex-primeira-dama",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/08/02/michelle-bolsonaro-o-que-e-o-bloqueio-anestesico-dos-nervos-cranianos-procedimento-feito-pela-ex-primeira-dama.ghtml"
         },
         {
           "rank": 5,
-          "title": "Com quem fica a herança quando os filhos tiram os sobrenomes dos pais? Entenda",
-          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/02/com-quem-fica-a-heranca-quando-os-filhos-tiram-os-sobrenomes-dos-pais-entenda.ghtml"
+          "title": "Christiane Torloni fala sobre a peça 'Dois de nós', surfe e 50 anos de carreira: 'Eu não desisti'",
+          "url": "https://oglobo.globo.com/ela/gente/noticia/2026/08/02/christiane-torloni-fala-sobre-a-peca-dois-de-nos-surfe-e-50-anos-de-carreira-eu-nao-desisti.ghtml"
         }
       ],
       "erro": null
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Carro de rico’ virou ‘carne de vaca’",
-          "url": "https://jornaldocarro.estadao.com.br/primeira-classe/carro-de-rico-virou-carne-de-vaca/"
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
           "rank": 2,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 5,

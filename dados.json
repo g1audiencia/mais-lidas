@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 18:30",
+  "atualizado_em": "03/08/2026 18:36",
   "portais": [
     {
       "portal": "Folha",
@@ -35,9 +35,35 @@
     },
     {
       "portal": "UOL",
-      "ok": false,
-      "items": [],
-      "erro": "HTTPSConnectionPool(host='www.uol.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')))"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Sem Cleitinho, Kalil lidera para o Governo de MG, diz Genial/Quaest",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/sem-cleitinho-kalil-lidera-para-o-governo-de-mg-diz-genialquaest.ghtm"
+        },
+        {
+          "rank": 2,
+          "title": "Neymar critica lista e pede Ceni e Marcos entre maiores goleiros",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/neymar-cobra-ceni-e-marcos-em-lista-de-maiores-goleiros-da-historia.ghtm"
+        },
+        {
+          "rank": 3,
+          "title": "PVC: Nota do Flamengo sobre Palmeiras beneficiado põe Brasileirão em risco",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/pvc-raciocinio-e-leviano-ao-criticar-nota-do-flamengo-sobre-o-palmeiras.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "Cleitinho anuncia que não será candidato ao Governo de MG",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/cleitinho-anuncia-que-nao-sera-candidato-ao-governo-de-minas-gerais.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "O que aconteceu com o irmão do senador Cleitinho",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/o-que-aconteceu-com-matheus-azevedo-irmao-do-senador-cleitinho.ghtm"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "CNN Brasil",
@@ -114,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
-          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 3,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
+          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
         },
         {
           "rank": 4,
@@ -129,7 +155,7 @@
         },
         {
           "rank": 5,
-          "title": "Fachin propõe código de ética para Judiciário com regras sobre presentes e eventos",
+          "title": "Fachin apresenta amanhã novo código de ética para juízes; vejas as novas regras",
           "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
         }
       ],

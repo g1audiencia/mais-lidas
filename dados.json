@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 20:00",
+  "atualizado_em": "03/08/2026 20:06",
   "portais": [
     {
       "portal": "Folha",
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Virginia Fonseca revela que filhas passaram por cirurgia nas amígdalas; saiba em que casos o procedimento é indicado",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/08/03/virginia-fonseca-revela-que-filhas-passaram-por-cirurgia-nas-amigdalas-saiba-em-que-casos-o-procedimento-e-indicado.ghtml"
+          "title": "O número que levou Ciro Nogueira a rejeitar coligação com Flávio Bolsonaro",
+          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/08/o-numero-que-levou-ciro-nogueira-a-rejeitar-coligacao-com-flavio-bolsonaro.ghtml"
         },
         {
           "rank": 5,
-          "title": "O número que levou Ciro Nogueira a rejeitar coligação com Flávio Bolsonaro",
-          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/08/o-numero-que-levou-ciro-nogueira-a-rejeitar-coligacao-com-flavio-bolsonaro.ghtml"
+          "title": "Virginia Fonseca revela que filhas passaram por cirurgia nas amígdalas; saiba em que casos o procedimento é indicado",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/08/03/virginia-fonseca-revela-que-filhas-passaram-por-cirurgia-nas-amigdalas-saiba-em-que-casos-o-procedimento-e-indicado.ghtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Fachin apresenta novo código de ética para juízes, mas não para ministros do STF; veja as regras",
-          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
-        },
-        {
-          "rank": 3,
           "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
           "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
         },
         {
+          "rank": 3,
+          "title": "Fachin apresenta novo código de ética para juízes, mas não para ministros do STF; veja as regras",
+          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
+        },
+        {
           "rank": 4,
-          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
-          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 5,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         }
       ],
       "erro": null

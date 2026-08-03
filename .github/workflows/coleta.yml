@@ -10,26 +10,56 @@ permissions:
 jobs:
   coletar:
     runs-on: ubuntu-latest
+    outputs:
+      duplicado: ${{ steps.guarda.outputs.duplicado }}
     steps:
+      - name: Evitar correntes paralelas
+        id: guarda
+        env:
+          GH_TOKEN: ${{ secrets.PAT_RONDA || secrets.GITHUB_TOKEN }}
+        run: |
+          MAIS_ANTIGA=$(curl -s \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/coleta.yml/runs?status=in_progress&per_page=100" \
+            | jq -r '[.workflow_runs[].id] | min // empty')
+
+          echo "Esta execucao: ${{ github.run_id }} | mais antiga em curso: $MAIS_ANTIGA"
+
+          if [ -n "$MAIS_ANTIGA" ] && [ "$MAIS_ANTIGA" != "${{ github.run_id }}" ]; then
+            echo "Ja existe uma corrente mais antiga rodando. Esta encerra aqui."
+            echo "duplicado=true" >> $GITHUB_OUTPUT
+          else
+            echo "duplicado=false" >> $GITHUB_OUTPUT
+          fi
+
       - uses: actions/checkout@v4
+        if: steps.guarda.outputs.duplicado != 'true'
       - uses: actions/setup-python@v5
+        if: steps.guarda.outputs.duplicado != 'true'
         with:
           python-version: '3.12'
       - name: Instalar dependências
+        if: steps.guarda.outputs.duplicado != 'true'
         run: pip install requests beautifulsoup4
       - name: Rodar coleta
+        if: steps.guarda.outputs.duplicado != 'true'
         run: python coletar.py
       - name: Salvar dados.json
+        if: steps.guarda.outputs.duplicado != 'true'
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add dados.json
           git commit -m "Atualiza dados $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "sem mudancas"
+          git pull --rebase origin main || true
           git push
 
   reagendar:
     needs: coletar
-    if: always()
+    # Continua a corrente mesmo se a coleta falhar,
+    # mas NAO continua se esta execucao era uma corrente duplicada.
+    if: always() && needs.coletar.outputs.duplicado != 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Esperar 5 minutos e disparar de novo

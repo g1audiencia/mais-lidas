@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 09:15",
+  "atualizado_em": "03/08/2026 09:21",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Índia acelera plano para cercar a China no Indo-Pacífico",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/india-acelera-plano-para-cercar-a-china-no-indo-pacifico.shtml"
+          "title": "Filtro de processos inspirado no STF promete desafogar STJ e preocupa advogados",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/filtro-de-processos-inspirado-no-stf-promete-desafogar-stj-e-preocupa-advogados.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
-          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 2,
+          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
+          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
+        },
+        {
           "rank": 3,
-          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 4,
-          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
-          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
+          "title": "Alex Stefano erra de novo em Inter x Corinthians pela Copa do Brasil e amplia polêmicas",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/alex-stefano-erra-de-novo-em-inter-x-corinthians-e-amplia-polemicas/"
         },
         {
           "rank": 5,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
         }
       ],
       "erro": null

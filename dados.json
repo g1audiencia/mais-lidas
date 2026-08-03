@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 16:10",
+  "atualizado_em": "03/08/2026 16:16",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Proposta de Fachin contra conflito de interesses prevê regras sobre eventos, presentes e familiares",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/proposta-de-fachin-contra-conflito-de-interesses-preve-regras-sobre-eventos-presentes-e-familiares.shtml"
+          "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
         },
         {
           "rank": 3,
-          "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
+          "title": "Proposta de Fachin contra conflito de interesses prevê regras sobre eventos, presentes e familiares",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/proposta-de-fachin-contra-conflito-de-interesses-preve-regras-sobre-eventos-presentes-e-familiares.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Rafael Cardoso relata luta contra dependência após internação: 'Achei que iria morrer sozinho'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/rafael-cardoso-relata-luta-contra-dependencia-apos-internacao-achei-que-iria-morrer-sozinho.shtml"
+          "title": "STF tem de aceitar que decisões sejam contestadas pela opinião pública, diz Fachin",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/stf-tem-de-aceitar-que-decisoes-sejam-contestadas-pela-opiniao-publica-diz-fachin.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
+          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
+        },
+        {
+          "rank": 4,
           "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
-          "rank": 4,
-          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
-        },
-        {
           "rank": 5,
-          "title": "Trump blefou de novo. Como isso beneficia a estratégia do Irã na guerra?",
-          "url": "https://www.estadao.com.br/internacional/trump-blefou-de-novo-como-isso-beneficia-a-estrategia-do-ira-na-guerra/"
+          "title": "Sessões de retorno das atividades do STF e do TSE serão novo capítulo na tensão entre as Cortes",
+          "url": "https://www.estadao.com.br/politica/sessoes-de-retorno-das-atividades-do-stf-e-do-tse-serao-novo-capitulo-na-tensao-entre-as-cortes/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Senate leaders reach funding deal to avoid shutdown during campaign season",
-          "url": "https://apnews.com/article/government-shutdown-deal-funding-recess-081d1e1e72cb717243c2e51d17bace7a"
+          "title": "Trump says new talks are Iran’s ‘last chance’ to make a deal",
+          "url": "https://apnews.com/live/trump-news-blanche-iran-updates-08-03-2026"
         }
       ],
       "erro": null

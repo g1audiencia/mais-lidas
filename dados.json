@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 19:15",
+  "atualizado_em": "03/08/2026 19:21",
   "portais": [
     {
       "portal": "Folha",
@@ -17,8 +17,8 @@
         },
         {
           "rank": 3,
-          "title": "STF tem de aceitar que decisões sejam contestadas pela opinião pública, diz Fachin",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/stf-tem-de-aceitar-que-decisoes-sejam-contestadas-pela-opiniao-publica-diz-fachin.shtml"
+          "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
+          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Cleitinho anuncia que não será candidato ao Governo de Minas Gerais",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/cleitinho-anuncia-que-nao-sera-candidato-ao-governo-de-minas-gerais.shtml"
+          "title": "STF tem de aceitar que decisões sejam contestadas pela opinião pública, diz Fachin",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/stf-tem-de-aceitar-que-decisoes-sejam-contestadas-pela-opiniao-publica-diz-fachin.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Fachin apresenta amanhã novo código de ética para juízes; vejas as novas regras",
-          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
-        },
-        {
-          "rank": 4,
           "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
           "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "QG de Lula teme alto índice de abstenção e presidente chama Durigan para reduzir ruídos com mercado",
           "url": "https://www.estadao.com.br/politica/qg-de-lula-teme-alto-indice-de-abstencao-e-presidente-chama-durigan-para-reduzir-ruidos-com-mercado/"
+        },
+        {
+          "rank": 5,
+          "title": "Fachin apresenta amanhã novo código de ética para juízes; vejas as novas regras",
+          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
+          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
+          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
+        },
+        {
+          "rank": 3,
           "title": "\"Abucheos en todos los estadios\": los hinchas del Chelsea cuestionan el fichaje de Valentín Barco y recuerdan el golpe de Bellingham en el Mundial",
           "url": "https://www.clarin.com/deportes/abucheos-estadios-hinchas-chelsea-cuestionan-fichaje-valentin-barco-recuerdan-golpe-bellingham-mundial_0_oBO9vtLxP4.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "El mensaje de Quintela a los inversores si el peronismo vuelve al poder: \"Lo que sea necesario expropiar, lo vamos a expropiar\"",
           "url": "https://www.clarin.com/politica/mensaje-quintela-inversores-peronismo-vuelve-poder-necesario-expropiar-vamos-expropiar_0_nN3jIHxOGc.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Wanda Nara enfrentó las críticas a su cuerpo, tras la viralización de fotos en bikini: \"Es Photoshop de trolls pagos\"",
           "url": "https://www.clarin.com/fama/wanda-nara-enfrento-criticas-cuerpo-viralizacion-fotos-bikini-photoshop-trolls-pagos_0_E22GNimHfx.html"
-        },
-        {
-          "rank": 5,
-          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
-          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
         }
       ],
       "erro": null

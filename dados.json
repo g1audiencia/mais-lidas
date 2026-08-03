@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 10:50",
+  "atualizado_em": "03/08/2026 10:56",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
-          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
-        },
-        {
-          "rank": 2,
           "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
           "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
           "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
+        },
+        {
+          "rank": 3,
+          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
         },
         {
           "rank": 4,
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "Encontraron muerta en un descampado de Pilar a una mujer que había desaparecido cuando salió a trabajar",
-          "url": "https://www.clarin.com/policiales/encontraron-muerta-descampado-pilar-mujer-desaparecido-salio-trabajar_0_Nt4Az0P2gb.html"
+          "title": "Murió un matrimonio el día de los 15 de su hija al caer un árbol sobre su camioneta",
+          "url": "https://www.clarin.com/sociedad/murio-matrimonio-dia-15-hija-caer-arbol-camioneta_0_9ZnERNV6pF.html"
         },
         {
           "rank": 3,
-          "title": "Qué reveló la primera autopsia de Mailén, la joven asesinada en una playa de Mar del Plata",
-          "url": "https://www.clarin.com/sociedad/dijo-primera-autopsia-mailen-joven-asesinada-playa-mar-plata_0_jKu9wJc9jC.html"
+          "title": "Encontraron muerta en un descampado de Pilar a una mujer que había desaparecido cuando salió a trabajar",
+          "url": "https://www.clarin.com/policiales/encontraron-muerta-descampado-pilar-mujer-desaparecido-salio-trabajar_0_Nt4Az0P2gb.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Murió un matrimonio el día de los 15 de su hija al caer un árbol sobre su camioneta",
-          "url": "https://www.clarin.com/sociedad/murio-matrimonio-dia-15-hija-caer-arbol-camioneta_0_9ZnERNV6pF.html"
+          "title": "Qué reveló la primera autopsia de Mailén, la joven asesinada en una playa de Mar del Plata",
+          "url": "https://www.clarin.com/sociedad/dijo-primera-autopsia-mailen-joven-asesinada-playa-mar-plata_0_jKu9wJc9jC.html"
         }
       ],
       "erro": null

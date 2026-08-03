@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 10:39",
+  "atualizado_em": "03/08/2026 10:44",
   "portais": [
     {
       "portal": "Folha",
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
-          "title": "\"Ladrão\": Milei volta a criticar Lula em meio a tensões diplomáticas",
-          "url": "https://www.cnnbrasil.com.br/internacional/ladrao-milei-volta-a-criticar-lula-em-meio-a-tensoes-diplomaticas/"
-        },
-        {
-          "rank": 3,
           "title": "Goleiro Vozinha é recebido por multidão no Chile: \"Agradeço por me esperar\"",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/goleiro-vozinha-e-recebido-por-multidao-no-chile-agradeco-por-me-esperar/"
         },
         {
+          "rank": 3,
+          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
+        },
+        {
           "rank": 4,
-          "title": "Novo \"Homem-Aranha\" bate quase US$ 1 bilhão em bilheteria na estreia",
-          "url": "https://www.cnnbrasil.com.br/pop/cinema/novo-homem-aranha-bate-quase-1-bilhao-em-bilheteria-em-1o-fim-de-semana/"
+          "title": "\"Ladrão\": Milei volta a criticar Lula em meio a tensões diplomáticas",
+          "url": "https://www.cnnbrasil.com.br/internacional/ladrao-milei-volta-a-criticar-lula-em-meio-a-tensoes-diplomaticas/"
         },
         {
           "rank": 5,
-          "title": "Após cancelar ataque, Trump diz que negociará com o Irã na segunda (3)",
-          "url": "https://www.cnnbrasil.com.br/internacional/apos-cancelar-ataque-trump-diz-que-negociara-com-o-ira-na-segunda-3/"
+          "title": "Novo \"Homem-Aranha\" bate quase US$ 1 bilhão em bilheteria na estreia",
+          "url": "https://www.cnnbrasil.com.br/pop/cinema/novo-homem-aranha-bate-quase-1-bilhao-em-bilheteria-em-1o-fim-de-semana/"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
-        },
-        {
-          "rank": 4,
           "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
           "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
         },
         {
+          "rank": 4,
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+        },
+        {
           "rank": 5,
-          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
-          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "Blanche rescinds fund for Trump allies after GOP senators threaten to block his attorney general bid",
+          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
+        },
+        {
+          "rank": 4,
           "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
           "url": "https://apnews.com/article/twin-falls-idaho-shooting-fast-food-restaurant-2b1104d872124c2733faec0ddb89ffc4"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says",
           "url": "https://apnews.com/article/shooting-idaho-twin-falls-15be31e5c532e7dfe4b7108d83dd47be"
-        },
-        {
-          "rank": 5,
-          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
-          "url": "https://apnews.com/article/spain-ceuta-morocco-migration-border-vox-9960b15a7cf31a0592b09ac47a8eac3f"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
-          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
+          "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+          "url": "https://www.bbc.com/news/articles/c3r0vg88zr2o"
         },
         {
           "rank": 5,
-          "title": "Iran denies Trump's claim that new talks will begin on Monday",
-          "url": "https://www.bbc.com/news/articles/c23579jzv08o"
+          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
+          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
         }
       ],
       "erro": null

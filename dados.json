@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 01:50",
+  "atualizado_em": "03/08/2026 01:55",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 3,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
+          "rank": 3,
+          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
+        },
+        {
           "rank": 4,
-          "title": "Trump diz que novas negociações com Irã serão iniciadas nesta segunda-feira",
-          "url": "https://www.estadao.com.br/internacional/trump-diz-que-novas-negociacoes-com-ira-serao-iniciadas-nesta-segunda-feira/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 5,
-          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+          "title": "Em convenção, trunfos de Lula tornam-se também suas contradições",
+          "url": "https://www.estadao.com.br/politica/diogo-schelp/em-convencao-trunfos-de-lula-tornam-se-tambem-suas-contradicoes/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 03:04",
+  "atualizado_em": "03/08/2026 03:10",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Urban 150 aumenta de preço, mas vale a pena? | Mobilidade Estadão | Mercado, MotoMotor, Scooters",
+          "url": "https://mobilidade.estadao.com.br/meios-de-transporte/shineray-urban-150-custa-mais-mas-ainda-vale-a-pena/"
+        },
+        {
+          "rank": 2,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
-          "rank": 2,
-          "title": "Milei volta a chamar Lula de ‘ladrão’ e ‘corrupto’",
-          "url": "https://www.estadao.com.br/internacional/milei-volta-a-chamar-lula-de-ladrao-e-corrupto-npr/"
-        },
-        {
           "rank": 3,
-          "title": "Podemos define em três dias se Renata Abreu será vice de Flávio ou mantém neutralidade",
-          "url": "https://www.estadao.com.br/politica/podemos-define-em-tres-dias-se-renata-abreu-sera-vice-de-flavio-ou-mantem-neutralidade/"
+          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
         },
         {
           "rank": 4,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Veja 6 vegetais que ficam ainda mais nutritivos na AirFryer",
+          "url": "https://www.estadao.com.br/saude/veja-6-vegetais-que-ficam-ainda-mais-nutritivos-na-airfryer-nprm/"
         },
         {
           "rank": 5,
-          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         }
       ],
       "erro": null

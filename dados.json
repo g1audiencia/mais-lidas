@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 13:23",
+  "atualizado_em": "03/08/2026 13:29",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
+          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
+        },
+        {
+          "rank": 4,
           "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
           "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
-          "rank": 5,
-          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lulinha pede que PF e MJ apurem vazamento de dados sigilosos",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/lulinha-pede-que-pf-e-mj-apurem-vazamento-de-dados-sigilosos"
+          "title": "Condenado e foragido há três anos, coronel da PMDF recebe salário de R$ 25 mil",
+          "url": "https://www.metropoles.com/distrito-federal/condenado-e-foragido-coronel-da-pmdf-recebia-salario-de-r-25-mil"
         },
         {
           "rank": 2,
-          "title": "Nikolas repercute teorias antivacina após Fauci se calar sobre Covid",
-          "url": "https://www.metropoles.com/minas-gerais/nikolas-repercute-teorias-antivacina-apos-fauci-se-calar-sobre-covid"
+          "title": "Tráfico de influência: PF pede ao STF novo inquérito contra Lulinha",
+          "url": "https://www.metropoles.com/brasil/trafico-de-influencia-pf-pede-ao-stf-novo-inquerito-contra-lulinha"
         },
         {
           "rank": 3,
-          "title": "STF completa 14 anos sem julgar ação de R$ 3 bilhões sobre cartórios",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/acao-cartorio-bahia-stf-14-sem-julgamento-arrecadacao"
+          "title": "Nikolas repercute teorias antivacina após Fauci se calar sobre Covid",
+          "url": "https://www.metropoles.com/minas-gerais/nikolas-repercute-teorias-antivacina-apos-fauci-se-calar-sobre-covid"
         }
       ],
       "erro": null
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
+          "title": "What are the 'luteal uglies'? And how they're affecting women",
+          "url": "https://www.bbc.com/news/articles/cy0jk6wjkn0o"
         },
         {
           "rank": 5,
-          "title": "What are the 'luteal uglies'? And how they're affecting women",
-          "url": "https://www.bbc.com/news/articles/cy0jk6wjkn0o"
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
         }
       ],
       "erro": null

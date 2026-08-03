@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 23:15",
+  "atualizado_em": "02/08/2026 23:20",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "A chilena declarada desaparecida na era Pinochet e encontrada viva 5 décadas depois",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/a-chilena-declarada-desaparecida-na-era-pinochet-e-encontrada-viva-5-decadas-depois.shtml"
+          "title": "Roberto de Carvalho assume namoro com empresária: 'Saímos oficialmente do armário'",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/roberto-de-carvalho-assume-namoro-com-empresaria-saimos-oficialmente-do-armario.shtml"
         },
         {
           "rank": 2,
-          "title": "Roberto de Carvalho assume namoro com empresária: 'Saímos oficialmente do armário'",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/roberto-de-carvalho-assume-namoro-com-empresaria-saimos-oficialmente-do-armario.shtml"
+          "title": "A chilena declarada desaparecida na era Pinochet e encontrada viva 5 décadas depois",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/a-chilena-declarada-desaparecida-na-era-pinochet-e-encontrada-viva-5-decadas-depois.shtml"
         },
         {
           "rank": 3,
@@ -113,13 +113,13 @@
         },
         {
           "rank": 3,
-          "title": "Caramelos sem casa: a dura vida dos cachorros que vivem às margens da sociedade humana, entre a mata e a cidade",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/08/02/caramelos-sem-casa-a-dura-vida-dos-cachorros-que-vivem-as-margens-da-sociedade-humana-entre-a-mata-e-a-cidade.ghtml"
+          "title": "Com quem fica a herança quando os filhos tiram os sobrenomes dos pais? Entenda",
+          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/02/com-quem-fica-a-heranca-quando-os-filhos-tiram-os-sobrenomes-dos-pais-entenda.ghtml"
         },
         {
           "rank": 4,
-          "title": "Com quem fica a herança quando os filhos tiram os sobrenomes dos pais? Entenda",
-          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/02/com-quem-fica-a-heranca-quando-os-filhos-tiram-os-sobrenomes-dos-pais-entenda.ghtml"
+          "title": "Caramelos sem casa: a dura vida dos cachorros que vivem às margens da sociedade humana, entre a mata e a cidade",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/08/02/caramelos-sem-casa-a-dura-vida-dos-cachorros-que-vivem-as-margens-da-sociedade-humana-entre-a-mata-e-a-cidade.ghtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
-        },
-        {
-          "rank": 3,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 3,
+          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
+          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+        },
+        {
           "rank": 4,
-          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
           "rank": 5,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
+          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
         }
       ],
       "erro": null

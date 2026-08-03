@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 09:26",
+  "atualizado_em": "03/08/2026 09:32",
   "portais": [
     {
       "portal": "Folha",
@@ -54,13 +54,13 @@
         },
         {
           "rank": 4,
-          "title": "Polícia do CE apura morte após bullying e transferência negada em colégio militar",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/03/policia-apura-morte-apos-bullying-e-transferencia-negada-em-colegio-militar.htm"
+          "title": "Funcionários morreram em shopping do Japão após ordem para guardar dinheiro",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/03/empresa-pede-desculpas-apos-funcionarios-morrerem-em-explosao-em-shopping-no-japao.ghtm"
         },
         {
           "rank": 5,
-          "title": "Como acabar com as traças em casa: métodos simples para afastar os insetos",
-          "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/08/03/como-acabar-com-as-tracas-em-casa-metodos-simples-para-afastar-os-insetos.ghtm"
+          "title": "Polícia do CE apura morte após bullying e transferência negada em colégio militar",
+          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/03/policia-apura-morte-apos-bullying-e-transferencia-negada-em-colegio-militar.htm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
-        },
-        {
-          "rank": 4,
           "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
           "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
         },
         {
+          "rank": 4,
+          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
+          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
+        },
+        {
           "rank": 5,
-          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
-          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
+          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
+          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
         }
       ],
       "erro": null
@@ -226,11 +226,16 @@
         },
         {
           "rank": 2,
+          "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
+          "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
+        },
+        {
+          "rank": 3,
           "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says",
           "url": "https://apnews.com/article/shooting-idaho-twin-falls-15be31e5c532e7dfe4b7108d83dd47be"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
           "url": "https://apnews.com/article/spain-ceuta-morocco-migration-border-vox-9960b15a7cf31a0592b09ac47a8eac3f"
         }

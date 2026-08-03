@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 14:08",
+  "atualizado_em": "03/08/2026 14:14",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
-        },
-        {
-          "rank": 4,
           "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
           "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
         },
         {
+          "rank": 4,
+          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
+          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
+        },
+        {
           "rank": 5,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+          "title": "Trump blefou de novo. Como isso beneficia a estratégia do Irã na guerra?",
+          "url": "https://www.estadao.com.br/internacional/trump-blefou-de-novo-como-isso-beneficia-a-estrategia-do-ira-na-guerra/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Washington state wildfires force 60,000 people to evacuate homes",
-          "url": "https://www.bbc.com/news/articles/c3046g80yj7o"
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
         },
         {
           "rank": 4,
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
+          "title": "Washington state wildfires force 60,000 people to evacuate homes",
+          "url": "https://www.bbc.com/news/articles/c3046g80yj7o"
         },
         {
           "rank": 5,

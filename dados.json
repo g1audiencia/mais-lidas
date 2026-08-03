@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 00:10",
+  "atualizado_em": "03/08/2026 00:16",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
-          "rank": 2,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
+          "rank": 2,
+          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
+          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
+        },
+        {
           "rank": 3,
-          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 4,
@@ -285,13 +285,13 @@
         },
         {
           "rank": 3,
-          "title": "Grietas en el blindaje electoral de Milei y la bomba de tiempo que nadie desactiva",
-          "url": "https://www.clarin.com/opinion/grietas-blindaje-electoral-milei-bomba-tiempo-nadie-desactiva_0_bXEyfUTBlW.html"
+          "title": "Femicidio en Mar del Plata: la familia de Mailén sospecha que el remisero que la llevó a la entrevista pudo haber sido el entregador",
+          "url": "https://www.clarin.com/sociedad/femicidio-mar-plata-familia-mailen-sospecha-remisero-llevo-entrevista-pudo-entregador_0_Or7e2tj9KD.html"
         },
         {
           "rank": 4,
-          "title": "Femicidio en Mar del Plata: la familia de Mailén sospecha que el remisero que la llevó a la entrevista pudo haber sido el entregador",
-          "url": "https://www.clarin.com/sociedad/femicidio-mar-plata-familia-mailen-sospecha-remisero-llevo-entrevista-pudo-entregador_0_Or7e2tj9KD.html"
+          "title": "Grietas en el blindaje electoral de Milei y la bomba de tiempo que nadie desactiva",
+          "url": "https://www.clarin.com/opinion/grietas-blindaje-electoral-milei-bomba-tiempo-nadie-desactiva_0_bXEyfUTBlW.html"
         },
         {
           "rank": 5,

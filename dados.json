@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 10:33",
+  "atualizado_em": "03/08/2026 10:39",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
-          "rank": 2,
           "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
           "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
         },
         {
+          "rank": 2,
+          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
+          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
+        },
+        {
           "rank": 3,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
+          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
+          "title": "Encontraron muerta en un descampado de Pilar a una mujer que había desaparecido cuando salió a trabajar",
+          "url": "https://www.clarin.com/policiales/encontraron-muerta-descampado-pilar-mujer-desaparecido-salio-trabajar_0_Nt4Az0P2gb.html"
+        },
+        {
+          "rank": 3,
           "title": "Qué reveló la primera autopsia de Mailén, la joven asesinada en una playa de Mar del Plata",
           "url": "https://www.clarin.com/sociedad/dijo-primera-autopsia-mailen-joven-asesinada-playa-mar-plata_0_jKu9wJc9jC.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Giro en el Senado: por qué la Rosada cede y acepta retocar la polémica ley de tierras",
           "url": "https://www.clarin.com/politica/giro-senado-rosada-cede-acepta-retocar-polemica-ley-tierras_0_j9Mha6AIu4.html"
         },
         {
-          "rank": 4,
-          "title": "Caos en Panamericana: un hombre fue atropellado a la altura de Márquez y hay fuertes demoras para llegar a la Ciudad de Buenos Aires",
-          "url": "https://www.clarin.com/ciudades/caos-panamericana-hombre-atropellado-altura-marquez-fuertes-demoras-llegar-ciudad-buenos-aires_0_ZMzPGdn3uy.html"
-        },
-        {
           "rank": 5,
-          "title": "Encuestas: el 59% dice que la está pasando mal, pero Milei mantiene una leve ventaja para 2027",
-          "url": "https://www.clarin.com/politica/encuestas-59-dice-pasando-mal-milei-mantiene-leve-ventaja-2027_0_mPBc1Zm6ib.html"
+          "title": "Murió un matrimonio el día de los 15 de su hija al caer un árbol sobre su camioneta",
+          "url": "https://www.clarin.com/sociedad/murio-matrimonio-dia-15-hija-caer-arbol-camioneta_0_9ZnERNV6pF.html"
         }
       ],
       "erro": null

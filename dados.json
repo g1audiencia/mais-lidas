@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 04:00",
+  "atualizado_em": "03/08/2026 04:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
-        },
-        {
-          "rank": 2,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
-        },
-        {
-          "rank": 3,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
+          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+        },
+        {
+          "rank": 3,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
+          "rank": 4,
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+        },
+        {
           "rank": 5,
-          "title": "Flávio Bolsonaro anuncia candidatura de Michelle ao Senado mesmo sem presença de ex-primeira-dama",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-anuncia-candidatura-de-michelle-ao-senado-mesmo-sem-presenca-de-ex-primeira-dama/"
+          "title": "Fugindo do debate",
+          "url": "https://www.estadao.com.br/opiniao/fugindo-do-debate/"
         }
       ],
       "erro": null

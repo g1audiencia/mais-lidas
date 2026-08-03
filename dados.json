@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 10:00",
+  "atualizado_em": "03/08/2026 10:05",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
-          "title": "O que explica queda de 10 pontos na aprovação de Tarcísio entre mulheres",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/o-que-explica-queda-de-10-pontos-na-aprovacao-de-tarcisio-entre-as-mulheres.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Como River Plate criou uma 'máquina de fazer dinheiro' para peitar Fla e companhia",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/como-river-plate-criou-maquina-de-fazer-dinheiro-para-peitar-brasileiros.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Funcionários morreram em shopping do Japão após ordem para guardar dinheiro",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/03/empresa-pede-desculpas-apos-funcionarios-morrerem-em-explosao-em-shopping-no-japao.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "O que explica queda de 10 pontos na aprovação de Tarcísio entre mulheres",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/o-que-explica-queda-de-10-pontos-na-aprovacao-de-tarcisio-entre-as-mulheres.ghtm"
         },
         {
           "rank": 5,
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Novo \"Homem-Aranha\" bate quase US$ 1 bilhão em bilheteria na estreia",
-          "url": "https://www.cnnbrasil.com.br/pop/cinema/novo-homem-aranha-bate-quase-1-bilhao-em-bilheteria-em-1o-fim-de-semana/"
+          "title": "Goleiro Vozinha é recebido por multidão no Chile: \"Agradeço por me esperar\"",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/goleiro-vozinha-e-recebido-por-multidao-no-chile-agradeco-por-me-esperar/"
         },
         {
           "rank": 4,
-          "title": "Flávio diz que aceitará resultado das urnas e defende que preso trabalhe",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-aceitara-resultado-das-urnas-e-defende-que-preso-trabalhe/"
+          "title": "Novo \"Homem-Aranha\" bate quase US$ 1 bilhão em bilheteria na estreia",
+          "url": "https://www.cnnbrasil.com.br/pop/cinema/novo-homem-aranha-bate-quase-1-bilhao-em-bilheteria-em-1o-fim-de-semana/"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
+          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
+          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
         },
         {
           "rank": 4,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+          "title": "Alex Stefano erra de novo em Inter x Corinthians pela Copa do Brasil e amplia polêmicas",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/alex-stefano-erra-de-novo-em-inter-x-corinthians-e-amplia-polemicas/"
         },
         {
           "rank": 5,
-          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
+          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
         }
       ],
       "erro": null

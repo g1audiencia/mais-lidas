@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 03:32",
+  "atualizado_em": "03/08/2026 03:37",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Agência de Comunicação",
+          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/releases/releases-geral/presente-do-pai-primeira-vez-no-mundo-menino-de-seis-anos-e-o-primeiro-paciente-a-receber-um-transplante-de-figado-com-uma-unica-incisao-robotica/"
+        },
+        {
+          "rank": 2,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
-          "rank": 2,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
-        },
-        {
           "rank": 3,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
+          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
         },
         {
           "rank": 4,
-          "title": "Temporada de balanços do 2T26: Petrobras, Itaú, Bradesco e Magalu divulgam resultados nesta semana",
-          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/temporada-de-balancos-do-2t26-petrobras-itau-bradesco-e-magalu-divulgam-resultados-nesta-semana/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         },
         {
           "rank": 5,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Fugindo do debate",
+          "url": "https://www.estadao.com.br/opiniao/fugindo-do-debate/"
         }
       ],
       "erro": null

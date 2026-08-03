@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 01:44",
+  "atualizado_em": "03/08/2026 01:50",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "'Jamais vou ganhar o Nobel': Quem é Marilda Sotomayor, brasileira referência em teoria dos jogos",
-          "url": "https://www1.folha.uol.com.br/ilustrissima/2026/08/jamais-vou-ganhar-o-nobel-quem-e-marilda-sotomayor-brasileira-referencia-em-teoria-dos-jogos.shtml"
+          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
-        },
-        {
-          "rank": 2,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 2,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
           "rank": 3,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
+          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
           "rank": 4,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
+          "title": "Trump diz que novas negociações com Irã serão iniciadas nesta segunda-feira",
+          "url": "https://www.estadao.com.br/internacional/trump-diz-que-novas-negociacoes-com-ira-serao-iniciadas-nesta-segunda-feira/"
         },
         {
           "rank": 5,
-          "title": "Dá para confiar no IPCA, o índice que mede a inflação?",
-          "url": "https://www.estadao.com.br/ciencia/frankito-o-curioso/da-para-confiar-no-ipca-o-indice-que-mede-a-inflacao/"
+          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
         }
       ],
       "erro": null
@@ -238,6 +238,11 @@
           "rank": 4,
           "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
           "url": "https://apnews.com/article/iran-war-trump-saudi-crown-prince-call-814164417aa284dc8a6d34ac22ea1a8e"
+        },
+        {
+          "rank": 5,
+          "title": "Ken Martin hunkers down at the Democratic National Committee as a storm gathers around party leader",
+          "url": "https://apnews.com/article/democratic-national-committee-trump-martin-omalley-midterms-e5825eaff55dd197a89c6aaf9639f1fe"
         }
       ],
       "erro": null

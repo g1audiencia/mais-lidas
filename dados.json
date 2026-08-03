@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 04:28",
+  "atualizado_em": "03/08/2026 04:34",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Roberto de Carvalho assume namoro com empresária: 'Saímos oficialmente do armário'",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/roberto-de-carvalho-assume-namoro-com-empresaria-saimos-oficialmente-do-armario.shtml"
+          "title": "A chilena declarada desaparecida na era Pinochet e encontrada viva 5 décadas depois",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/a-chilena-declarada-desaparecida-na-era-pinochet-e-encontrada-viva-5-decadas-depois.shtml"
         },
         {
           "rank": 2,
-          "title": "A chilena declarada desaparecida na era Pinochet e encontrada viva 5 décadas depois",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/a-chilena-declarada-desaparecida-na-era-pinochet-e-encontrada-viva-5-decadas-depois.shtml"
+          "title": "Roberto de Carvalho assume namoro com empresária: 'Saímos oficialmente do armário'",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/roberto-de-carvalho-assume-namoro-com-empresaria-saimos-oficialmente-do-armario.shtml"
         },
         {
           "rank": 3,
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Fugindo do debate",
-          "url": "https://www.estadao.com.br/opiniao/fugindo-do-debate/"
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
           "rank": 4,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+          "title": "Podemos define em três dias se Renata Abreu será vice de Flávio ou mantém neutralidade",
+          "url": "https://www.estadao.com.br/politica/podemos-define-em-tres-dias-se-renata-abreu-sera-vice-de-flavio-ou-mantem-neutralidade/"
         },
         {
           "rank": 5,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "O poder e a responsabilidade",
+          "url": "https://www.estadao.com.br/opiniao/o-poder-e-a-responsabilidade/"
         }
       ],
       "erro": null

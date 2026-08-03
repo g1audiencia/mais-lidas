@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 17:23",
+  "atualizado_em": "03/08/2026 17:29",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
-          "rank": 2,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 2,
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+        },
+        {
           "rank": 3,
-          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
-          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
+          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
+          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
+          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
+          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
         },
         {
           "rank": 4,
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
+          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
         },
         {
           "rank": 5,

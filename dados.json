@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 14:14",
+  "atualizado_em": "03/08/2026 14:19",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Rafael Cardoso relata luta contra dependência após internação: 'Achei que iria morrer sozinho'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/rafael-cardoso-relata-luta-contra-dependencia-apos-internacao-achei-que-iria-morrer-sozinho.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Dívida pública em alta vai exigir negociação de medidas logo após as eleições",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/08/divida-publica-em-alta-vai-exigir-negociacao-de-medidas-logo-apos-as-eleicoes.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Lula vê dificuldade para ampliar eleitorado, e PT teme 2º turno na eleição",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/lula-ve-dificuldade-para-ampliar-eleitorado-e-pt-teme-2o-turno-na-eleicao.shtml"
         },
         {
+          "rank": 2,
+          "title": "Rafael Cardoso relata luta contra dependência após internação: 'Achei que iria morrer sozinho'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/rafael-cardoso-relata-luta-contra-dependencia-apos-internacao-achei-que-iria-morrer-sozinho.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Dívida pública em alta vai exigir negociação de medidas logo após as eleições",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/divida-publica-em-alta-vai-exigir-negociacao-de-medidas-logo-apos-as-eleicoes.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
-          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
+          "title": "Silvia Buarque fala de novo câncer no seio e dupla mastectomia",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/silvia-buarque-fala-de-tratamento-contra-novo-cancer-e-diz-que-quer-ser-farol-para-mulheres.shtml"
         },
         {
           "rank": 5,
-          "title": "Brunna Gonçalves processa Alexandre Frota e pede R$ 40 mil por ataques nas redes sociais",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/brunna-goncalves-processa-alexandre-frota-e-pede-r-40-mil-por-ataques-nas-redes-sociais.shtml"
+          "title": "Acervo de Jô Soares é doado para bazar beneficente do Retiro dos Artistas",
+          "url": "https://f5.folha.uol.com.br/voceviu/2026/08/acervo-de-jo-soares-e-doado-para-bazar-beneficente-do-retiro-dos-artistas.shtml"
         }
       ],
       "erro": null
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump blefou de novo. Como isso beneficia a estratégia do Irã na guerra?",
-          "url": "https://www.estadao.com.br/internacional/trump-blefou-de-novo-como-isso-beneficia-a-estrategia-do-ira-na-guerra/"
+          "title": "Lula tem 46% e Flávio Bolsonaro 45% em cenário de 2º turno, mostra pesquisa BTG/Nexus",
+          "url": "https://www.estadao.com.br/politica/lula-tem-46-e-flavio-bolsonaro-45-em-cenario-de-2-turno-mostra-pesquisa-btgnexus/"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Giro en el Senado: por qué la Rosada cede y acepta retocar la polémica ley de tierras",
-          "url": "https://www.clarin.com/politica/giro-senado-rosada-cede-acepta-retocar-polemica-ley-tierras_0_j9Mha6AIu4.html"
+          "title": "Robaron un auto y quedaron grabados por una cámara interna: nervios, un arma cargada y una alarma que no paraba de sonar",
+          "url": "https://www.clarin.com/policiales/robaron-auto-quedaron-grabados-camara-interna-nervios-arma-cargada-alarma-paraba-sonar_0_Rswuavzjie.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 07:52",
+  "atualizado_em": "03/08/2026 07:57",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Virginia anuncia afastamento das redes após filhas passarem por cirurgia",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-anuncia-afastamento-das-redes-apos-filhas-passarem-por-cirurgia/"
+          "title": "Flávio diz que aceitará resultado das urnas e defende que preso trabalhe",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-aceitara-resultado-das-urnas-e-defende-que-preso-trabalhe/"
         },
         {
           "rank": 5,
-          "title": "Flávio diz que aceitará resultado das urnas e defende que preso trabalhe",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-aceitara-resultado-das-urnas-e-defende-que-preso-trabalhe/"
+          "title": "Virginia anuncia afastamento das redes após filhas passarem por cirurgia",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-anuncia-afastamento-das-redes-apos-filhas-passarem-por-cirurgia/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
+        },
+        {
+          "rank": 2,
           "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
           "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
         },
         {
-          "rank": 2,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "rank": 3,
+          "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
+          "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
-          "rank": 4,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
-        },
-        {
           "rank": 5,
-          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         }
       ],
       "erro": null
@@ -243,28 +243,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
-        },
-        {
-          "rank": 2,
-          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
-          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
-        },
-        {
-          "rank": 3,
-          "title": "What are the 'luteal uglies'? And how they're affecting women",
-          "url": "https://www.bbc.com/news/articles/cy0jk6wjkn0o"
-        },
-        {
-          "rank": 4,
           "title": "Blanche formally withdraws Trump fund plan, ahead of AG confirmation vote",
           "url": "https://www.bbc.com/news/articles/c3w05gx32d4o"
         },
         {
+          "rank": 2,
+          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
+        },
+        {
+          "rank": 3,
+          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
+          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
+        },
+        {
+          "rank": 4,
+          "title": "What are the 'luteal uglies'? And how they're affecting women",
+          "url": "https://www.bbc.com/news/articles/cy0jk6wjkn0o"
+        },
+        {
           "rank": 5,
-          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-          "url": "https://www.bbc.com/news/articles/c1e1d5j6660o"
+          "title": "Iran denies Trump's claim that new talks will begin on Monday",
+          "url": "https://www.bbc.com/news/articles/c23579jzv08o"
         }
       ],
       "erro": null

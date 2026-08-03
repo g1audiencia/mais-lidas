@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 19:10",
+  "atualizado_em": "03/08/2026 19:15",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 3,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump blefou de novo. Como isso beneficia a estratégia do Irã na guerra?",
-          "url": "https://www.estadao.com.br/internacional/trump-blefou-de-novo-como-isso-beneficia-a-estrategia-do-ira-na-guerra/"
+          "title": "QG de Lula teme alto índice de abstenção e presidente chama Durigan para reduzir ruídos com mercado",
+          "url": "https://www.estadao.com.br/politica/qg-de-lula-teme-alto-indice-de-abstencao-e-presidente-chama-durigan-para-reduzir-ruidos-com-mercado/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
-        },
-        {
-          "rank": 4,
           "title": "Holdout senators back Blanche for AG after he formally withdraws Trump fund plan",
           "url": "https://www.bbc.com/news/articles/c3w05gx32d4o"
         },
         {
+          "rank": 4,
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
+        },
+        {
           "rank": 5,
-          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
+          "title": "What are the 'luteal uglies'? And how they're affecting women",
+          "url": "https://www.bbc.com/news/articles/cy0jk6wjkn0o"
         }
       ],
       "erro": null

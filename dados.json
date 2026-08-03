@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 05:40",
+  "atualizado_em": "03/08/2026 05:46",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
-          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
-        },
-        {
-          "rank": 2,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
-        },
-        {
-          "rank": 3,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
-        },
-        {
-          "rank": 4,
           "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
           "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
+          "rank": 2,
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+        },
+        {
+          "rank": 3,
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
+        },
+        {
+          "rank": 4,
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+        },
+        {
           "rank": 5,
-          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
-          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         }
       ],
       "erro": null
@@ -248,23 +248,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-          "url": "https://www.bbc.com/news/articles/c1e1d5j6660o"
+          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
+          "url": "https://www.bbc.com/news/articles/c151k0k4eqgo"
         },
         {
           "rank": 2,
-          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
-        },
-        {
-          "rank": 3,
           "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
           "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
         },
         {
+          "rank": 3,
+          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
+        },
+        {
           "rank": 4,
-          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
-          "url": "https://www.bbc.com/news/articles/c151k0k4eqgo"
+          "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+          "url": "https://www.bbc.com/news/articles/c1e1d5j6660o"
         },
         {
           "rank": 5,

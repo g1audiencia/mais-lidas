@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 02:12",
+  "atualizado_em": "03/08/2026 02:17",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
+          "title": "Índia acelera plano para cercar a China no Indo-Pacífico",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/india-acelera-plano-para-cercar-a-china-no-indo-pacifico.shtml"
         }
       ],
       "erro": null
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Christiane Torloni fala sobre a peça 'Dois de nós', surfe e 50 anos de carreira: 'Eu não desisti'",
-          "url": "https://oglobo.globo.com/ela/gente/noticia/2026/08/02/christiane-torloni-fala-sobre-a-peca-dois-de-nos-surfe-e-50-anos-de-carreira-eu-nao-desisti.ghtml"
-        },
-        {
-          "rank": 2,
           "title": "Preso nos EUA, Maduro diz que acolhe 'qualquer caminho para o diálogo' na Venezuela",
           "url": "https://oglobo.globo.com/mundo/noticia/2026/08/02/preso-nos-eua-maduro-diz-que-acolhe-qualquer-caminho-para-o-dialogo-na-venezuela.ghtml"
         },
         {
+          "rank": 2,
+          "title": "Ele vive sozinho em uma cidade abandonada há mais de 10 anos (e foi isso que ele descobriu)",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/08/01/ele-vive-sozinho-em-uma-cidade-abandonada-ha-mais-de-10-anos-e-foi-isso-que-ele-descobriu.ghtml"
+        },
+        {
           "rank": 3,
-          "title": "Com quem fica a herança quando os filhos tiram os sobrenomes dos pais? Entenda",
-          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/02/com-quem-fica-a-heranca-quando-os-filhos-tiram-os-sobrenomes-dos-pais-entenda.ghtml"
+          "title": "Flávio Bolsonaro afirma que vai aceitar resultado de eleição, mas pede mais 'transparência' em urna eletrônica",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/02/flavio-bolsonaro-afirma-que-vai-aceitar-resultado-de-eleicao-mas-pede-mais-transparencia-em-urna-eletronica.ghtml"
         },
         {
           "rank": 4,
-          "title": "Caramelos sem casa: a dura vida dos cachorros que vivem às margens da sociedade humana, entre a mata e a cidade",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/08/02/caramelos-sem-casa-a-dura-vida-dos-cachorros-que-vivem-as-margens-da-sociedade-humana-entre-a-mata-e-a-cidade.ghtml"
+          "title": "Christiane Torloni fala sobre a peça 'Dois de nós', surfe e 50 anos de carreira: 'Eu não desisti'",
+          "url": "https://oglobo.globo.com/ela/gente/noticia/2026/08/02/christiane-torloni-fala-sobre-a-peca-dois-de-nos-surfe-e-50-anos-de-carreira-eu-nao-desisti.ghtml"
         },
         {
           "rank": 5,
-          "title": "Ele vive sozinho em uma cidade abandonada há mais de 10 anos (e foi isso que ele descobriu)",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/08/01/ele-vive-sozinho-em-uma-cidade-abandonada-ha-mais-de-10-anos-e-foi-isso-que-ele-descobriu.ghtml"
+          "title": "Com quem fica a herança quando os filhos tiram os sobrenomes dos pais? Entenda",
+          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/02/com-quem-fica-a-heranca-quando-os-filhos-tiram-os-sobrenomes-dos-pais-entenda.ghtml"
         }
       ],
       "erro": null
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Moto elétrica da Watts chega a 120 km/h; veja preço | Mobilidade Estadão |",
+          "url": "https://mobilidade.estadao.com.br/mobilidade-para-que/nova-moto-eletrica-da-brasileira-watts-chega-a-120-km-h-veja-detalhes-e-preco/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 4,
           "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
           "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
         },
         {
-          "rank": 4,
-          "title": "Do ‘Casablanca’ aos bares paulistanos: a volta do piano-bar à cena da coquetelaria",
-          "url": "https://www.estadao.com.br/paladar/balcao-do-giba/o-protagonismo-do-piano-dentro-da-historia-da-coquetelaria/"
-        },
-        {
           "rank": 5,
-          "title": "Ariana Grande fará ‘pausa’ na carreira ao fim de turnê após críticas",
-          "url": "https://www.estadao.com.br/emais/gente/ariana-grande-fara-pausa-na-carreira-ao-fim-de-turne-apos-criticas-nprec/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         }
       ],
       "erro": null

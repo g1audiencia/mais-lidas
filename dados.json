@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 02:53",
+  "atualizado_em": "03/08/2026 02:58",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
         },
         {
           "rank": 3,
-          "title": "Milei volta a chamar Lula de ‘ladrão’ e ‘corrupto’",
-          "url": "https://www.estadao.com.br/internacional/milei-volta-a-chamar-lula-de-ladrao-e-corrupto-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
           "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+        },
+        {
+          "rank": 5,
+          "title": "Milei volta a chamar Lula de ‘ladrão’ e ‘corrupto’",
+          "url": "https://www.estadao.com.br/internacional/milei-volta-a-chamar-lula-de-ladrao-e-corrupto-npr/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
-          "url": "https://www.bbc.com/news/articles/c151k0k4eqgo"
+          "title": "Malaysian boy on trial for allegedly murdering girl in school",
+          "url": "https://www.bbc.com/news/articles/cgewq549988o"
         },
         {
           "rank": 5,
-          "title": "Malaysian boy on trial for allegedly murdering girl in school",
-          "url": "https://www.bbc.com/news/articles/cgewq549988o"
+          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
+          "url": "https://www.bbc.com/news/articles/c151k0k4eqgo"
         }
       ],
       "erro": null

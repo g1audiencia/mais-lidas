@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 01:05",
+  "atualizado_em": "03/08/2026 01:11",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
-        },
-        {
-          "rank": 3,
-          "title": "Quem dá mais, Lula ou Flávio? ‘Neutralidade’ do Centrão custa caro",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/quem-da-mais-lula-ou-flavio-neutralidade-do-centrao-custa-caro/"
-        },
-        {
-          "rank": 4,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
+          "rank": 3,
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+        },
+        {
+          "rank": 4,
+          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
+          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+        },
+        {
           "rank": 5,
-          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
-          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
+          "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
+          "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         }
       ],
       "erro": null
@@ -221,16 +221,21 @@
       "items": [
         {
           "rank": 1,
+          "title": "Trump says Gulf leaders’ input weighed heavily in decision to hold off on ordering new Iran strikes",
+          "url": "https://apnews.com/article/trump-iran-strait-hormuz-israel-gaza-mideast-f4c225f6667d9fd171616304701825a0"
+        },
+        {
+          "rank": 2,
           "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says",
           "url": "https://apnews.com/article/shooting-idaho-twin-falls-15be31e5c532e7dfe4b7108d83dd47be"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
           "url": "https://apnews.com/article/pirro-trump-reflecting-pool-damage-vandalism-fecb6e13f1475dfe8a38898360c0446f"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
           "url": "https://apnews.com/article/iran-war-trump-saudi-crown-prince-call-814164417aa284dc8a6d34ac22ea1a8e"
         }
@@ -243,13 +248,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
+          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
+          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
         },
         {
           "rank": 2,
-          "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
-          "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
+          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
         },
         {
           "rank": 3,
@@ -263,8 +268,8 @@
         },
         {
           "rank": 5,
-          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
-          "url": "https://www.bbc.com/news/articles/c151k0k4eqgo"
+          "title": "How ransom notes could help catch Nancy Guthrie's kidnappers",
+          "url": "https://www.bbc.com/news/articles/c2dkng21dg2o"
         }
       ],
       "erro": null

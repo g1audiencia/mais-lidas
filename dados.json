@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 09:32",
+  "atualizado_em": "03/08/2026 09:37",
   "portais": [
     {
       "portal": "Folha",
@@ -76,7 +76,7 @@
         },
         {
           "rank": 2,
-          "title": "\"Ladrão\": Milei volta a criticar Lula em meio à tensões diplomáticas",
+          "title": "\"Ladrão\": Milei volta a criticar Lula em meio a tensões diplomáticas",
           "url": "https://www.cnnbrasil.com.br/internacional/ladrao-milei-volta-a-criticar-lula-em-meio-a-tensoes-diplomaticas/"
         },
         {
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
-          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
+          "title": "Alex Stefano erra de novo em Inter x Corinthians pela Copa do Brasil e amplia polêmicas",
+          "url": "https://www.estadao.com.br/esportes/paulo-caravina/alex-stefano-erra-de-novo-em-inter-x-corinthians-e-amplia-polemicas/"
         },
         {
           "rank": 4,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 5,
-          "title": "Quem entrou e quem saiu do ranking das 25 maiores gestoras de fundos do País nos últimos cinco anos",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/quem-entrou-e-quem-saiu-do-ranking-das-25-maiores-gestoras-de-fundos-do-pais-nos-ultimos-cinco-anos/"
+          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
         }
       ],
       "erro": null
@@ -231,11 +231,16 @@
         },
         {
           "rank": 3,
+          "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
+          "url": "https://apnews.com/article/twin-falls-idaho-shooting-fast-food-restaurant-2b1104d872124c2733faec0ddb89ffc4"
+        },
+        {
+          "rank": 4,
           "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says",
           "url": "https://apnews.com/article/shooting-idaho-twin-falls-15be31e5c532e7dfe4b7108d83dd47be"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
           "url": "https://apnews.com/article/spain-ceuta-morocco-migration-border-vox-9960b15a7cf31a0592b09ac47a8eac3f"
         }

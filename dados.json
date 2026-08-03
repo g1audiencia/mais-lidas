@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 20:17",
+  "atualizado_em": "03/08/2026 20:22",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "PF pede ao STF 3º inquérito contra Lulinha, e Dino decidirá se abre investigação",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-pede-ao-stf-abertura-de-3o-inquerito-contra-lulinha-sob-suspeita-de-trafico-de-influencia.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Patrimônio de Jaques Wagner cresce 630% em oito anos e chega a R$ 24 milhões",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/patrimonio-de-jaques-wagner-cresce-630-em-oito-anos-e-chega-a-r-24-milhoes.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Ele tem R$ 2 milhões e ganha quase meio milhão por ano, mas não poderá parar de trabalhar aos 65 anos",
-          "url": "https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/08/ele-tem-r-2-milhoes-e-ganha-quase-meio-milhao-por-ano-mas-nao-podera-se-aposentar-aos-65-anos.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Dino, indicado por Lula ao STF é sorteado relator de terceiro inquérito pedido pela PF sobre Lulinha",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
+        },
+        {
+          "rank": 4,
           "title": "Fachin apresenta novo código de ética para juízes, mas não para ministros do STF; veja as regras",
           "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
         },
         {
-          "rank": 4,
-          "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
-          "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
-        },
-        {
           "rank": 5,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         }
       ],
       "erro": null

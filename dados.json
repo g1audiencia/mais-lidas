@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 21:46",
+  "atualizado_em": "02/08/2026 21:52",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Passei pela maior provação de uma mãe, diz Christiane Torloni sobre perda do filho de 12 anos",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/passei-pela-maior-provacao-de-uma-mae-diz-christiane-torloni-sobre-perda-do-filho-de-12-anos.shtml"
+          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
         }
       ],
       "erro": null
@@ -44,13 +44,13 @@
         },
         {
           "rank": 2,
-          "title": "Situação de rua e mais: seis artistas que morreram completamente falidos",
-          "url": "https://natelinha.uol.com.br/tv-historia/2026/08/02/situacao-de-rua-e-mais-6-artistas-que-morreram-completamente-falidos-245550.php"
+          "title": "Mauro Cezar: Corinthians perde para o Inter e rival da Libertadores vence após 5 jogos",
+          "url": "https://www.uol.com.br/esporte/futebol/colunas/mauro-cezar-pereira/2026/08/02/corinthians-perde-para-o-inter-e-rival-da-libertadores-vence-apos-5-jogos.htm"
         },
         {
           "rank": 3,
-          "title": "Abel rebate nota do Fla e cita final da Libertadores, Vaticano e Série B",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/02/abel-rebate-nota-do-fla-e-cita-final-da-libertadores-vaticano-e-serie-b.ghtm"
+          "title": "Situação de rua e mais: seis artistas que morreram completamente falidos",
+          "url": "https://natelinha.uol.com.br/tv-historia/2026/08/02/situacao-de-rua-e-mais-6-artistas-que-morreram-completamente-falidos-245550.php"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Milly: Palmeiras vence o tédio e deixa escapar o seu segredo mais bem guardado",
-          "url": "https://www.uol.com.br/esporte/colunas/milly-lacombe/2026/08/02/palmeiras-vence-o-tedio-e-deixa-escapar-o-seu-segredo-mais-bem-guardado.htm"
+          "title": "JUca Kfouri: Beira-Rio complica o sonho de Itaquera",
+          "url": "https://www.uol.com.br/esporte/futebol/colunas/juca-kfouri/2026/08/02/beira-rio.htm"
         }
       ],
       "erro": null
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Trump cancela ataque ao Irã após pedido para fechar acordo",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-cancela-ataque-ao-ira-apos-pedido-para-fechar-acordo/"
+          "title": "Filhos de Brad Pitt perdem herança ao tirar sobrenome do pai?",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/filhos-de-brad-pitt-perdem-heranca-ao-tirar-sobrenome-do-pai/"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
-          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
-        },
-        {
-          "rank": 4,
           "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
           "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
           "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+        },
+        {
+          "rank": 5,
+          "title": "Preso após tiroteio no aeroporto de Guarulhos recebia R$ 50 mil por remessa de cocaína à Europa",
+          "url": "https://www.estadao.com.br/sao-paulo/preso-apos-tiroteio-no-aeroporto-de-guarulhos-recebia-r-50-mil-por-remessa/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 20:11",
+  "atualizado_em": "03/08/2026 20:17",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Pentacampeão passa por cateterismo após sentir dores no peito",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-passa-por-cateterismo-apos-sentir-dores-no-peito/"
+          "title": "Quem é Lilibeth Monteiro, nova namorada do viúvo de Rita Lee e ex de Collor",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-lilibeth-monteiro-nova-namorada-do-viuvo-de-rita-lee-e-ex-de-collor/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
-          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
-        },
-        {
-          "rank": 3,
-          "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
-          "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
-        },
-        {
-          "rank": 4,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Fachin apresenta novo código de ética para juízes, mas não para ministros do STF; veja as regras",
           "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
+        },
+        {
+          "rank": 4,
+          "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
+          "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
+        },
+        {
+          "rank": 5,
+          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
-          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
+          "title": "Puertos paralizados por un decreto de Sturzenegger: hay más de 150 barcos sin poder operar y afecta a las exportaciones",
+          "url": "https://www.clarin.com/rural/mucha-preocupacion-practicos-dejaron-prestar-servicios-desregulacion-gobierno-150-barcos-paralizados_0_2dVxjgdblt.html"
         },
         {
           "rank": 2,
-          "title": "Puertos paralizados por un decreto de Sturzenegger: hay más de 150 barcos sin poder operar y afecta a las exportaciones",
-          "url": "https://www.clarin.com/rural/mucha-preocupacion-practicos-dejaron-prestar-servicios-desregulacion-gobierno-150-barcos-paralizados_0_2dVxjgdblt.html"
+          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
+          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Llegó apuñalado al hospital y murió a las pocas horas: detuvieron a su novia",
-          "url": "https://www.clarin.com/policiales/llego-apunalado-hospital-murio-pocas-horas-detuvieron-novia_0_xqBWAxbaml.html"
+          "title": "El mensaje de Quintela a los inversores si el peronismo vuelve al poder: \"Lo que sea necesario expropiar, lo vamos a expropiar\"",
+          "url": "https://www.clarin.com/politica/mensaje-quintela-inversores-peronismo-vuelve-poder-necesario-expropiar-vamos-expropiar_0_nN3jIHxOGc.html"
         },
         {
           "rank": 5,
-          "title": "El mensaje de Quintela a los inversores si el peronismo vuelve al poder: \"Lo que sea necesario expropiar, lo vamos a expropiar\"",
-          "url": "https://www.clarin.com/politica/mensaje-quintela-inversores-peronismo-vuelve-poder-necesario-expropiar-vamos-expropiar_0_nN3jIHxOGc.html"
+          "title": "Llegó apuñalado al hospital y murió a las pocas horas: detuvieron a su novia",
+          "url": "https://www.clarin.com/policiales/llego-apunalado-hospital-murio-pocas-horas-detuvieron-novia_0_xqBWAxbaml.html"
         }
       ],
       "erro": null

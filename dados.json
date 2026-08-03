@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 18:42",
+  "atualizado_em": "03/08/2026 18:47",
   "portais": [
     {
       "portal": "Folha",
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Vini Jr. pede R$ 117 milhões por ano para renovar com o Real Madrid, diz jornal",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/03/vinicius-pede-r-117-milhoes-por-ano-para-renovar-com-o-real-madrid-diz-jornal.ghtml"
+        },
+        {
+          "rank": 2,
+          "title": "Cleitinho chora ao desistir de candidatura ao governo de Minas e amplia impasse de Flávio; veja vídeo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/03/cleitinho-anuncia-que-nao-vai-ser-candidato-ao-governo-e-amplia-impasse-de-flavio-em-minas.ghtml"
+        },
+        {
+          "rank": 3,
           "title": "IBS e CBS: saiba o que são as novas siglas que estarão nas notas fiscais a partir desta segunda-feira",
           "url": "https://oglobo.globo.com/economia/noticia/2026/08/03/ibs-e-cbs-saiba-o-que-sao-as-novas-siglas-que-estarao-nas-notas-fiscais-a-partir-desta-segunda-feira.ghtml"
         },
         {
-          "rank": 2,
-          "title": "No 'Conversa com Bial', Wagner Moura fala da decisão de manter o sotaque em produções estrangeiras e detalha os primeiros passos dos filhos como atores: 'Acho muito legal'",
-          "url": "https://oglobo.globo.com/play/noticia/2026/08/03/no-conversa-com-bial-wagner-moura-fala-da-decisao-de-manter-o-sotaque-em-producoes-estrangeiras-e-detalha-os-primeiros-passos-dos-filhos-como-atores-acho-muito-legal.ghtml"
-        },
-        {
-          "rank": 3,
-          "title": "A vaga no Senado em SP que o PL acredita que já perdeu",
-          "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/08/a-vaga-no-senado-em-sp-que-o-pl-acredita-que-ja-perdeu.ghtml"
-        },
-        {
           "rank": 4,
-          "title": "'Quem ama cuida': Bruna humilha Adriana em restaurante. Veja foto exclusiva",
-          "url": "https://oglobo.globo.com/play/novelas/noticia/2026/08/03/quem-ama-cuida-bruna-humilha-adriana-em-restaurante-veja-foto-exclusiva.ghtml"
+          "title": "O número que levou Ciro Nogueira a rejeitar coligação com Flávio Bolsonaro",
+          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/08/o-numero-que-levou-ciro-nogueira-a-rejeitar-coligacao-com-flavio-bolsonaro.ghtml"
         },
         {
           "rank": 5,
-          "title": "Recuo do recuo: Republicanos se reúne para reavaliar veto a candidatura de Cleitinho em Minas",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/03/recuo-do-recuo-republicanos-se-reune-para-reavaliar-veto-a-candidatura-de-cleitinho-em-minas.ghtml"
+          "title": "Virginia Fonseca revela que filhas passaram por cirurgia nas amígdalas; saiba em que casos o procedimento é indicado",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/08/03/virginia-fonseca-revela-que-filhas-passaram-por-cirurgia-nas-amigdalas-saiba-em-que-casos-o-procedimento-e-indicado.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
-          "rank": 2,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 2,
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+        },
+        {
           "rank": 3,
+          "title": "Fachin apresenta amanhã novo código de ética para juízes; vejas as novas regras",
+          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
+        },
+        {
+          "rank": 4,
           "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
           "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
         },
         {
-          "rank": 4,
-          "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
-          "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
-        },
-        {
           "rank": 5,
-          "title": "Fachin apresenta amanhã novo código de ética para juízes; vejas as novas regras",
-          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
+          "title": "QG de Lula teme alto índice de abstenção e presidente chama Durigan para reduzir ruídos com mercado",
+          "url": "https://www.estadao.com.br/politica/qg-de-lula-teme-alto-indice-de-abstencao-e-presidente-chama-durigan-para-reduzir-ruidos-com-mercado/"
         }
       ],
       "erro": null

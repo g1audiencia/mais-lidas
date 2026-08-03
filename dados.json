@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 05:17",
+  "atualizado_em": "03/08/2026 05:22",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
+          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         },
         {
           "rank": 4,
-          "title": "Marcelo Paz detona ‘intimidação de árbitro’ e Corinthians vai entrar com representação na CBF",
-          "url": "https://www.estadao.com.br/esportes/futebol/marcelo-paz-detona-intimidacao-de-arbitro-e-corinthians-vai-entrar-com-representacao-na-cbf/"
+          "title": "Lula faz promessa de investimento em defesa, mas discurso não agrada parte do PT; entenda o motivo",
+          "url": "https://www.estadao.com.br/politica/lula-faz-promessa-de-investimento-em-defesa-mas-discurso-nao-agrada-parte-do-pt-entenda-o-motivo/"
         },
         {
           "rank": 5,
-          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
-          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
+          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
+          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
         }
       ],
       "erro": null
@@ -233,6 +233,11 @@
           "rank": 3,
           "title": "Trump blasts Pirro after she refutes his claim that Reflecting Pool was damaged by vandals",
           "url": "https://apnews.com/article/pirro-trump-reflecting-pool-damage-vandalism-fecb6e13f1475dfe8a38898360c0446f"
+        },
+        {
+          "rank": 4,
+          "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
+          "url": "https://apnews.com/article/spain-ceuta-morocco-migration-border-vox-9960b15a7cf31a0592b09ac47a8eac3f"
         }
       ],
       "erro": null
@@ -285,18 +290,18 @@
         },
         {
           "rank": 3,
-          "title": "La crisis que amenaza el reinado de Gianni Infantino en la FIFA: el plan secreto que rompió el equilibrio de poder en el fútbol mundial",
-          "url": "https://www.clarin.com/deportes/crisis-amenaza-reinado-gianni-infantino-fifa-plan-secreto-rompio-equilibrio-poder-futbol-mundial_0_NVcMa8s2XC.html"
-        },
-        {
-          "rank": 4,
           "title": "Encuestas: el 59% dice que la está pasando mal, pero Milei mantiene una leve ventaja para 2027",
           "url": "https://www.clarin.com/politica/encuestas-59-dice-pasando-mal-milei-mantiene-leve-ventaja-2027_0_mPBc1Zm6ib.html"
         },
         {
+          "rank": 4,
+          "title": "La crisis que amenaza el reinado de Gianni Infantino en la FIFA: el plan secreto que rompió el equilibrio de poder en el fútbol mundial",
+          "url": "https://www.clarin.com/deportes/crisis-amenaza-reinado-gianni-infantino-fifa-plan-secreto-rompio-equilibrio-poder-futbol-mundial_0_NVcMa8s2XC.html"
+        },
+        {
           "rank": 5,
-          "title": "Hace 45 años ocurría el mayor robo de obras de arte en la historia argentina: este ex comisario asegura saber dónde están",
-          "url": "https://www.clarin.com/historias/hace-45-anos-ocurria-mayor-robo-obras-arte-historia-argentina-ex-comisario-asegura-saber_0_MYF0d7bJ1v.html"
+          "title": "\"Si hubiera ido, estaría desaparecida\": la joven que alertó por una falsa oferta de trabajo en Mar del Plata antes del femicidio de Mailén Antonich",
+          "url": "https://www.clarin.com/sociedad/ido-desaparecida-joven-alerto-falsa-oferta-trabajo-mar-plata-femicidio-mailen-antonich_0_tneFDnhheG.html"
         }
       ],
       "erro": null

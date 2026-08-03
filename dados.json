@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 18:08",
+  "atualizado_em": "03/08/2026 18:14",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Sem Cleitinho, Kalil lidera para o Governo de MG, diz Genial/Quaest",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/sem-cleitinho-kalil-lidera-para-o-governo-de-mg-diz-genialquaest.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Neymar critica lista e pede Ceni e Marcos entre maiores goleiros",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/neymar-cobra-ceni-e-marcos-em-lista-de-maiores-goleiros-da-historia.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "PVC: Nota do Flamengo sobre Palmeiras beneficiado põe Brasileirão em risco",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/pvc-raciocinio-e-leviano-ao-criticar-nota-do-flamengo-sobre-o-palmeiras.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Sem Cleitinho, Kalil lidera para o Governo de MG, diz Genial/Quaest",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/sem-cleitinho-kalil-lidera-para-o-governo-de-mg-diz-genialquaest.ghtm"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Ator processa CazéTV por comentário em vídeo e pede R$ 120 mil",
-          "url": "https://www.uol.com.br/splash/noticias/2026/08/03/ator-processa-caze-tv-e-pede-r-120-mil-por-danos-morais.ghtm"
+          "title": "O que aconteceu com o irmão do senador Cleitinho",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/o-que-aconteceu-com-matheus-azevedo-irmao-do-senador-cleitinho.ghtm"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Pentacampeão passa por cateterismo após sentir dores no peito",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-passa-por-cateterismo-apos-sentir-dores-no-peito/"
+          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
         },
         {
           "rank": 5,
-          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
+          "title": "Pentacampeão passa por cateterismo após sentir dores no peito",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-passa-por-cateterismo-apos-sentir-dores-no-peito/"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Fachin propõe código de ética para Judiciário com regras sobre presentes e eventos",
-          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
-        },
-        {
-          "rank": 4,
           "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
           "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
           "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
+        },
+        {
+          "rank": 5,
+          "title": "Fachin propõe código de ética para Judiciário com regras sobre presentes e eventos",
+          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
         }
       ],
       "erro": null

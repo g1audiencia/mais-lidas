@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 05:10",
+  "atualizado_em": "03/08/2026 05:17",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
+          "title": "Viúvo de Rita Lee posta mais uma foto em Paris com ex-esposa de Fernando Collor",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/viuvo-de-rita-lee-posta-mais-uma-foto-em-paris-com-ex-esposa-de-fernando-collor.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
-        },
-        {
-          "rank": 3,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
+          "rank": 3,
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+        },
+        {
           "rank": 4,
-          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
-          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
+          "title": "Marcelo Paz detona ‘intimidação de árbitro’ e Corinthians vai entrar com representação na CBF",
+          "url": "https://www.estadao.com.br/esportes/futebol/marcelo-paz-detona-intimidacao-de-arbitro-e-corinthians-vai-entrar-com-representacao-na-cbf/"
         },
         {
           "rank": 5,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         }
       ],
       "erro": null
@@ -243,28 +243,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
-        },
-        {
-          "rank": 2,
           "title": "I didn't know I'd been hosting a parasite for years - until the most intense pain of my life",
           "url": "https://www.bbc.com/news/articles/c0jl7jj74n0o"
         },
         {
-          "rank": 3,
-          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
-          "url": "https://www.bbc.com/news/articles/c151k0k4eqgo"
+          "rank": 2,
+          "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+          "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
           "url": "https://www.bbc.com/news/articles/c1e1d5j6660o"
         },
         {
+          "rank": 4,
+          "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
+          "url": "https://www.bbc.com/news/articles/c151k0k4eqgo"
+        },
+        {
           "rank": 5,
-          "title": "Massive Attack respond after Singapore ban over Palestine display",
-          "url": "https://www.bbc.com/news/articles/cr59qe86yj4o"
+          "title": "Trump suggests new talks with Iran to begin on Monday",
+          "url": "https://www.bbc.com/news/articles/c23579jzv08o"
         }
       ],
       "erro": null

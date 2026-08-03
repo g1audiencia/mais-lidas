@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 23:59",
+  "atualizado_em": "03/08/2026 00:05",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
-          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
+          "rank": 4,
+          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
+        },
+        {
           "rank": 5,
-          "title": "Trump diz que novas negociações com Irã serão iniciadas nesta segunda-feira",
-          "url": "https://www.estadao.com.br/internacional/trump-diz-que-novas-negociacoes-com-ira-serao-iniciadas-nesta-segunda-feira/"
+          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
+          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
         }
       ],
       "erro": null
@@ -258,7 +258,7 @@
         },
         {
           "rank": 4,
-          "title": "Malaysian boy to go on trial for allegedly murdering girl in school",
+          "title": "Malaysian boy on trial for allegedly murdering girl in school",
           "url": "https://www.bbc.com/news/articles/cgewq549988o"
         },
         {
@@ -280,23 +280,23 @@
         },
         {
           "rank": 2,
-          "title": "Una nueva encuesta ya midió a \"Cristina candidata\": cómo le fue contra Milei y Kicillof",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-midio-cristina-candidata-milei-kicillof_0_hyCBgJPKfj.html"
-        },
-        {
-          "rank": 3,
           "title": "El viaje por la mudanza a una nueva casa que terminó en tragedia: la historia de la familia que murió en el choque en Luján",
           "url": "https://www.clarin.com/sociedad/viaje-mudanza-nueva-casa-termino-tragedia-historia-familia-murio-choque-lujan_0_LFrWbXsnC6.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Grietas en el blindaje electoral de Milei y la bomba de tiempo que nadie desactiva",
           "url": "https://www.clarin.com/opinion/grietas-blindaje-electoral-milei-bomba-tiempo-nadie-desactiva_0_bXEyfUTBlW.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Femicidio en Mar del Plata: la familia de Mailén sospecha que el remisero que la llevó a la entrevista pudo haber sido el entregador",
           "url": "https://www.clarin.com/sociedad/femicidio-mar-plata-familia-mailen-sospecha-remisero-llevo-entrevista-pudo-entregador_0_Or7e2tj9KD.html"
+        },
+        {
+          "rank": 5,
+          "title": "Zapatillas: marca por marca, los mejores y peores modelos para salir a caminar",
+          "url": "https://www.clarin.com/tecnologia/zapatillas-marca-marca-mejores-peores-modelos-hacer-largas-caminatas_0_ypdwykt49Q.html"
         }
       ],
       "erro": null

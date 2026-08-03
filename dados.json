@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 12:56",
+  "atualizado_em": "03/08/2026 13:01",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "PF pede a abertura de 3º inquérito contra Lulinha por suspeita de tráfico de influência",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/03/policia-federal-pede-abertura-de-3-inquerito-contra-lulinha.ghtm"
+        },
+        {
+          "rank": 2,
+          "title": "Por que este canhão em museu do Rio de Janeiro irrita o Paraguai até hoje",
+          "url": "https://www.uol.com.br/nossa/colunas/terra-a-vista/2026/08/03/por-que-este-canhao-em-museu-do-rio-de-janeiro-irrita-o-paraguai-ate-hoje.htm"
+        },
+        {
+          "rank": 3,
           "title": "Como River Plate criou uma 'máquina de fazer dinheiro' para peitar Fla e companhia",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/como-river-plate-criou-maquina-de-fazer-dinheiro-para-peitar-brasileiros.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "O que explica queda de 10 pontos na aprovação de Tarcísio entre mulheres",
           "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/o-que-explica-queda-de-10-pontos-na-aprovacao-de-tarcisio-entre-as-mulheres.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Funcionários morreram em shopping do Japão após ordem para guardar dinheiro",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/03/empresa-pede-desculpas-apos-funcionarios-morrerem-em-explosao-em-shopping-no-japao.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Polícia do CE apura morte após bullying e transferência negada em colégio militar",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/03/policia-apura-morte-apos-bullying-e-transferencia-negada-em-colegio-militar.htm"
-        },
-        {
-          "rank": 5,
-          "title": "BTG/Nexus: Flávio cresce e reduz vantagem de Lula no 1º turno para 4 pontos",
-          "url": "https://www.uol.com.br/flash/?c=d2e9842bd41b784b322d442ff35d14d20260803"
         }
       ],
       "erro": null
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Pentacampeão passa por cateterismo após sentir dores no peito",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-passa-por-cateterismo-apos-sentir-dores-no-peito/"
+          "title": "Cataratas do Iguaçu: Argentina vai desmontar Passarela da Garganta do Diabo",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/cataratas-do-iguacu-argentina-vai-desmontar-passarela-da-garganta-do-diabo/"
         },
         {
           "rank": 4,
-          "title": "Cataratas do Iguaçu: Argentina vai desmontar Passarela da Garganta do Diabo",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/cataratas-do-iguacu-argentina-vai-desmontar-passarela-da-garganta-do-diabo/"
+          "title": "Pentacampeão passa por cateterismo após sentir dores no peito",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-passa-por-cateterismo-apos-sentir-dores-no-peito/"
         },
         {
           "rank": 5,
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
+          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
         },
         {
           "rank": 2,
-          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
-          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
+          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
+          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
         },
         {
           "rank": 3,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Brasil tem conta de luz mais cara que 77 países e reforma poderia diminuir custos em até 32%",
-          "url": "https://www.estadao.com.br/economia/brasil-tem-conta-de-luz-mais-cara-que-77-paises-e-reforma-poderia-diminuir-custos-em-ate-32/"
+          "title": "Quais são as 10 capitais com menos assassinatos no País? Veja onde está SP e o ranking completo",
+          "url": "https://www.estadao.com.br/brasil/quais-sao-as-10-capitais-com-menos-assassinatos-no-pais-veja-onde-esta-sp-e-o-ranking-completo/"
         },
         {
           "rank": 5,

@@ -1,0 +1,46 @@
+name: Vigia da coleta
+
+# Rede de segurança. Roda de hora em hora e NAO interfere na coleta:
+# so dispara uma nova corrente se a atual estiver parada ha mais de 20 minutos.
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+jobs:
+  vigiar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verificar se a coleta ainda esta viva
+        env:
+          GH_TOKEN: ${{ secrets.PAT_RONDA || secrets.GITHUB_TOKEN }}
+        run: |
+          ULTIMA=$(curl -s \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/coleta.yml/runs?per_page=1" \
+            | jq -r '.workflow_runs[0].created_at // empty')
+
+          if [ -z "$ULTIMA" ]; then
+            echo "Nao consegui ler a ultima execucao. Disparando por seguranca."
+            IDADE=999
+          else
+            IDADE=$(( ( $(date -u +%s) - $(date -u -d "$ULTIMA" +%s) ) / 60 ))
+            echo "Ultima execucao: $ULTIMA (ha $IDADE minutos)"
+          fi
+
+          if [ "$IDADE" -gt 20 ]; then
+            echo "Corrente parada. Reiniciando."
+            curl -X POST \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer $GH_TOKEN" \
+              https://api.github.com/repos/${{ github.repository }}/actions/workflows/coleta.yml/dispatches \
+              -d '{"ref":"main"}'
+          else
+            echo "Corrente viva. Nada a fazer."
+          fi

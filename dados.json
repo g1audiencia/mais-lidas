@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 03:26",
+  "atualizado_em": "03/08/2026 03:32",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Viúvo de Rita Lee posta mais uma foto em Paris com ex-esposa de Fernando Collor",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/viuvo-de-rita-lee-posta-mais-uma-foto-em-paris-com-ex-esposa-de-fernando-collor.shtml"
+          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
         },
         {
           "rank": 5,
-          "title": "Designer escolhe viver cinco anos nas ruas e planeja livro e projeto social",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/designer-escolhe-viver-cinco-anos-nas-ruas-e-planeja-livro-e-projeto-social.shtml"
+          "title": "Da prisão em Nova York, Maduro defende diálogo para consolidar paz na Venezuela",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/da-prisao-em-nova-york-maduro-defende-dialogo-para-consolidar-paz-na-venezuela.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem é o médico alvo de Trump por origem da covid e por que ele se calou em depoimento",
-          "url": "https://www.estadao.com.br/ciencia/quem-e-o-medico-alvo-de-trump-por-origem-da-covid-e-por-que-ele-se-calou-em-depoimento/"
+          "title": "Irresponsabilidade tributária",
+          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
         },
         {
           "rank": 3,
-          "title": "Uefa ameaça processar Infantino em carta e alerta sobre ‘não destruir provas’",
-          "url": "https://www.estadao.com.br/esportes/futebol/em-carta-uefa-ameaca-processar-infantino-e-alerta-sobre-nao-destruir-provas/"
-        },
-        {
-          "rank": 4,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
+          "rank": 4,
+          "title": "Temporada de balanços do 2T26: Petrobras, Itaú, Bradesco e Magalu divulgam resultados nesta semana",
+          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/temporada-de-balancos-do-2t26-petrobras-itau-bradesco-e-magalu-divulgam-resultados-nesta-semana/"
+        },
+        {
           "rank": 5,
-          "title": "Irresponsabilidade tributária",
-          "url": "https://www.estadao.com.br/opiniao/irresponsabilidade-tributaria/"
+          "title": "The Economist: Por que o Pix, amado pelos brasileiros, atraiu a ira de Donald Trump",
+          "url": "https://www.estadao.com.br/economia/the-economist-o-sistema-de-pagamentos-mais-querido-do-brasil-entrou-na-mira-de-donald-trump/"
         }
       ],
       "erro": null

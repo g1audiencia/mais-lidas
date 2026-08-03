@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 17:57",
+  "atualizado_em": "03/08/2026 18:03",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Pentacampeão passa por cateterismo após sentir dores no peito",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-passa-por-cateterismo-apos-sentir-dores-no-peito/"
+          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
         },
         {
           "rank": 5,
-          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
+          "title": "Pentacampeão passa por cateterismo após sentir dores no peito",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/pentacampeao-passa-por-cateterismo-apos-sentir-dores-no-peito/"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
-          "rank": 3,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
-        },
-        {
-          "rank": 4,
           "title": "Fachin propõe código de ética para Judiciário com regras sobre presentes e eventos",
           "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+        },
+        {
+          "rank": 4,
           "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
           "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
+        },
+        {
+          "rank": 5,
+          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
+          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+          "url": "https://www.bbc.com/news/articles/c2k7px317eeo"
+        },
+        {
+          "rank": 4,
           "title": "Rhine falls to record low levels as drought strains Europe's rivers",
           "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
           "url": "https://www.bbc.com/news/articles/c80ngjjvevyo"
-        },
-        {
-          "rank": 5,
-          "title": "What are the 'luteal uglies'? And how they're affecting women",
-          "url": "https://www.bbc.com/news/articles/cy0jk6wjkn0o"
         }
       ],
       "erro": null

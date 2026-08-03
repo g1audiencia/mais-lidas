@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 20:44",
+  "atualizado_em": "03/08/2026 20:50",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Kassio reabre trabalhos do TSE e defende transparência das urnas para garantir confiança em eleições",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/kassio-reabre-trabalhos-do-tse-e-defende-transparencia-das-urnas-para-garantir-confianca-em-eleicoes.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
           "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
         },
         {
-          "rank": 3,
-          "title": "Ferroviários de SP confirmam greve por tempo indeterminado em três linhas a partir de terça (4)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/ferroviarios-de-sp-fazem-assembleia-nesta-segunda-3-para-decidir-greve-em-tres-linhas.shtml"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "PF pede ao STF 3º inquérito contra Lulinha, e Dino decidirá se abre investigação",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-pede-ao-stf-abertura-de-3o-inquerito-contra-lulinha-sob-suspeita-de-trafico-de-influencia.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         },
         {
           "rank": 4,
-          "title": "Ferroviários confirmam greve e paralisam linhas 11-Coral, 12-Safira e 13-Jade em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/ferroviarios-confirmam-greve-e-paralisam-linhas-11-coral-12-safira-e-13-jade-em-sp/"
+          "title": "Álvaro Dias desiste da disputa ao Senado pelo Paraná após liderar pesquisas",
+          "url": "https://www.estadao.com.br/politica/alvaro-dias-desiste-da-disputa-ao-senado-pelo-parana-apos-liderar-pesquisas/"
         },
         {
           "rank": 5,
-          "title": "Fachin apresenta novo código de ética para juízes, mas não para ministros do STF; veja as regras",
-          "url": "https://www.estadao.com.br/politica/fachin-propoe-codigo-de-etica-para-judiciario-com-regras-sobre-presentes-e-eventos/"
+          "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
+          "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
         }
       ],
       "erro": null
@@ -221,28 +221,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
+          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
+        },
+        {
+          "rank": 2,
           "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
           "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Trump frequently announces he’s halting strikes in Iran. But they keep happening",
+          "url": "https://apnews.com/article/trump-iran-war-us-canceled-strikes-670f077d2cf5de7614cfce4ad40e4aaa"
+        },
+        {
+          "rank": 4,
           "title": "Trump says new talks are Iran’s ‘last chance’ to make a deal",
           "url": "https://apnews.com/live/trump-news-blanche-iran-updates-08-03-2026"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Sen. Bernie Moreno says former son-in-law Max Miller should not serve in the House",
           "url": "https://apnews.com/article/max-miller-abuse-allegations-trump-335959b543bb410b51540ea9c6ec2571"
-        },
-        {
-          "rank": 4,
-          "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
-          "url": "https://apnews.com/article/twin-falls-idaho-shooting-fast-food-restaurant-2b1104d872124c2733faec0ddb89ffc4"
-        },
-        {
-          "rank": 5,
-          "title": "Senate leaders reach funding deal to avoid shutdown during campaign season",
-          "url": "https://apnews.com/article/government-shutdown-deal-funding-recess-081d1e1e72cb717243c2e51d17bace7a"
         }
       ],
       "erro": null

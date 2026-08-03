@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 23:54",
+  "atualizado_em": "02/08/2026 23:59",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "General americano alerta que pode ter de escolher entre defender EUA ou Israel, diz jornal",
+          "url": "https://www.estadao.com.br/internacional/general-americano-alerta-que-pode-ter-de-escolher-entre-defender-eua-ou-israel-diz-jornal-npr/"
+        },
+        {
+          "rank": 4,
           "title": "Bunker dos bilionários: a ilha artificial em Miami onde Bezos e Zuckerberg compram privacidade",
           "url": "https://www.estadao.com.br/economia/bunker-dos-bilionarios-a-ilha-artificial-em-miami-onde-bezos-e-zuckerberg-compram-privacidade/"
         },
         {
-          "rank": 4,
-          "title": "Corinthians é castigado por ousadia de Diniz, perde do Inter e se complica na Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/internacional-x-corinthians-oitavas-de-final-copa-do-brasil-analise/"
-        },
-        {
           "rank": 5,
-          "title": "O melhor parmesão do supermercado vai te surpreender; veja o ranking completo",
-          "url": "https://www.estadao.com.br/paladar/comida/o-melhor-parmesao-do-supermercado-vai-te-surpreender-veja-o-ranking-completo/"
+          "title": "Trump diz que novas negociações com Irã serão iniciadas nesta segunda-feira",
+          "url": "https://www.estadao.com.br/internacional/trump-diz-que-novas-negociacoes-com-ira-serao-iniciadas-nesta-segunda-feira/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
         },
         {
           "rank": 3,
-          "title": "Malaysian boy to go on trial for allegedly murdering girl in school",
-          "url": "https://www.bbc.com/news/articles/cgewq549988o"
-        },
-        {
-          "rank": 4,
           "title": "'What was my fault?': How India's exam paper leak ended young lives",
           "url": "https://www.bbc.com/news/articles/crl7jl1d95eo"
         },
         {
+          "rank": 4,
+          "title": "Malaysian boy to go on trial for allegedly murdering girl in school",
+          "url": "https://www.bbc.com/news/articles/cgewq549988o"
+        },
+        {
           "rank": 5,
-          "title": "Massive Attack respond after Singapore ban over Palestine display",
-          "url": "https://www.bbc.com/news/articles/cr59qe86yj4o"
+          "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+          "url": "https://www.bbc.com/news/articles/c89ndd4g0gjo"
         }
       ],
       "erro": null

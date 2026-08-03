@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 13:51",
+  "atualizado_em": "03/08/2026 13:57",
   "portais": [
     {
       "portal": "Folha",
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "Murió un matrimonio el día de los 15 de su hija al caer un árbol sobre su camioneta",
-          "url": "https://www.clarin.com/sociedad/murio-matrimonio-dia-15-hija-caer-arbol-camioneta_0_9ZnERNV6pF.html"
-        },
-        {
-          "rank": 3,
           "title": "Barrios revelación de CABA: los 6 lugares que se reconvirtieron y hoy son los más buscados para vivir",
           "url": "https://www.clarin.com/propiedades/barrios-revelacion-caba-6-lugares-reconvirtieron-hoy-buscados-vivir_0_MIXnoDHYRg.html"
         },
         {
+          "rank": 3,
+          "title": "Murió un matrimonio el día de los 15 de su hija al caer un árbol sobre su camioneta",
+          "url": "https://www.clarin.com/sociedad/murio-matrimonio-dia-15-hija-caer-arbol-camioneta_0_9ZnERNV6pF.html"
+        },
+        {
           "rank": 4,
-          "title": "Giro en el Senado: por qué la Rosada cede y acepta retocar la polémica ley de tierras",
-          "url": "https://www.clarin.com/politica/giro-senado-rosada-cede-acepta-retocar-polemica-ley-tierras_0_j9Mha6AIu4.html"
+          "title": "River lo dejó ir y en Peñarol ya lo aman: quién es Leonel Jaime, la joya que sorprende en Uruguay",
+          "url": "https://www.clarin.com/deportes/river-dejo-ir-penarol-aman-leonel-jaime-joya-sorprende-uruguay_0_B1O6j4L9ZM.html"
         },
         {
           "rank": 5,
-          "title": "Thiago Almada ya le dio el sí a River y volverá a la Argentina: qué falta para que se sume al club de Núñez",
-          "url": "https://www.clarin.com/deportes/thiago-almada-dio-river-volvera-argentina-falta-sume-club-nunez_0_yLXZBbq3dx.html"
+          "title": "Giro en el Senado: por qué la Rosada cede y acepta retocar la polémica ley de tierras",
+          "url": "https://www.clarin.com/politica/giro-senado-rosada-cede-acepta-retocar-polemica-ley-tierras_0_j9Mha6AIu4.html"
         }
       ],
       "erro": null

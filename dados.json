@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 20:38",
+  "atualizado_em": "04/08/2026 20:44",
   "portais": [
     {
       "portal": "Folha",
@@ -39,8 +39,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "CNJ afasta juíza Gabriela Hardt do cargo por dois anos por irregularidades na Lava Jato",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/lava-jato-cnj-afasta-juiza-gabriela-hardt-do-cargo-por-dois-anos.ghtm"
+          "title": "Governo Trump revoga visto de embaixadora do Brasil nos EUA",
+          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/04/eua-visto-embaixador-brasil-agosto-2026.ghtm"
         },
         {
           "rank": 2,
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "Incêndio de grandes proporções atinge indústria química em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/incendio-de-grandes-proporcoes-atinge-industria-quimica-na-grande-sao-paulo.ghtm"
+          "title": "CNJ afasta juíza Gabriela Hardt do cargo por dois anos por irregularidades na Lava Jato",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/lava-jato-cnj-afasta-juiza-gabriela-hardt-do-cargo-por-dois-anos.ghtm"
         },
         {
           "rank": 4,
-          "title": "João Paulo Charleaux: Diplomatas veem relação 'trincada' com os EUA e 'escalada em curso'",
-          "url": "https://noticias.uol.com.br/colunas/joao-paulo-charleaux/2026/08/04/diplomatas-veem-relacao-trincada-com-os-eua-e-escalada-em-curso.htm"
+          "title": "André Mendonça rejeita derrubar vídeo de Flávio que associa PT ao PCC e ao CV",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/04/mendonca-rejeita-derrubar-video-de-flavio-que-associa-pt-ao-pcc-e-ao-cv.ghtm"
         },
         {
           "rank": 5,
-          "title": "Desinformação sobre covid e ivermectina retorna após silêncio de médico nos EUA",
-          "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2026/08/04/anthony-fauci-quinta-emenda-senado-pandemia-o-que-e-verdade.ghtm"
+          "title": "Incêndio de grandes proporções atinge indústria química em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/incendio-de-grandes-proporcoes-atinge-industria-quimica-na-grande-sao-paulo.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
-        },
-        {
-          "rank": 2,
-          "title": "Governo Lula vê pressão política e chantagem em revogação de visto de embaixadora por Trump",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-ve-pressao-politica-e-chantagem-em-expulsao-de-embaixadora-por-trump/"
-        },
-        {
-          "rank": 3,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
+          "rank": 2,
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+        },
+        {
+          "rank": 3,
+          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
+        },
+        {
           "rank": 4,
-          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+          "title": "Governo Lula vê pressão política e chantagem em revogação de visto de embaixadora por Trump",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-ve-pressao-politica-e-chantagem-em-expulsao-de-embaixadora-por-trump/"
         },
         {
           "rank": 5,
-          "title": "Aécio Neves decide não disputar eleições após 40 anos de mandatos",
-          "url": "https://www.estadao.com.br/politica/aecio-decide-nao-disputar-eleicoes-apos-40-anos-de-mandatos/"
+          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place",
-          "url": "https://apnews.com/article/trump-irs-todd-blanche-tax-settlement-5d70c9d590a0a3f181466660e99b4377"
+          "title": "Trump criticizes Pirro’s move to drop Reflecting Pool vandalism charges, what to watch in today’s primaries, spicy cocktails",
+          "url": "https://apnews.com/newsletter/morning-wire/august-4-2026"
         },
         {
           "rank": 5,
-          "title": "Trump criticizes Pirro’s move to drop Reflecting Pool vandalism charges, what to watch in today’s primaries, spicy cocktails",
-          "url": "https://apnews.com/newsletter/morning-wire/august-4-2026"
+          "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place",
+          "url": "https://apnews.com/article/trump-irs-todd-blanche-tax-settlement-5d70c9d590a0a3f181466660e99b4377"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Athletes go 'missing' after Commonwealth Games ends",
-          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
+          "title": "Princess Eugenie gives birth to baby girl in Portugal",
+          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
         },
         {
           "rank": 4,
-          "title": "Princess Eugenie gives birth to baby girl in Portugal",
-          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
+          "title": "Athletes go 'missing' after Commonwealth Games ends",
+          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 18:58",
+  "atualizado_em": "04/08/2026 19:04",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
+          "title": "CNJ afasta juíza Gabriela Hardt do cargo por dois anos por irregularidades na Lava Jato",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/lava-jato-cnj-afasta-juiza-gabriela-hardt-do-cargo-por-dois-anos.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Ator Marco Furlan é preso no interior de SP sob suspeita de estupro de criança",
           "url": "https://www.uol.com.br/splash/noticias/2026/08/04/marco-furlan-e-preso-sob-suspeita-de-estupro-de-vulneravel.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Desinformação sobre covid e ivermectina retorna após silêncio de médico nos EUA",
           "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2026/08/04/anthony-fauci-quinta-emenda-senado-pandemia-o-que-e-verdade.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Justiça nega recurso de homem exposto em 'chá revelação de traição' no Rio Grande do Sul",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/justica-nega-recurso-de-homem-exposto-em-cha-revelacao-de-traicao-no-rs.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Georgina Rodriguez rebate críticas: 'Amo minhas curvas'",
-          "url": "https://cenapop.uol.com.br/noticias/famosos/georgina-rodriguez-criticas-aparencia.html"
         }
       ],
       "erro": null
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
-          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
-        },
-        {
-          "rank": 3,
           "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
+        },
+        {
+          "rank": 4,
+          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
+          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
         },
         {
           "rank": 5,

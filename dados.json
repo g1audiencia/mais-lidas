@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 08:17",
+  "atualizado_em": "04/08/2026 08:23",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+        },
+        {
+          "rank": 4,
           "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 5,
-          "title": "Estudos sobre ‘GPS do cérebro’ podem trazer respostas sobre as causas do Alzheimer, diz Nobel",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/estudos-sobre-gps-do-cerebro-podem-trazer-respostas-sobre-as-causas-do-alzheimer-diz-nobel/"
         }
       ],
       "erro": null
@@ -263,7 +263,7 @@
         },
         {
           "rank": 3,
-          "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+          "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
           "url": "https://www.bbc.com/news/articles/c151pkww79zo"
         },
         {
@@ -290,13 +290,13 @@
         },
         {
           "rank": 2,
-          "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
-          "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
+          "title": "Los documentos clasificados de las SS sobre Erich Priebke, el criminal nazi que huyó a la Argentina y se escondió en Bariloche tras la caída de Hitler",
+          "url": "https://www.clarin.com/mundo/documentos-clasificados-ss-erich-priebke-criminal-nazi-huyo-argentina-escondio-bariloche-caida-hitler_0_Het4yL8kkC.html"
         },
         {
           "rank": 3,
-          "title": "Los documentos clasificados de las SS sobre Erich Priebke, el criminal nazi que huyó a la Argentina y se escondió en Bariloche tras la caída de Hitler",
-          "url": "https://www.clarin.com/mundo/documentos-clasificados-ss-erich-priebke-criminal-nazi-huyo-argentina-escondio-bariloche-caida-hitler_0_Het4yL8kkC.html"
+          "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
+          "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
         },
         {
           "rank": 4,

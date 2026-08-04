@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 18:16",
+  "atualizado_em": "04/08/2026 18:22",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Ator Marco Furlan é preso em flagrante suspeito de estuprar criança de 5 anos durante festa em SP",
-          "url": "https://www.estadao.com.br/brasil/ator-marco-furlan-preso-flagrante-suspeito-estuprar-crianca-5-anos-festa-sp-npr/"
-        },
-        {
-          "rank": 4,
           "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
           "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
+        },
+        {
+          "rank": 5,
+          "title": "Ator Marco Furlan é preso em flagrante suspeito de estuprar criança de 5 anos durante festa em SP",
+          "url": "https://www.estadao.com.br/brasil/ator-marco-furlan-preso-flagrante-suspeito-estuprar-crianca-5-anos-festa-sp-npr/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Candidato a governador do Pará se pronuncia com esposa após vídeo íntimo viralizar",
-          "url": "https://www.metropoles.com/colunas/grande-angular/candidato-a-governador-se-pronuncia-com-esposa-apos-video-intimo-viralizar"
+          "title": "Governo Trump cancela visto de embaixadora do Brasil nos EUA",
+          "url": "https://www.metropoles.com/mundo/governo-trump-cancela-visto-de-embaixadora-do-brasil-nos-eua"
         },
         {
           "rank": 2,
-          "title": "INSS: PF acha máquina de contar cédulas e pilhas de dinheiro em operação contra família de senador e Willer Tomaz",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/fraude-no-inss-pf-acha-maquina-de-contar-cedulas-e-pilhas-de-dinheiro"
+          "title": "Incêndio de grande proporção atinge tanques de fábrica de solventes em SP.",
+          "url": "https://www.metropoles.com/sao-paulo/grande-incendio-atinge-tanques-de-fabrica-de-solventes-na-grande-sao-paulo"
         },
         {
           "rank": 3,
-          "title": "Quem é Marco Furlan, ator preso por estupro de vulnerável em SP",
-          "url": "https://www.metropoles.com/celebridades/quem-e-marco-furlan-ator-preso-por-estupro-de-vulneravel-em-sp"
+          "title": "Candidato a governador do Pará se pronuncia com esposa após vídeo íntimo viralizar",
+          "url": "https://www.metropoles.com/colunas/grande-angular/candidato-a-governador-se-pronuncia-com-esposa-apos-video-intimo-viralizar"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 22:47",
+  "atualizado_em": "03/08/2026 22:52",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Rodízio de veículos é suspenso em SP nesta terça (4) por causa de greve de ferroviários",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/rodizio-de-veiculos-e-suspenso-em-sp-nesta-terca-4-por-causa-de-greve-de-ferroviarios.shtml"
+          "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
+          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
         },
         {
           "rank": 4,
-          "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
+          "title": "Rodízio de veículos é suspenso em SP nesta terça (4) por causa de greve de ferroviários",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/rodizio-de-veiculos-e-suspenso-em-sp-nesta-terca-4-por-causa-de-greve-de-ferroviarios.shtml"
         },
         {
           "rank": 5,
@@ -103,13 +103,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cleitinho chora ao desistir de candidatura ao governo de Minas e amplia impasse de Flávio; veja vídeo",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/03/cleitinho-anuncia-que-nao-vai-ser-candidato-ao-governo-e-amplia-impasse-de-flavio-em-minas.ghtml"
+          "title": "Saiba qual é o impasse que trava a negociação de Thiago Almada com o Flamengo",
+          "url": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/saiba-qual-e-o-impasse-que-trava-a-negociacao-de-thiago-almada-com-o-flamengo.ghtml"
         },
         {
           "rank": 2,
-          "title": "Saiba qual é o impasse que trava a negociação de Thiago Almada com o Flamengo",
-          "url": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/saiba-qual-e-o-impasse-que-trava-a-negociacao-de-thiago-almada-com-o-flamengo.ghtml"
+          "title": "Cleitinho chora ao desistir de candidatura ao governo de Minas e amplia impasse de Flávio; veja vídeo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/03/cleitinho-anuncia-que-nao-vai-ser-candidato-ao-governo-e-amplia-impasse-de-flavio-em-minas.ghtml"
         },
         {
           "rank": 3,
@@ -285,18 +285,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Un paro sorpresivo en los puertos frena el comercio de granos y de combustibles",
-          "url": "https://www.clarin.com/rural/mucha-preocupacion-practicos-dejaron-prestar-servicios-desregulacion-gobierno-150-barcos-paralizados_0_2dVxjgdblt.html"
-        },
-        {
-          "rank": 2,
           "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
           "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Un hombre se lanzó desnudo al río desde el puente de Brooklyn con una mochila como paracaídas: sobrevivió y quedó procesado",
           "url": "https://www.clarin.com/internacional/hombre-lanzo-desnudo-rio-puente-brooklyn-mochila-paracaidas-sobrevivio-quedo-procesado_0_BJQY2z1ntI.html"
+        },
+        {
+          "rank": 3,
+          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
+          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
-          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
+          "title": "Un paro sorpresivo en los puertos frena el comercio de granos y de combustibles",
+          "url": "https://www.clarin.com/rural/mucha-preocupacion-practicos-dejaron-prestar-servicios-desregulacion-gobierno-150-barcos-paralizados_0_2dVxjgdblt.html"
         }
       ],
       "erro": null

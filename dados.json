@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 00:32",
+  "atualizado_em": "04/08/2026 00:37",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
-          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
-          "rank": 4,
           "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
           "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
           "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+        },
+        {
+          "rank": 5,
+          "title": "Dino é sorteado relator de 3º inquérito pedido pela PF para apurar tráfico de influência de Lulinha",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
         }
       ],
       "erro": null

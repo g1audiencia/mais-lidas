@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 09:18",
+  "atualizado_em": "04/08/2026 09:24",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
-          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
-        },
-        {
-          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 3,
+          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
+          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
+        },
+        {
           "rank": 4,
-          "title": "Novas regras da CNH provocam 100 mil demissões e viram alvo de ação no STF",
-          "url": "https://www.estadao.com.br/jornal-do-carro/novas-regras-da-cnh-provocam-100-mil-demissoes-e-viram-alvo-de-acao-no-stf/"
+          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
         },
         {
           "rank": 5,
-          "title": "Além do Tesouro IPCA+: os investimentos que protegem da inflação e podem pagar mais",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/alem-do-tesouro-ipca-os-investimentos-que-protegem-da-inflacao-e-podem-pagar-mais/"
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "US states sue to block Trump tariffs impacting dozens of countries",
-          "url": "https://www.bbc.com/news/articles/cy4kp8jd0ppo"
-        },
-        {
-          "rank": 4,
           "title": "France wildfires reveal hundreds of WW2 shells in village",
           "url": "https://www.bbc.com/news/articles/cgmkxjrrwdvo"
         },
         {
+          "rank": 4,
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "url": "https://www.bbc.com/news/articles/cy4kp8jd0ppo"
+        },
+        {
           "rank": 5,
-          "title": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
-          "url": "https://www.bbc.com/news/articles/c6295z6jkw6o"
+          "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+          "url": "https://www.bbc.com/news/articles/c3ek7g857q4o"
         }
       ],
       "erro": null
@@ -285,7 +285,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Facundo Moyano fue demorado en Belgrano tras un violento episodio con una joven que corría semidesnuda por la calle",
+          "title": "Facundo Moyano fue detenido en Belgrano tras un violento episodio con una joven que corría semidesnuda por la calle",
           "url": "https://www.clarin.com/politica/facundo-moyano-demorado-violento-episodio-joven-belgrano_0_5ZiV93xxN7.html"
         },
         {
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
-          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
+          "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
+          "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
         },
         {
           "rank": 5,
-          "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
-          "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
+          "title": "Frenó de golpe porque creyó que había un radar y casi provoca una tragedia: 23 heridos",
+          "url": "https://www.clarin.com/sociedad/video-brutal-choque-berisso-colectivo-impacto-auto-freno-golpe-incrusto-arbol_0_n34Id2TKnV.html"
         }
       ],
       "erro": null

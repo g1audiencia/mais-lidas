@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 15:43",
+  "atualizado_em": "04/08/2026 15:49",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Gabriel Medina anuncia perda do primeiro filho cinco dias após casamento",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gabriel-medina-anuncia-perda-do-primeiro-filho-cinco-dias-apos-casamento.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Após três décadas, Sampaoli conquista sua primeira vitória como técnico no futebol argentino",
           "url": "https://www1.folha.uol.com.br/esporte/2026/08/apos-tres-decadas-sampaoli-conquista-sua-primeira-vitoria-como-tecnico-no-futebol-argentino.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Rosana Hermann: William Bonner e a mais feliz 'mudança de lixo'",
           "url": "https://f5.folha.uol.com.br/colunistas/rosana-hermann/2026/08/william-bonner-e-a-mais-feliz-mudanca-de-lixo.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Diferenças salariais nas polícias dos estados chegam a superar 100%; veja valores",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/diferencas-salariais-nas-policias-dos-estados-chegam-a-superar-100-veja-valores.shtml"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
+          "title": "Por que as bets mudaram de tática e agora apostam no futebol amador",
+          "url": "https://www.estadao.com.br/economia/por-que-as-bets-mudaram-de-tatica-e-agora-apostam-no-futebol-amador/"
         },
         {
           "rank": 5,
-          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
-          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 02:06",
+  "atualizado_em": "04/08/2026 02:11",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
+          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
         },
         {
           "rank": 3,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 5,
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
-          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
-        },
-        {
-          "rank": 2,
-          "title": "Un hombre se lanzó desnudo al río desde el puente de Brooklyn con una mochila como paracaídas: sobrevivió y quedó procesado",
-          "url": "https://www.clarin.com/internacional/hombre-lanzo-desnudo-rio-puente-brooklyn-mochila-paracaidas-sobrevivio-quedo-procesado_0_BJQY2z1ntI.html"
-        },
-        {
-          "rank": 3,
-          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
-          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
-        },
-        {
-          "rank": 4,
           "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
           "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
         },
         {
+          "rank": 2,
+          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
+          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
+        },
+        {
+          "rank": 3,
+          "title": "Un hombre se lanzó desnudo al río desde el puente de Brooklyn con una mochila como paracaídas: sobrevivió y quedó procesado",
+          "url": "https://www.clarin.com/internacional/hombre-lanzo-desnudo-rio-puente-brooklyn-mochila-paracaidas-sobrevivio-quedo-procesado_0_BJQY2z1ntI.html"
+        },
+        {
+          "rank": 4,
+          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
+          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
+        },
+        {
           "rank": 5,
-          "title": "\"Abucheos en todos los estadios\": los hinchas del Chelsea cuestionan el fichaje de Valentín Barco y recuerdan el golpe de Bellingham en el Mundial",
-          "url": "https://www.clarin.com/deportes/abucheos-estadios-hinchas-chelsea-cuestionan-fichaje-valentin-barco-recuerdan-golpe-bellingham-mundial_0_oBO9vtLxP4.html"
+          "title": "Llegó apuñalado al hospital y murió a las pocas horas: detuvieron a su novia",
+          "url": "https://www.clarin.com/policiales/llego-apunalado-hospital-murio-pocas-horas-detuvieron-novia_0_xqBWAxbaml.html"
         }
       ],
       "erro": null

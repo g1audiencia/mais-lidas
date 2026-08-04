@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 19:32",
+  "atualizado_em": "04/08/2026 19:37",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+        },
+        {
+          "rank": 4,
           "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         },
         {
-          "rank": 4,
-          "title": "Brasil só terá juros civilizados se tiver uma discussão de projeto de país, diz CEO do Banco XP",
-          "url": "https://www.estadao.com.br/economia/brasil-so-tera-juros-civilizados-se-tiver-uma-discussao-de-projeto-de-pais-diz-ceo-do-banco-xp/"
-        },
-        {
           "rank": 5,
-          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
-          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
+          "title": "A República dos sem explicação",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/a-republica-dos-sem-explicacao/"
         }
       ],
       "erro": null

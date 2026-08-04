@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 09:12",
+  "atualizado_em": "04/08/2026 09:18",
   "portais": [
     {
       "portal": "Folha",
@@ -7,13 +7,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Professor brasileiro de jiu-jítsu é preso nos EUA pelo ICE, e alunos fazem campanha por soltura",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/professor-brasileiro-de-jiu-jitsu-e-preso-nos-eua-pelo-ice-e-alunos-fazem-campanha-por-soltura.shtml"
+          "title": "Preços de carros novos caem no Brasil pressionados por estratégia chinesa",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/precos-de-carros-novos-caem-no-brasil-pressionados-por-estrategia-chinesa.shtml"
         },
         {
           "rank": 2,
-          "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
+          "title": "Professor brasileiro de jiu-jítsu é preso nos EUA pelo ICE, e alunos fazem campanha por soltura",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/professor-brasileiro-de-jiu-jitsu-e-preso-nos-eua-pelo-ice-e-alunos-fazem-campanha-por-soltura.shtml"
         },
         {
           "rank": 3,
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "O que revelou o dr. Fauci",
-          "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
+          "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
         },
         {
           "rank": 5,
-          "title": "Pela primeira vez em uma década, americanos confiam mais em democratas para economia, diz pesquisa",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/pela-primeira-vez-em-uma-decada-americanos-confiam-mais-em-democratas-para-economia-diz-pesquisa.shtml"
+          "title": "O que revelou o dr. Fauci",
+          "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
         }
       ],
       "erro": null
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
           "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
         },
         {
+          "rank": 3,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
           "rank": 4,
-          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
+          "title": "Novas regras da CNH provocam 100 mil demissões e viram alvo de ação no STF",
+          "url": "https://www.estadao.com.br/jornal-do-carro/novas-regras-da-cnh-provocam-100-mil-demissoes-e-viram-alvo-de-acao-no-stf/"
         },
         {
           "rank": 5,

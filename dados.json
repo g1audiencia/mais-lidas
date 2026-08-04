@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 03:01",
+  "atualizado_em": "04/08/2026 03:07",
   "portais": [
     {
       "portal": "Folha",
@@ -71,28 +71,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Goleiro Vozinha é recebido por multidão no Chile: \"Agradeço por me esperar\"",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/goleiro-vozinha-e-recebido-por-multidao-no-chile-agradeco-por-me-esperar/"
-        },
-        {
-          "rank": 2,
-          "title": "Cataratas do Iguaçu: Argentina vai desmontar Passarela da Garganta do Diabo",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/cataratas-do-iguacu-argentina-vai-desmontar-passarela-da-garganta-do-diabo/"
-        },
-        {
-          "rank": 3,
-          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
-        },
-        {
-          "rank": 4,
           "title": "Trabalhadores da CPTM entram em greve e trens param em SP; veja linhas",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trabalhadores-da-cptm-entram-em-greve-e-trens-param-em-sp-veja-linhas/"
         },
         {
+          "rank": 2,
+          "title": "Quem é Marco Furlan, ator preso suspeito de estupro de vulnerável",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-marco-furlan-ator-preso-suspeito-de-estupro-de-vulneravel/"
+        },
+        {
+          "rank": 3,
+          "title": "Lutador Allan \"Puro Osso\" morre aos 34 anos",
+          "url": "https://www.cnnbrasil.com.br/esportes/lutas/lutador-allan-puro-osso-morre-aos-34-anos/"
+        },
+        {
+          "rank": 4,
+          "title": "Amiga de Lulinha fez pagamentos a ex-chefe de gabinete de Lula",
+          "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/amiga-de-lulinha-fez-pagamentos-a-ex-chefe-de-gabinete-de-lula/"
+        },
+        {
           "rank": 5,
-          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
+          "title": "Ator Marco Furlan é preso suspeito por estupro de vulnerável em SP",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ator-marco-furlan-e-preso-suspeito-por-estupro-de-vulneravel-em-sp/"
         }
       ],
       "erro": null
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 2,
-          "title": "Biografia de um Leonel Brizola contra o imperialismo chega com tema esquentado por Trump",
-          "url": "https://www.estadao.com.br/politica/biografia-de-um-leonel-brizola-contra-o-imperialismo-chega-com-tema-esquentado-por-trump/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "STF invalida restrição a benefício fiscal para compra de veículos por pessoas com deficiência",
-          "url": "https://www.estadao.com.br/economia/stf-invalida-restricao-da-reforma-tributaria-a-beneficio-fiscal-para-compra-de-veiculos-por-pcd/"
+          "title": "Brigadeiro revela o fato mais grave do golpe de Bolsonaro, condena Lula e defende reforma na Defesa",
+          "url": "https://www.estadao.com.br/politica/marcelo-godoy/brigadeiro-revela-o-fato-mais-grave-do-golpe-de-bolsonaro-condena-lula-e-quer-reforma-na-defesa/"
         },
         {
           "rank": 5,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
+          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-          "url": "https://www.bbc.com/news/articles/c3ek7g857q4o"
+          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+          "url": "https://www.bbc.com/news/articles/cr7kmnyrdn7o"
         },
         {
           "rank": 4,
-          "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-          "url": "https://www.bbc.com/news/articles/cr7kmnyrdn7o"
+          "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+          "url": "https://www.bbc.com/news/articles/c3ek7g857q4o"
         },
         {
           "rank": 5,

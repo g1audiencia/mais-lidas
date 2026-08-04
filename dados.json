@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 13:02",
+  "atualizado_em": "04/08/2026 13:08",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Ator Marco Furlan é preso no interior de SP sob suspeita de estupro de criança",
+          "url": "https://www.uol.com.br/splash/noticias/2026/08/04/marco-furlan-e-preso-sob-suspeita-de-estupro-de-vulneravel.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Nicolas, lateral do São Paulo, é preso após atropelar e matar pedestre na Grande SP",
           "url": "https://www.uol.com.br/esporte/colunas/gabriel-sa/2026/08/04/nicolas-lateral-do-sao-paulo-e-preso-apos-atropelamento-com-morte.htm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Cleitinho volta atrás e pede para concorrer ao Governo de MG durante convenção",
           "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/cleitinho-governador-mg.ghtm"
-        },
-        {
-          "rank": 3,
-          "title": "Dino aceita pedido da PF e autoriza terceiro inquérito sobre Lulinha",
-          "url": "https://noticias.uol.com.br/colunas/carla-araujo/2026/08/04/dino-acata-pedido-da-pf-e-abre-2-inqueritos-sobre-lulinha.htm"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Médicos e enfermeiros viram 'investidores' em novo tipo de pejotização",
-          "url": "https://economia.uol.com.br/colunas/carlos-juliano-barros/2026/08/04/medicos-e-enfermeiros-viram-investidores-em-novo-tipo-de-pejotizacao.htm"
+          "title": "Dino aceita pedido da PF e autoriza terceiro inquérito sobre Lulinha",
+          "url": "https://noticias.uol.com.br/colunas/carla-araujo/2026/08/04/dino-acata-pedido-da-pf-e-abre-2-inqueritos-sobre-lulinha.htm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 2,
-          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
-        },
-        {
-          "rank": 3,
           "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
+        },
+        {
+          "rank": 3,
           "title": "Lula, mais uma vez",
           "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
         },
         {
+          "rank": 4,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
           "rank": 5,
-          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
+          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
-          "url": "https://apnews.com/article/border-wall-wells-water-ranch-new-mexico-5ad8fcbcbef112381a6cc56ba3566002"
+          "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite",
+          "url": "https://apnews.com/article/michigan-cyclospora-outbreak-deaths-cf058908cdfd1bfd405d15e7079bed14"
         },
         {
           "rank": 5,
-          "title": "Ariana Grande withdraws from London musical and will take a break from the public eye",
-          "url": "https://apnews.com/article/ariana-grande-quit-sunday-park-george-london-c155c3d6b912dab58d0a9780964100b2"
+          "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
+          "url": "https://apnews.com/article/border-wall-wells-water-ranch-new-mexico-5ad8fcbcbef112381a6cc56ba3566002"
         }
       ],
       "erro": null

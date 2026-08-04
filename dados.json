@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 10:42",
+  "atualizado_em": "04/08/2026 10:47",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
-          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
-        },
-        {
-          "rank": 3,
           "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 4,
+          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
+          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
+        },
+        {
           "rank": 5,
-          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
+          "title": "Novas regras da CNH provocam 100 mil demissões, apontam autoescolas, e viram alvo de ação no STF",
+          "url": "https://www.estadao.com.br/jornal-do-carro/novas-regras-da-cnh-provocam-100-mil-demissoes-e-viram-alvo-de-acao-no-stf/"
         }
       ],
       "erro": null

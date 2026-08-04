@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 07:55",
+  "atualizado_em": "04/08/2026 08:00",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula, mais uma vez",
-          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
-        },
-        {
-          "rank": 2,
           "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
           "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
         },
         {
-          "rank": 3,
-          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+        },
+        {
+          "rank": 4,
+          "title": "Lula, mais uma vez",
+          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
+        },
+        {
+          "rank": 5,
+          "title": "Fraudes do INSS: PF mira lavagem de dinheiro do esquema em nova fase da Operação Sem Desconto",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Megaoperação mira grupo que planejava atentado em Brasília nas eleições",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/megaoperacao-mira-grupo-que-planejava-atentado-em-brasilia-nas-eleicoes"
+        },
+        {
+          "rank": 2,
           "title": "Como fica o transporte em SP com a greve dos ferroviários da CPTM",
           "url": "https://www.metropoles.com/sao-paulo/como-fica-o-transporte-em-sp-com-a-greve-dos-ferroviarios-da-cptm"
         },
         {
-          "rank": 2,
-          "title": "Foragido, coronel da PMDF acumulou R$ 847,9 mil em salários por 3 anos",
-          "url": "https://www.metropoles.com/distrito-federal/na-mira/foragido-coronel-da-pmdf-acumulou-r-8479-mil-em-salarios-por-3-anos"
-        },
-        {
           "rank": 3,
-          "title": "Líder nas pesquisas, Alvaro Dias desiste de candidatura ao Senado",
-          "url": "https://www.metropoles.com/brasil/lider-nas-pesquisas-alvaro-dias-desiste-de-candidatura-ao-senado"
+          "title": "Ministro da Justiça despacha pedido de Lulinha para apurar vazamentos",
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/ministro-da-justica-despacha-pedido-de-lulinha-para-apurar-vazamentos"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Encontraron en Brasil a Micaela Albornoz, la rosarina buscada desde hace más de un mes",
-          "url": "https://www.clarin.com/sociedad/encontraron-brasil-micaela-albornoz-rosarina-buscada-hace-mes_0_aUTq6xSfmK.html"
+          "title": "Los documentos clasificados de las SS sobre Erich Priebke, el criminal nazi que huyó a la Argentina y se escondió en Bariloche tras la caída de Hitler",
+          "url": "https://www.clarin.com/mundo/documentos-clasificados-ss-erich-priebke-criminal-nazi-huyo-argentina-escondio-bariloche-caida-hitler_0_Het4yL8kkC.html"
         },
         {
           "rank": 5,
-          "title": "Fuertes explosiones, lava y cenizas a más de 6.000 metros de altura: alerta por el volcán de Fuego",
-          "url": "https://www.clarin.com/mundo/fuertes-explosiones-lava-cenizas-6000-metros-altura-alerta-volcan-fuego_0_NmKyYWUL0J.html"
+          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
+          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
         }
       ],
       "erro": null

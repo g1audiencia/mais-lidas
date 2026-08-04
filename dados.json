@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 20:00",
+  "atualizado_em": "04/08/2026 20:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
-        },
-        {
-          "rank": 2,
           "title": "Governo Lula vê pressão política e chantagem em expulsão de embaixadora por Trump",
           "url": "https://www.estadao.com.br/internacional/governo-lula-ve-pressao-politica-e-chantagem-em-expulsao-de-embaixadora-por-trump/"
         },
         {
-          "rank": 3,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+          "rank": 2,
+          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
           "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
         },
         {
+          "rank": 4,
+          "title": "Aécio Neves decide não disputar eleições após 40 anos de mandatos",
+          "url": "https://www.estadao.com.br/politica/aecio-decide-nao-disputar-eleicoes-apos-40-anos-de-mandatos/"
+        },
+        {
           "rank": 5,
-          "title": "Brasil só terá juros civilizados se tiver uma discussão de projeto de país, diz CEO do Banco XP",
-          "url": "https://www.estadao.com.br/economia/brasil-so-tera-juros-civilizados-se-tiver-uma-discussao-de-projeto-de-pais-diz-ceo-do-banco-xp/"
+          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "Ator preso por estupro foi encontrado nu e segurando a cueca de menino",
-          "url": "https://www.metropoles.com/sao-paulo/ator-preso-por-estupro-foi-encontrado-nu-e-segurando-a-cueca-de-menino"
+          "title": "Candidato a governador do Pará se pronuncia com esposa após vídeo íntimo viralizar",
+          "url": "https://www.metropoles.com/colunas/grande-angular/candidato-a-governador-se-pronuncia-com-esposa-apos-video-intimo-viralizar"
         },
         {
           "rank": 3,
-          "title": "Candidato a governador do Pará se pronuncia com esposa após vídeo íntimo viralizar",
-          "url": "https://www.metropoles.com/colunas/grande-angular/candidato-a-governador-se-pronuncia-com-esposa-apos-video-intimo-viralizar"
+          "title": "Greve da CPTM: sindicato nega oferta do governo e mantém paralisação.",
+          "url": "https://www.metropoles.com/sao-paulo/greve-da-cptm-sindicato-nega-oferta-do-governo-e-mantem-paralisacao"
         }
       ],
       "erro": null

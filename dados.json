@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 21:17",
+  "atualizado_em": "03/08/2026 21:23",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Dino é sorteado relator de 3º inquérito pedido pela PF para apurar tráfico de influência de Lulinha",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
-        },
-        {
-          "rank": 4,
           "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
         },
         {
+          "rank": 4,
+          "title": "Novos ataques de Milei a Lula complicam retorno de embaixador do Brasil à Argentina",
+          "url": "https://www.estadao.com.br/internacional/novos-ataques-de-milei-a-lula-complicam-retorno-de-embaixador-do-brasil-a-argentina/"
+        },
+        {
           "rank": 5,
-          "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
-          "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
+          "title": "Ferroviários confirmam greve e paralisam linhas 11-Coral, 12-Safira e 13-Jade em SP",
+          "url": "https://www.estadao.com.br/sao-paulo/ferroviarios-confirmam-greve-e-paralisam-linhas-11-coral-12-safira-e-13-jade-em-sp/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Analysis: Trump fumes as top allies back down on his personal battles",
+          "url": "https://www.bbc.com/news/articles/cgjed2q2l0xo"
+        },
+        {
+          "rank": 2,
           "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
           "url": "https://www.bbc.com/news/articles/cr7kmnyrdn7o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
           "url": "https://www.bbc.com/news/articles/c2k7px317eeo"
         },
         {
-          "rank": 3,
-          "title": "Holdout senators back Blanche for AG after he formally withdraws Trump fund plan",
-          "url": "https://www.bbc.com/news/articles/c3w05gx32d4o"
-        },
-        {
           "rank": 4,
-          "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-          "url": "https://www.bbc.com/news/articles/c23579jzv08o"
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
         },
         {
           "rank": 5,
-          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
+          "title": "What are the 'luteal uglies'? And how they're affecting women",
+          "url": "https://www.bbc.com/news/articles/cy0jk6wjkn0o"
         }
       ],
       "erro": null

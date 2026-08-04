@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 11:44",
+  "atualizado_em": "04/08/2026 11:49",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Outro Canal: 'Quem Ama Cuida': Pilar vai tentar matar filho de Arthur Brandão em nova reviravolta",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/quem-ama-cuida-pilar-vai-tentar-matar-filho-de-arthur-brandao-em-nova-reviravolta.shtml"
+          "title": "CET diz que congestionamento de 2.000 km em SP foi erro do sistema e paralisa divulgação de lentidão",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-tem-mais-de-1000-km-de-congestionamento-com-rodizio-suspenso-e-greve-dos-trens.shtml"
         },
         {
           "rank": 5,
-          "title": "Outro Canal: Campeã do BBB 26, Ana Paula Renault renova contrato com a Globo e terá projeto na TV",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/campea-do-bbb-26-ana-paula-renault-renova-contrato-com-a-globo-e-tera-projeto-na-tv.shtml"
+          "title": "MPF pede desbloqueio de R$ 54 bi de acionistas da Lojas Americanas",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/mpf-pede-desbloqueio-de-r-54-bi-de-acionistas-da-lojas-americanas.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 3,
-          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
-        },
-        {
-          "rank": 4,
           "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
         },
         {
+          "rank": 3,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "BYD lança novo Song Pro Flex, seu segundo híbrido plug-in capaz de rodar com etanol",
+          "url": "https://www.estadao.com.br/jornal-do-carro/byd-lanca-novo-song-pro-flex-seu-segundo-hibrido-plug-in-capaz-de-rodar-com-etanol/"
+        },
+        {
           "rank": 5,
-          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 03:40",
+  "atualizado_em": "04/08/2026 03:46",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 2,
-          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
-        },
-        {
-          "rank": 3,
           "title": "Como Gianni Infantino foi do céu ao inferno na presidência da Fifa em apenas duas semanas",
           "url": "https://www.estadao.com.br/esportes/futebol/como-gianni-infantino-foi-do-ceu-ao-inferno-na-presidencia-da-fifa-em-apenas-duas-semanas/"
         },
         {
+          "rank": 3,
+          "title": "Infantino ‘implora’ ajuda a Trump para ficar na Fifa, diz jornal; Casa Branca nega reunião com Rubio",
+          "url": "https://www.estadao.com.br/esportes/futebol/infantino-implora-ajuda-a-trump-mas-rubio-nega-contato-para-discutir-crise-na-fifa-diz-jornal/"
+        },
+        {
           "rank": 4,
-          "title": "STF invalida restrição a benefício fiscal para compra de veículos por pessoas com deficiência",
-          "url": "https://www.estadao.com.br/economia/stf-invalida-restricao-da-reforma-tributaria-a-beneficio-fiscal-para-compra-de-veiculos-por-pcd/"
+          "title": "QG de Lula teme alto índice de abstenção e presidente chama Durigan para reduzir ruídos com mercado",
+          "url": "https://www.estadao.com.br/politica/qg-de-lula-teme-alto-indice-de-abstencao-e-presidente-chama-durigan-para-reduzir-ruidos-com-mercado/"
         },
         {
           "rank": 5,
-          "title": "Novos ataques de Milei a Lula complicam retorno de embaixador do Brasil à Argentina",
-          "url": "https://www.estadao.com.br/internacional/novos-ataques-de-milei-a-lula-complicam-retorno-de-embaixador-do-brasil-a-argentina/"
+          "title": "Lula, mais uma vez",
+          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
         }
       ],
       "erro": null

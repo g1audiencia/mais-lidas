@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 14:14",
+  "atualizado_em": "04/08/2026 14:20",
   "portais": [
     {
       "portal": "Folha",
@@ -12,18 +12,18 @@
         },
         {
           "rank": 2,
+          "title": "Após três décadas, Sampaoli conquista sua primeira vitória como técnico no futebol argentino",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/08/apos-tres-decadas-sampaoli-conquista-sua-primeira-vitoria-como-tecnico-no-futebol-argentino.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Advogado era 'hub financeiro' de Weverton Rocha e comprou mansão de R$ 6 mi usada por senador, diz PF",
           "url": "https://www1.folha.uol.com.br/mercado/2026/08/advogado-era-hub-financeiro-de-weverton-rocha-e-comprou-mansao-de-r-6-mi-usada-por-senador-diz-pf.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Quem é o senador cujos parentes são alvos da PF em nova fase de investigação sobre fraudes no INSS",
           "url": "https://www1.folha.uol.com.br/mercado/2026/08/quem-e-o-senador-cujos-parentes-sao-alvos-da-pf-em-nova-fase-de-investigacao-sobre-fraudes-no-inss.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Após três décadas, Sampaoli conquista sua primeira vitória como técnico no futebol argentino",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/08/apos-tres-decadas-sampaoli-conquista-sua-primeira-vitoria-como-tecnico-no-futebol-argentino.shtml"
         },
         {
           "rank": 5,
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
-          "title": "Nicolas, lateral do São Paulo, é preso após atropelar e matar pedestre na Grande SP",
-          "url": "https://www.uol.com.br/esporte/colunas/gabriel-sa/2026/08/04/nicolas-lateral-do-sao-paulo-e-preso-apos-atropelamento-com-morte.htm"
-        },
-        {
-          "rank": 4,
           "title": "Lula não vai a entrevista da GloboNews com candidatos à Presidência",
           "url": "https://noticias.uol.com.br/eleicoes/2026/08/04/lula-nao-vai-a-entrevista-da-globonews-com-candidatos-a-presidencia.ghtm"
         },
         {
+          "rank": 4,
+          "title": "Nicolas, lateral do São Paulo, é preso após atropelar e matar pedestre na Grande SP",
+          "url": "https://www.uol.com.br/esporte/colunas/gabriel-sa/2026/08/04/nicolas-lateral-do-sao-paulo-e-preso-apos-atropelamento-com-morte.htm"
+        },
+        {
           "rank": 5,
-          "title": "Cleitinho volta atrás e pede para concorrer ao Governo de MG, mas Republicanos nega",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/cleitinho-governador-mg.ghtm"
+          "title": "CNJ aprova fim de aposentadoria como pena máxima para juiz infrator",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/cnj-aposentadoria-compulsoria.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
+          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
+        },
+        {
+          "rank": 3,
           "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         },
         {
-          "rank": 3,
-          "title": "Por que as bets mudaram de tática e agora apostam no futebol amador",
-          "url": "https://www.estadao.com.br/economia/por-que-as-bets-mudaram-de-tatica-e-agora-apostam-no-futebol-amador/"
-        },
-        {
           "rank": 4,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Nikolas Ferreira espalha mentiras já refutadas sobre vacinas e pandemia",
+          "url": "https://www.estadao.com.br/estadao-verifica/nikolas-ferreira-anthony-fauci-vacina-pandemia-covid-falso/"
         },
         {
           "rank": 5,
-          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
-          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
+          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
         }
       ],
       "erro": null
@@ -221,13 +221,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump says Pirro ‘folded like an umbrella’ in bid to drop Reflecting Pool vandalism charges",
-          "url": "https://apnews.com/article/trump-reflecting-pool-pirro-vandalism-criticism-c7aabcf59e87651dd7be0b322b5460b1"
+          "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
+          "url": "https://apnews.com/article/wildfire-spokane-washington-evacuate-8e42b37783bda01e7d004d71e546458e"
         },
         {
           "rank": 2,
-          "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
-          "url": "https://apnews.com/article/wildfire-spokane-washington-evacuate-8e42b37783bda01e7d004d71e546458e"
+          "title": "Trump says Pirro ‘folded like an umbrella’ in bid to drop Reflecting Pool vandalism charges",
+          "url": "https://apnews.com/article/trump-reflecting-pool-pirro-vandalism-criticism-c7aabcf59e87651dd7be0b322b5460b1"
         },
         {
           "rank": 3,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 13:19",
+  "atualizado_em": "04/08/2026 13:24",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
+          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         },
         {
           "rank": 2,
-          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
+          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         },
         {
           "rank": 3,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "O que as canetas para obesidade revelam sobre a saúde da pele",
-          "url": "https://www.estadao.com.br/pulsa/thales-bretas/o-que-as-canetas-para-obesidade-revelam-sobre-a-saude-da-pele/"
+          "title": "Lula, mais uma vez",
+          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
         },
         {
           "rank": 5,
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Afghan boxer arrested in connection with death of Scottish woman in Greece",
-          "url": "https://www.bbc.com/news/articles/c0m7xpr8zvvo"
-        },
-        {
-          "rank": 4,
           "title": "France wildfires reveal hundreds of WW2 shells in village",
           "url": "https://www.bbc.com/news/articles/cgmkxjrrwdvo"
         },
         {
+          "rank": 4,
+          "title": "Afghan boxer arrested in connection with death of Scottish woman in Greece",
+          "url": "https://www.bbc.com/news/articles/c0m7xpr8zvvo"
+        },
+        {
           "rank": 5,
-          "title": "Ed Sheeran fined for failing to insure Aston Martin",
-          "url": "https://www.bbc.com/news/articles/cpw9v0rlj5go"
+          "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+          "url": "https://www.bbc.com/news/articles/c3ek7g857q4o"
         }
       ],
       "erro": null

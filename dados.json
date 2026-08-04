@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 09:46",
+  "atualizado_em": "04/08/2026 09:52",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
+          "title": "O que revelou o dr. Fauci",
+          "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
         },
         {
           "rank": 5,
-          "title": "O que revelou o dr. Fauci",
-          "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
+          "title": "Outro Canal: Campeã do BBB 26, Ana Paula Renault renova contrato com a Globo e terá projeto na TV",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/campea-do-bbb-26-ana-paula-renault-renova-contrato-com-a-globo-e-tera-projeto-na-tv.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
           "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
         },
         {
+          "rank": 3,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
           "rank": 4,
-          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+          "title": "Após Liceu, SP prevê mais escolas sob gestão privada e corte de repasse para quem não bater meta",
+          "url": "https://www.estadao.com.br/educacao/apos-liceu-sp-preve-mais-escolas-sob-gestao-privada-e-corte-de-repasse-para-quem-nao-bater-meta/"
         },
         {
           "rank": 5,
-          "title": "Após Liceu, SP prevê mais escolas sob gestão privada e corte de repasse para quem não bater meta",
-          "url": "https://www.estadao.com.br/educacao/apos-liceu-sp-preve-mais-escolas-sob-gestao-privada-e-corte-de-repasse-para-quem-nao-bater-meta/"
+          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
         }
       ],
       "erro": null
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Facundo Moyano fue detenido en Belgrano tras un violento episodio con una joven que corría semidesnuda por la calle",
+          "title": "Facundo Moyano fue detenido en Belgrano tras un violento episodio con una modelo que corría semidesnuda por la calle",
           "url": "https://www.clarin.com/politica/facundo-moyano-demorado-violento-episodio-joven-belgrano_0_5ZiV93xxN7.html"
         },
         {
           "rank": 2,
+          "title": "Facundo Moyano detenido: el video que muestra cuando la joven de 23 años deambula semidesnuda por Belgrano",
+          "url": "https://www.clarin.com/politica/facundo-moyano-demorado-video-muestra-joven-23-anos-deambula-semidesnuda-belgrano_0_syKIRZOA2a.html"
+        },
+        {
+          "rank": 3,
           "title": "Una nueva encuesta midió seis duelos políticos y hubo ganadores sorpresivos",
           "url": "https://www.clarin.com/politica/nueva-encuesta-midio-duelos-politicos-ganadores-sorpresivos_0_LDGWXOBMb2.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Los documentos clasificados de las SS sobre Erich Priebke, el criminal nazi que huyó a la Argentina y se escondió en Bariloche tras la caída de Hitler",
           "url": "https://www.clarin.com/mundo/documentos-clasificados-ss-erich-priebke-criminal-nazi-huyo-argentina-escondio-bariloche-caida-hitler_0_Het4yL8kkC.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Frenó de golpe porque creyó que había un radar y casi provoca una tragedia: 23 heridos",
           "url": "https://www.clarin.com/sociedad/video-brutal-choque-berisso-colectivo-impacto-auto-freno-golpe-incrusto-arbol_0_n34Id2TKnV.html"
-        },
-        {
-          "rank": 5,
-          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
-          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
         }
       ],
       "erro": null

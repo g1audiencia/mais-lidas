@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 22:24",
+  "atualizado_em": "03/08/2026 22:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
-          "rank": 2,
-          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
-        },
-        {
-          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 2,
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+        },
+        {
+          "rank": 3,
+          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+        },
+        {
           "rank": 4,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
         },
         {
           "rank": 5,
-          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
-          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
+          "title": "Novos ataques de Milei a Lula complicam retorno de embaixador do Brasil à Argentina",
+          "url": "https://www.estadao.com.br/internacional/novos-ataques-de-milei-a-lula-complicam-retorno-de-embaixador-do-brasil-a-argentina/"
         }
       ],
       "erro": null

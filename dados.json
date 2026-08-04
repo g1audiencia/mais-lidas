@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 22:41",
+  "atualizado_em": "03/08/2026 22:47",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
-        },
-        {
-          "rank": 4,
           "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
         },
         {
+          "rank": 4,
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
+        },
+        {
           "rank": 5,
-          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
+          "title": "John Leguizamo ironiza Musk, fala sobre ódio e exalta ‘A Odisseia’: ‘É hipnotizante de assistir’",
+          "url": "https://www.estadao.com.br/cultura/cinema/john-leguizamo-ironiza-musk-fala-sobre-odio-e-exalta-a-odisseia-e-hipnotizante-de-assistir/"
         }
       ],
       "erro": null

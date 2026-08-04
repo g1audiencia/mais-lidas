@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 19:43",
+  "atualizado_em": "04/08/2026 19:49",
   "portais": [
     {
       "portal": "Folha",
@@ -12,18 +12,18 @@
         },
         {
           "rank": 2,
+          "title": "Gabriel Medina anuncia perda do primeiro filho cinco dias após casamento",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gabriel-medina-anuncia-perda-do-primeiro-filho-cinco-dias-apos-casamento.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Lula manda assessor explicar empréstimo de amiga de Lulinha investigada pela PF",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/lula-manda-assessor-explicar-emprestimo-de-amiga-de-lulinha-investigada-pela-pf.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Gabriel Medina anuncia perda do primeiro filho cinco dias após casamento",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gabriel-medina-anuncia-perda-do-primeiro-filho-cinco-dias-apos-casamento.shtml"
         },
         {
           "rank": 5,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+          "title": "Greve CPTM: funcionários decidem manter paralisação das linhas 11, 12 e 13 em SP",
+          "url": "https://www.estadao.com.br/sao-paulo/greve-cptm-funcionarios-decidem-manter-paralisacao-das-linhas-11-12-e-13-em-sp/"
         },
         {
           "rank": 5,
-          "title": "Greve CPTM: funcionários decidem manter paralisação das linhas 11, 12 e 13 em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/greve-cptm-funcionarios-decidem-manter-paralisacao-das-linhas-11-12-e-13-em-sp/"
+          "title": "Governo Lula vai dar ‘chá de cadeira’ em indicado por Trump para embaixada dos EUA no Brasil",
+          "url": "https://www.estadao.com.br/economia/governo-lula-vai-dar-cha-de-cadeira-em-indicado-por-trump-para-embaixada-dos-eua-no-brasil/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-          "url": "https://www.bbc.com/news/articles/c0qvpveg20vo"
+          "title": "US congressman refuses to drop reelection bid over ex-wife's abuse claims",
+          "url": "https://www.bbc.com/news/articles/czrj1751r02o"
         }
       ],
       "erro": null

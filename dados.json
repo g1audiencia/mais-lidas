@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 23:59",
+  "atualizado_em": "04/08/2026 00:04",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
-          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
-        },
-        {
-          "rank": 2,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
-          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 2,
+          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
+          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
+        },
+        {
+          "rank": 3,
+          "title": "Dino é sorteado relator de 3º inquérito pedido pela PF para apurar tráfico de influência de Lulinha",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
+        },
+        {
           "rank": 4,
-          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 5,
-          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
-          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         }
       ],
       "erro": null

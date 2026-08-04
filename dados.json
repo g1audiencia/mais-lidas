@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 04:53",
+  "atualizado_em": "04/08/2026 07:55",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
           "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
         },
         {
+          "rank": 3,
+          "title": "Kassio reabre trabalhos do TSE e defende transparência das urnas para garantir confiança em eleições",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/kassio-reabre-trabalhos-do-tse-e-defende-transparencia-das-urnas-para-garantir-confianca-em-eleicoes.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Rodízio de veículos é suspenso em SP nesta terça (4) por causa de greve de ferroviários",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/rodizio-de-veiculos-e-suspenso-em-sp-nesta-terca-4-por-causa-de-greve-de-ferroviarios.shtml"
+          "title": "Juiz absolve réus em caso ligado a suicídio de reitor da UFSC",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/juiz-absolve-reus-em-caso-ligado-a-suicidio-de-reitor-da-ufsc.shtml"
         },
         {
           "rank": 5,
-          "title": "Kassio reabre trabalhos do TSE e defende transparência das urnas para garantir confiança em eleições",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/kassio-reabre-trabalhos-do-tse-e-defende-transparencia-das-urnas-para-garantir-confianca-em-eleicoes.shtml"
+          "title": "O que revelou o dr. Fauci",
+          "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
         }
       ],
       "erro": null
@@ -39,27 +39,27 @@
       "items": [
         {
           "rank": 1,
+          "title": "Fraude no INSS: advogado Willer Tomaz, ligado a políticos, é alvo de operação da PF",
+          "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/08/04/pf-operacao-sem-desconto-inss.htm"
+        },
+        {
+          "rank": 2,
+          "title": "Djokovic revela desejo por mudanças na pontuação do tênis: 'Melhor para todos'",
+          "url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/08/03/djokovic-revela-desejo-por-mudancas-na-pontuacao-do-tenis-melhor-para-todo-mundo.htm"
+        },
+        {
+          "rank": 3,
           "title": "Como cinco gatos em ilha criaram desastre ecológico que custará R$ 127 milhões",
           "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/03/plano-de-r-127-mi-quer-exterminar-1-milhao-de-ratos-em-ilha-sul-africana.ghtm"
         },
         {
-          "rank": 2,
-          "title": "Pai nega aposentadoria de Neymar na seleção: 'A Copa é daqui quatro anos'",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/03/neymar-pai-diz-que-filho-nao-se-aposentou-da-selecao-copa-e-daqui-4-anos.ghtm"
-        },
-        {
-          "rank": 3,
+          "rank": 4,
           "title": "Erro pouco conhecido pode atrair baratas para sua casa sem você perceber",
           "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/03/erro-pouco-conhecido-pode-atrair-baratas-para-sua-casa-sem-voce-perceber.ghtm"
         },
         {
-          "rank": 4,
-          "title": "Álvaro Dias desiste de disputar vaga no Senado pelo Paraná",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/03/alvaro-dias-desiste-de-disputar-senado-pelo-parana-nao-serei-candidato.htm"
-        },
-        {
           "rank": 5,
-          "title": "Açougueiro é preso após atacar três colegas a facadas em supermercado em SP",
+          "title": "Açougueiro é preso após atacar 3 colegas a facadas em supermercado em SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/03/ocorrencia-atacadista-sp-agosto-2026.ghtm"
         }
       ],
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
+          "title": "Ator Marco Furlan é preso suspeito por estupro de vulnerável em SP",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ator-marco-furlan-e-preso-suspeito-por-estupro-de-vulneravel-em-sp/"
         },
         {
           "rank": 5,
-          "title": "Ator Marco Furlan é preso suspeito por estupro de vulnerável em SP",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ator-marco-furlan-e-preso-suspeito-por-estupro-de-vulneravel-em-sp/"
+          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
         }
       ],
       "erro": null
@@ -103,28 +103,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Saiba qual é o impasse que trava a negociação de Thiago Almada com o Flamengo",
-          "url": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/saiba-qual-e-o-impasse-que-trava-a-negociacao-de-thiago-almada-com-o-flamengo.ghtml"
+          "title": "Ator Marco Furlan é preso em flagrante acusado de estuprar criança de 5 anos durante festa de aniversário em SP",
+          "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/08/ator-marco-furlan-e-preso-em-flagrante-acusado-de-estuprar-crianca-de-5-anos-durante-festa-de-aniversario-em-sp.ghtml"
         },
         {
           "rank": 2,
-          "title": "Cleitinho chora ao desistir de candidatura ao governo de Minas e amplia impasse de Flávio; veja vídeo",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/03/cleitinho-anuncia-que-nao-vai-ser-candidato-ao-governo-e-amplia-impasse-de-flavio-em-minas.ghtml"
+          "title": "Noite no hospital, viagens e salário de R$ 18 mil: como é a rotina das babás dos filhos de Virginia Fonseca",
+          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/04/noite-no-hospital-viagens-e-salario-de-r-18-mil-como-e-a-rotina-das-babas-dos-filhos-de-virginia-fonseca.ghtml"
         },
         {
           "rank": 3,
-          "title": "Neymar deixa futuro em aberto no Santos e não descarta aposentadoria: 'Vou pensar se paro ou continuo'",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/03/neymar-deixa-futuro-em-aberto-no-santos-e-nao-descarta-aposentadoria-vou-pensar-se-paro-ou-continuo.ghtml"
+          "title": "Flamengo rejeita leilão, mas vira refém em novela por Almada e letargia da diretoria no mercado é exposta de novo",
+          "url": "https://oglobo.globo.com/esportes/futebol/flamengo/noticia/2026/08/04/flamengo-rejeita-leilao-mas-vira-refem-em-novela-por-almada-e-letargia-da-diretoria-no-mercado-e-exposta-de-novo.ghtml"
         },
         {
           "rank": 4,
-          "title": "Barroso é internado em São Paulo após intoxicação alimentar durante viagem à França",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/03/barroso-e-internado-em-sao-paulo-apos-intoxicacao-alimentar-durante-viagem-a-franca.ghtml"
+          "title": "Projeto da escala 6x1 é ativo político para Lula e preocupa oposição, avaliam parlamentares",
+          "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/08/projeto-da-escala-6x1-e-ativo-politico-para-lula-e-preocupa-oposicao-avaliam-parlamentares.ghtml"
         },
         {
           "rank": 5,
-          "title": "Projeto da escala 6x1 é ativo político para Lula e preocupa oposição, avaliam parlamentares",
-          "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/08/projeto-da-escala-6x1-e-ativo-politico-para-lula-e-preocupa-oposicao-avaliam-parlamentares.ghtml"
+          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
+          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
+          "title": "Lula, mais uma vez",
+          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
         },
         {
           "rank": 2,
+          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
+          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
+        },
+        {
+          "rank": 3,
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+        },
+        {
+          "rank": 4,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 3,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
-        },
-        {
-          "rank": 5,
-          "title": "Ferroviários confirmam greve e paralisam linhas 11-Coral, 12-Safira e 13-Jade em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/ferroviarios-confirmam-greve-e-paralisam-linhas-11-coral-12-safira-e-13-jade-em-sp/"
         }
       ],
       "erro": null
@@ -167,8 +167,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ferroviários aprovam greve na CPTM por tempo indeterminado",
-          "url": "https://www.metropoles.com/sao-paulo/ferroviarios-aprovam-greve-na-cptm-por-tempo-indeterminado"
+          "title": "Como fica o transporte em SP com a greve dos ferroviários da CPTM",
+          "url": "https://www.metropoles.com/sao-paulo/como-fica-o-transporte-em-sp-com-a-greve-dos-ferroviarios-da-cptm"
         },
         {
           "rank": 2,
@@ -221,18 +221,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
-          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
-        },
-        {
-          "rank": 2,
           "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
           "url": "https://apnews.com/article/wildfire-spokane-washington-evacuate-8e42b37783bda01e7d004d71e546458e"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Ariana Grande withdraws from London musical and will take a break from the public eye",
           "url": "https://apnews.com/article/ariana-grande-quit-sunday-park-george-london-c155c3d6b912dab58d0a9780964100b2"
+        },
+        {
+          "rank": 3,
+          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
+          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
         },
         {
           "rank": 4,
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
-          "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
+          "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place",
+          "url": "https://apnews.com/article/trump-irs-todd-blanche-tax-settlement-5d70c9d590a0a3f181466660e99b4377"
         }
       ],
       "erro": null
@@ -258,8 +258,8 @@
         },
         {
           "rank": 2,
-          "title": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
-          "url": "https://www.bbc.com/news/articles/c6295z6jkw6o"
+          "title": "More than 150 migrants rescued after boat catches fire in Channel",
+          "url": "https://www.bbc.com/news/articles/c4gkpeppjyqo"
         },
         {
           "rank": 3,
@@ -268,13 +268,13 @@
         },
         {
           "rank": 4,
-          "title": "France wildfires reveal hundreds of WW2 shells in village",
-          "url": "https://www.bbc.com/news/articles/cgmkxjrrwdvo"
+          "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+          "url": "https://www.bbc.com/news/articles/c151pkww79zo"
         },
         {
           "rank": 5,
-          "title": "EU calls for stronger borders after Ceuta migrant crossings",
-          "url": "https://www.bbc.com/news/articles/cyvl84zmgyro"
+          "title": "France wildfires reveal hundreds of WW2 shells in village",
+          "url": "https://www.bbc.com/news/articles/cgmkxjrrwdvo"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Encontraron en Brasil a Micaela Albornoz, la rosarina buscada desde hace más de un mes",
-          "url": "https://www.clarin.com/sociedad/encontraron-brasil-micaela-albornoz-rosarina-buscada-hace-mes_0_aUTq6xSfmK.html"
+          "title": "Una nueva encuesta midió seis duelos políticos y hubo ganadores sorpresivos",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-midio-duelos-politicos-ganadores-sorpresivos_0_LDGWXOBMb2.html"
         },
         {
           "rank": 2,
-          "title": "El mensaje de Quintela a los inversores si el peronismo vuelve al poder: \"Lo que sea necesario expropiar, lo vamos a expropiar\"",
-          "url": "https://www.clarin.com/politica/mensaje-quintela-inversores-peronismo-vuelve-poder-necesario-expropiar-vamos-expropiar_0_nN3jIHxOGc.html"
+          "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
+          "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
-          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
+          "title": "Encontraron en Brasil a Micaela Albornoz, la rosarina buscada desde hace más de un mes",
+          "url": "https://www.clarin.com/sociedad/encontraron-brasil-micaela-albornoz-rosarina-buscada-hace-mes_0_aUTq6xSfmK.html"
         },
         {
           "rank": 5,
-          "title": "El hundimiento de Infantino y el peligro que se abre para Tapia",
-          "url": "https://www.clarin.com/deportes/hundimiento-infantino-peligro-abre-tapia_0_0hgwM4DuAP.html"
+          "title": "Fuertes explosiones, lava y cenizas a más de 6.000 metros de altura: alerta por el volcán de Fuego",
+          "url": "https://www.clarin.com/mundo/fuertes-explosiones-lava-cenizas-6000-metros-altura-alerta-volcan-fuego_0_NmKyYWUL0J.html"
         }
       ],
       "erro": null

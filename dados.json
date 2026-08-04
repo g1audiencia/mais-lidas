@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 09:29",
+  "atualizado_em": "04/08/2026 09:35",
   "portais": [
     {
       "portal": "Folha",
@@ -49,18 +49,18 @@
         },
         {
           "rank": 3,
+          "title": "Açougueiro é preso após atacar 3 colegas a facadas em supermercado em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/03/ocorrencia-atacadista-sp-agosto-2026.ghtm"
+        },
+        {
+          "rank": 4,
           "title": "Djokovic revela desejo por mudanças na pontuação do tênis: 'Melhor para todos'",
           "url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/08/03/djokovic-revela-desejo-por-mudancas-na-pontuacao-do-tenis-melhor-para-todo-mundo.htm"
         },
         {
-          "rank": 4,
-          "title": "Fraude no INSS: advogado e parentes de Weverton Rocha (PDT-MA) são alvos da PF",
-          "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/08/04/pf-operacao-sem-desconto-inss.htm"
-        },
-        {
           "rank": 5,
-          "title": "Açougueiro é preso após atacar 3 colegas a facadas em supermercado em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/03/ocorrencia-atacadista-sp-agosto-2026.ghtm"
+          "title": "Suzana Alves diz que se sentiu traída por causa de Feiticeira",
+          "url": "https://www.uol.com.br/splash/noticias/2026/08/03/suzana-alves-diz-que-se-sentiu-traida-por-huck-por-causa-de-feiticeira.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
-          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
-        },
-        {
-          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 3,
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+        },
+        {
           "rank": 4,
-          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
+          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
+          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
         },
         {
           "rank": 5,
-          "title": "Estudos sobre ‘GPS do cérebro’ podem trazer respostas sobre as causas do Alzheimer, diz Nobel",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/estudos-sobre-gps-do-cerebro-podem-trazer-respostas-sobre-as-causas-do-alzheimer-diz-nobel/"
+          "title": "Novas regras da CNH provocam 100 mil demissões e viram alvo de ação no STF",
+          "url": "https://www.estadao.com.br/jornal-do-carro/novas-regras-da-cnh-provocam-100-mil-demissoes-e-viram-alvo-de-acao-no-stf/"
         }
       ],
       "erro": null

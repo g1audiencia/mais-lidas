@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 19:49",
+  "atualizado_em": "04/08/2026 19:54",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Incêndio de grandes proporções atinge indústria química em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/incendio-de-grandes-proporcoes-atinge-industria-quimica-na-grande-sao-paulo.ghtm"
-        },
-        {
-          "rank": 2,
           "title": "CNJ afasta juíza Gabriela Hardt do cargo por dois anos por irregularidades na Lava Jato",
           "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/lava-jato-cnj-afasta-juiza-gabriela-hardt-do-cargo-por-dois-anos.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Ator Marco Furlan é preso no interior de SP sob suspeita de estupro de criança",
           "url": "https://www.uol.com.br/splash/noticias/2026/08/04/marco-furlan-e-preso-sob-suspeita-de-estupro-de-vulneravel.ghtm"
         },
         {
+          "rank": 3,
+          "title": "Incêndio de grandes proporções atinge indústria química em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/incendio-de-grandes-proporcoes-atinge-industria-quimica-na-grande-sao-paulo.ghtm"
+        },
+        {
           "rank": 4,
-          "title": "Desinformação sobre covid e ivermectina retorna após silêncio de médico nos EUA",
-          "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2026/08/04/anthony-fauci-quinta-emenda-senado-pandemia-o-que-e-verdade.ghtm"
+          "title": "João Paulo Charleaux: Diplomatas veem relação 'trincada' com os EUA e 'escalada em curso'",
+          "url": "https://noticias.uol.com.br/colunas/joao-paulo-charleaux/2026/08/04/diplomatas-veem-relacao-trincada-com-os-eua-e-escalada-em-curso.htm"
         },
         {
           "rank": 5,
-          "title": "Justiça nega recurso de homem exposto em 'chá revelação de traição' no Rio Grande do Sul",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/justica-nega-recurso-de-homem-exposto-em-cha-revelacao-de-traicao-no-rs.ghtm"
+          "title": "Desinformação sobre covid e ivermectina retorna após silêncio de médico nos EUA",
+          "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2026/08/04/anthony-fauci-quinta-emenda-senado-pandemia-o-que-e-verdade.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
-        },
-        {
-          "rank": 2,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
+          "rank": 2,
+          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+        },
+        {
           "rank": 3,
+          "title": "Governo Lula vê pressão política e chantagem em expulsão de embaixadora por Trump",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-ve-pressao-politica-e-chantagem-em-expulsao-de-embaixadora-por-trump/"
+        },
+        {
+          "rank": 4,
           "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         },
         {
-          "rank": 4,
-          "title": "Greve CPTM: funcionários decidem manter paralisação das linhas 11, 12 e 13 em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/greve-cptm-funcionarios-decidem-manter-paralisacao-das-linhas-11-12-e-13-em-sp/"
-        },
-        {
           "rank": 5,
-          "title": "Governo Lula vai dar ‘chá de cadeira’ em indicado por Trump para embaixada dos EUA no Brasil",
-          "url": "https://www.estadao.com.br/economia/governo-lula-vai-dar-cha-de-cadeira-em-indicado-por-trump-para-embaixada-dos-eua-no-brasil/"
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         }
       ],
       "erro": null

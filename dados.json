@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 20:05",
+  "atualizado_em": "04/08/2026 20:11",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
-        },
-        {
-          "rank": 3,
           "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
           "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
         },
         {
+          "rank": 3,
+          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
+        },
+        {
           "rank": 4,
-          "title": "Aécio Neves decide não disputar eleições após 40 anos de mandatos",
-          "url": "https://www.estadao.com.br/politica/aecio-decide-nao-disputar-eleicoes-apos-40-anos-de-mandatos/"
+          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
+          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
         },
         {
           "rank": 5,
-          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
+          "title": "Quem é o ator Marco Furlan, preso acusado de estuprar menino de 5 anos no interior de SP",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marco-furlan-ator-preso-acusado-estuprar-menino-5-anos-sp-npr/"
         }
       ],
       "erro": null
@@ -177,7 +177,7 @@
         },
         {
           "rank": 3,
-          "title": "Greve da CPTM: sindicato nega oferta do governo e mantém paralisação.",
+          "title": "Greve da CPTM: governo não responde oferta e sindicato mantém paralisação.",
           "url": "https://www.metropoles.com/sao-paulo/greve-da-cptm-sindicato-nega-oferta-do-governo-e-mantem-paralisacao"
         }
       ],
@@ -263,13 +263,13 @@
         },
         {
           "rank": 3,
-          "title": "Athletes go 'missing' after Commonwealth Games ends",
-          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
+          "title": "Princess Eugenie gives birth to baby girl in Portugal",
+          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
         },
         {
           "rank": 4,
-          "title": "Princess Eugenie gives birth to baby girl in Portugal",
-          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
+          "title": "Athletes go 'missing' after Commonwealth Games ends",
+          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
         },
         {
           "rank": 5,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Victoria Cantero contó cómo mató a su novio, Julián Álvarez, en Chaco: \"Reaccioné y lo ataqué\"",
-          "url": "https://www.clarin.com/policiales/victoria-cantero-conto-mato-novio-julian-alvarez-chaco-reaccione-ataque_0_7lTbkL8qRs.html"
+          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
+          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
         }
       ],
       "erro": null

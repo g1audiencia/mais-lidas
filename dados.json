@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 02:11",
+  "atualizado_em": "04/08/2026 02:17",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
           "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "PF pede ao STF 3º inquérito contra Lulinha, e Dino decidirá se abre investigação",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-pede-ao-stf-abertura-de-3o-inquerito-contra-lulinha-sob-suspeita-de-trafico-de-influencia.shtml"
+          "title": "Kassio reabre trabalhos do TSE e defende transparência das urnas para garantir confiança em eleições",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/kassio-reabre-trabalhos-do-tse-e-defende-transparencia-das-urnas-para-garantir-confianca-em-eleicoes.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Álvaro Dias desiste da disputa ao Senado pelo Paraná após liderar pesquisas",
+          "url": "https://www.estadao.com.br/politica/alvaro-dias-desiste-da-disputa-ao-senado-pelo-parana-apos-liderar-pesquisas/"
+        },
+        {
+          "rank": 2,
+          "title": "Dino é sorteado relator de 3º inquérito pedido pela PF para apurar tráfico de influência de Lulinha",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
+        },
+        {
+          "rank": 3,
+          "title": "Patrimônio de Jaques Wagner, que liderou o governo Lula no Senado, cresce 631% em oito anos",
+          "url": "https://www.estadao.com.br/politica/patrimonio-de-jaques-wagner-que-liderou-o-governo-lula-no-senado-cresce-631-em-oito-anos/"
+        },
+        {
+          "rank": 4,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 2,
-          "title": "Pão com mais proteína? De olho no efeito Mounjaro, padarias apostam em farinhas enriquecidas",
-          "url": "https://www.estadao.com.br/paladar/comida/padarias-apostam-em-proteina-para-conquistar-um-novo-consumidor/"
-        },
-        {
-          "rank": 3,
-          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
-        },
-        {
-          "rank": 4,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
           "rank": 5,
-          "title": "Álvaro Dias desiste da disputa ao Senado pelo Paraná após liderar pesquisas",
-          "url": "https://www.estadao.com.br/politica/alvaro-dias-desiste-da-disputa-ao-senado-pelo-parana-apos-liderar-pesquisas/"
+          "title": "Filhas de Virginia e Zé Felipe passam por cirurgia e influenciadora se afasta das redes",
+          "url": "https://www.estadao.com.br/emais/gente/filhas-de-virginia-e-ze-felipe-passam-por-cirurgia-e-influenciadora-se-afasta-das-redes-nprec/"
         }
       ],
       "erro": null

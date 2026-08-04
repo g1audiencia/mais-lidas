@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 02:28",
+  "atualizado_em": "04/08/2026 02:34",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
           "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
         },
         {
+          "rank": 2,
+          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
+        },
+        {
           "rank": 3,
-          "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
+          "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
         },
         {
           "rank": 4,
-          "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
+          "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
         },
         {
           "rank": 5,
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
+          "title": "Trabalhadores da CPTM entram em greve e trens param em SP; veja linhas",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trabalhadores-da-cptm-entram-em-greve-e-trens-param-em-sp-veja-linhas/"
         },
         {
           "rank": 5,
-          "title": "Quem é Lilibeth Monteiro, nova namorada do viúvo de Rita Lee e ex de Collor",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-lilibeth-monteiro-nova-namorada-do-viuvo-de-rita-lee-e-ex-de-collor/"
+          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         },
         {
           "rank": 3,
-          "title": "Euclides da Cunha já tinha ‘Os Sertões’ na cabeça quando viajou a Canudos",
-          "url": "https://www.estadao.com.br/150-anos/150-momentos/euclides-da-cunha-ja-tinha-os-sertoes-na-cabeca-quando-viajou-a-canudos/"
+          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
+          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
         },
         {
           "rank": 4,
-          "title": "Ferroviários confirmam greve e paralisam linhas 11-Coral, 12-Safira e 13-Jade em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/ferroviarios-confirmam-greve-e-paralisam-linhas-11-coral-12-safira-e-13-jade-em-sp/"
+          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
         },
         {
           "rank": 5,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
-          "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
+          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
+          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
         },
         {
           "rank": 2,
-          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
-          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
+          "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
+          "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
         },
         {
           "rank": 3,
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
-          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
+          "title": "El hundimiento de Infantino y el peligro que se abre para Tapia",
+          "url": "https://www.clarin.com/deportes/hundimiento-infantino-peligro-abre-tapia_0_0hgwM4DuAP.html"
         },
         {
           "rank": 5,
-          "title": "Llegó apuñalado al hospital y murió a las pocas horas: detuvieron a su novia",
-          "url": "https://www.clarin.com/policiales/llego-apunalado-hospital-murio-pocas-horas-detuvieron-novia_0_xqBWAxbaml.html"
+          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
+          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 08:45",
+  "atualizado_em": "04/08/2026 08:50",
   "portais": [
     {
       "portal": "Folha",
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Facundo Moyano fue demorado tras un violento episodio con una joven en Belgrano",
+          "url": "https://www.clarin.com/politica/facundo-moyano-demorado-violento-episodio-joven-belgrano_0_5ZiV93xxN7.html"
+        },
+        {
+          "rank": 2,
           "title": "Una nueva encuesta midió seis duelos políticos y hubo ganadores sorpresivos",
           "url": "https://www.clarin.com/politica/nueva-encuesta-midio-duelos-politicos-ganadores-sorpresivos_0_LDGWXOBMb2.html"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Los documentos clasificados de las SS sobre Erich Priebke, el criminal nazi que huyó a la Argentina y se escondió en Bariloche tras la caída de Hitler",
           "url": "https://www.clarin.com/mundo/documentos-clasificados-ss-erich-priebke-criminal-nazi-huyo-argentina-escondio-bariloche-caida-hitler_0_Het4yL8kkC.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Quién es la \"Nahir Galarza chaqueña\" detenida por el crimen de su novio: celos, persecución y tres puñaladas con un Tramontina",
           "url": "https://www.clarin.com/policiales/nahir-galarza-chaquena-detenida-crimen-novio-celos-persecucion-punaladas-tramontina_0_3MTLGGzGEA.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
           "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
-        },
-        {
-          "rank": 5,
-          "title": "Sarcopenia: cómo recuperar la fuerza muscular en las piernas",
-          "url": "https://www.clarin.com/buena-vida/sarcopenia-recuperar-fuerza-muscular-piernas_0_IxIjlP964z.html"
         }
       ],
       "erro": null

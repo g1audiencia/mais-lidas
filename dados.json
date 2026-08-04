@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 00:54",
+  "atualizado_em": "04/08/2026 00:59",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
+          "title": "Neymar deixa futuro em aberto no Santos e não descarta aposentadoria: 'Vou pensar se paro ou continuo'",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/03/neymar-deixa-futuro-em-aberto-no-santos-e-nao-descarta-aposentadoria-vou-pensar-se-paro-ou-continuo.ghtml"
+        },
+        {
+          "rank": 4,
           "title": "Vini Jr. pede R$ 117 milhões por ano para renovar com o Real Madrid, diz jornal",
           "url": "https://oglobo.globo.com/esportes/noticia/2026/08/03/vinicius-pede-r-117-milhoes-por-ano-para-renovar-com-o-real-madrid-diz-jornal.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Primogênita de Chico e Marieta revela que pergunta não aguenta mais ouvir sobre a família e lembra reação da filha quando contou sobre câncer de mama; assista",
           "url": "https://oglobo.globo.com/cultura/noticia/2026/08/03/primogenita-de-chico-e-marieta-revela-que-pergunta-nao-aguenta-mais-ouvir-sobre-a-familia-e-lembra-reacao-da-filha-quando-contou-sobre-cancer-de-mama.ghtml"
-        },
-        {
-          "rank": 5,
-          "title": "Neymar deixa futuro em aberto no Santos e não descarta aposentadoria: 'Vou pensar se paro ou continuo'",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/03/neymar-deixa-futuro-em-aberto-no-santos-e-nao-descarta-aposentadoria-vou-pensar-se-paro-ou-continuo.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
-        },
-        {
-          "rank": 2,
           "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
-          "rank": 3,
-          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
+          "rank": 2,
+          "title": "Dino é sorteado relator de 3º inquérito pedido pela PF para apurar tráfico de influência de Lulinha",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Euclides da Cunha já tinha ‘Os Sertões’ na cabeça quando viajou a Canudos",
           "url": "https://www.estadao.com.br/150-anos/150-momentos/euclides-da-cunha-ja-tinha-os-sertoes-na-cabeca-quando-viajou-a-canudos/"
         },
         {
+          "rank": 4,
+          "title": "Trump afirma que EUA e Irã estão em negociações e faz novo ultimato ao regime iraniano",
+          "url": "https://www.estadao.com.br/internacional/trump-afirma-que-eua-e-ira-estao-em-negociacoes-e-faz-novo-ultimato-ao-regime-iraniano-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null

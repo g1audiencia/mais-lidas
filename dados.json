@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 03:23",
+  "atualizado_em": "04/08/2026 03:29",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Agência de Comunicação",
-          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/agencia-minera-brasil/projeto-caldeira-viabilidade-terras-raras-brasil/"
+          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
+          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
         },
         {
           "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
         },
         {
           "rank": 3,
-          "title": "Novo boletim indica El Niño ‘muito forte’ e eventos extremos no Brasil; veja regiões afetadas",
-          "url": "https://www.estadao.com.br/brasil/novo-boletim-indica-el-nino-muito-forte-e-eventos-extremos-no-brasil-veja-regioes-afetadas/"
-        },
-        {
-          "rank": 4,
           "title": "Lula, mais uma vez",
           "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
         },
         {
+          "rank": 4,
+          "title": "Chip na retina devolve parte da visão a pacientes com degeneração macular: um marco da medicina",
+          "url": "https://www.estadao.com.br/pulsa/liana-tito-francisco/chip-na-retina-devolve-parte-da-visao-a-pacientes-com-degeneracao-macular-um-marco-da-medicina/"
+        },
+        {
           "rank": 5,
-          "title": "STF invalida restrição a benefício fiscal para compra de veículos por pessoas com deficiência",
-          "url": "https://www.estadao.com.br/economia/stf-invalida-restricao-da-reforma-tributaria-a-beneficio-fiscal-para-compra-de-veiculos-por-pcd/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
+          "title": "Ariana Grande withdraws from London musical and will take a break from the public eye",
+          "url": "https://apnews.com/article/ariana-grande-quit-sunday-park-george-london-c155c3d6b912dab58d0a9780964100b2"
+        },
+        {
+          "rank": 3,
           "title": "Trump says new talks are Iran’s ‘last chance’ to make a deal",
           "url": "https://apnews.com/live/trump-news-blanche-iran-updates-08-03-2026"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place",
           "url": "https://apnews.com/article/trump-irs-todd-blanche-tax-settlement-5d70c9d590a0a3f181466660e99b4377"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Fires near Spokane, Washington, have burned 600 structures and forced 60,000 evacuations",
           "url": "https://apnews.com/article/wildfires-western-us-spokane-eastern-washington-3f70ca42599d306cf0c540df34ee50d0"
-        },
-        {
-          "rank": 5,
-          "title": "Trump frequently announces he’s halting strikes in Iran. But they keep happening",
-          "url": "https://apnews.com/article/trump-iran-war-us-canceled-strikes-670f077d2cf5de7614cfce4ad40e4aaa"
         }
       ],
       "erro": null

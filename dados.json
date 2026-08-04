@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 12:29",
+  "atualizado_em": "04/08/2026 12:34",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
+          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
+        },
+        {
+          "rank": 3,
           "title": "Professor brasileiro de jiu-jítsu é preso nos EUA pelo ICE, e alunos fazem campanha por soltura",
           "url": "https://www1.folha.uol.com.br/mundo/2026/08/professor-brasileiro-de-jiu-jitsu-e-preso-nos-eua-pelo-ice-e-alunos-fazem-campanha-por-soltura.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Gilberto Gil fica preso em elevador e é salvo por bombeiros",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gilberto-gil-fica-preso-em-elevador-e-e-salvo-por-bombeiros.shtml"
         },
         {
-          "rank": 4,
-          "title": "MPF pede desbloqueio de R$ 54 bi de acionistas da Lojas Americanas",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/08/mpf-pede-desbloqueio-de-r-54-bi-de-acionistas-da-lojas-americanas.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Outro Canal: Campeã do BBB 26, Ana Paula Renault renova contrato com a Globo e terá projeto na TV",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/campea-do-bbb-26-ana-paula-renault-renova-contrato-com-a-globo-e-tera-projeto-na-tv.shtml"
+          "title": "Advogado era 'hub financeiro' de Weverton Rocha e comprou mansão de R$ 6 mi usada por senador, diz PF",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/advogado-era-hub-financeiro-de-weverton-rocha-e-comprou-mansao-de-r-6-mi-usada-por-senador-diz-pf.shtml"
         }
       ],
       "erro": null
@@ -49,7 +49,7 @@
         },
         {
           "rank": 3,
-          "title": "Dino aceita pedido da Polícia Federal e abre novo inquérito sobre Lulinha",
+          "title": "Dino aceita pedido da PF e autoriza terceiro inquérito sobre Lulinha",
           "url": "https://noticias.uol.com.br/colunas/carla-araujo/2026/08/04/dino-acata-pedido-da-pf-e-abre-2-inqueritos-sobre-lulinha.htm"
         },
         {
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
+          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         },
         {
           "rank": 3,
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
+          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
         },
         {
           "rank": 5,
@@ -167,13 +167,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Atentado em Brasília: grupo tinha plantas de prédios e manuais de explosivos",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/atentado-em-brasilia-grupo-tinha-plantas-de-predios-e-manuais-de-explosivos"
+          "title": "INSS: PF acha máquina de contar cédulas e pilhas de dinheiro em operação contra família de senador e Willer Tomaz",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/fraude-no-inss-pf-acha-maquina-de-contar-cedulas-e-pilhas-de-dinheiro"
         },
         {
           "rank": 2,
-          "title": "INSS: PF acha máquina de contar cédulas e pilhas de dinheiro em operação contra família de senador e Willer Tomaz",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/fraude-no-inss-pf-acha-maquina-de-contar-cedulas-e-pilhas-de-dinheiro"
+          "title": "Quem é Marco Furlan, ator preso por estupro de vulnerável em SP",
+          "url": "https://www.metropoles.com/celebridades/quem-e-marco-furlan-ator-preso-por-estupro-de-vulneravel-em-sp"
         },
         {
           "rank": 3,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 13:41",
+  "atualizado_em": "04/08/2026 13:47",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "BYD lança novo Song Pro Flex, seu segundo híbrido plug-in capaz de rodar com etanol",
-          "url": "https://www.estadao.com.br/jornal-do-carro/byd-lanca-novo-song-pro-flex-seu-segundo-hibrido-plug-in-capaz-de-rodar-com-etanol/"
-        },
-        {
-          "rank": 4,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 4,
+          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
+        },
+        {
           "rank": 5,
-          "title": "Lula, mais uma vez",
-          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
+          "title": "BYD lança novo Song Pro Flex, seu segundo híbrido plug-in capaz de rodar com etanol",
+          "url": "https://www.estadao.com.br/jornal-do-carro/byd-lanca-novo-song-pro-flex-seu-segundo-hibrido-plug-in-capaz-de-rodar-com-etanol/"
         }
       ],
       "erro": null

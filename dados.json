@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 15:49",
+  "atualizado_em": "04/08/2026 15:55",
   "portais": [
     {
       "portal": "Folha",
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "CNJ aprova fim de aposentadoria como pena máxima para juiz infrator",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/cnj-aposentadoria-compulsoria.ghtm"
+          "title": "Operação desmobiliza grupo que pretendia atacar STF e Planalto nas eleições",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/04/operacao-rede-interrompida.htm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
+          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
+        },
+        {
+          "rank": 4,
           "title": "Nikolas Ferreira espalha mentiras já refutadas sobre vacinas e pandemia",
           "url": "https://www.estadao.com.br/estadao-verifica/nikolas-ferreira-anthony-fauci-vacina-pandemia-covid-falso/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Por que as bets mudaram de tática e agora apostam no futebol amador",
           "url": "https://www.estadao.com.br/economia/por-que-as-bets-mudaram-de-tatica-e-agora-apostam-no-futebol-amador/"
-        },
-        {
-          "rank": 5,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "What will happen when a SpaceX rocket collides with the Moon?",
-          "url": "https://www.bbc.com/news/articles/cx25yn22l97o"
+          "title": "Athletes go 'missing' after Commonwealth Games ends",
+          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
         }
       ],
       "erro": null

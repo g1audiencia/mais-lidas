@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 01:32",
+  "atualizado_em": "04/08/2026 01:38",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
+        },
+        {
+          "rank": 2,
+          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
+        },
+        {
+          "rank": 3,
           "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
-          "rank": 2,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
-        },
-        {
-          "rank": 3,
-          "title": "Dino é sorteado relator de 3º inquérito pedido pela PF para apurar tráfico de influência de Lulinha",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
-        },
-        {
           "rank": 4,
-          "title": "Avante oficializa candidatura de Augusto Cury a presidente em convenção com funk e Tarcísio no palco",
-          "url": "https://www.estadao.com.br/politica/avante-oficializa-candidatura-de-augusto-cury-a-presidente-em-convencao-com-funk-e-tarcisio-no-palco/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 5,
-          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
+          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
         }
       ],
       "erro": null

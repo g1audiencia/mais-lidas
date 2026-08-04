@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 11:38",
+  "atualizado_em": "04/08/2026 11:44",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Cleitinho volta atrás e pede para concorrer ao Governo de MG durante convenção",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/cleitinho-governador-mg.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Bastidores do leilão de Neymar têm atraso, famosos e ausência de dirigentes",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/04/atraso-famosos-e-ausencia-do-santos-os-bastidores-do-leilao-de-neymar.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Médicos e enfermeiros viram 'investidores' em novo tipo de pejotização",
           "url": "https://economia.uol.com.br/colunas/carlos-juliano-barros/2026/08/04/medicos-e-enfermeiros-viram-investidores-em-novo-tipo-de-pejotizacao.htm"
         },
         {
-          "rank": 3,
-          "title": "Açougueiro é preso após atacar 3 colegas a facadas em supermercado em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/03/ocorrencia-atacadista-sp-agosto-2026.ghtm"
-        },
-        {
           "rank": 4,
-          "title": "Suzana Alves diz que se sentiu traída por causa de Feiticeira",
-          "url": "https://www.uol.com.br/splash/noticias/2026/08/03/suzana-alves-diz-que-se-sentiu-traida-por-huck-por-causa-de-feiticeira.ghtm"
+          "title": "Lula não vai a entrevista da GloboNews com candidatos à Presidência",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/04/lula-nao-vai-a-entrevista-da-globonews-com-candidatos-a-presidencia.ghtm"
         },
         {
           "rank": 5,
-          "title": "Djokovic revela desejo por mudanças na pontuação do tênis: 'Melhor para todos'",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/agencia/2026/08/03/djokovic-revela-desejo-por-mudancas-na-pontuacao-do-tenis-melhor-para-todo-mundo.htm"
+          "title": "Açougueiro é preso após atacar 3 colegas a facadas em supermercado em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/03/ocorrencia-atacadista-sp-agosto-2026.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
-        },
-        {
-          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 3,
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+        },
+        {
           "rank": 4,
-          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
-          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
+          "title": "Dino autoriza PF a abrir terceiro inquérito sobre Lulinha e também manda investigar vazamentos",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-autoriza-pf-a-abrir-terceiro-inquerito-sobre-lulinha-e-tambem-manda-investigar-vazamentos/"
         },
         {
           "rank": 5,
-          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
         }
       ],
       "erro": null

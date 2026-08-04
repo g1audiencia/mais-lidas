@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 19:04",
+  "atualizado_em": "04/08/2026 19:09",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
-        },
-        {
-          "rank": 3,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
           "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
         },
         {
+          "rank": 4,
+          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
+          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
+        },
+        {
           "rank": 5,
-          "title": "A República dos sem explicação",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/a-republica-dos-sem-explicacao/"
+          "title": "Ator Marco Furlan é preso em flagrante suspeito de estuprar criança de 5 anos durante festa em SP",
+          "url": "https://www.estadao.com.br/brasil/ator-marco-furlan-preso-flagrante-suspeito-estuprar-crianca-5-anos-festa-sp-npr/"
         }
       ],
       "erro": null
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Victoria Cantero contó cómo mató a su novio, Julián Álvarez, en Chaco: \"Reaccioné y lo ataqué\"",
-          "url": "https://www.clarin.com/policiales/victoria-cantero-conto-mato-novio-julian-alvarez-chaco-reaccione-ataque_0_7lTbkL8qRs.html"
+          "title": "Una nueva encuesta midió seis duelos políticos y hubo ganadores sorpresivos",
+          "url": "https://www.clarin.com/politica/nueva-encuesta-midio-duelos-politicos-ganadores-sorpresivos_0_LDGWXOBMb2.html"
         }
       ],
       "erro": null

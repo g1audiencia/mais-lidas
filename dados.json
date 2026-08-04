@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 08:39",
+  "atualizado_em": "04/08/2026 08:45",
   "portais": [
     {
       "portal": "Folha",
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Projeto da escala 6x1 é ativo político para Lula e preocupa oposição, avaliam parlamentares",
-          "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/08/projeto-da-escala-6x1-e-ativo-politico-para-lula-e-preocupa-oposicao-avaliam-parlamentares.ghtml"
+          "title": "Em decisão sigilosa, Kassio dá 24 horas para Presidência tirar do ar postagens que exaltam Lula",
+          "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/08/em-decisao-sigilosa-kassio-da-24-horas-para-presidencia-tirar-do-ar-postagens-que-exaltam-lula.ghtml"
         }
       ],
       "erro": null
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
-          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
+          "title": "Lula, mais uma vez",
+          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
         },
         {
           "rank": 2,
-          "title": "Lula, mais uma vez",
-          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
+          "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
+          "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+          "title": "Além do Tesouro IPCA+: os investimentos que protegem da inflação e podem pagar mais",
+          "url": "https://www.estadao.com.br/einvestidor/onde-investir/alem-do-tesouro-ipca-os-investimentos-que-protegem-da-inflacao-e-podem-pagar-mais/"
         },
         {
           "rank": 5,
-          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+          "title": "Fraudes do INSS: PF mira ‘advogado camaleão’ de Brasília por suspeita de lavagem para senador do PDT",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
         }
       ],
       "erro": null
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "US states sue to block Trump tariffs impacting dozens of countries",
-          "url": "https://www.bbc.com/news/articles/cy4kp8jd0ppo"
-        },
-        {
-          "rank": 3,
           "title": "Ukraine strikes more Wildberries sites as five killed in Moscow region",
           "url": "https://www.bbc.com/news/articles/c151pkww79zo"
         },
         {
+          "rank": 3,
+          "title": "US states sue to block Trump tariffs impacting dozens of countries",
+          "url": "https://www.bbc.com/news/articles/cy4kp8jd0ppo"
+        },
+        {
           "rank": 4,
-          "title": "More than 150 migrants rescued after boat catches fire in Channel",
-          "url": "https://www.bbc.com/news/articles/c4gkpeppjyqo"
+          "title": "France wildfires reveal hundreds of WW2 shells in village",
+          "url": "https://www.bbc.com/news/articles/cgmkxjrrwdvo"
         },
         {
           "rank": 5,
-          "title": "France wildfires reveal hundreds of WW2 shells in village",
-          "url": "https://www.bbc.com/news/articles/cgmkxjrrwdvo"
+          "title": "More than 150 migrants rescued after boat catches fire in Channel",
+          "url": "https://www.bbc.com/news/articles/c4gkpeppjyqo"
         }
       ],
       "erro": null

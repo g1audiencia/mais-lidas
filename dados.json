@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 23:53",
+  "atualizado_em": "03/08/2026 23:59",
   "portais": [
     {
       "portal": "Folha",
@@ -258,18 +258,18 @@
         },
         {
           "rank": 3,
-          "title": "EU calls for stronger borders after Ceuta migrant crossings",
-          "url": "https://www.bbc.com/news/articles/cyvl84zmgyro"
-        },
-        {
-          "rank": 4,
           "title": "US states sue to block Trump tariffs impacting dozens of countries",
           "url": "https://www.bbc.com/news/articles/cy4kp8jd0ppo"
         },
         {
+          "rank": 4,
+          "title": "EU calls for stronger borders after Ceuta migrant crossings",
+          "url": "https://www.bbc.com/news/articles/cyvl84zmgyro"
+        },
+        {
           "rank": 5,
-          "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-          "url": "https://www.bbc.com/news/articles/c3ek7g857q4o"
+          "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+          "url": "https://www.bbc.com/news/articles/c78gn8zvrx4o"
         }
       ],
       "erro": null

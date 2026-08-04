@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 16:34",
+  "atualizado_em": "04/08/2026 16:41",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
-        },
-        {
-          "rank": 4,
           "title": "Nikolas Ferreira espalha mentiras já refutadas sobre vacinas e pandemia",
           "url": "https://www.estadao.com.br/estadao-verifica/nikolas-ferreira-anthony-fauci-vacina-pandemia-covid-falso/"
         },
         {
+          "rank": 4,
+          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
+        },
+        {
           "rank": 5,
-          "title": "BYD lança novo Song Pro Flex, seu segundo híbrido plug-in capaz de rodar com etanol",
-          "url": "https://www.estadao.com.br/jornal-do-carro/byd-lanca-novo-song-pro-flex-seu-segundo-hibrido-plug-in-capaz-de-rodar-com-etanol/"
+          "title": "Brasil fez reforma tributária ‘tropicalizada’, mas pode ter IVA único em 10 anos, diz Appy",
+          "url": "https://www.estadao.com.br/economia/brasil-reforma-tributaria-tropicalizada-iva-unico-appy/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Michigan to decide bitter Senate Democratic primary in test for divided party",
-          "url": "https://www.bbc.com/news/articles/c62q0kkr6k2o"
+          "title": "Surgeon struck off after wrongly connecting organs",
+          "url": "https://www.bbc.com/news/articles/c20de8z2w2lo"
         }
       ],
       "erro": null

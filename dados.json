@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 08:28",
+  "atualizado_em": "04/08/2026 08:34",
   "portais": [
     {
       "portal": "Folha",
@@ -7,23 +7,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Professor brasileiro de jiu-jítsu é preso nos EUA pelo ICE, e alunos fazem campanha por soltura",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/professor-brasileiro-de-jiu-jitsu-e-preso-nos-eua-pelo-ice-e-alunos-fazem-campanha-por-soltura.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
         },
         {
-          "rank": 2,
-          "title": "Juiz absolve réus em caso ligado a suicídio de reitor da UFSC",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/juiz-absolve-reus-em-caso-ligado-a-suicidio-de-reitor-da-ufsc.shtml"
-        },
-        {
           "rank": 3,
-          "title": "O que revelou o dr. Fauci",
-          "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
+          "title": "Gilberto Gil fica preso em elevador e é salvo por bombeiros",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gilberto-gil-fica-preso-em-elevador-e-e-salvo-por-bombeiros.shtml"
         },
         {
           "rank": 4,
-          "title": "Professor brasileiro de jiu-jítsu é preso nos EUA pelo ICE, e alunos fazem campanha por soltura",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/professor-brasileiro-de-jiu-jitsu-e-preso-nos-eua-pelo-ice-e-alunos-fazem-campanha-por-soltura.shtml"
+          "title": "O que revelou o dr. Fauci",
+          "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
         },
         {
           "rank": 4,
-          "title": "Fraudes do INSS: PF mira lavagem de dinheiro do esquema em nova fase da Operação Sem Desconto",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 5,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
         }
       ],
       "erro": null

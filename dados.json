@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 01:43",
+  "atualizado_em": "04/08/2026 01:49",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
           "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "MPE pede que Justiça Eleitoral barre candidatura de Ricardo Salles ao Senado",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/mpe-pede-que-justica-eleitoral-barre-candidatura-de-ricardo-salles-ao-senado.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Kassio reabre trabalhos do TSE e defende transparência das urnas para garantir confiança em eleições",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/kassio-reabre-trabalhos-do-tse-e-defende-transparencia-das-urnas-para-garantir-confianca-em-eleicoes.shtml"
+          "title": "PF pede ao STF 3º inquérito contra Lulinha, e Dino decidirá se abre investigação",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/pf-pede-ao-stf-abertura-de-3o-inquerito-contra-lulinha-sob-suspeita-de-trafico-de-influencia.shtml"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Trabalhadores da CPTM entram em greve e trens param em SP; veja linhas",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trabalhadores-da-cptm-entram-em-greve-e-trens-param-em-sp-veja-linhas/"
+          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
         },
         {
           "rank": 5,
-          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
+          "title": "Quem é Lilibeth Monteiro, nova namorada do viúvo de Rita Lee e ex de Collor",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-lilibeth-monteiro-nova-namorada-do-viuvo-de-rita-lee-e-ex-de-collor/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Dino é sorteado relator de 3º inquérito pedido pela PF para apurar tráfico de influência de Lulinha",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/dino-indicado-por-lula-ao-stf-e-sorteado-relator-de-terceiro-inquerito-pedido-pela-pf-sobre-lulinha/"
-        },
-        {
-          "rank": 2,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
-        },
-        {
-          "rank": 3,
           "title": "John Leguizamo ironiza Musk, fala sobre ódio e exalta ‘A Odisseia’: ‘É hipnotizante de assistir’",
           "url": "https://www.estadao.com.br/cultura/cinema/john-leguizamo-ironiza-musk-fala-sobre-odio-e-exalta-a-odisseia-e-hipnotizante-de-assistir/"
         },
         {
+          "rank": 2,
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+        },
+        {
+          "rank": 3,
+          "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
+        },
+        {
           "rank": 4,
-          "title": "Como Gianni Infantino foi do céu ao inferno na presidência da Fifa em apenas duas semanas",
-          "url": "https://www.estadao.com.br/esportes/futebol/como-gianni-infantino-foi-do-ceu-ao-inferno-na-presidencia-da-fifa-em-apenas-duas-semanas/"
+          "title": "Afinal, o quão racista é a Argentina? Entenda no vídeo",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/afinal-o-quao-racista-e-a-argentina-entenda-no-video/"
         },
         {
           "rank": 5,
-          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
-          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
+          "title": "Como Gianni Infantino foi do céu ao inferno na presidência da Fifa em apenas duas semanas",
+          "url": "https://www.estadao.com.br/esportes/futebol/como-gianni-infantino-foi-do-ceu-ao-inferno-na-presidencia-da-fifa-em-apenas-duas-semanas/"
         }
       ],
       "erro": null
@@ -238,6 +238,11 @@
           "rank": 4,
           "title": "Trump frequently announces he’s halting strikes in Iran. But they keep happening",
           "url": "https://apnews.com/article/trump-iran-war-us-canceled-strikes-670f077d2cf5de7614cfce4ad40e4aaa"
+        },
+        {
+          "rank": 5,
+          "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite",
+          "url": "https://apnews.com/article/michigan-cyclospora-outbreak-deaths-cf058908cdfd1bfd405d15e7079bed14"
         }
       ],
       "erro": null

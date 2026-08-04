@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 17:34",
+  "atualizado_em": "04/08/2026 17:43",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Rogério Marinho é cotado para ser ‘Alckmin da chapa de Flávio Bolsonaro’; veja bastidores",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/rogerio-marinho-e-cotado-para-ser-alckmin-da-chapa-de-flavio-bolsonaro-veja-bastidores/"
-        },
-        {
-          "rank": 4,
           "title": "Nikolas Ferreira espalha mentiras já refutadas sobre vacinas e pandemia",
           "url": "https://www.estadao.com.br/estadao-verifica/nikolas-ferreira-anthony-fauci-vacina-pandemia-covid-falso/"
         },
         {
+          "rank": 4,
+          "title": "Rogério Marinho é cotado para ser ‘Alckmin da chapa de Flávio Bolsonaro’; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/rogerio-marinho-e-cotado-para-ser-alckmin-da-chapa-de-flavio-bolsonaro-veja-bastidores/"
+        },
+        {
           "rank": 5,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         }
       ],
       "erro": null
@@ -190,7 +190,7 @@
         {
           "rank": 1,
           "title": "Cosme: Neymar pai quer o filho na Copa, mas atleta nega e cogita aposentadoria",
-          "url": "https://esportes.r7.com/prisma/cosme-rimoli/todo-mundo-sabe-o-tamanho-do-yuri-alberto-diniz-lamenta-derrota-para-o-inter-e-falta-do-artilheiro-sonho-e-renovacao-de-memphis-03082026/"
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-pai-deixa-claro-que-quer-o-filho-na-selecao-neymar-e-direto-corta-a-esperanca-pela-raiz-nao-e-ele-quem-joga-foi-alem-analisa-a-aposentadoria-04082026/"
         },
         {
           "rank": 2,
@@ -204,13 +204,13 @@
         },
         {
           "rank": 4,
-          "title": "Greve dos ferroviários paralisa três linhas de trem em São Paulo",
-          "url": "https://record.r7.com/balanco-geral-manha/video/greve-dos-ferroviarios-paralisa-tres-linhas-de-trem-em-sao-paulo-04082026/"
+          "title": "CNJ oficializa fim da aposentadoria compulsória como punição a juízes",
+          "url": "https://noticias.r7.com/brasilia/cnj-oficializa-fim-da-aposentadoria-compulsoria-como-punicao-a-juizes-04082026/"
         },
         {
           "rank": 5,
-          "title": "‘Gorda’ e ‘baleia’: denúncias contra empresário em BH expõem casos de gordofobia",
-          "url": "https://noticias.r7.com/minas-gerais/gorda-baleia-e-obesa-denuncias-contra-empresario-expoem-casos-de-gordofobia-em-bh-04082026/"
+          "title": "Ator preso por estupro de vulnerável em festa infantil fez fama na televisão",
+          "url": "https://entretenimento.r7.com/prisma/fabiola-reipert/ator-marco-furlan-preso-por-estupro-de-crianca-e-fa-de-true-crime-e-conhecido-na-tv-04082026/"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
-          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
+          "title": "Victoria Cantero contó cómo mató a su novio, Julián Álvarez, en Chaco: \"Reaccioné y lo ataqué\"",
+          "url": "https://www.clarin.com/policiales/victoria-cantero-conto-mato-novio-julian-alvarez-chaco-reaccione-ataque_0_7lTbkL8qRs.html"
         },
         {
           "rank": 5,
-          "title": "Victoria Cantero contó cómo mató a su novio, Julián Álvarez, en Chaco: \"Reaccioné y lo ataqué\"",
-          "url": "https://www.clarin.com/policiales/victoria-cantero-conto-mato-novio-julian-alvarez-chaco-reaccione-ataque_0_7lTbkL8qRs.html"
+          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
+          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
         }
       ],
       "erro": null

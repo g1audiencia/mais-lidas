@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 02:00",
+  "atualizado_em": "04/08/2026 02:06",
   "portais": [
     {
       "portal": "Folha",
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Trabalhadores da CPTM entram em greve e trens param em SP; veja linhas",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trabalhadores-da-cptm-entram-em-greve-e-trens-param-em-sp-veja-linhas/"
+          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
         },
         {
           "rank": 5,
-          "title": "Nexus/BTG: Lula empata com Flávio e Caiado no 2º turno",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-empata-com-flavio-e-caiado-no-2o-turno/"
+          "title": "Quem é Lilibeth Monteiro, nova namorada do viúvo de Rita Lee e ex de Collor",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/quem-e-lilibeth-monteiro-nova-namorada-do-viuvo-de-rita-lee-e-ex-de-collor/"
         }
       ],
       "erro": null
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Vini Jr. pede R$ 117 milhões por ano para renovar com o Real Madrid, diz jornal",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/03/vinicius-pede-r-117-milhoes-por-ano-para-renovar-com-o-real-madrid-diz-jornal.ghtml"
+          "title": "Primogênita de Chico e Marieta revela que pergunta não aguenta mais ouvir sobre a família e lembra reação da filha quando contou sobre câncer de mama; assista",
+          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/03/primogenita-de-chico-e-marieta-revela-que-pergunta-nao-aguenta-mais-ouvir-sobre-a-familia-e-lembra-reacao-da-filha-quando-contou-sobre-cancer-de-mama.ghtml"
         },
         {
           "rank": 5,
-          "title": "Primogênita de Chico e Marieta revela que pergunta não aguenta mais ouvir sobre a família e lembra reação da filha quando contou sobre câncer de mama; assista",
-          "url": "https://oglobo.globo.com/cultura/noticia/2026/08/03/primogenita-de-chico-e-marieta-revela-que-pergunta-nao-aguenta-mais-ouvir-sobre-a-familia-e-lembra-reacao-da-filha-quando-contou-sobre-cancer-de-mama.ghtml"
+          "title": "Surto de 'diarreia explosiva' registra duas mortes em estado americano",
+          "url": "https://oglobo.globo.com/saude/noticia/2026/08/03/surto-de-diarreia-explosiva-registra-duas-mortes-em-estado-americano.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+        },
+        {
+          "rank": 2,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 2,
-          "title": "Álvaro Dias desiste da disputa ao Senado pelo Paraná após liderar pesquisas",
-          "url": "https://www.estadao.com.br/politica/alvaro-dias-desiste-da-disputa-ao-senado-pelo-parana-apos-liderar-pesquisas/"
-        },
-        {
           "rank": 3,
-          "title": "Senador Cleitinho Azevedo chora ao anunciar que não será candidato a governador de Minas; veja vídeo",
-          "url": "https://www.estadao.com.br/politica/cleitinho-azevedo-anuncia-desistencia-de-candidatura-ao-governo-de-minas/"
-        },
-        {
-          "rank": 4,
           "title": "Entidades e advogados reclamam de fala de Lula de que criminalistas não sabem ‘defender inocente’",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/entidades-e-advogados-reclamam-de-fala-de-lula-de-que-criminalistas-nao-sabem-defender-inocente/"
         },
         {
+          "rank": 4,
+          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+        },
+        {
           "rank": 5,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Álvaro Dias desiste da disputa ao Senado pelo Paraná após liderar pesquisas",
+          "url": "https://www.estadao.com.br/politica/alvaro-dias-desiste-da-disputa-ao-senado-pelo-parana-apos-liderar-pesquisas/"
         }
       ],
       "erro": null

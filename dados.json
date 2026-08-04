@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 23:31",
+  "atualizado_em": "03/08/2026 23:36",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
+          "title": "Republicanos diz a Flávio Bolsonaro que partido não quer aliança e ficará neutro na eleição",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-reune-com-republicanos-e-reforca-oferta-de-vaga-de-vice-mas-partido-ainda-resiste.shtml"
         },
         {
           "rank": 4,
-          "title": "Rodízio de veículos é suspenso em SP nesta terça (4) por causa de greve de ferroviários",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/rodizio-de-veiculos-e-suspenso-em-sp-nesta-terca-4-por-causa-de-greve-de-ferroviarios.shtml"
+          "title": "Entenda como funciona o bloqueio anestésico de nervos cranianos feito por Michelle Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/entenda-como-funciona-o-bloqueio-anestesico-de-nervos-cranianos-feito-por-michelle-bolsonaro.shtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
-        },
-        {
-          "rank": 2,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 3,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+          "rank": 2,
+          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
           "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         },
         {
+          "rank": 4,
+          "title": "Como Gianni Infantino foi do céu ao inferno na presidência da Fifa em apenas duas semanas",
+          "url": "https://www.estadao.com.br/esportes/futebol/como-gianni-infantino-foi-do-ceu-ao-inferno-na-presidencia-da-fifa-em-apenas-duas-semanas/"
+        },
+        {
           "rank": 5,
-          "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
+          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
         }
       ],
       "erro": null
@@ -238,11 +238,6 @@
           "rank": 4,
           "title": "Trump frequently announces he’s halting strikes in Iran. But they keep happening",
           "url": "https://apnews.com/article/trump-iran-war-us-canceled-strikes-670f077d2cf5de7614cfce4ad40e4aaa"
-        },
-        {
-          "rank": 5,
-          "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
-          "url": "https://apnews.com/article/twin-falls-idaho-shooting-fast-food-restaurant-2b1104d872124c2733faec0ddb89ffc4"
         }
       ],
       "erro": null

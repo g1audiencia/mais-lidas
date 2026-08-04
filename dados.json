@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 08:12",
+  "atualizado_em": "04/08/2026 08:17",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Magreza de Ariana Grande acirra debate sobre transtorno alimentar; saiba identificar sinais e como ajudar alguém",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/magreza-de-ariana-grande-gera-debate-sobre-transtorno-alimentar-saiba-identificar-sinais-e-ajudar-alguem.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Kassio reabre trabalhos do TSE e defende transparência das urnas para garantir confiança em eleições",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/kassio-reabre-trabalhos-do-tse-e-defende-transparencia-das-urnas-para-garantir-confianca-em-eleicoes.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Juiz absolve réus em caso ligado a suicídio de reitor da UFSC",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/juiz-absolve-reus-em-caso-ligado-a-suicidio-de-reitor-da-ufsc.shtml"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "O que revelou o dr. Fauci",
           "url": "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/08/o-que-revelou-o-dr-fauci.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Professor brasileiro de jiu-jítsu é preso nos EUA pelo ICE, e alunos fazem campanha por soltura",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/professor-brasileiro-de-jiu-jitsu-e-preso-nos-eua-pelo-ice-e-alunos-fazem-campanha-por-soltura.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Pela primeira vez em uma década, americanos confiam mais em democratas para economia, diz pesquisa",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/pela-primeira-vez-em-uma-decada-americanos-confiam-mais-em-democratas-para-economia-diz-pesquisa.shtml"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Ator Marco Furlan é preso suspeito por estupro de vulnerável em SP",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ator-marco-furlan-e-preso-suspeito-por-estupro-de-vulneravel-em-sp/"
+          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
         },
         {
           "rank": 5,
-          "title": "Primeira semana de agosto terá frente fria, ciclone e ventos de 90 km/h",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/primeira-semana-de-agosto-tera-frente-fria-ciclone-e-ventos-de-90-km-h/"
+          "title": "Ator Marco Furlan é preso suspeito por estupro de vulnerável em SP",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ator-marco-furlan-e-preso-suspeito-por-estupro-de-vulneravel-em-sp/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula, mais uma vez",
-          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
-        },
-        {
-          "rank": 2,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
           "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
         },
         {
+          "rank": 2,
+          "title": "Lula, mais uma vez",
+          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
+        },
+        {
+          "rank": 3,
+          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+        },
+        {
           "rank": 4,
-          "title": "Fraudes do INSS: PF mira lavagem de dinheiro do esquema em nova fase da Operação Sem Desconto",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fraudes-do-inss-pf-mira-lavagem-de-dinheiro-do-esquema-em-nova-fase-da-operacao-sem-desconto/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 5,
-          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+          "title": "Estudos sobre ‘GPS do cérebro’ podem trazer respostas sobre as causas do Alzheimer, diz Nobel",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/estudos-sobre-gps-do-cerebro-podem-trazer-respostas-sobre-as-causas-do-alzheimer-diz-nobel/"
         }
       ],
       "erro": null
@@ -167,7 +167,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Megaoperação mira grupo que planejava atentado em Brasília nas eleições",
+          "title": "Megaoperação mira grupo que planejava atentado em Brasília, nas eleições",
           "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/megaoperacao-mira-grupo-que-planejava-atentado-em-brasilia-nas-eleicoes"
         },
         {
@@ -258,18 +258,18 @@
         },
         {
           "rank": 2,
-          "title": "More than 150 migrants rescued after boat catches fire in Channel",
-          "url": "https://www.bbc.com/news/articles/c4gkpeppjyqo"
-        },
-        {
-          "rank": 3,
           "title": "US states sue to block Trump tariffs impacting dozens of countries",
           "url": "https://www.bbc.com/news/articles/cy4kp8jd0ppo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
           "url": "https://www.bbc.com/news/articles/c151pkww79zo"
+        },
+        {
+          "rank": 4,
+          "title": "More than 150 migrants rescued after boat catches fire in Channel",
+          "url": "https://www.bbc.com/news/articles/c4gkpeppjyqo"
         },
         {
           "rank": 5,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
-          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
-        },
-        {
-          "rank": 4,
           "title": "Los documentos clasificados de las SS sobre Erich Priebke, el criminal nazi que huyó a la Argentina y se escondió en Bariloche tras la caída de Hitler",
           "url": "https://www.clarin.com/mundo/documentos-clasificados-ss-erich-priebke-criminal-nazi-huyo-argentina-escondio-bariloche-caida-hitler_0_Het4yL8kkC.html"
         },
         {
+          "rank": 4,
+          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
+          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
+        },
+        {
           "rank": 5,
-          "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
-          "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
+          "title": "Sarcopenia: cómo recuperar la fuerza muscular en las piernas",
+          "url": "https://www.clarin.com/buena-vida/sarcopenia-recuperar-fuerza-muscular-piernas_0_IxIjlP964z.html"
         }
       ],
       "erro": null

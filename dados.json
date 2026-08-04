@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 12:34",
+  "atualizado_em": "04/08/2026 12:40",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
+          "rank": 2,
           "title": "Lula, mais uma vez",
           "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
-        },
-        {
-          "rank": 3,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "BYD lança novo Song Pro Flex, seu segundo híbrido plug-in capaz de rodar com etanol",
-          "url": "https://www.estadao.com.br/jornal-do-carro/byd-lanca-novo-song-pro-flex-seu-segundo-hibrido-plug-in-capaz-de-rodar-com-etanol/"
+          "title": "Após Liceu, SP prevê mais escolas sob gestão privada e corte de repasse para quem não bater meta",
+          "url": "https://www.estadao.com.br/educacao/apos-liceu-sp-preve-mais-escolas-sob-gestao-privada-e-corte-de-repasse-para-quem-nao-bater-meta/"
         }
       ],
       "erro": null

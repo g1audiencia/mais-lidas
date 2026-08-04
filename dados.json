@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 13:08",
+  "atualizado_em": "04/08/2026 13:13",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
+          "rank": 2,
           "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         },
         {
-          "rank": 3,
-          "title": "Lula, mais uma vez",
-          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
-        },
-        {
           "rank": 4,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "O que as canetas para obesidade revelam sobre a saúde da pele",
+          "url": "https://www.estadao.com.br/pulsa/thales-bretas/o-que-as-canetas-para-obesidade-revelam-sobre-a-saude-da-pele/"
         },
         {
           "rank": 5,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-          "url": "https://www.bbc.com/news/articles/c3ek7g857q4o"
+          "title": "Ed Sheeran fined for failing to insure Aston Martin",
+          "url": "https://www.bbc.com/news/articles/cpw9v0rlj5go"
         }
       ],
       "erro": null

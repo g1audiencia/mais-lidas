@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 17:04",
+  "atualizado_em": "04/08/2026 17:10",
   "portais": [
     {
       "portal": "Folha",
@@ -71,13 +71,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Greve na CPTM começa e linhas amanhecem com operação parcial nesta terça",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-na-cptm-comeca-e-linhas-amanhecem-com-operacao-parcial-nesta-terca/"
+          "title": "Grupo planejava explodir prédio durante debate presidencial",
+          "url": "https://www.cnnbrasil.com.br/politica/grupo-planejava-explodir-predio-durante-debate-presidencial/"
         },
         {
           "rank": 2,
-          "title": "Grupo planejava explodir prédio durante debate presidencial",
-          "url": "https://www.cnnbrasil.com.br/politica/grupo-planejava-explodir-predio-durante-debate-presidencial/"
+          "title": "Greve na CPTM começa e linhas amanhecem com operação parcial nesta terça",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-na-cptm-comeca-e-linhas-amanhecem-com-operacao-parcial-nesta-terca/"
         },
         {
           "rank": 3,
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
-          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
-        },
-        {
-          "rank": 4,
           "title": "Así es el edificio de lujo en Belgrano donde vive Facundo Moyano",
           "url": "https://www.clarin.com/propiedades/edificio-lujo-belgrano-vive-facundo-moyano_0_uLsW3irye8.html"
         },
         {
+          "rank": 4,
+          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
+          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
+        },
+        {
           "rank": 5,
-          "title": "River sigue trayendo futbolistas del exterior: suma a Francisco Ortega, su octavo refuerzo",
-          "url": "https://www.clarin.com/deportes/river-sigue-trayendo-futbolistas-exterior-suma-francisco-ortega-septimo-refuerzo_0_1WAYcHknDC.html"
+          "title": "Victoria Cantero contó cómo mató a su novio, Julián Álvarez, en Chaco: \"Reaccioné y lo ataqué\"",
+          "url": "https://www.clarin.com/policiales/victoria-cantero-conto-mato-novio-julian-alvarez-chaco-reaccione-ataque_0_7lTbkL8qRs.html"
         }
       ],
       "erro": null

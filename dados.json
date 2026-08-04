@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 21:51",
+  "atualizado_em": "03/08/2026 21:56",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
-          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
-        },
-        {
-          "rank": 4,
           "title": "Republicanos recusa compor chapa com Flávio e formaliza independência na eleição presidencial",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/republicanos-recusa-compor-chapa-com-flavio-e-formaliza-independencia-na-eleicao-presidencial/"
         },
         {
+          "rank": 4,
+          "title": "Síntese do eleitorado brasileiro, Minas é também o retrato da balbúrdia da campanha presidencial",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/sintese-do-eleitorado-brasileiro-minas-e-tambem-o-retrato-da-balburdia-da-campanha-presidencial/"
+        },
+        {
           "rank": 5,
-          "title": "Centrão teria vários motivos para não se unir a Flávio, mas ‘recomendação’ do STF seria abismante",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/centrao-teria-varios-motivos-para-nao-se-unir-a-flavio-mas-recomendacao-do-stf-seria-abismante/"
+          "title": "Qual Estado do Brasil mudou sua bandeira? O que significam as novas estrelas?",
+          "url": "https://www.estadao.com.br/brasil/qual-estado-do-brasil-mudou-sua-bandeira-o-que-significam-as-novas-estrelas/"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
+          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
+          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
+        },
+        {
+          "rank": 3,
           "title": "Masacre en el Mar Negro: un ataque ucraniano con drones provoca siete muertos en una playa de Rusia",
           "url": "https://www.clarin.com/mundo/masacre-mar-negro-ataque-ucraniano-drones-provoca-muertos-playa-rusia_0_iTziHNoZ10.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Un hombre se lanzó desnudo al río desde el puente de Brooklyn con una mochila como paracaídas: sobrevivió y quedó procesado",
           "url": "https://www.clarin.com/internacional/hombre-lanzo-desnudo-rio-puente-brooklyn-mochila-paracaidas-sobrevivio-quedo-procesado_0_BJQY2z1ntI.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "El hundimiento de Infantino y el peligro que se abre para Tapia",
           "url": "https://www.clarin.com/deportes/hundimiento-infantino-peligro-abre-tapia_0_0hgwM4DuAP.html"
-        },
-        {
-          "rank": 5,
-          "title": "Estados Unidos reportó dos muertos por el brote de diarrea explosiva que se habría originado por lechuga de México",
-          "url": "https://www.clarin.com/mundo/estados-unidos-reporto-muertos-brote-diarrea-explosiva-originado-lechuga-mexico_0_KLSizFpQTG.html"
         }
       ],
       "erro": null

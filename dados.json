@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 08:34",
+  "atualizado_em": "04/08/2026 08:39",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula, mais uma vez",
-          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
-        },
-        {
-          "rank": 2,
           "title": "Careca do INSS acertou com amiga de Lulinha ações para ‘abrir portas’ no governo federal",
           "url": "https://www.estadao.com.br/politica/careca-do-inss-acertou-com-amiga-de-lulinha-acoes-para-abrir-portas-no-governo-federal/"
         },
         {
+          "rank": 2,
+          "title": "Lula, mais uma vez",
+          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
+        },
+        {
           "rank": 3,
-          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 4,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Isolamento político ameaça empurrar chapa de Flávio Bolsonaro para um vice radical do PL",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/isolamento-politico-ameaca-empurrar-chapa-de-flavio-bolsonaro-para-um-vice-radical-do-pl/"
         },
         {
           "rank": 5,
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
-          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
+          "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place",
+          "url": "https://apnews.com/article/trump-irs-todd-blanche-tax-settlement-5d70c9d590a0a3f181466660e99b4377"
         },
         {
           "rank": 5,
-          "title": "As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place",
-          "url": "https://apnews.com/article/trump-irs-todd-blanche-tax-settlement-5d70c9d590a0a3f181466660e99b4377"
+          "title": "GOP holdouts say they will back Blanche’s attorney general nomination after striking deal over fund",
+          "url": "https://apnews.com/article/senate-blanche-trump-justice-fund-a38decfc7f20e4f73a181914d53111da"
         }
       ],
       "erro": null

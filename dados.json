@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 07:19",
+  "atualizado_em": "05/08/2026 07:25",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
-        },
-        {
-          "rank": 2,
           "title": "Lula tem 44% contra 39% de Flávio Bolsonaro no 2º turno, diz Genial/Quaest",
           "url": "https://www.estadao.com.br/politica/lula-tem-44-contra-39-de-flavio-bolsonaro-no-2-turno-diz-genialquaest/"
         },
         {
+          "rank": 2,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+        },
+        {
           "rank": 3,
-          "title": "Quais cidades têm a maior guarda civil? Veja ranking",
-          "url": "https://www.estadao.com.br/brasil/quais-cidades-tem-a-maior-guarda-civil-veja-ranking/"
+          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
+          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
           "rank": 4,
@@ -268,8 +268,8 @@
         },
         {
           "rank": 5,
-          "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-          "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
+          "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+          "url": "https://www.bbc.com/news/articles/c1w1lvn7d9go"
         }
       ],
       "erro": null
@@ -290,18 +290,18 @@
         },
         {
           "rank": 3,
-          "title": "Maxi Salas llegó a Mendoza y prendió el ventilador: \"Estoy enojado con River porque nos trató muy mal\"",
-          "url": "https://www.clarin.com/deportes/maxi-salas-llego-mendoza-hablo-primera-vez-salida-river-siempre-revancha-futbol_0_XT98TeeVm7.html"
+          "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
+          "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
         },
         {
           "rank": 4,
-          "title": "Victoria Cantero contó cómo mató a su novio, Julián Álvarez, en Chaco: \"Reaccioné y lo ataqué\"",
-          "url": "https://www.clarin.com/policiales/victoria-cantero-conto-mato-novio-julian-alvarez-chaco-reaccione-ataque_0_7lTbkL8qRs.html"
+          "title": "El auto chino más vendido en el país no es de una marca china y presentó una nueva versión más equipada",
+          "url": "https://www.clarin.com/autos/auto-chino-vendido-pais-marca-china-presento-nueva-version-equipada_0_oX2yLqfUEU.html"
         },
         {
           "rank": 5,
-          "title": "Fentanilo contaminado: detienen a la ex titular de la ANMAT y se llevan datos clave del Ministerio de Salud",
-          "url": "https://www.clarin.com/sociedad/escandalo-fentanilo-contaminado-allanaron-ministerio-salud_0_T6DAPsaRWV.html"
+          "title": "Maxi Salas llegó a Mendoza y prendió el ventilador: \"Estoy enojado con River porque nos trató muy mal\"",
+          "url": "https://www.clarin.com/deportes/maxi-salas-llego-mendoza-hablo-primera-vez-salida-river-siempre-revancha-futbol_0_XT98TeeVm7.html"
         }
       ],
       "erro": null

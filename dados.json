@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 14:44",
+  "atualizado_em": "05/08/2026 14:50",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Ex-chefe de gabinete de Lula deixa campanha após contas pagas por empresária alvo da PF",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pede-para-deixar-campanha-apos-contas-pagas-por-empresaria-alvo-da-pf.shtml"
+          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
           "rank": 3,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
+          "title": "Ex-chefe de gabinete de Lula deixa campanha após contas pagas por empresária alvo da PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pede-para-deixar-campanha-apos-contas-pagas-por-empresaria-alvo-da-pf.shtml"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
         },
         {
           "rank": 2,
-          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
-          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
-        },
-        {
-          "rank": 3,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
+          "rank": 3,
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+        },
+        {
           "rank": 4,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
+          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
         },
         {
           "rank": 5,
-          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
+          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
+          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
         }
       ],
       "erro": null
@@ -236,11 +236,6 @@
         },
         {
           "rank": 4,
-          "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
-          "url": "https://apnews.com/article/fbi-patel-trump-justice-department-74958effbe23df23eccb33a960da4cc3"
-        },
-        {
-          "rank": 5,
           "title": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say",
           "url": "https://apnews.com/article/warming-heat-climate-change-summer-el-nino-ffd31dd358a894667c63f4c0a21cd677"
         }

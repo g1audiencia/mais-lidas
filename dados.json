@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 05:51",
+  "atualizado_em": "05/08/2026 05:57",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         },
         {
           "rank": 2,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
+          "rank": 3,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "A próxima crise dos Estados Unidos pode vir do Japão",
           "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
-          "rank": 4,
-          "title": "7 maneiras de aumentar o nível do ‘hormônio do amor’",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/7-maneiras-de-aumentar-o-nivel-do-hormonio-do-amor/"
-        },
-        {
           "rank": 5,
-          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
+          "title": "João Fonseca sonha com top 20 a caminho do último Grand Slam do ano",
+          "url": "https://www.estadao.com.br/esportes/tenis/joao-fonseca-sonha-com-top-20-a-caminho-do-ultimo-grand-slam-do-ano/"
         }
       ],
       "erro": null
@@ -248,28 +248,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
+          "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+          "url": "https://www.bbc.com/news/articles/cly5kvdkyjro"
         },
         {
           "rank": 2,
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
-        },
-        {
-          "rank": 3,
-          "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
-        },
-        {
-          "rank": 4,
           "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
           "url": "https://www.bbc.com/news/articles/c0kmd4xpr46o"
         },
         {
+          "rank": 3,
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
+        },
+        {
+          "rank": 4,
+          "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+          "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
+        },
+        {
           "rank": 5,
-          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-          "url": "https://www.bbc.com/news/articles/cgr7nxve05go"
+          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         }
       ],
       "erro": null

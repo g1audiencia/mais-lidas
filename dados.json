@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 04:12",
+  "atualizado_em": "05/08/2026 04:17",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Kassio aponta propaganda velada e manda governo remover conteúdos de canais oficiais em 24 horas",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/kassio-aponta-propaganda-velada-e-manda-governo-remover-conteudos-de-canais-oficiais-em-24-horas.shtml"
         },
         {
+          "rank": 4,
+          "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Lula desperdiça a campanha",
-          "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/lula-desperdica-a-campanha.shtml"
+          "title": "Estudante de medicina é preso sob suspeita de importunação sexual em hospital de MG",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/estudante-de-medicina-e-preso-sob-suspeita-de-importunacao-sexual-em-hospital-de-mg.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
+          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
+        },
+        {
+          "rank": 3,
           "title": "Nobel de Medicina fala sobre o sistema de localização do cérebro e a formação de memórias",
           "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/nobel-de-medicina-fala-sobre-o-sistema-de-localizacao-do-cerebro-e-a-formacao-de-memorias/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
-          "rank": 4,
-          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
-          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
-        },
-        {
           "rank": 5,
-          "title": "Ator Marco Furlan é preso em flagrante suspeito de estuprar criança de 5 anos durante festa em SP",
-          "url": "https://www.estadao.com.br/brasil/ator-marco-furlan-preso-flagrante-suspeito-estuprar-crianca-5-anos-festa-sp-npr/"
+          "title": "STF só terá igualdade quando as 11 cadeiras forem ocupadas por mulheres, afirma Cármen Lúcia",
+          "url": "https://www.estadao.com.br/economia/negocios/stf-so-tera-igualdade-quando-as-11-cadeiras-forem-ocupadas-por-mulheres-afirma-carmen-lucia/"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 4,
-          "title": "Nuevo asesinato motochorro de un policía de la Ciudad en el Conurbano: \"Asesinos de m..., los vamos a agarrar\"",
-          "url": "https://www.clarin.com/policiales/nuevo-asesinato-motochorro-policia-ciudad-conurbano-asesinos-m-vamos-agarrar_0_DsHpQ5UK7X.html"
+          "title": "Facundo Moyano detenido: ahora aparecieron videos del sindicalista corriendo a la joven de 23 años semidesnuda por Belgrano",
+          "url": "https://www.clarin.com/politica/facundo-moyano-demorado-video-muestra-joven-23-anos-deambula-semidesnuda-belgrano_0_syKIRZOA2a.html"
         },
         {
           "rank": 5,
-          "title": "Facundo Moyano detenido: ahora aparecieron videos del sindicalista corriendo a la joven de 23 años semidesnuda por Belgrano",
-          "url": "https://www.clarin.com/politica/facundo-moyano-demorado-video-muestra-joven-23-anos-deambula-semidesnuda-belgrano_0_syKIRZOA2a.html"
+          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
+          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 16:43",
+  "atualizado_em": "05/08/2026 16:49",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Flávio Bolsonaro anuncia Alfredo Gaspar, relator da comissão do INSS, como vice",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-anuncia-alfredo-gaspar-como-vice-em-sua-chapa.shtml"
+          "title": "Líderes evangélicos preferiam vice mulher para Flávio Bolsonaro",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/lideres-evangelicos-preferiam-vice-mulher-para-flavio-bolsonaro.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 2,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
+          "rank": 2,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
           "rank": 3,
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+        },
+        {
+          "rank": 4,
           "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
           "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
         },
         {
-          "rank": 4,
-          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
-          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
-        },
-        {
           "rank": 5,
-          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "Drone carrying explosives found at German airport, police say",
-          "url": "https://www.bbc.com/news/articles/cyvlg4q48l3o"
+          "title": "US congressman drops re-election bid after investigation finds 'inappropriate conduct' with staff",
+          "url": "https://www.bbc.com/news/articles/c20jkggnk07o"
         },
         {
           "rank": 5,
-          "title": "US congressman drops re-election bid after investigation finds 'inappropriate conduct' with staff",
-          "url": "https://www.bbc.com/news/articles/c20jkggnk07o"
+          "title": "Drone carrying explosives found at German airport, police say",
+          "url": "https://www.bbc.com/news/articles/cyvlg4q48l3o"
         }
       ],
       "erro": null

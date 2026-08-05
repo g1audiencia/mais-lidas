@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 18:02",
+  "atualizado_em": "05/08/2026 18:07",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
           "rank": 4,
-          "title": "Desconto se espalha por 91,5% dos fundos imobiliários da Bolsa; oportunidade ou sinal de alerta?",
-          "url": "https://www.estadao.com.br/einvestidor/einar-rivero/desconto-se-espalha-por-915-dos-fundos-imobiliarios-da-bolsa-oportunidade-ou-sinal-de-alerta/"
+          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
+          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
           "rank": 5,
-          "title": "Greve CPTM: funcionários decidem encerrar paralisação das linhas 11, 12 e 13 em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/greve-cptm-funcionarios-decidem-encerrar-paralisacao-das-linhas-11-12-e-13-em-sp/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Genro de deputada federal e amigo de Ana Maria Braga morre em acidente de moto em GO",
+          "url": "https://www.metropoles.com/distrito-federal/entorno/genro-de-deputada-e-amigo-de-ana-maria-braga-morre-em-acidente-de-moto"
+        },
+        {
+          "rank": 2,
           "title": "PF conclui inquérito e prepara primeiro indiciamento de Vorcaro e Paulo Henrique",
           "url": "https://www.metropoles.com/colunas/andreza-matais/pf-conclui-inquerito-e-prepara-primeiro-indiciamento-de-vorcaro-e-paulo-henrique"
         },
         {
-          "rank": 2,
-          "title": "Ciclone bomba: tempestade de grande escala gira e pode ter quilômetros",
-          "url": "https://www.metropoles.com/ciencia/ciclone-bomba-maior-potencial-tempestade"
-        },
-        {
           "rank": 3,
-          "title": "PT acende alerta após ex-sócio de Vorcaro decidir falar e mudar defesa",
-          "url": "https://www.metropoles.com/colunas/milena-teixeira/pt-acende-alerta-apos-augusto-lima-decidir-falar-e-mudar-defesa"
+          "title": "Greve da CPTM chega ao fim após acordo entre sindicato e governo de SP",
+          "url": "https://www.metropoles.com/sao-paulo/greve-da-cptm-chega-ao-fim-apos-acordo-entre-sindicato-e-governo-de-sp"
         }
       ],
       "erro": null

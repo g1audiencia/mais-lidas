@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 03:44",
+  "atualizado_em": "05/08/2026 03:50",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
+          "title": "Lula desperdiça a campanha",
+          "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/lula-desperdica-a-campanha.shtml"
         }
       ],
       "erro": null
@@ -71,23 +71,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ciclone bomba pode se formar e atingir o Brasil; Inmet dispara alerta",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/ciclone-bomba-pode-se-formar-e-atingir-o-brasil-inmet-dispara-alerta/"
-        },
-        {
-          "rank": 2,
           "title": "Copa do Brasil: Rony aproveita bela jogada de Neymar, e Santos elimina Remo",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-rony-aproveita-bela-jogada-de-neymar-e-santos-elimina-remo/"
         },
         {
+          "rank": 2,
+          "title": "Ciclone bomba pode se formar e atingir o Brasil; Inmet dispara alerta",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/ciclone-bomba-pode-se-formar-e-atingir-o-brasil-inmet-dispara-alerta/"
+        },
+        {
           "rank": 3,
-          "title": "Mendonça manda governo Lula abrir dados de gastos com publicidade",
-          "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/mendonca-manda-governo-lula-abrir-dados-de-gastos-com-publicidade/"
+          "title": "\"Se os EUA invadirem o Brasil, a gente terá que abrir o portão\", diz Múcio",
+          "url": "https://www.cnnbrasil.com.br/politica/se-os-eua-invadirem-o-brasil-a-gente-tera-que-abrir-o-portao-diz-mucio/"
         },
         {
           "rank": 4,
-          "title": "\"Se os EUA invadirem o Brasil, a gente terá que abrir o portão\", diz Múcio",
-          "url": "https://www.cnnbrasil.com.br/politica/se-os-eua-invadirem-o-brasil-a-gente-tera-que-abrir-o-portao-diz-mucio/"
+          "title": "Mendonça manda governo Lula abrir dados de gastos com publicidade",
+          "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/politica/mendonca-manda-governo-lula-abrir-dados-de-gastos-com-publicidade/"
         },
         {
           "rank": 5,
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
-          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
+          "title": "Neymar dá assistência, Rony quebra marasmo e classifica Santos contra o Remo na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/neymar-da-assistencia-rony-quebra-marasmo-e-classifica-santos-contra-o-remo-na-copa-do-brasil/"
         },
         {
           "rank": 3,
-          "title": "Nobel de Medicina fala sobre o sistema de localização do cérebro e a formação de memórias",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/nobel-de-medicina-fala-sobre-o-sistema-de-localizacao-do-cerebro-e-a-formacao-de-memorias/"
+          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
+          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 06:40",
+  "atualizado_em": "05/08/2026 06:46",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
-          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
+          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
+          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         },
         {
           "rank": 3,
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+        },
+        {
+          "rank": 4,
           "title": "A próxima crise dos Estados Unidos pode vir do Japão",
           "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
-          "rank": 4,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
-        },
-        {
           "rank": 5,
-          "title": "Brasil só terá juros civilizados se tiver uma discussão de projeto de país, diz CEO do Banco XP",
-          "url": "https://www.estadao.com.br/economia/brasil-so-tera-juros-civilizados-se-tiver-uma-discussao-de-projeto-de-pais-diz-ceo-do-banco-xp/"
+          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
+          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 3,
+          "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
+        },
+        {
+          "rank": 4,
           "title": "Armed man arrested near Trump's golf course ahead of president's visit",
           "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
           "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
-        },
-        {
-          "rank": 5,
-          "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 4,
-          "title": "Fentanilo contaminado: detienen a la ex titular de la ANMAT y se llevan datos clave del Ministerio de Salud",
-          "url": "https://www.clarin.com/sociedad/escandalo-fentanilo-contaminado-allanaron-ministerio-salud_0_T6DAPsaRWV.html"
+          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
+          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
         },
         {
           "rank": 5,
-          "title": "Victoria Cantero contó cómo mató a su novio, Julián Álvarez, en Chaco: \"Reaccioné y lo ataqué\"",
-          "url": "https://www.clarin.com/policiales/victoria-cantero-conto-mato-novio-julian-alvarez-chaco-reaccione-ataque_0_7lTbkL8qRs.html"
+          "title": "Fentanilo contaminado: detienen a la ex titular de la ANMAT y se llevan datos clave del Ministerio de Salud",
+          "url": "https://www.clarin.com/sociedad/escandalo-fentanilo-contaminado-allanaron-ministerio-salud_0_T6DAPsaRWV.html"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 09:04",
+  "atualizado_em": "05/08/2026 09:10",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
-          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
-          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
-        },
-        {
-          "rank": 3,
           "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
           "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "A próxima crise dos Estados Unidos pode vir do Japão",
           "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+        },
+        {
+          "rank": 4,
+          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
+          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         },
         {
           "rank": 5,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Vender una casa heredada: la alternativa legal que permite ahorrar tiempo y evitar gastos extras",
-          "url": "https://www.clarin.com/propiedades/vender-casa-heredada-alternativa-legal-permite-ahorrar-tiempo-evitar-gastos-extras_0_LMHr8OeAeq.html"
+          "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
+          "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
         }
       ],
       "erro": null

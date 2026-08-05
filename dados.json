@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 15:57",
+  "atualizado_em": "05/08/2026 16:03",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Ilha mais povoada do mundo tem 500 moradores e é menor que campo de futebol",
+          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/05/ilha-mais-povoada-do-mundo-tem-500-moradores-e-e-menor-que-campo-de-futebol.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Escolha de vice de Flávio foi ligada a disputa no Senado e envolveu Lira",
           "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/05/como-solucao-alagoas-do-pl-para-lira-empurrou-alfredo-para-vice-de-flavio.htm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Marco Furlan não tinha namorada no local do crime, contrariando depoimento",
           "url": "https://www.uol.com.br/flash/?c=28ba2ddc357c19253c1e733a59e9e96820260805"
-        },
-        {
-          "rank": 3,
-          "title": "Caso Voepass: piloto comparou avião a 'fusquinha' e admitiu falha antes de queda",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/caixa-preta-indica-falha-no-degelo-em-voo-da-voepass-antes-de-queda.ghtm"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Foco no delivery: hamburgueria em SP fatura quase R$ 10 mi com só duas lojas",
-          "url": "https://economia.uol.com.br/empreendedorismo/noticias/redacao/2026/08/05/bruttus-hamburgueria-unidades-proprias-delivery.ghtm"
+          "title": "Caso Voepass: piloto comparou avião a 'fusquinha' e admitiu falha antes de queda",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/caixa-preta-indica-falha-no-degelo-em-voo-da-voepass-antes-de-queda.ghtm"
         }
       ],
       "erro": null
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
           "rank": 4,
-          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
         },
         {
           "rank": 5,
-          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
-          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
+          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "Drone carrying explosives found at German airport, police say",
-          "url": "https://www.bbc.com/news/articles/cyvlg4q48l3o"
+          "title": "US congressman drops re-election bid after investigation finds 'inappropriate conduct' with staff",
+          "url": "https://www.bbc.com/news/articles/c20jkggnk07o"
         },
         {
           "rank": 5,
-          "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-          "url": "https://www.bbc.com/news/articles/cly5kvdkyjro"
+          "title": "Drone carrying explosives found at German airport, police say",
+          "url": "https://www.bbc.com/news/articles/cyvlg4q48l3o"
         }
       ],
       "erro": null

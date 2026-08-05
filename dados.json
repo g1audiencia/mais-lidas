@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 23:54",
+  "atualizado_em": "05/08/2026 00:00",
   "portais": [
     {
       "portal": "Folha",
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quando a publicidade entra pela porta do ChatGPT, sua aura de neutralidade sai pela janela",
-          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/quando-a-publicidade-entra-pela-porta-do-chatgpt-sua-aura-de-neutralidade-sai-pela-janela/"
-        },
-        {
-          "rank": 2,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
-          "rank": 3,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Quando a publicidade entra pela porta do ChatGPT, sua aura de neutralidade sai pela janela",
+          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/quando-a-publicidade-entra-pela-porta-do-chatgpt-sua-aura-de-neutralidade-sai-pela-janela/"
+        },
+        {
+          "rank": 3,
           "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
           "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
           "rank": 5,

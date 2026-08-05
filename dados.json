@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 02:56",
+  "atualizado_em": "05/08/2026 03:04",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Incêndio de grandes proporções atinge indústria em SP",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-industria-em-sp/"
+          "title": "Greve na CPTM começa e linhas amanhecem com operação parcial nesta terça",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-na-cptm-comeca-e-linhas-amanhecem-com-operacao-parcial-nesta-terca/"
         },
         {
           "rank": 4,
-          "title": "Greve na CPTM começa e linhas amanhecem com operação parcial nesta terça",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-na-cptm-comeca-e-linhas-amanhecem-com-operacao-parcial-nesta-terca/"
+          "title": "Incêndio de grandes proporções atinge indústria em SP",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-industria-em-sp/"
         },
         {
           "rank": 5,
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
-          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
+          "title": "Governo Lula 'repudia' retirada de visto de embaixadora e diz que justificativas dos EUA 'são falsas'",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/04/governo-lula-repudia-retirada-de-visto-de-embaixadora-e-diz-que-justificativas-dos-eua-sao-falsas.ghtml"
         },
         {
           "rank": 5,
-          "title": "Governo Lula 'repudia' retirada de visto de embaixadora e diz que justificativas dos EUA 'são falsas'",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/04/governo-lula-repudia-retirada-de-visto-de-embaixadora-e-diz-que-justificativas-dos-eua-sao-falsas.ghtml"
+          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
+          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
-        },
-        {
-          "rank": 2,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
+          "rank": 2,
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+        },
+        {
           "rank": 3,
+          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
+        },
+        {
+          "rank": 4,
           "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
           "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
         },
         {
-          "rank": 4,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
-        },
-        {
           "rank": 5,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+          "title": "Ciclone-bomba deve se formar sobre o Brasil nos próximos dias, alerta o Inmet",
+          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-deve-se-formar-brasil-proximos-dias-alerta-inmet-npr/"
         }
       ],
       "erro": null

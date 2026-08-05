@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 15:46",
+  "atualizado_em": "05/08/2026 15:52",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
+          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
-        },
-        {
-          "rank": 2,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
-        },
-        {
-          "rank": 3,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
           "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
         },
         {
+          "rank": 3,
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+        },
+        {
+          "rank": 4,
+          "title": "Escolha de Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
+        },
+        {
           "rank": 5,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
+          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
         }
       ],
       "erro": null

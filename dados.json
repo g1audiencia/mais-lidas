@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 10:28",
+  "atualizado_em": "05/08/2026 10:33",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Lula tem vantagem sobre Flávio no 2º turno, aponta Meio Ideia",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/lula-tem-vantagem-sobre-flavio-no-2o-turno-aponta-meio-ideia.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Conselho Federal de Medicina aponta pagamentos irregulares no órgão regional de SP",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/conselho-federal-de-medicina-aponta-pagamentos-irregulares-no-orgao-regional-de-sp.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Lula desperdiça a campanha",
           "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/lula-desperdica-a-campanha.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Pastores progressistas relatam ostracismo após ascensão bolsonarista nas igrejas",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/pastores-progressistas-relatam-ostracismo-apos-ascensao-bolsonarista-nas-igrejas.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Lula tem vantagem sobre Flávio no 2º turno, aponta Meio Ideia",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/lula-tem-vantagem-sobre-flavio-no-2o-turno-aponta-meio-ideia.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
+          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         },
         {
           "rank": 4,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
+          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         },
         {
           "rank": 5,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
+          "title": "Neymar provoca confusão e é chamado de ‘vagabundo’ por presidente do Remo; veja vídeos",
+          "url": "https://www.estadao.com.br/esportes/futebol/neymar-provoca-confusao-e-e-chamado-de-vagabundo-por-presidente-do-remo-veja-videos/"
         }
       ],
       "erro": null

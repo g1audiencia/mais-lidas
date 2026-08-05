@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 05:46",
+  "atualizado_em": "05/08/2026 05:51",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Aliados de Flávio Bolsonaro culpam governo Lula por rejeição do centrão e miram 2º turno",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/aliados-de-flavio-bolsonaro-culpam-governo-lula-por-rejeicao-do-centrao-e-miram-2o-turno.shtml"
+          "title": "Estudante de medicina é preso sob suspeita de importunação sexual em hospital de MG",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/estudante-de-medicina-e-preso-sob-suspeita-de-importunacao-sexual-em-hospital-de-mg.shtml"
         },
         {
           "rank": 5,
-          "title": "Diplomatas avaliam que decisão de revogar visto de embaixadora é anômala e gravíssima",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/diplomatas-avaliam-que-decisao-de-revogar-visto-de-embaixadora-e-anomala-e-gravissima.shtml"
+          "title": "Lula desperdiça a campanha",
+          "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/lula-desperdica-a-campanha.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+        },
+        {
+          "rank": 2,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
-          "rank": 2,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
-        },
-        {
           "rank": 3,
-          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
-          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
+          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
+          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
           "rank": 4,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "7 maneiras de aumentar o nível do ‘hormônio do amor’",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/7-maneiras-de-aumentar-o-nivel-do-hormonio-do-amor/"
         },
         {
           "rank": 5,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         }
       ],
       "erro": null

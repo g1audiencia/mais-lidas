@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 14:16",
+  "atualizado_em": "05/08/2026 14:22",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
+          "title": "Ex-chefe de gabinete de Lula deixa campanha após contas pagas por empresária alvo da PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pede-para-deixar-campanha-apos-contas-pagas-por-empresaria-alvo-da-pf.shtml"
         },
         {
           "rank": 3,
-          "title": "Ex-chefe de gabinete de Lula deixa campanha após contas pagas por empresária alvo da PF",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pede-para-deixar-campanha-apos-contas-pagas-por-empresaria-alvo-da-pf.shtml"
+          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Flávio Bolsonaro anuncia Alfredo Gaspar, relator da comissão do INSS, como vice",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-anuncia-alfredo-gaspar-como-vice-em-sua-chapa.shtml"
+          "title": "Tarcísio diz que enviará projeto de lei à Alesp para garantir manutenção de empregos dos funcionários das linhas da CPTM concedidas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/tarcisio-diz-que-enviara-projeto-de-lei-a-alesp-para-garantir-manutencao-de-empregos-dos-funcionarios-das-linhas-da-cptm-concedidas.shtml"
         }
       ],
       "erro": null
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Ciclone bomba pode se formar e atingir o Brasil; Inmet dispara alerta",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/ciclone-bomba-pode-se-formar-e-atingir-o-brasil-inmet-dispara-alerta/"
+          "title": "Neymar provoca o Remo e gera revolta após vitória do Santos: \"Eliminado\"",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-provoca-o-remo-e-gera-revolta-apos-vitoria-do-santos-eliminado/"
         },
         {
           "rank": 4,
-          "title": "Neymar provoca o Remo e gera revolta após vitória do Santos: \"Eliminado\"",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-provoca-o-remo-e-gera-revolta-apos-vitoria-do-santos-eliminado/"
+          "title": "Ciclone bomba pode se formar e atingir o Brasil; Inmet dispara alerta",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/ciclone-bomba-pode-se-formar-e-atingir-o-brasil-inmet-dispara-alerta/"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
+          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
         },
         {
           "rank": 3,
-          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
-        },
-        {
-          "rank": 4,
           "title": "Flávio Bolsonaro anuncia Alfredo Gaspar, relator da CPI do INSS, como vice na disputa à Presidência",
           "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-anuncia-alfredo-gaspar-como-vice-na-disputa-a-presidencia/"
         },
         {
+          "rank": 4,
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+        },
+        {
           "rank": 5,
-          "title": "Petistas veem escolha de Alfredo Gaspar como vice de Flávio como ‘tiro no pé’ e revivem acusações",
-          "url": "https://www.estadao.com.br/politica/petistas-veem-escolha-de-alfredo-gaspar-como-vice-de-flavio-como-tiro-no-pe-e-revivem-acusacoes/"
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         }
       ],
       "erro": null

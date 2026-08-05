@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 15:29",
+  "atualizado_em": "05/08/2026 15:35",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Justiça propõe acordo e greve na CPTM pode acabar na tarde desta quarta (5)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/justica-propoe-acordo-e-greve-na-cptm-pode-acabar-nesta-tarde.shtml"
+          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
         }
       ],
       "erro": null
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Como funciona a cirurgia para definir as pernas feita por Jojo Todynho? Médico explica",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/08/05/como-funciona-a-cirurgia-para-definir-as-pernas-feita-por-jojo-todynho-medico-explica.ghtml"
+          "title": "Governo Lula errou em demora para dar aval a novo embaixador dos EUA no Brasil, diz Ricupero",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/05/governo-lula-errou-em-demora-para-dar-aval-a-novo-embaixador-dos-eua-no-brasil-diz-ricupero.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
-        },
-        {
-          "rank": 2,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
-        },
-        {
-          "rank": 3,
           "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
           "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
         },
         {
+          "rank": 2,
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+        },
+        {
+          "rank": 3,
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+        },
+        {
           "rank": 4,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
+          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
         },
         {
           "rank": 5,
-          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         }
       ],
       "erro": null

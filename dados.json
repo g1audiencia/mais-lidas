@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 13:04",
+  "atualizado_em": "05/08/2026 13:09",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
-        },
-        {
-          "rank": 3,
           "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         },
         {
+          "rank": 3,
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+        },
+        {
           "rank": 4,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
         },
         {
           "rank": 5,
-          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         }
       ],
       "erro": null

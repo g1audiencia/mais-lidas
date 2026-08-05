@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 11:01",
+  "atualizado_em": "05/08/2026 11:06",
   "portais": [
     {
       "portal": "Folha",
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Mistério resolvido? Cataratas de Sangue da Antártida escondem vestígios de antigo mundo marinho sob o gelo",
-          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/08/05/misterio-resolvido-cataratas-de-sangue-da-antartida-escondem-vestigios-de-antigo-mundo-marinho-sob-o-gelo.ghtml"
+          "title": "Foguete da SpaceX atinge a Lua e abre cratera de 18 metros, diz Nasa",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/08/05/foguete-da-spacex-atinge-a-lua-e-abre-cratera-de-18-metros-diz-nasa.ghtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
-          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
-        },
-        {
-          "rank": 3,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
-        },
-        {
-          "rank": 4,
           "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
           "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
           "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
+        },
+        {
+          "rank": 4,
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+        },
+        {
+          "rank": 5,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         }
       ],
       "erro": null
@@ -285,23 +285,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "La intimidad de una \"noche brava\" entre Facundo Moyano y Candela Arizaga: drogas, brote y la declaración que lo favorece",
-          "url": "https://www.clarin.com/policiales/intimidad-noche-brava-facundo-moyano-candela-arizaga-drogas-brote-declaracion-favorece_0_CnzEc5Du42.html"
-        },
-        {
-          "rank": 2,
-          "title": "Violencia en México: asesinan a tiros a un influencer durante una trasmisión en vivo en Tik Tok",
-          "url": "https://www.clarin.com/mundo/violencia-mexico-asesinan-tiros-influencer-trasmision-vivo-tik-tok_0_yI9Nz9Jg9p.html"
-        },
-        {
-          "rank": 3,
           "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
           "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "La intimidad de una \"noche brava\" entre Facundo Moyano y Candela Arizaga: drogas, brote y la declaración que lo favorece",
+          "url": "https://www.clarin.com/policiales/intimidad-noche-brava-facundo-moyano-candela-arizaga-drogas-brote-declaracion-favorece_0_CnzEc5Du42.html"
+        },
+        {
+          "rank": 3,
           "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
           "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
+        },
+        {
+          "rank": 4,
+          "title": "Violencia en México: asesinan a tiros a un influencer durante una trasmisión en vivo en Tik Tok",
+          "url": "https://www.clarin.com/mundo/violencia-mexico-asesinan-tiros-influencer-trasmision-vivo-tik-tok_0_yI9Nz9Jg9p.html"
         },
         {
           "rank": 5,

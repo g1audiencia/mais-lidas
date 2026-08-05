@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 06:19",
+  "atualizado_em": "05/08/2026 06:24",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
+          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
+        },
+        {
+          "rank": 3,
           "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
           "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         },
         {
-          "rank": 3,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
           "rank": 4,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
           "rank": 5,
-          "title": "Rio-2016 completa 10 anos: qual foi o legado deixado pelas Olimpíadas para o Brasil?",
-          "url": "https://www.estadao.com.br/esportes/rio-2016-completa-10-anos-qual-foi-o-legado-deixado-pelas-olimpiadas-para-o-brasil/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null

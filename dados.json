@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 02:50",
+  "atualizado_em": "05/08/2026 02:56",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
-          "rank": 2,
-          "title": "Abobrinha frita",
-          "url": "https://www.estadao.com.br/paladar/prato-do-dia/abobrinha-frita/"
-        },
-        {
-          "rank": 3,
-          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
-          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
-        },
-        {
-          "rank": 4,
           "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
           "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
+          "rank": 2,
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+        },
+        {
+          "rank": 3,
+          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
+          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+        },
+        {
           "rank": 5,
-          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
+          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
+          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
         }
       ],
       "erro": null
@@ -248,8 +248,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
+          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "url": "https://www.bbc.com/news/articles/cgr7nxve05go"
         },
         {
           "rank": 2,
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-          "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o"
+          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         },
         {
           "rank": 5,
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
+          "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+          "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o"
         }
       ],
       "erro": null

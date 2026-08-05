@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 20:09",
+  "atualizado_em": "05/08/2026 20:15",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Por onde o ciclone-bomba pode passar a partir de amanhã e como ele afetará o Brasil",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/por-onde-o-ciclone-bomba-deve-passar-amanha-veja-lista-estados.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Banco Central reduz taxa básica de juros para 14% ao ano",
           "url": "https://economia.uol.com.br/noticias/redacao/2026/08/05/selic-taxa-basic-juros-agosto-2026.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "'O cara do Vorcaro': como Fábio Faria ajudou o Banco Master e faturou milhões",
+          "url": "https://piaui.uol.com.br/web/fabio-faria-daniel-vorcaro-lobby/?utm_source=home_uol"
+        },
+        {
+          "rank": 4,
           "title": "Josias de Souza: Alfredo Gaspar consegue ser pior que Flávio",
           "url": "https://www.uol.com.br/flash/?c=3689386fb39367eb775a1b543c935c220260805"
         },
         {
-          "rank": 3,
-          "title": "Neymar ironiza após ofensa de presidente do Remo: 'Vagabundiando'",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/05/neymar-ironiza-apos-ofensa-de-presidente-do-remo-vagabundiando.ghtm"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "Ilha mais povoada do mundo tem 500 moradores e é menor que campo de futebol",
           "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/05/ilha-mais-povoada-do-mundo-tem-500-moradores-e-e-menor-que-campo-de-futebol.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "'O cara do Vorcaro': como Fábio Faria ajudou o Banco Master e faturou milhões",
-          "url": "https://piaui.uol.com.br/web/fabio-faria-daniel-vorcaro-lobby/?utm_source=home_uol"
         }
       ],
       "erro": null

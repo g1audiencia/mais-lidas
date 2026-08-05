@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 20:42",
+  "atualizado_em": "05/08/2026 20:48",
   "portais": [
     {
       "portal": "Folha",
@@ -44,8 +44,8 @@
         },
         {
           "rank": 2,
-          "title": "Banco Central reduz taxa básica de juros para 14% ao ano",
-          "url": "https://economia.uol.com.br/noticias/redacao/2026/08/05/selic-taxa-basic-juros-agosto-2026.ghtm"
+          "title": "Selic a 14% frustra indústria, anima comércio e acende alerta de recessão",
+          "url": "https://economia.uol.com.br/noticias/redacao/2026/08/05/selic-a-14-frustra-industria-anima-comercio-e-acende-alerta-de-recessao.ghtm"
         },
         {
           "rank": 3,
@@ -54,13 +54,13 @@
         },
         {
           "rank": 4,
-          "title": "Josias de Souza: Alfredo Gaspar consegue ser pior que Flávio",
-          "url": "https://www.uol.com.br/flash/?c=3689386fb39367eb775a1b543c935c220260805"
+          "title": "Ilha mais povoada do mundo tem 500 moradores e é menor que campo de futebol",
+          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/05/ilha-mais-povoada-do-mundo-tem-500-moradores-e-e-menor-que-campo-de-futebol.ghtm"
         },
         {
           "rank": 5,
-          "title": "Ilha mais povoada do mundo tem 500 moradores e é menor que campo de futebol",
-          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/05/ilha-mais-povoada-do-mundo-tem-500-moradores-e-e-menor-que-campo-de-futebol.ghtm"
+          "title": "Josias de Souza: Alfredo Gaspar consegue ser pior que Flávio",
+          "url": "https://www.uol.com.br/flash/?c=3689386fb39367eb775a1b543c935c220260805"
         }
       ],
       "erro": null
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
           "rank": 5,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         }
       ],
       "erro": null
@@ -233,11 +233,6 @@
           "rank": 3,
           "title": "Lawyers in Reflecting Pool case say Justice Department knew case was flawed",
           "url": "https://apnews.com/article/reflecting-pool-charges-david-hearn-trump-pirro-3196c7e3d914ad9ef05562d586a8bff1"
-        },
-        {
-          "rank": 4,
-          "title": "Man charged with setting Spokane’s largest wildfire was questioned about 2 other blazes last year",
-          "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843"
         }
       ],
       "erro": null

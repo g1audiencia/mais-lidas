@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 02:26",
+  "atualizado_em": "05/08/2026 02:32",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
           "rank": 2,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
-          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
+          "rank": 3,
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+        },
+        {
           "rank": 4,
-          "title": "O STF na república dos penduricalhos",
-          "url": "https://www.estadao.com.br/opiniao/o-stf-na-republica-dos-penduricalhos/"
+          "title": "Neymar dá assistência, Rony quebra marasmo e classifica Santos contra o Remo na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/neymar-da-assistencia-rony-quebra-marasmo-e-classifica-santos-contra-o-remo-na-copa-do-brasil/"
         },
         {
           "rank": 5,
-          "title": "‘Eu disse não!’; ex-comandante da FAB revela em livro bastidores da crise que levou ao 8 de Janeiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/eu-disse-nao-ex-comandante-da-fab-revela-em-livro-bastidores-da-crise-que-levou-ao-8-de-janeiro/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         }
       ],
       "erro": null

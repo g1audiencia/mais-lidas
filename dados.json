@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 12:19",
+  "atualizado_em": "05/08/2026 12:25",
   "portais": [
     {
       "portal": "Folha",
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
+          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
+        },
+        {
+          "rank": 3,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
-        },
-        {
-          "rank": 4,
-          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
         },
         {
           "rank": 5,
@@ -285,28 +285,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
+          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
+        },
+        {
+          "rank": 2,
           "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
           "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
           "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Violencia en México: asesinan a tiros a un influencer durante una trasmisión en vivo en Tik Tok",
           "url": "https://www.clarin.com/mundo/violencia-mexico-asesinan-tiros-influencer-trasmision-vivo-tik-tok_0_yI9Nz9Jg9p.html"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "El auto chino más vendido en el país no es de una marca china y presentó una nueva versión más equipada",
           "url": "https://www.clarin.com/autos/auto-chino-vendido-pais-marca-china-presento-nueva-version-equipada_0_oX2yLqfUEU.html"
-        },
-        {
-          "rank": 5,
-          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
-          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
         }
       ],
       "erro": null

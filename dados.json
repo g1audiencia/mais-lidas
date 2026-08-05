@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 17:28",
+  "atualizado_em": "05/08/2026 17:34",
   "portais": [
     {
       "portal": "Folha",
@@ -7,7 +7,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vice de Flavio é investigado sob suspeita de estupro de vulnerável e desvio de R$ 6 milhões em emendas",
+          "title": "Vice de Flavio é alvo de pedido de investigação da PF no Supremo por suspeita de estupro de vulnerável",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/vice-de-flavio-e-investigado-por-estupro-de-vulneravel-e-desvio-de-r-6-milhoes-em-emendas.shtml"
         },
         {
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Lula diz que EUA foram irresponsáveis ao revogar visto de embaixadora do Brasil",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/lula-diz-que-eua-foram-irresponsaveis-ao-revogar-visto-de-embaixadora-do-brasil.shtml"
+          "title": "Ideb 2025: veja as notas da sua cidade no índice de educação do MEC",
+          "url": "https://www1.folha.uol.com.br/educacao/2026/08/ideb-2025-veja-as-notas-da-sua-cidade-no-indice-de-educacao-do-mec.shtml"
         },
         {
           "rank": 5,
-          "title": "Líderes evangélicos preferiam vice mulher para Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/lideres-evangelicos-preferiam-vice-mulher-para-flavio-bolsonaro.shtml"
+          "title": "Lula diz que EUA foram irresponsáveis ao revogar visto de embaixadora do Brasil",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/lula-diz-que-eua-foram-irresponsaveis-ao-revogar-visto-de-embaixadora-do-brasil.shtml"
         }
       ],
       "erro": null
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
+          "title": "Trabalhadores aceitam proposta e encerram greve na CPTM, em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/greve-cptm-sao-paulo-2-dia.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Ilha mais povoada do mundo tem 500 moradores e é menor que campo de futebol",
           "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/05/ilha-mais-povoada-do-mundo-tem-500-moradores-e-e-menor-que-campo-de-futebol.ghtm"
         },
         {
-          "rank": 3,
-          "title": "Conteúdo adulto e mais: o que têm feito 5 rivais de Xuxa na TV",
-          "url": "https://natelinha.uol.com.br/tv-historia/2026/08/05/conteudo-adulto-e-mais-por-onde-andam-5-rivais-de-xuxa-nos-programas-infantis-245686.php"
-        },
-        {
           "rank": 4,
-          "title": "Ligações indesejadas com número parecido ao seu na tela têm data para acabar",
-          "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/08/05/ligacoes-indesejadas-com-seu-numero-na-tela-tem-data-para-acabar-no-brasil.ghtm"
+          "title": "Josias de Souza: Alfredo Gaspar consegue ser pior que Flávio",
+          "url": "https://www.uol.com.br/flash/?c=3689386fb39367eb775a1b543c935c220260805"
         },
         {
           "rank": 5,
-          "title": "Escolha de vice de Flávio foi ligada a disputa no Senado e envolveu Lira",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/05/como-solucao-alagoas-do-pl-para-lira-empurrou-alfredo-para-vice-de-flavio.htm"
+          "title": "Conteúdo adulto e mais: o que têm feito 5 rivais de Xuxa na TV",
+          "url": "https://natelinha.uol.com.br/tv-historia/2026/08/05/conteudo-adulto-e-mais-por-onde-andam-5-rivais-de-xuxa-nos-programas-infantis-245686.php"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
-        },
-        {
-          "rank": 3,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
+          "rank": 3,
+          "title": "Escolha de vice de Flávio pega integrantes da campanha de surpresa e desagrada aliados",
+          "url": "https://www.estadao.com.br/politica/escolha-de-vice-de-flavio-pega-integrantes-da-campanha-de-surpresa-e-desagrada-aliados/"
+        },
+        {
           "rank": 4,
-          "title": "Greve CPTM: funcionários decidem encerrar paralisação das linhas 11, 12 e 13 em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/greve-cptm-funcionarios-decidem-encerrar-paralisacao-das-linhas-11-12-e-13-em-sp/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         },
         {
           "rank": 5,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 4,
-          "title": "Quién es la niñera argentina que fue detenida por el ICE cuando iba a un partido del Mundial",
-          "url": "https://www.clarin.com/mundo/ninera-argentina-detenida-ice-iba-partido-mundial_0_kqeseEANfh.html"
+          "title": "Cuti Romero negociaba con Inter pero apareció Atlético de Madrid para cumplir un viejo anhelo de Simeone",
+          "url": "https://www.clarin.com/deportes/cuti-romero-negociaba-inter-aparecio-atletico-madrid-cumplir-viejo-anhelo-simeone_0_JP2Vetr5Os.html"
         },
         {
           "rank": 5,
-          "title": "Cuti Romero negociaba con Inter pero apareció Atlético de Madrid para cumplir un viejo anhelo de Simeone",
-          "url": "https://www.clarin.com/deportes/cuti-romero-negociaba-inter-aparecio-atletico-madrid-cumplir-viejo-anhelo-simeone_0_JP2Vetr5Os.html"
+          "title": "Quién es la niñera argentina que fue detenida por el ICE cuando iba a un partido del Mundial",
+          "url": "https://www.clarin.com/mundo/ninera-argentina-detenida-ice-iba-partido-mundial_0_kqeseEANfh.html"
         }
       ],
       "erro": null

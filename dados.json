@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 11:51",
+  "atualizado_em": "05/08/2026 11:56",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Flávio Bolsonaro anuncia Alfredo Gaspar como vice na disputa à Presidência",
+          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-anuncia-alfredo-gaspar-como-vice-na-disputa-a-presidencia/"
+        },
+        {
+          "rank": 2,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 2,
-          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
-          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
+          "rank": 3,
+          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         },
         {
-          "rank": 4,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
-        },
-        {
           "rank": 5,
-          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
+          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
+          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Woman arrested after four stabbed in central London",
-          "url": "https://www.bbc.com/news/articles/cn0nk17881yo"
+          "title": "Drone carrying explosives found at German airport, police say",
+          "url": "https://www.bbc.com/news/articles/cyvlg4q48l3o"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
-          "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
+          "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
+          "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
         },
         {
           "rank": 2,
-          "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
-          "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
+          "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
+          "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
         },
         {
           "rank": 3,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "La intimidad de una \"noche brava\" entre Facundo Moyano y Candela Arizaga: drogas, brote y la declaración que lo favorece",
-          "url": "https://www.clarin.com/policiales/intimidad-noche-brava-facundo-moyano-candela-arizaga-drogas-brote-declaracion-favorece_0_CnzEc5Du42.html"
+          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
+          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
         }
       ],
       "erro": null

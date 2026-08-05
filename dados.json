@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 15:01",
+  "atualizado_em": "05/08/2026 15:07",
   "portais": [
     {
       "portal": "Folha",
@@ -49,8 +49,8 @@
         },
         {
           "rank": 3,
-          "title": "Fonseca vence Tsitsipas, ex-número 3 do mundo, e vai para a 3ª rodada de Montreal",
-          "url": "https://www.uol.com.br/esporte/ultimas-noticias/2026/08/05/joao-fonseca-stefanos-tsitsipas-tenis-montreal.ghtm"
+          "title": "Marco Furlan não tinha namorada no local do crime, contrariando depoimento",
+          "url": "https://www.uol.com.br/flash/?c=28ba2ddc357c19253c1e733a59e9e96820260805"
         },
         {
           "rank": 4,
@@ -103,13 +103,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ana Rosa fala do retorno às novelas após uma década, dos filhos e da relação com Dedé Santana, seu ex-marido",
-          "url": "https://oglobo.globo.com/play/entrevistas/noticia/2026/08/05/ana-rosa-fala-do-retorno-as-novelas-apos-uma-decada-dos-filhos-e-da-relacao-com-o-ex-marido-dede-santana.ghtml"
+          "title": "Preso por estupro, ator Marco Furlan alegou que estava bêbado e confundiu criança autista de 5 anos com a namorada",
+          "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/08/preso-por-estupro-ator-marco-furlan-argumentou-que-estava-bebado-e-confundiu-crianca-de-5-anos-com-a-namorada.ghtml"
         },
         {
           "rank": 2,
-          "title": "Preso por estupro, ator Marco Furlan alegou que estava bêbado e confundiu criança autista de 5 anos com a namorada",
-          "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/08/preso-por-estupro-ator-marco-furlan-argumentou-que-estava-bebado-e-confundiu-crianca-de-5-anos-com-a-namorada.ghtml"
+          "title": "Ana Rosa fala do retorno às novelas após uma década, dos filhos e da relação com Dedé Santana, seu ex-marido",
+          "url": "https://oglobo.globo.com/play/entrevistas/noticia/2026/08/05/ana-rosa-fala-do-retorno-as-novelas-apos-uma-decada-dos-filhos-e-da-relacao-com-o-ex-marido-dede-santana.ghtml"
         },
         {
           "rank": 3,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
-        },
-        {
-          "rank": 2,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
+          "rank": 2,
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+        },
+        {
           "rank": 3,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
         },
         {
           "rank": 4,
-          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
-          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
+          "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
+          "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
         },
         {
           "rank": 5,
-          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
+          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
+          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
         }
       ],
       "erro": null

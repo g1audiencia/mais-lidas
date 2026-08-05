@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 01:53",
+  "atualizado_em": "05/08/2026 01:58",
   "portais": [
     {
       "portal": "Folha",
@@ -113,13 +113,13 @@
         },
         {
           "rank": 3,
-          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
-          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
+          "title": "Danilo, do Botafogo, negocia com a Atalanta, da Itália",
+          "url": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/danilo-do-botafogo-negocia-com-a-atalanta-da-italia.ghtml"
         },
         {
           "rank": 4,
-          "title": "Danilo, do Botafogo, negocia com a Atalanta, da Itália",
-          "url": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/danilo-do-botafogo-negocia-com-a-atalanta-da-italia.ghtml"
+          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
+          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
-        },
-        {
-          "rank": 2,
           "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
           "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
+          "rank": 2,
+          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
+          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+        },
+        {
           "rank": 3,
-          "title": "STF só terá igualdade quando as 11 cadeiras forem ocupadas por mulheres, afirma Cármen Lúcia",
-          "url": "https://www.estadao.com.br/economia/negocios/stf-so-tera-igualdade-quando-as-11-cadeiras-forem-ocupadas-por-mulheres-afirma-carmen-lucia/"
+          "title": "Neymar dá assistência, Rony quebra marasmo e classifica Santos contra o Remo na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/neymar-da-assistencia-rony-quebra-marasmo-e-classifica-santos-contra-o-remo-na-copa-do-brasil/"
         },
         {
           "rank": 4,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
           "rank": 5,
-          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
-          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
-        },
-        {
-          "rank": 2,
           "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
           "url": "https://www.bbc.com/news/articles/cn4n03xg981o"
         },
         {
-          "rank": 3,
-          "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-          "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o"
+          "rank": 2,
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
           "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Armed man arrested near Trump's golf course ahead of president's visit",
           "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
+        },
+        {
+          "rank": 5,
+          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "url": "https://www.bbc.com/news/articles/cgr7nxve05go"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 11:45",
+  "atualizado_em": "05/08/2026 11:51",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Flávio Bolsonaro anuncia Alfredo Gaspar, relator da comissão do INSS, como vice",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-anuncia-alfredo-gaspar-como-vice-em-sua-chapa.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Ex-chefe de gabinete de Lula pede para deixar campanha após contas pagas por empresária alvo da PF",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pede-para-deixar-campanha-apos-contas-pagas-por-empresaria-alvo-da-pf.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Conselho Federal de Medicina aponta pagamentos irregulares no órgão regional de SP",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/conselho-federal-de-medicina-aponta-pagamentos-irregulares-no-orgao-regional-de-sp.shtml"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Ansiedade é a principal causa de incapacidade entre crianças brasileiras de 5 a 9 anos",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/ansiedade-e-a-principal-causa-de-incapacidade-entre-criancas-brasileiras-de-5-a-9-anos.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Pastores progressistas relatam ostracismo após ascensão bolsonarista nas igrejas",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/pastores-progressistas-relatam-ostracismo-apos-ascensao-bolsonarista-nas-igrejas.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
-        },
-        {
-          "rank": 2,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
           "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
+        },
+        {
+          "rank": 3,
+          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         },
         {
           "rank": 4,

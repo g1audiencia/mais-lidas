@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 00:45",
+  "atualizado_em": "05/08/2026 00:50",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
-        },
-        {
-          "rank": 2,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
-          "rank": 3,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
-        },
-        {
-          "rank": 4,
           "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
           "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
+          "rank": 2,
+          "title": "Neymar dá assistência, Rony quebra marasmo e classifica Santos contra o Remo na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/neymar-da-assistencia-rony-quebra-marasmo-e-classifica-santos-contra-o-remo-na-copa-do-brasil/"
+        },
+        {
+          "rank": 3,
+          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+        },
+        {
+          "rank": 4,
+          "title": "Ex-chefe de gabinete de Lula diz que pagou R$ 249 mil para quitar empréstimo com amiga de Lulinha",
+          "url": "https://www.estadao.com.br/politica/ex-chefe-de-gabinete-de-lula-diz-que-pagou-r-249-mil-para-quitar-emprestimo-com-amiga-de-lulinha/"
+        },
+        {
           "rank": 5,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
-          "url": "https://apnews.com/article/border-wall-wells-water-ranch-new-mexico-5ad8fcbcbef112381a6cc56ba3566002"
+          "title": "Trump criticizes Pirro’s move to drop Reflecting Pool vandalism charges, what to watch in today’s primaries, spicy cocktails",
+          "url": "https://apnews.com/newsletter/morning-wire/august-4-2026"
         },
         {
           "rank": 5,
-          "title": "Trump criticizes Pirro’s move to drop Reflecting Pool vandalism charges, what to watch in today’s primaries, spicy cocktails",
-          "url": "https://apnews.com/newsletter/morning-wire/august-4-2026"
+          "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
+          "url": "https://apnews.com/article/border-wall-wells-water-ranch-new-mexico-5ad8fcbcbef112381a6cc56ba3566002"
         }
       ],
       "erro": null

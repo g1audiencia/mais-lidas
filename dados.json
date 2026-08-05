@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 03:33",
+  "atualizado_em": "05/08/2026 03:38",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
-        },
-        {
-          "rank": 2,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
+          "rank": 2,
+          "title": "Georgina Rodríguez rebate críticas ao corpo: ‘Amo a liberdade de viver no corpo que escolho’",
+          "url": "https://www.estadao.com.br/emais/gente/georgina-rodriguez-rebate-criticas-ao-corpo-amo-a-liberdade-de-viver-no-corpo-que-escolho-nprec/"
+        },
+        {
           "rank": 3,
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
+        },
+        {
+          "rank": 4,
           "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
           "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
-          "rank": 4,
-          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
-        },
-        {
           "rank": 5,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+          "title": "Nobel de Medicina fala sobre o sistema de localização do cérebro e a formação de memórias",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/nobel-de-medicina-fala-sobre-o-sistema-de-localizacao-do-cerebro-e-a-formacao-de-memorias/"
         }
       ],
       "erro": null
@@ -248,28 +248,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-          "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
-        },
-        {
-          "rank": 2,
-          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
-        },
-        {
-          "rank": 3,
           "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
           "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
         },
         {
+          "rank": 2,
+          "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+          "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
+        },
+        {
+          "rank": 3,
+          "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+          "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o"
+        },
+        {
           "rank": 4,
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
+          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         },
         {
           "rank": 5,
-          "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
-          "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o"
+          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "url": "https://www.bbc.com/news/articles/cgr7nxve05go"
         }
       ],
       "erro": null

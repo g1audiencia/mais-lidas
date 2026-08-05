@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 22:19",
+  "atualizado_em": "04/08/2026 22:24",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
-          "rank": 2,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
-          "rank": 3,
-          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+          "rank": 2,
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
           "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Aécio Neves decide não disputar eleições após 40 anos de mandatos",
           "url": "https://www.estadao.com.br/politica/aecio-decide-nao-disputar-eleicoes-apos-40-anos-de-mandatos/"
+        },
+        {
+          "rank": 5,
+          "title": "A República dos sem explicação",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/a-republica-dos-sem-explicacao/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
-        },
-        {
-          "rank": 4,
           "title": "Athletes go 'missing' after Commonwealth Games ends",
           "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Princess Eugenie gives birth to baby girl in Portugal",
           "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
+        },
+        {
+          "rank": 5,
+          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         }
       ],
       "erro": null
@@ -300,13 +300,13 @@
         },
         {
           "rank": 4,
-          "title": "Facundo Moyano detenido: ahora aparecieron videos del sindicalista corriendo a la joven de 23 años semidesnuda por Belgrano",
-          "url": "https://www.clarin.com/politica/facundo-moyano-demorado-video-muestra-joven-23-anos-deambula-semidesnuda-belgrano_0_syKIRZOA2a.html"
+          "title": "Detención de Facundo Moyano, EN VIVO: qué investiga la Justicia y el minuto a minuto del caso",
+          "url": "https://www.clarin.com/politica/detencion-facundo-moyano-vivo-investiga-justicia-minuto-minuto-caso_0_qavSP9Xg2H.html"
         },
         {
           "rank": 5,
-          "title": "Maxi Salas llegó a Mendoza y prendió el ventilador: \"Estoy enojado con River porque nos trató muy mal\"",
-          "url": "https://www.clarin.com/deportes/maxi-salas-llego-mendoza-hablo-primera-vez-salida-river-siempre-revancha-futbol_0_XT98TeeVm7.html"
+          "title": "Facundo Moyano detenido: ahora aparecieron videos del sindicalista corriendo a la joven de 23 años semidesnuda por Belgrano",
+          "url": "https://www.clarin.com/politica/facundo-moyano-demorado-video-muestra-joven-23-anos-deambula-semidesnuda-belgrano_0_syKIRZOA2a.html"
         }
       ],
       "erro": null

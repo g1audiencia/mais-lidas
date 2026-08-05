@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 02:44",
+  "atualizado_em": "05/08/2026 02:50",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Diplomatas avaliam que decisão de revogar visto de embaixadora é anômala e gravíssima",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/diplomatas-avaliam-que-decisao-de-revogar-visto-de-embaixadora-e-anomala-e-gravissima.shtml"
+          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
         },
         {
           "rank": 4,
-          "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
+          "title": "Kassio aponta propaganda velada e manda governo remover conteúdos de canais oficiais em 24 horas",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/kassio-aponta-propaganda-velada-e-manda-governo-remover-conteudos-de-canais-oficiais-em-24-horas.shtml"
         },
         {
           "rank": 5,
-          "title": "Kassio aponta propaganda velada e manda governo remover conteúdos de canais oficiais em 24 horas",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/kassio-aponta-propaganda-velada-e-manda-governo-remover-conteudos-de-canais-oficiais-em-24-horas.shtml"
+          "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
-        },
-        {
-          "rank": 2,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
+          "rank": 2,
+          "title": "Abobrinha frita",
+          "url": "https://www.estadao.com.br/paladar/prato-do-dia/abobrinha-frita/"
+        },
+        {
+          "rank": 3,
+          "title": "Lula pede a Marcola que explique empréstimo para evitar impacto na campanha da reeleição",
+          "url": "https://www.estadao.com.br/politica/lula-pede-a-marcola-que-explique-emprestimo-para-evitar-impacto-na-campanha-da-reeleicao/"
+        },
+        {
           "rank": 4,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
           "rank": 5,
-          "title": "Lula, mais uma vez",
-          "url": "https://www.estadao.com.br/opiniao/lula-mais-uma-vez/"
+          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         }
       ],
       "erro": null

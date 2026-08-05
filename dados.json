@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 17:00",
+  "atualizado_em": "05/08/2026 17:06",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
         },
         {
           "rank": 4,
-          "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
-          "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
+          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
+          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
         },
         {
           "rank": 5,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "PT acende alerta após ex-sócio de Vorcaro decidir falar e mudar defesa",
-          "url": "https://www.metropoles.com/colunas/milena-teixeira/pt-acende-alerta-apos-augusto-lima-decidir-falar-e-mudar-defesa"
-        },
-        {
-          "rank": 2,
           "title": "PF conclui inquérito e prepara primeiro indiciamento de Vorcaro e Paulo Henrique",
           "url": "https://www.metropoles.com/colunas/andreza-matais/pf-conclui-inquerito-e-prepara-primeiro-indiciamento-de-vorcaro-e-paulo-henrique"
         },
         {
+          "rank": 2,
+          "title": "Ciclone bomba: tempestade de grande escala gira e pode ter quilômetros",
+          "url": "https://www.metropoles.com/ciencia/ciclone-bomba-maior-potencial-tempestade"
+        },
+        {
           "rank": 3,
-          "title": "Flávio Bolsonaro escolhe como vice deputado investigado por estupro",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/flavio-bolsonaro-vice-alfredo-gaspar-estupro-cpi-inss-eleicoes-2026"
+          "title": "PT acende alerta após ex-sócio de Vorcaro decidir falar e mudar defesa",
+          "url": "https://www.metropoles.com/colunas/milena-teixeira/pt-acende-alerta-apos-augusto-lima-decidir-falar-e-mudar-defesa"
         }
       ],
       "erro": null

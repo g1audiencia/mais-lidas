@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 00:39",
+  "atualizado_em": "05/08/2026 00:45",
   "portais": [
     {
       "portal": "Folha",
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Quem é Robson Jesus, brasileiro que entrou para o Guinness após visitar todos os 193 países do mundo",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/08/04/quem-e-robson-jesus-brasileiro-que-entrou-para-o-guinness-apos-visitar-todos-os-193-paises-do-mundo.ghtml"
+          "title": "Governo Lula 'repudia' retirada de visto de embaixadora e diz que justificativas dos EUA 'são falsas'",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/04/governo-lula-repudia-retirada-de-visto-de-embaixadora-e-diz-que-justificativas-dos-eua-sao-falsas.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
-          "rank": 2,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+        },
+        {
+          "rank": 3,
           "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
           "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
         },
         {
+          "rank": 4,
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Ciclone-bomba deve se formar sobre o Brasil nos próximos dias, alerta o Inmet",
-          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-deve-se-formar-brasil-proximos-dias-alerta-inmet-npr/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         }
       ],
       "erro": null
@@ -258,7 +258,7 @@
         },
         {
           "rank": 2,
-          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
           "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
         },
         {

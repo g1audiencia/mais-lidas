@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 10:50",
+  "atualizado_em": "05/08/2026 10:55",
   "portais": [
     {
       "portal": "Folha",
@@ -49,13 +49,13 @@
         },
         {
           "rank": 3,
-          "title": "Quaest: Flávio oscila para cima, e vantagem de Lula cai nos 2 turnos",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/05/quaest-presidenciaveis.ghtm"
+          "title": "Quaest: Flávio cresce na direita não bolsonarista; Lula perde com tarifaço",
+          "url": "https://noticias.uol.com.br/eleicoes/2026/08/05/genial-quaest-flavio-recuperacao-corrida-presidencial-lula.ghtm"
         },
         {
           "rank": 4,
-          "title": "Neymar provoca Remo, e presidente do clube rebate: 'Vagabundo'",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/05/neymar-provoca-remo-e-presidente-do-clube-rebate-apos-confusao-vagabundo.ghtm"
+          "title": "'Perde a paciência': jornais do exterior relatam confusão com Neymar",
+          "url": "https://www.uol.com.br/flash/?c=9e83923719ec9dc5f2dd67eab63b6ac20260805"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
+        },
+        {
+          "rank": 4,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 4,
-          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
-          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
-        },
-        {
           "rank": 5,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "Michigan Democrats locked in tight battle to earn Senate nomination in crucial seat",
-          "url": "https://www.bbc.com/news/articles/c62q0kkr6k2o"
+          "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
         },
         {
           "rank": 5,
-          "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
+          "title": "Michigan Democrats locked in tight battle to earn Senate nomination in crucial seat",
+          "url": "https://www.bbc.com/news/articles/c62q0kkr6k2o"
         }
       ],
       "erro": null

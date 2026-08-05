@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 10:55",
+  "atualizado_em": "05/08/2026 11:01",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+        },
+        {
+          "rank": 4,
           "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
           "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
         },
         {
-          "rank": 4,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
-        },
-        {
           "rank": 5,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
+          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         }
       ],
       "erro": null
@@ -236,6 +236,11 @@
         },
         {
           "rank": 4,
+          "title": "Stevens and El-Sayed are in a close race for Michigan’s Democratic Senate nomination",
+          "url": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866"
+        },
+        {
+          "rank": 5,
           "title": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say",
           "url": "https://apnews.com/article/warming-heat-climate-change-summer-el-nino-ffd31dd358a894667c63f4c0a21cd677"
         }

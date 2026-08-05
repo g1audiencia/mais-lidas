@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 09:15",
+  "atualizado_em": "05/08/2026 09:21",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Itamaraty dispensa embaixador da Argentina no Brasil e rebaixa relação com país vizinho",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/itamaraty-rebaixa-relacao-com-argentina-apos-milei-renovar-ataques-a-lula.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Conselho Federal de Medicina aponta pagamentos irregulares no órgão regional de SP",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/conselho-federal-de-medicina-aponta-pagamentos-irregulares-no-orgao-regional-de-sp.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Lula desperdiça a campanha",
           "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/lula-desperdica-a-campanha.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Itamaraty dispensa embaixador da Argentina no Brasil e rebaixa relação com país vizinho",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/itamaraty-rebaixa-relacao-com-argentina-apos-milei-renovar-ataques-a-lula.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Neymar provoca confusão e é chamado de ‘vagabundo’ por presidente do Remo; veja vídeos",
-          "url": "https://www.estadao.com.br/esportes/futebol/neymar-provoca-confusao-e-e-chamado-de-vagabundo-por-presidente-do-remo-veja-videos/"
-        },
-        {
-          "rank": 4,
           "title": "A conta de padaria do STF",
           "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         },
         {
+          "rank": 4,
+          "title": "Neymar provoca confusão e é chamado de ‘vagabundo’ por presidente do Remo; veja vídeos",
+          "url": "https://www.estadao.com.br/esportes/futebol/neymar-provoca-confusao-e-e-chamado-de-vagabundo-por-presidente-do-remo-veja-videos/"
+        },
+        {
           "rank": 5,
-          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
+          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
+          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         }
       ],
       "erro": null
@@ -238,11 +238,6 @@
           "rank": 4,
           "title": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say",
           "url": "https://apnews.com/article/warming-heat-climate-change-summer-el-nino-ffd31dd358a894667c63f4c0a21cd677"
-        },
-        {
-          "rank": 5,
-          "title": "Trump criticizes Pirro’s move to drop Reflecting Pool vandalism charges, what to watch in today’s primaries, spicy cocktails",
-          "url": "https://apnews.com/newsletter/morning-wire/august-4-2026"
         }
       ],
       "erro": null

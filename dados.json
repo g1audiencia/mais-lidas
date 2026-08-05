@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 17:45",
+  "atualizado_em": "05/08/2026 17:50",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vice de Flavio é alvo de pedido de investigação da PF no Supremo por suspeita de estupro de vulnerável",
-          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/vice-de-flavio-e-investigado-por-estupro-de-vulneravel-e-desvio-de-r-6-milhoes-em-emendas.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Ex-chefe de gabinete de Lula deixa campanha após contas pagas por empresária alvo da PF",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/ex-chefe-de-gabinete-de-lula-pede-para-deixar-campanha-apos-contas-pagas-por-empresaria-alvo-da-pf.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Ideb 2025: veja as notas da sua cidade no índice de educação do MEC",
           "url": "https://www1.folha.uol.com.br/educacao/2026/08/ideb-2025-veja-as-notas-da-sua-cidade-no-indice-de-educacao-do-mec.shtml"
         },
         {
+          "rank": 2,
+          "title": "Vice de Flavio é alvo de pedido de investigação da PF no Supremo por suspeita de estupro de vulnerável",
+          "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/vice-de-flavio-e-investigado-por-estupro-de-vulneravel-e-desvio-de-r-6-milhoes-em-emendas.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Cidade mais rica do país, São Paulo tem nível de aprendizado menor do que a média do país",
+          "url": "https://www1.folha.uol.com.br/educacao/2026/08/cidade-mais-rica-do-pais-sao-paulo-tem-nivel-de-aprendizado-menor-do-que-a-media-do-pais.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Lula diz que EUA foram irresponsáveis ao revogar visto de embaixadora do Brasil",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/lula-diz-que-eua-foram-irresponsaveis-ao-revogar-visto-de-embaixadora-do-brasil.shtml"
+          "title": "Ancine vê irregularidade em filme sobre Bolsonaro, com multa de até R$ 100 mil",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ancine-processa-filme-sobre-jair-bolsonaro-e-multa-pode-chegar-a-r-100-mil.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 2,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
-          "rank": 3,
-          "title": "Escolha de vice de Flávio pega integrantes da campanha de surpresa e desagrada aliados",
-          "url": "https://www.estadao.com.br/politica/escolha-de-vice-de-flavio-pega-integrantes-da-campanha-de-surpresa-e-desagrada-aliados/"
+          "rank": 2,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
           "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
+        },
+        {
+          "rank": 5,
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         }
       ],
       "erro": null
@@ -295,13 +295,13 @@
         },
         {
           "rank": 4,
-          "title": "Cuti Romero negociaba con Inter pero apareció Atlético de Madrid para cumplir un viejo anhelo de Simeone",
-          "url": "https://www.clarin.com/deportes/cuti-romero-negociaba-inter-aparecio-atletico-madrid-cumplir-viejo-anhelo-simeone_0_JP2Vetr5Os.html"
+          "title": "Quién es la niñera argentina que fue detenida por el ICE cuando iba a un partido del Mundial",
+          "url": "https://www.clarin.com/mundo/ninera-argentina-detenida-ice-iba-partido-mundial_0_kqeseEANfh.html"
         },
         {
           "rank": 5,
-          "title": "Quién es la niñera argentina que fue detenida por el ICE cuando iba a un partido del Mundial",
-          "url": "https://www.clarin.com/mundo/ninera-argentina-detenida-ice-iba-partido-mundial_0_kqeseEANfh.html"
+          "title": "Cuti Romero negociaba con Inter pero apareció Atlético de Madrid para cumplir un viejo anhelo de Simeone",
+          "url": "https://www.clarin.com/deportes/cuti-romero-negociaba-inter-aparecio-atletico-madrid-cumplir-viejo-anhelo-simeone_0_JP2Vetr5Os.html"
         }
       ],
       "erro": null

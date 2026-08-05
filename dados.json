@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 17:34",
+  "atualizado_em": "05/08/2026 17:39",
   "portais": [
     {
       "portal": "Folha",
@@ -81,13 +81,13 @@
         },
         {
           "rank": 3,
-          "title": "Neymar provoca o Remo e gera revolta após vitória do Santos: \"Eliminado\"",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-provoca-o-remo-e-gera-revolta-apos-vitoria-do-santos-eliminado/"
+          "title": "Quem é Alfredo Gaspar, anunciado como vice de Flávio Bolsonaro",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-alfredo-gaspar-anunciado-como-vice-de-flavio-bolsonaro/"
         },
         {
           "rank": 4,
-          "title": "Quem é Alfredo Gaspar, anunciado como vice de Flávio Bolsonaro",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-alfredo-gaspar-anunciado-como-vice-de-flavio-bolsonaro/"
+          "title": "Neymar provoca o Remo e gera revolta após vitória do Santos: \"Eliminado\"",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-provoca-o-remo-e-gera-revolta-apos-vitoria-do-santos-eliminado/"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 2,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
+          "rank": 2,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
           "rank": 3,
+          "title": "Greve CPTM: funcionários decidem encerrar paralisação das linhas 11, 12 e 13 em SP",
+          "url": "https://www.estadao.com.br/sao-paulo/greve-cptm-funcionarios-decidem-encerrar-paralisacao-das-linhas-11-12-e-13-em-sp/"
+        },
+        {
+          "rank": 4,
           "title": "Escolha de vice de Flávio pega integrantes da campanha de surpresa e desagrada aliados",
           "url": "https://www.estadao.com.br/politica/escolha-de-vice-de-flavio-pega-integrantes-da-campanha-de-surpresa-e-desagrada-aliados/"
         },
         {
-          "rank": 4,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
-        },
-        {
           "rank": 5,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
+          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
         }
       ],
       "erro": null

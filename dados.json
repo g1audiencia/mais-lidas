@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 16:27",
+  "atualizado_em": "05/08/2026 16:32",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Neymar ironiza após ofensa de presidente do Remo: 'Vagabundiando'",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/05/neymar-ironiza-apos-ofensa-de-presidente-do-remo-vagabundiando.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Ilha mais povoada do mundo tem 500 moradores e é menor que campo de futebol",
           "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/05/ilha-mais-povoada-do-mundo-tem-500-moradores-e-e-menor-que-campo-de-futebol.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Conteúdo adulto e mais: o que têm feito 5 rivais de Xuxa na TV",
+          "url": "https://natelinha.uol.com.br/tv-historia/2026/08/05/conteudo-adulto-e-mais-por-onde-andam-5-rivais-de-xuxa-nos-programas-infantis-245686.php"
+        },
+        {
+          "rank": 4,
           "title": "Escolha de vice de Flávio foi ligada a disputa no Senado e envolveu Lira",
           "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/05/como-solucao-alagoas-do-pl-para-lira-empurrou-alfredo-para-vice-de-flavio.htm"
         },
         {
-          "rank": 3,
-          "title": "Marco Furlan não tinha namorada no local do crime, contrariando depoimento",
-          "url": "https://www.uol.com.br/flash/?c=28ba2ddc357c19253c1e733a59e9e96820260805"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "Ligações indesejadas com seu número na tela têm data para acabar no Brasil",
           "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/08/05/ligacoes-indesejadas-com-seu-numero-na-tela-tem-data-para-acabar-no-brasil.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Caso Voepass: piloto comparou avião a 'fusquinha' e admitiu falha antes de queda",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/caixa-preta-indica-falha-no-degelo-em-voo-da-voepass-antes-de-queda.ghtm"
         }
       ],
       "erro": null
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Defesa Civil envia 'alerta severo' para celulares por risco de ventos fortes no Rio nesta quarta-feira",
-          "url": "https://oglobo.globo.com/rio/noticia/2026/08/05/defesa-civil-envia-alerta-severo-para-ventos-fortes-e-reforca-recomendacoes-a-populacao-no-rio.ghtml"
+          "title": "Governo Lula errou em demora para dar aval a novo embaixador dos EUA no Brasil, diz Ricupero",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/05/governo-lula-errou-em-demora-para-dar-aval-a-novo-embaixador-dos-eua-no-brasil-diz-ricupero.ghtml"
         },
         {
           "rank": 5,
-          "title": "Governo Lula errou em demora para dar aval a novo embaixador dos EUA no Brasil, diz Ricupero",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/05/governo-lula-errou-em-demora-para-dar-aval-a-novo-embaixador-dos-eua-no-brasil-diz-ricupero.ghtml"
+          "title": "Quem é Alfredo Gaspar, escolhido candidato a vice de Flávio Bolsonaro",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/05/quem-e-alfredo-gaspar-escolhido-candidato-a-vice-de-flavio-bolsonaro.ghtml"
         }
       ],
       "erro": null
@@ -145,8 +145,8 @@
         },
         {
           "rank": 3,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
+          "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
+          "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
         }
       ],
       "erro": null

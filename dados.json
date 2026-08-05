@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 22:48",
+  "atualizado_em": "04/08/2026 22:53",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Atlético-MG marca no fim, bate Juventude e vai às 4ªs da Copa do Brasil",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/04/juventude-atletico-mg-copa-do-brasil-oitavas-de-final-como-foi.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Governo Trump revoga visto de embaixadora do Brasil nos EUA",
           "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/04/eua-visto-embaixador-brasil-agosto-2026.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "André Mendonça rejeita derrubar vídeo de Flávio que associa PT ao PCC e ao CV",
           "url": "https://noticias.uol.com.br/eleicoes/2026/08/04/mendonca-rejeita-derrubar-video-de-flavio-que-associa-pt-ao-pcc-e-ao-cv.ghtm"
         },
         {
+          "rank": 4,
+          "title": "Daniela Lima: Caso do empréstimo tem gosto de traição para Lula",
+          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/04/dani-lima-emprestimo-de-amiga-de-lulinha-deixa-lula-com-gosto-de-traicao.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Justiça nega recurso de homem exposto em 'chá revelação de traição' no Rio Grande do Sul",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/justica-nega-recurso-de-homem-exposto-em-cha-revelacao-de-traicao-no-rs.ghtm"
+          "title": "Ciclone-bomba deve se formar sobre o Brasil nos próximos dias, alerta Inmet",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/04/ciclone-bomba-deve-se-formar-sobre-o-brasil-nos-proximos-dias-alerta-o-inmet.htm"
         }
       ],
       "erro": null
@@ -140,8 +140,8 @@
         },
         {
           "rank": 2,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
           "rank": 5,
-          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         }
       ],
       "erro": null

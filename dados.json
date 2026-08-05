@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 06:35",
+  "atualizado_em": "05/08/2026 06:40",
   "portais": [
     {
       "portal": "Folha",
@@ -103,13 +103,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ator Marco Furlan é preso em flagrante acusado de estuprar criança de 5 anos durante festa de aniversário em SP",
-          "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/08/ator-marco-furlan-e-preso-em-flagrante-acusado-de-estuprar-crianca-de-5-anos-durante-festa-de-aniversario-em-sp.ghtml"
+          "title": "Preso por estupro, ator Marco Furlan argumentou que estava bêbado e confundiu criança de 5 anos com a namorada",
+          "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/08/preso-por-estupro-ator-marco-furlan-argumentou-que-estava-bebado-e-confundiu-crianca-de-5-anos-com-a-namorada.ghtml"
         },
         {
           "rank": 2,
-          "title": "Preso por estupro, ator Marco Furlan argumentou que estava bêbado e confundiu criança de 5 anos com a namorada",
-          "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/08/preso-por-estupro-ator-marco-furlan-argumentou-que-estava-bebado-e-confundiu-crianca-de-5-anos-com-a-namorada.ghtml"
+          "title": "Ator Marco Furlan é preso em flagrante acusado de estuprar criança de 5 anos durante festa de aniversário em SP",
+          "url": "https://oglobo.globo.com/blogs/true-crime/post/2026/08/ator-marco-furlan-e-preso-em-flagrante-acusado-de-estuprar-crianca-de-5-anos-durante-festa-de-aniversario-em-sp.ghtml"
         },
         {
           "rank": 3,
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
-          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
+          "title": "Governo Lula 'repudia' retirada de visto de embaixadora e diz que justificativas dos EUA 'são falsas'",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/04/governo-lula-repudia-retirada-de-visto-de-embaixadora-e-diz-que-justificativas-dos-eua-sao-falsas.ghtml"
         },
         {
           "rank": 5,
-          "title": "Governo Lula 'repudia' retirada de visto de embaixadora e diz que justificativas dos EUA 'são falsas'",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/04/governo-lula-repudia-retirada-de-visto-de-embaixadora-e-diz-que-justificativas-dos-eua-sao-falsas.ghtml"
+          "title": "Homem armado é preso no campo de golfe de Donald Trump nos Estados Unidos",
+          "url": "https://oglobo.globo.com/mundo/noticia/2026/08/05/homem-armado-e-preso-no-campo-de-golfe-de-donald-trump-nos-estados-unidos.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
-          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         },
         {
           "rank": 2,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
-        },
-        {
-          "rank": 3,
           "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
           "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "A próxima crise dos Estados Unidos pode vir do Japão",
           "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
+          "rank": 4,
+          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
+          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+        },
+        {
           "rank": 5,
-          "title": "O cinema não morreu; o que US$ 430 milhões num fim de semana diz sobre comportamento do consumidor",
-          "url": "https://www.estadao.com.br/economia/camila-farani/o-cinema-nao-morreu-o-que-us-430-milhoes-num-fim-de-semana-diz-sobre-comportamento-do-consumidor/"
+          "title": "Brasil só terá juros civilizados se tiver uma discussão de projeto de país, diz CEO do Banco XP",
+          "url": "https://www.estadao.com.br/economia/brasil-so-tera-juros-civilizados-se-tiver-uma-discussao-de-projeto-de-pais-diz-ceo-do-banco-xp/"
         }
       ],
       "erro": null

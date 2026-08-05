@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 23:15",
+  "atualizado_em": "04/08/2026 23:21",
   "portais": [
     {
       "portal": "Folha",
@@ -17,8 +17,8 @@
         },
         {
           "rank": 3,
-          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
+          "title": "Gabriel Medina anuncia perda do primeiro filho cinco dias após casamento",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gabriel-medina-anuncia-perda-do-primeiro-filho-cinco-dias-apos-casamento.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Gabriel Medina anuncia perda do primeiro filho cinco dias após casamento",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gabriel-medina-anuncia-perda-do-primeiro-filho-cinco-dias-apos-casamento.shtml"
+          "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
         }
       ],
       "erro": null
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
           "rank": 2,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
           "rank": 4,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
           "rank": 5,
-          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+          "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         }
       ],
       "erro": null

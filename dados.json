@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 07:25",
+  "atualizado_em": "05/08/2026 07:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula tem 44% contra 39% de Flávio Bolsonaro no 2º turno, diz Genial/Quaest",
-          "url": "https://www.estadao.com.br/politica/lula-tem-44-contra-39-de-flavio-bolsonaro-no-2-turno-diz-genialquaest/"
-        },
-        {
-          "rank": 2,
           "title": "A conta de padaria do STF",
           "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         },
         {
+          "rank": 2,
+          "title": "Lula tem 44% contra 39% de Flávio Bolsonaro no 2º turno, diz Genial/Quaest",
+          "url": "https://www.estadao.com.br/politica/lula-tem-44-contra-39-de-flavio-bolsonaro-no-2-turno-diz-genialquaest/"
+        },
+        {
           "rank": 3,
+          "title": "Não vai dar para o BRB",
+          "url": "https://www.estadao.com.br/opiniao/nao-vai-dar-para-o-brb/"
+        },
+        {
+          "rank": 4,
           "title": "A próxima crise dos Estados Unidos pode vir do Japão",
           "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 5,
-          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
-          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         }
       ],
       "erro": null

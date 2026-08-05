@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 23:49",
+  "atualizado_em": "04/08/2026 23:54",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Agência de Comunicação",
-          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/agencia-minera-brasil/sigma-lithium-operacao-plena-capacidade-minas-gerais/"
-        },
-        {
-          "rank": 2,
           "title": "Quando a publicidade entra pela porta do ChatGPT, sua aura de neutralidade sai pela janela",
           "url": "https://www.estadao.com.br/brasil/macaco-eletrico/quando-a-publicidade-entra-pela-porta-do-chatgpt-sua-aura-de-neutralidade-sai-pela-janela/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
+          "rank": 3,
+          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
+        },
+        {
           "rank": 4,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
           "rank": 5,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
+          "title": "Neymar dá assistência, Rony quebra marasmo e classifica Santos contra o Remo na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/neymar-da-assistencia-rony-quebra-marasmo-e-classifica-santos-contra-o-remo-na-copa-do-brasil/"
         }
       ],
       "erro": null
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
+        },
+        {
+          "rank": 2,
           "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
           "url": "https://www.bbc.com/news/articles/cn4n03xg981o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Armed man arrested near Trump's golf course ahead of president's visit",
           "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
           "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
         },
         {
-          "rank": 4,
-          "title": "Princess Eugenie gives birth to baby girl in Portugal",
-          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
-        },
-        {
           "rank": 5,
-          "title": "Athletes go 'missing' after Commonwealth Games ends",
-          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
+          "title": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+          "url": "https://www.bbc.com/news/articles/c5y3ppmmev1o"
         }
       ],
       "erro": null

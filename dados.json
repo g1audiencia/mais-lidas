@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 06:46",
+  "atualizado_em": "05/08/2026 06:52",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Diplomatas avaliam que decisão de revogar visto de embaixadora é anômala e gravíssima",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/diplomatas-avaliam-que-decisao-de-revogar-visto-de-embaixadora-e-anomala-e-gravissima.shtml"
+          "title": "Estudante de medicina é preso sob suspeita de importunação sexual em hospital de MG",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/estudante-de-medicina-e-preso-sob-suspeita-de-importunacao-sexual-em-hospital-de-mg.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
+          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+        },
+        {
+          "rank": 2,
           "title": "A conta de padaria do STF",
           "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
           "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         },
         {
-          "rank": 3,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
-        },
-        {
           "rank": 4,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+          "title": "Quarteto da felicidade: como atuam dopamina, serotonina, ocitocina e endorfina? Dá pra estimulá-las?",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/quarteto-da-felicidade-como-atuam-dopamina-serotonina-ocitocina-e-endorfina-da-pra-estimula-los/"
         },
         {
           "rank": 5,
-          "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
-          "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         }
       ],
       "erro": null

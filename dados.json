@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 23:26",
+  "atualizado_em": "04/08/2026 23:32",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Gabriel Medina anuncia perda do primeiro filho cinco dias após casamento",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gabriel-medina-anuncia-perda-do-primeiro-filho-cinco-dias-apos-casamento.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Gabriel Medina anuncia perda do primeiro filho cinco dias após casamento",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/gabriel-medina-anuncia-perda-do-primeiro-filho-cinco-dias-apos-casamento.shtml"
         }
       ],
       "erro": null
@@ -86,13 +86,13 @@
         },
         {
           "rank": 4,
-          "title": "Brasileiro é denunciado por segurar jogadoras pelo braço em final na Itália",
-          "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/brasileiro-e-denunciado-por-segurar-jogadoras-pelo-braco-em-final-na-italia/"
+          "title": "Incêndio de grandes proporções atinge indústria em SP",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-industria-em-sp/"
         },
         {
           "rank": 5,
-          "title": "Incêndio de grandes proporções atinge indústria em SP",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-de-grandes-proporcoes-atinge-industria-em-sp/"
+          "title": "Brasileiro é denunciado por segurar jogadoras pelo braço em final na Itália",
+          "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/brasileiro-e-denunciado-por-segurar-jogadoras-pelo-braco-em-final-na-italia/"
         }
       ],
       "erro": null
@@ -226,13 +226,13 @@
         },
         {
           "rank": 2,
-          "title": "Trump says Pirro ‘folded like an umbrella’ in bid to drop Reflecting Pool vandalism charges",
-          "url": "https://apnews.com/article/trump-reflecting-pool-pirro-vandalism-criticism-c7aabcf59e87651dd7be0b322b5460b1"
+          "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
+          "url": "https://apnews.com/article/fbi-patel-trump-justice-department-74958effbe23df23eccb33a960da4cc3"
         },
         {
           "rank": 3,
-          "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
-          "url": "https://apnews.com/article/fbi-patel-trump-justice-department-74958effbe23df23eccb33a960da4cc3"
+          "title": "Trump says Pirro ‘folded like an umbrella’ in bid to drop Reflecting Pool vandalism charges",
+          "url": "https://apnews.com/article/trump-reflecting-pool-pirro-vandalism-criticism-c7aabcf59e87651dd7be0b322b5460b1"
         },
         {
           "rank": 4,
@@ -253,28 +253,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Analysis: Trump challenged by cold reality from top allies",
-          "url": "https://www.bbc.com/news/articles/cgjed2q2l0xo"
-        },
-        {
-          "rank": 2,
           "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
           "url": "https://www.bbc.com/news/articles/cn4n03xg981o"
         },
         {
-          "rank": 3,
-          "title": "Princess Eugenie gives birth to baby girl in Portugal",
-          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
+          "rank": 2,
+          "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+          "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Armed man arrested near Trump's golf course ahead of president's visit",
           "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         },
         {
+          "rank": 4,
+          "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+          "url": "https://www.bbc.com/news/articles/cgr7nxve05go"
+        },
+        {
           "rank": 5,
-          "title": "Athletes go 'missing' after Commonwealth Games ends",
-          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
+          "title": "Princess Eugenie gives birth to baby girl in Portugal",
+          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
         }
       ],
       "erro": null

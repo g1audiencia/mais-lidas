@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 04:06",
+  "atualizado_em": "05/08/2026 04:12",
   "portais": [
     {
       "portal": "Folha",
@@ -135,8 +135,8 @@
       "items": [
         {
           "rank": 1,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
           "rank": 2,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Neymar dá assistência, Rony quebra marasmo e classifica Santos contra o Remo na Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/neymar-da-assistencia-rony-quebra-marasmo-e-classifica-santos-contra-o-remo-na-copa-do-brasil/"
+          "title": "Ator Marco Furlan é preso em flagrante suspeito de estuprar criança de 5 anos durante festa em SP",
+          "url": "https://www.estadao.com.br/brasil/ator-marco-furlan-preso-flagrante-suspeito-estuprar-crianca-5-anos-festa-sp-npr/"
         }
       ],
       "erro": null
@@ -248,18 +248,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Russian ballistic missile strike on Kyiv kills at least 17",
+          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
+        },
+        {
+          "rank": 2,
           "title": "Armed man arrested near Trump's golf course ahead of president's visit",
           "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
           "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
-        },
-        {
-          "rank": 3,
-          "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-          "url": "https://www.bbc.com/news/articles/cpw9v0gnzxwo"
         },
         {
           "rank": 4,
@@ -268,8 +268,8 @@
         },
         {
           "rank": 5,
-          "title": "Russian ballistic missile strike on Kyiv kills at least 17",
-          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
+          "title": "What will happen when a SpaceX rocket collides with the Moon?",
+          "url": "https://www.bbc.com/news/articles/cx25yn22l97o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 20:55",
+  "atualizado_em": "04/08/2026 21:01",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
-          "rank": 2,
           "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
           "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
         },
         {
+          "rank": 2,
+          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+        },
+        {
           "rank": 3,
-          "title": "Governo Lula vê pressão política e chantagem em revogação de visto de embaixadora por Trump",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-ve-pressao-politica-e-chantagem-em-expulsao-de-embaixadora-por-trump/"
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "A República dos sem explicação",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/a-republica-dos-sem-explicacao/"
+          "title": "Governo Lula vê pressão política e chantagem em revogação de visto de embaixadora por Trump",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-ve-pressao-politica-e-chantagem-em-expulsao-de-embaixadora-por-trump/"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Princess Eugenie gives birth to baby girl in Portugal",
-          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
-        },
-        {
-          "rank": 4,
           "title": "Athletes go 'missing' after Commonwealth Games ends",
           "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
         },
         {
+          "rank": 4,
+          "title": "Princess Eugenie gives birth to baby girl in Portugal",
+          "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
+        },
+        {
           "rank": 5,
-          "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-          "url": "https://www.bbc.com/news/articles/c0qvpveg20vo"
+          "title": "US revokes Brazil ambassador's visa as diplomatic tensions escalate",
+          "url": "https://www.bbc.com/news/articles/cy9wpww7dyro"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
+          "title": "Mohamed Salah ya tiene nuevo club: el inesperado destino que la joya de Egipto eligió para seguir su carrera",
+          "url": "https://www.clarin.com/deportes/mohamed-salah-nuevo-club-inesperado-destino-joya-egipto-eligio-seguir-carrera_0_7z808UpRFO.html"
+        },
+        {
+          "rank": 3,
           "title": "Facundo Moyano detenido: ahora aparecieron videos del sindicalista corriendo a la joven de 23 años semidesnuda por Belgrano",
           "url": "https://www.clarin.com/politica/facundo-moyano-demorado-video-muestra-joven-23-anos-deambula-semidesnuda-belgrano_0_syKIRZOA2a.html"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Así es el edificio de lujo en Belgrano donde vive Facundo Moyano",
           "url": "https://www.clarin.com/propiedades/edificio-lujo-belgrano-vive-facundo-moyano_0_uLsW3irye8.html"
         },
         {
-          "rank": 4,
-          "title": "Una nueva encuesta midió seis duelos políticos y hubo ganadores sorpresivos",
-          "url": "https://www.clarin.com/politica/nueva-encuesta-midio-duelos-politicos-ganadores-sorpresivos_0_LDGWXOBMb2.html"
-        },
-        {
           "rank": 5,
-          "title": "\"La vida es bonita, la voy a abrazar\": quién es Candela Arizaga, la modelo del escándalo con Facundo Moyano",
-          "url": "https://www.clarin.com/policiales/vida-bonita-voy-abrazar-candela-arizaga-modelo-escandalo-facundo-moyano_0_GSYFnnvIq7.html"
+          "title": "Dura medida de Brasil contra Argentina: no repone a su embajador en Buenos Aires y reduce su relación a nivel \"encargado de negocios\"",
+          "url": "https://www.clarin.com/politica/dura-medida-brasil-argentina-repone-embajador-buenos-aires-reduce-relacion-nivel-encargado-negocios_0_QvMqUhjI9W.html"
         }
       ],
       "erro": null

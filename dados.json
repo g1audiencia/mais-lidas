@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 07:36",
+  "atualizado_em": "05/08/2026 07:41",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
-          "rank": 2,
-          "title": "Lula tem 44% contra 39% de Flávio Bolsonaro no 2º turno, diz Genial/Quaest",
-          "url": "https://www.estadao.com.br/politica/lula-tem-44-contra-39-de-flavio-bolsonaro-no-2-turno-diz-genialquaest/"
-        },
-        {
-          "rank": 3,
           "title": "A conta de padaria do STF",
           "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         },
         {
+          "rank": 2,
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
+        },
+        {
+          "rank": 3,
+          "title": "Lula tem 44% contra 39% de Flávio Bolsonaro no 2º turno, diz Genial/Quaest",
+          "url": "https://www.estadao.com.br/politica/lula-tem-44-contra-39-de-flavio-bolsonaro-no-2-turno-diz-genialquaest/"
+        },
+        {
           "rank": 4,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+          "title": "Não vai dar para o BRB",
+          "url": "https://www.estadao.com.br/opiniao/nao-vai-dar-para-o-brb/"
         },
         {
           "rank": 5,
-          "title": "Não vai dar para o BRB",
-          "url": "https://www.estadao.com.br/opiniao/nao-vai-dar-para-o-brb/"
+          "title": "Os negócios que rondam o gabinete de Lula e o presente que Trump lhe dá | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/os-negocios-que-rondam-o-gabinete-de-lula-e-o-presente-que-trump-lhe-da-estadao-analisa/"
         }
       ],
       "erro": null

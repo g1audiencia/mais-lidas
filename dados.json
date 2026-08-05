@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 11:34",
+  "atualizado_em": "05/08/2026 11:40",
   "portais": [
     {
       "portal": "Folha",
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Menopausa em homens? Entenda a síndrome que afeta até 20% da população masculina",
-          "url": "https://oglobo.globo.com/saude/noticia/2026/08/05/menopausa-em-homens-entenda-a-sindrome-que-afeta-ate-20percent-da-populacao-masculina.ghtml"
+          "title": "Mistério resolvido? Cataratas de Sangue da Antártida escondem vestígios de antigo mundo marinho sob o gelo",
+          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/08/05/misterio-resolvido-cataratas-de-sangue-da-antartida-escondem-vestigios-de-antigo-mundo-marinho-sob-o-gelo.ghtml"
         }
       ],
       "erro": null
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
-          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         },
         {
           "rank": 2,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
+          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         },
         {
           "rank": 5,
-          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
-          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
         }
       ],
       "erro": null
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-          "url": "https://www.bbc.com/news/articles/c330pxyvzzyo"
+          "title": "Woman arrested after four stabbed in central London",
+          "url": "https://www.bbc.com/news/articles/cn0nk17881yo"
         }
       ],
       "erro": null
@@ -290,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "La intimidad de una \"noche brava\" entre Facundo Moyano y Candela Arizaga: drogas, brote y la declaración que lo favorece",
-          "url": "https://www.clarin.com/policiales/intimidad-noche-brava-facundo-moyano-candela-arizaga-drogas-brote-declaracion-favorece_0_CnzEc5Du42.html"
-        },
-        {
-          "rank": 3,
           "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
           "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Violencia en México: asesinan a tiros a un influencer durante una trasmisión en vivo en Tik Tok",
           "url": "https://www.clarin.com/mundo/violencia-mexico-asesinan-tiros-influencer-trasmision-vivo-tik-tok_0_yI9Nz9Jg9p.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "El auto chino más vendido en el país no es de una marca china y presentó una nueva versión más equipada",
           "url": "https://www.clarin.com/autos/auto-chino-vendido-pais-marca-china-presento-nueva-version-equipada_0_oX2yLqfUEU.html"
+        },
+        {
+          "rank": 5,
+          "title": "La intimidad de una \"noche brava\" entre Facundo Moyano y Candela Arizaga: drogas, brote y la declaración que lo favorece",
+          "url": "https://www.clarin.com/policiales/intimidad-noche-brava-facundo-moyano-candela-arizaga-drogas-brote-declaracion-favorece_0_CnzEc5Du42.html"
         }
       ],
       "erro": null

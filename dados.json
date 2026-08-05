@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 21:40",
+  "atualizado_em": "04/08/2026 21:45",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
-        },
-        {
-          "rank": 2,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
+          "rank": 2,
+          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
+          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
+        },
+        {
           "rank": 3,
-          "title": "A República dos sem explicação",
-          "url": "https://www.estadao.com.br/politica/fernando-schuler/a-republica-dos-sem-explicacao/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Governo Lula vê pressão política e chantagem em revogação de visto de embaixadora por Trump",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-ve-pressao-politica-e-chantagem-em-expulsao-de-embaixadora-por-trump/"
+          "title": "Aécio Neves decide não disputar eleições após 40 anos de mandatos",
+          "url": "https://www.estadao.com.br/politica/aecio-decide-nao-disputar-eleicoes-apos-40-anos-de-mandatos/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
+          "url": "https://apnews.com/article/fbi-patel-trump-justice-department-74958effbe23df23eccb33a960da4cc3"
+        },
+        {
+          "rank": 4,
           "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
           "url": "https://apnews.com/article/border-wall-wells-water-ranch-new-mexico-5ad8fcbcbef112381a6cc56ba3566002"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Michigan Senate primary is a test between progressives and the establishment",
           "url": "https://apnews.com/live/election-primary-08-04-2026"
-        },
-        {
-          "rank": 5,
-          "title": "Trump criticizes Pirro’s move to drop Reflecting Pool vandalism charges, what to watch in today’s primaries, spicy cocktails",
-          "url": "https://apnews.com/newsletter/morning-wire/august-4-2026"
         }
       ],
       "erro": null
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
-          "title": "Athletes go 'missing' after Commonwealth Games ends",
-          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
-        },
-        {
-          "rank": 4,
           "title": "Princess Eugenie gives birth to baby girl in Portugal",
           "url": "https://www.bbc.com/news/articles/cpq81pxw5gro"
         },
         {
+          "rank": 4,
+          "title": "Athletes go 'missing' after Commonwealth Games ends",
+          "url": "https://www.bbc.com/news/articles/c4gxj5xl0pxo"
+        },
+        {
           "rank": 5,
-          "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-          "url": "https://www.bbc.com/news/articles/c20jp3mp7lyo"
+          "title": "How a generation of record-setting guides died in a disaster that killed a climbing legend",
+          "url": "https://www.bbc.com/news/articles/cm2ge4dnj80o"
         }
       ],
       "erro": null
@@ -295,8 +295,8 @@
         },
         {
           "rank": 3,
-          "title": "Dura medida de Brasil contra Argentina: no repone a su embajador en Buenos Aires y reduce su relación a nivel \"encargado de negocios\"",
-          "url": "https://www.clarin.com/politica/dura-medida-brasil-argentina-repone-embajador-buenos-aires-reduce-relacion-nivel-encargado-negocios_0_QvMqUhjI9W.html"
+          "title": "Así es el edificio de lujo en Belgrano donde vive Facundo Moyano",
+          "url": "https://www.clarin.com/propiedades/edificio-lujo-belgrano-vive-facundo-moyano_0_uLsW3irye8.html"
         },
         {
           "rank": 4,
@@ -305,8 +305,8 @@
         },
         {
           "rank": 5,
-          "title": "Así es el edificio de lujo en Belgrano donde vive Facundo Moyano",
-          "url": "https://www.clarin.com/propiedades/edificio-lujo-belgrano-vive-facundo-moyano_0_uLsW3irye8.html"
+          "title": "Dura medida de Brasil contra Argentina: no repone a su embajador en Buenos Aires y reduce su relación a nivel \"encargado de negocios\"",
+          "url": "https://www.clarin.com/politica/dura-medida-brasil-argentina-repone-embajador-buenos-aires-reduce-relacion-nivel-encargado-negocios_0_QvMqUhjI9W.html"
         }
       ],
       "erro": null

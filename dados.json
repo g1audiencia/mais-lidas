@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 16:49",
+  "atualizado_em": "05/08/2026 16:55",
   "portais": [
     {
       "portal": "Folha",
@@ -54,13 +54,13 @@
         },
         {
           "rank": 4,
-          "title": "Escolha de vice de Flávio foi ligada a disputa no Senado e envolveu Lira",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/05/como-solucao-alagoas-do-pl-para-lira-empurrou-alfredo-para-vice-de-flavio.htm"
+          "title": "Ligações indesejadas com número parecido ao seu na tela têm data para acabar",
+          "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/08/05/ligacoes-indesejadas-com-seu-numero-na-tela-tem-data-para-acabar-no-brasil.ghtm"
         },
         {
           "rank": 5,
-          "title": "Ligações indesejadas com número parecido ao seu na tela têm data para acabar no Brasil",
-          "url": "https://www.uol.com.br/tilt/noticias/redacao/2026/08/05/ligacoes-indesejadas-com-seu-numero-na-tela-tem-data-para-acabar-no-brasil.ghtm"
+          "title": "Escolha de vice de Flávio foi ligada a disputa no Senado e envolveu Lira",
+          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/05/como-solucao-alagoas-do-pl-para-lira-empurrou-alfredo-para-vice-de-flavio.htm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
+        },
+        {
+          "rank": 4,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 4,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
-        },
-        {
           "rank": 5,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
         }
       ],
       "erro": null

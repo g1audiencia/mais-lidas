@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 18:46",
+  "atualizado_em": "05/08/2026 18:52",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Ideb 2025: veja as notas da sua cidade no índice de educação do MEC",
           "url": "https://www1.folha.uol.com.br/educacao/2026/08/ideb-2025-veja-as-notas-da-sua-cidade-no-indice-de-educacao-do-mec.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
         }
       ],
       "erro": null
@@ -150,8 +150,8 @@
         },
         {
           "rank": 4,
-          "title": "Copom reduz taxa de juros em 0,25 ponto pela 4ª vez seguida e Selic cai a 14% ao ano",
-          "url": "https://www.estadao.com.br/economia/copom-agosto-2026-selic-juros/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         },
         {
           "rank": 5,
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "PF conclui inquérito e prepara primeiro indiciamento de Vorcaro e Paulo Henrique",
-          "url": "https://www.metropoles.com/colunas/andreza-matais/pf-conclui-inquerito-e-prepara-primeiro-indiciamento-de-vorcaro-e-paulo-henrique"
+          "title": "Havaianas lança saltos com dedão coberto em nova abordagem de clássico",
+          "url": "https://www.metropoles.com/colunas/ilca-maria-estevao/havaianas-lanca-saltos-com-dedao-coberto-em-nova-abordagem-de-classico"
         },
         {
           "rank": 3,
-          "title": "Greve da CPTM chega ao fim após acordo entre sindicato e governo de SP",
-          "url": "https://www.metropoles.com/sao-paulo/greve-da-cptm-chega-ao-fim-apos-acordo-entre-sindicato-e-governo-de-sp"
+          "title": "PF conclui inquérito e prepara primeiro indiciamento de Vorcaro e Paulo Henrique",
+          "url": "https://www.metropoles.com/colunas/andreza-matais/pf-conclui-inquerito-e-prepara-primeiro-indiciamento-de-vorcaro-e-paulo-henrique"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 11:29",
+  "atualizado_em": "05/08/2026 11:34",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Pastores progressistas relatam ostracismo após ascensão bolsonarista nas igrejas",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/pastores-progressistas-relatam-ostracismo-apos-ascensao-bolsonarista-nas-igrejas.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Ansiedade é a principal causa de incapacidade entre crianças brasileiras de 5 a 9 anos",
           "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/ansiedade-e-a-principal-causa-de-incapacidade-entre-criancas-brasileiras-de-5-a-9-anos.shtml"
         },
         {
+          "rank": 4,
+          "title": "Pastores progressistas relatam ostracismo após ascensão bolsonarista nas igrejas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/pastores-progressistas-relatam-ostracismo-apos-ascensao-bolsonarista-nas-igrejas.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Itamaraty dispensa embaixador da Argentina no Brasil e rebaixa relação com país vizinho",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/itamaraty-rebaixa-relacao-com-argentina-apos-milei-renovar-ataques-a-lula.shtml"
+          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
-        },
-        {
-          "rank": 2,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 3,
-          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
-          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
+          "rank": 2,
+          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
           "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
         },
         {
+          "rank": 4,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+        },
+        {
           "rank": 5,
-          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
-          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
+          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
+          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 15:07",
+  "atualizado_em": "05/08/2026 15:12",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
           "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
         },
         {
+          "rank": 3,
+          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
+          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+        },
+        {
           "rank": 4,
-          "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
-          "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
         },
         {
           "rank": 5,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+          "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
+          "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
         }
       ],
       "erro": null
@@ -172,13 +172,13 @@
         },
         {
           "rank": 2,
-          "title": "Genial/ Quaest: Lula lidera 1º e 2º turnos, mas Flávio Bolsonaro cresce",
-          "url": "https://www.metropoles.com/brasil/genial-quaest-lula-lidera-1o-e-2o-turnos-mas-flavio-cresce"
+          "title": "Flávio Bolsonaro escolhe como vice deputado investigado por estupro",
+          "url": "https://www.metropoles.com/colunas/andreza-matais/flavio-bolsonaro-vice-alfredo-gaspar-estupro-cpi-inss-eleicoes-2026"
         },
         {
           "rank": 3,
-          "title": "Candidato a governador do Pará se pronuncia com esposa após vídeo íntimo viralizar",
-          "url": "https://www.metropoles.com/colunas/grande-angular/candidato-a-governador-se-pronuncia-com-esposa-apos-video-intimo-viralizar"
+          "title": "Quem é Alfredo Gaspar, escolhido vice na chapa de Flávio Bolsonaro",
+          "url": "https://www.metropoles.com/brasil/quem-e-alfredo-gaspar-escolhido-vice-na-chapa-de-flavio-bolsonaro"
         }
       ],
       "erro": null
@@ -236,8 +236,8 @@
         },
         {
           "rank": 4,
-          "title": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say",
-          "url": "https://apnews.com/article/warming-heat-climate-change-summer-el-nino-ffd31dd358a894667c63f4c0a21cd677"
+          "title": "Lawyers in Reflecting Pool case say Justice Department knew case was flawed",
+          "url": "https://apnews.com/article/reflecting-pool-charges-david-hearn-trump-pirro-3196c7e3d914ad9ef05562d586a8bff1"
         }
       ],
       "erro": null
@@ -285,13 +285,13 @@
         },
         {
           "rank": 2,
-          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
-          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
+          "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
+          "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
         },
         {
           "rank": 3,
-          "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
-          "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
+          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
+          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
         },
         {
           "rank": 4,

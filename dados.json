@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 03:27",
+  "atualizado_em": "05/08/2026 03:33",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
+          "rank": 3,
+          "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Militar é condenado por sequestro e estupro durante a ditadura",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/militar-e-condenado-por-sequestro-e-estupro-durante-a-ditadura.shtml"
+          "title": "Kassio aponta propaganda velada e manda governo remover conteúdos de canais oficiais em 24 horas",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/kassio-aponta-propaganda-velada-e-manda-governo-remover-conteudos-de-canais-oficiais-em-24-horas.shtml"
         },
         {
           "rank": 5,
-          "title": "Kassio aponta propaganda velada e manda governo remover conteúdos de canais oficiais em 24 horas",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/kassio-aponta-propaganda-velada-e-manda-governo-remover-conteudos-de-canais-oficiais-em-24-horas.shtml"
+          "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
         }
       ],
       "erro": null
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Governo Lula 'repudia' retirada de visto de embaixadora e diz que justificativas dos EUA 'são falsas'",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/04/governo-lula-repudia-retirada-de-visto-de-embaixadora-e-diz-que-justificativas-dos-eua-sao-falsas.ghtml"
+          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
+          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
         },
         {
           "rank": 5,
-          "title": "Cinco gatos levados para conter ratos em ilha provocaram desastre ambiental que hoje exige operação de mais de R$ 127 milhões; entenda",
-          "url": "https://oglobo.globo.com/boa-viagem/noticia/2026/08/04/cinco-gatos-levados-para-conter-ratos-em-ilha-provocaram-desastre-ambiental-que-hoje-exige-operacao-de-mais-de-r-127-milhoes-entenda.ghtml"
+          "title": "Governo Lula 'repudia' retirada de visto de embaixadora e diz que justificativas dos EUA 'são falsas'",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/04/governo-lula-repudia-retirada-de-visto-de-embaixadora-e-diz-que-justificativas-dos-eua-sao-falsas.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
-          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         },
         {
           "rank": 2,
-          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
+          "rank": 3,
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+        },
+        {
           "rank": 4,
-          "title": "Nobel de Medicina fala sobre o sistema de localização do cérebro e a formação de memórias",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/nobel-de-medicina-fala-sobre-o-sistema-de-localizacao-do-cerebro-e-a-formacao-de-memorias/"
+          "title": "PF diz que advogado enviou R$ 11 milhões a mulher de senador Weverton Rocha e comprou casa para ele",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/pf-diz-que-advogado-enviou-r-11-milhoes-a-mulher-de-senador-weverton-rocha-e-comprou-casa-para-ele/"
         },
         {
           "rank": 5,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
+          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
+          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
         }
       ],
       "erro": null

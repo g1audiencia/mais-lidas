@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 09:21",
+  "atualizado_em": "05/08/2026 09:26",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
-        },
-        {
-          "rank": 2,
           "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
           "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         },
         {
-          "rank": 3,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+          "rank": 2,
+          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
+          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Neymar provoca confusão e é chamado de ‘vagabundo’ por presidente do Remo; veja vídeos",
           "url": "https://www.estadao.com.br/esportes/futebol/neymar-provoca-confusao-e-e-chamado-de-vagabundo-por-presidente-do-remo-veja-videos/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
           "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
+        },
+        {
+          "rank": 5,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "PT acende alerta após ex-sócio de Vorcaro decidir falar e mudar defesa",
+          "url": "https://www.metropoles.com/colunas/milena-teixeira/pt-acende-alerta-apos-augusto-lima-decidir-falar-e-mudar-defesa"
+        },
+        {
+          "rank": 2,
           "title": "Genial/ Quaest: Lula lidera 1º e 2º turnos, mas Flávio Bolsonaro cresce",
           "url": "https://www.metropoles.com/brasil/genial-quaest-lula-lidera-1o-e-2o-turnos-mas-flavio-cresce"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Candidato a governador do Pará se pronuncia com esposa após vídeo íntimo viralizar",
           "url": "https://www.metropoles.com/colunas/grande-angular/candidato-a-governador-se-pronuncia-com-esposa-apos-video-intimo-viralizar"
-        },
-        {
-          "rank": 3,
-          "title": "Segundo dia de greve: como ficam as linhas da CPTM com a paralisação",
-          "url": "https://www.metropoles.com/sao-paulo/segundo-dia-de-greve-como-ficam-as-linhas-da-cptm-com-a-paralisacao"
         }
       ],
       "erro": null
@@ -263,13 +263,13 @@
         },
         {
           "rank": 4,
-          "title": "Michigan Democrats locked in tight battle to earn Senate nomination in crucial seat",
-          "url": "https://www.bbc.com/news/articles/c62q0kkr6k2o"
+          "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+          "url": "https://www.bbc.com/news/articles/c62q0xerzrno"
         },
         {
           "rank": 5,
-          "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
-          "url": "https://www.bbc.com/news/articles/c1w1lvn7d9go"
+          "title": "Michigan Democrats locked in tight battle to earn Senate nomination in crucial seat",
+          "url": "https://www.bbc.com/news/articles/c62q0kkr6k2o"
         }
       ],
       "erro": null
@@ -280,13 +280,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "La intimidad de una \"noche brava\" entre Facundo Moyano y Candela Arizaga: drogas, brote y la declaración que lo favorece",
-          "url": "https://www.clarin.com/policiales/intimidad-noche-brava-facundo-moyano-candela-arizaga-drogas-brote-declaracion-favorece_0_CnzEc5Du42.html"
+          "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
+          "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
         },
         {
           "rank": 2,
-          "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
-          "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
+          "title": "La intimidad de una \"noche brava\" entre Facundo Moyano y Candela Arizaga: drogas, brote y la declaración que lo favorece",
+          "url": "https://www.clarin.com/policiales/intimidad-noche-brava-facundo-moyano-candela-arizaga-drogas-brote-declaracion-favorece_0_CnzEc5Du42.html"
         },
         {
           "rank": 3,

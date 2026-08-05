@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 22:08",
+  "atualizado_em": "04/08/2026 22:13",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
+        },
+        {
+          "rank": 3,
           "title": "Ciclone-bomba deve se formar sobre o Brasil nos próximos dias, alerta o Inmet",
           "url": "https://www.estadao.com.br/brasil/ciclone-bomba-deve-se-formar-brasil-proximos-dias-alerta-inmet-npr/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "O coronavírus escapou de um laboratório chinês? Entenda em 10 pontos as lacunas na origem da doença",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/10-razoes-para-acreditar-que-o-coronavirus-escapou-de-um-laboratorio-na-china/"
         },
         {
-          "rank": 4,
-          "title": "Quem é o ator Marco Furlan, preso acusado de estuprar menino de 5 anos no interior de SP",
-          "url": "https://www.estadao.com.br/brasil/quem-e-marco-furlan-ator-preso-acusado-estuprar-menino-5-anos-sp-npr/"
-        },
-        {
           "rank": 5,
-          "title": "Aécio Neves decide não disputar eleições após 40 anos de mandatos",
-          "url": "https://www.estadao.com.br/politica/aecio-decide-nao-disputar-eleicoes-apos-40-anos-de-mandatos/"
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         }
       ],
       "erro": null
@@ -231,18 +231,18 @@
         },
         {
           "rank": 3,
+          "title": "Rep. Wesley Bell fends off primary challenge from Cori Bush in Missouri rematch",
+          "url": "https://apnews.com/live/election-primary-08-04-2026"
+        },
+        {
+          "rank": 4,
           "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
           "url": "https://apnews.com/article/wildfire-spokane-washington-evacuate-8e42b37783bda01e7d004d71e546458e"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Contractors building border wall ordered to stop drilling wells in drought-stricken New Mexico",
           "url": "https://apnews.com/article/border-wall-wells-water-ranch-new-mexico-5ad8fcbcbef112381a6cc56ba3566002"
-        },
-        {
-          "rank": 5,
-          "title": "Michigan Senate primary is a test between progressives and the establishment",
-          "url": "https://apnews.com/live/election-primary-08-04-2026"
         }
       ],
       "erro": null

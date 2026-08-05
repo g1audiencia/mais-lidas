@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 19:25",
+  "atualizado_em": "05/08/2026 19:30",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
+          "rank": 2,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
           "rank": 3,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         },
         {
           "rank": 4,
-          "title": "Acidente Voepass: Pilotos relataram falha no sistema de gelo e comparam aeronave a um ‘fusquinha’",
-          "url": "https://www.estadao.com.br/brasil/acidente-voepass-pilotos-relataram-falha-no-sistema-de-gelo-e-comparam-aeronave-a-um-fusquinha-npr/"
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
           "rank": 5,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 3,
-          "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
-          "url": "https://www.bbc.com/news/articles/cwyewn5wexvo"
+          "title": "University of Cambridge professor at centre of plagiarism row resigns",
+          "url": "https://www.bbc.com/news/articles/c1e146jw618o"
         },
         {
           "rank": 4,
-          "title": "University of Cambridge professor at centre of plagiarism row resigns",
-          "url": "https://www.bbc.com/news/articles/c1e146jw618o"
+          "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+          "url": "https://www.bbc.com/news/articles/cwyewn5wexvo"
         },
         {
           "rank": 5,

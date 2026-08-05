@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 19:08",
+  "atualizado_em": "05/08/2026 19:14",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+        },
+        {
+          "rank": 4,
           "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
           "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
-          "rank": 4,
-          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
-          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
-        },
-        {
           "rank": 5,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
+          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 3,
-          "title": "El importante reconocimiento a Franco Colapinto en medio de la decisión sobre su futuro: se quedó con la mejor maniobra de julio en la Fórmula 1",
-          "url": "https://www.clarin.com/deportes/importante-reconocimiento-franco-colapinto-medio-decision-futuro-quedo-mejor-maniobra-julio-formula-1_0_l2nv5VdCcn.html"
+          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
+          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
         },
         {
           "rank": 4,
-          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
-          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
+          "title": "El importante reconocimiento a Franco Colapinto en medio de la decisión sobre su futuro: se quedó con la mejor maniobra de julio en la Fórmula 1",
+          "url": "https://www.clarin.com/deportes/importante-reconocimiento-franco-colapinto-medio-decision-futuro-quedo-mejor-maniobra-julio-formula-1_0_l2nv5VdCcn.html"
         },
         {
           "rank": 5,

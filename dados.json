@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 05:57",
+  "atualizado_em": "05/08/2026 06:02",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+        },
+        {
+          "rank": 2,
           "title": "Problemas de governança e situação fiscal estão paralisando o País, diz Mendonça de Barros",
           "url": "https://www.estadao.com.br/economia/entrevista-mendonca-de-barros-problemas-governanca-situacao-fiscal-paralisam-pais/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 3,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
-        },
-        {
           "rank": 4,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
+          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         },
         {
           "rank": 5,
-          "title": "João Fonseca sonha com top 20 a caminho do último Grand Slam do ano",
-          "url": "https://www.estadao.com.br/esportes/tenis/joao-fonseca-sonha-com-top-20-a-caminho-do-ultimo-grand-slam-do-ano/"
+          "title": "Brasil só terá juros civilizados se tiver uma discussão de projeto de país, diz CEO do Banco XP",
+          "url": "https://www.estadao.com.br/economia/brasil-so-tera-juros-civilizados-se-tiver-uma-discussao-de-projeto-de-pais-diz-ceo-do-banco-xp/"
         }
       ],
       "erro": null

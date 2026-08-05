@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 17:39",
+  "atualizado_em": "05/08/2026 17:45",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
-        },
-        {
-          "rank": 2,
           "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
           "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
         },
         {
-          "rank": 3,
-          "title": "Greve CPTM: funcionários decidem encerrar paralisação das linhas 11, 12 e 13 em SP",
-          "url": "https://www.estadao.com.br/sao-paulo/greve-cptm-funcionarios-decidem-encerrar-paralisacao-das-linhas-11-12-e-13-em-sp/"
+          "rank": 2,
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Escolha de vice de Flávio pega integrantes da campanha de surpresa e desagrada aliados",
           "url": "https://www.estadao.com.br/politica/escolha-de-vice-de-flavio-pega-integrantes-da-campanha-de-surpresa-e-desagrada-aliados/"
         },
         {
+          "rank": 4,
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
+        },
+        {
           "rank": 5,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+          "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
         }
       ],
       "erro": null

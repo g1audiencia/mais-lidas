@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 10:44",
+  "atualizado_em": "05/08/2026 10:50",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Lula desperdiça a campanha",
-          "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/lula-desperdica-a-campanha.shtml"
+          "title": "Pastores progressistas relatam ostracismo após ascensão bolsonarista nas igrejas",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/pastores-progressistas-relatam-ostracismo-apos-ascensao-bolsonarista-nas-igrejas.shtml"
         },
         {
           "rank": 4,
-          "title": "Pastores progressistas relatam ostracismo após ascensão bolsonarista nas igrejas",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/pastores-progressistas-relatam-ostracismo-apos-ascensao-bolsonarista-nas-igrejas.shtml"
+          "title": "Itamaraty dispensa embaixador da Argentina no Brasil e rebaixa relação com país vizinho",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/itamaraty-rebaixa-relacao-com-argentina-apos-milei-renovar-ataques-a-lula.shtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
+        },
+        {
+          "rank": 2,
           "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
           "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         },
         {
-          "rank": 2,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
-        },
-        {
           "rank": 3,
-          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
-        },
-        {
-          "rank": 4,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
           "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
+        },
+        {
+          "rank": 5,
+          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
+          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         }
       ],
       "erro": null
@@ -204,8 +204,8 @@
         },
         {
           "rank": 4,
-          "title": "Ventos podem chegar a até 100 km/h em SP nesta sexta-feira (7); veja previsão",
-          "url": "https://noticias.r7.com/sao-paulo/ventos-podem-chegar-a-ate-100-kmh-em-sp-nesta-sexta-feira-7-veja-previsao-04082026/"
+          "title": "Ministro diz não apoiar reforma da Previdência que aumente tempo de contribuição",
+          "url": "https://noticias.r7.com/brasilia/ministro-diz-nao-apoiar-reforma-da-previdencia-que-aumente-tempo-de-contribuicao-05082026/"
         },
         {
           "rank": 5,
@@ -248,13 +248,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-          "url": "https://www.bbc.com/news/articles/cly5kvdkyjro"
+          "title": "Mexican influencer shot dead during livestream",
+          "url": "https://www.bbc.com/news/articles/cx2kg709qd9o"
         },
         {
           "rank": 2,
-          "title": "Mexican influencer shot dead during livestream",
-          "url": "https://www.bbc.com/news/articles/cx2kg709qd9o"
+          "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+          "url": "https://www.bbc.com/news/articles/cly5kvdkyjro"
         },
         {
           "rank": 3,

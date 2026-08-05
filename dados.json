@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 03:16",
+  "atualizado_em": "05/08/2026 03:22",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Ator Marco Furlan é preso em flagrante por suspeita de estupro de criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/ator-marco-furlan-e-preso-em-flagrante-por-suspeita-de-estupro-de-crianca.shtml"
         },
         {
+          "rank": 3,
+          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Kassio aponta propaganda velada e manda governo remover conteúdos de canais oficiais em 24 horas",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/kassio-aponta-propaganda-velada-e-manda-governo-remover-conteudos-de-canais-oficiais-em-24-horas.shtml"
+          "title": "Militar é condenado por sequestro e estupro durante a ditadura",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/militar-e-condenado-por-sequestro-e-estupro-durante-a-ditadura.shtml"
         },
         {
           "rank": 5,
-          "title": "Governo Trump revoga visto de embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/governo-trump-revoga-visto-de-embaixadora-do-brasil-nos-estados-unidos.shtml"
+          "title": "Kassio aponta propaganda velada e manda governo remover conteúdos de canais oficiais em 24 horas",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/kassio-aponta-propaganda-velada-e-manda-governo-remover-conteudos-de-canais-oficiais-em-24-horas.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
-        },
-        {
-          "rank": 2,
-          "title": "Nobel de Medicina fala sobre o sistema de localização do cérebro e a formação de memórias",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/nobel-de-medicina-fala-sobre-o-sistema-de-localizacao-do-cerebro-e-a-formacao-de-memorias/"
-        },
-        {
-          "rank": 3,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
           "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
+          "rank": 3,
+          "title": "A conta de padaria do STF",
+          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
+        },
+        {
+          "rank": 4,
+          "title": "Nobel de Medicina fala sobre o sistema de localização do cérebro e a formação de memórias",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/nobel-de-medicina-fala-sobre-o-sistema-de-localizacao-do-cerebro-e-a-formacao-de-memorias/"
+        },
+        {
           "rank": 5,
-          "title": "Amiga de Lulinha fez mais de 40 visitas fora da agenda a órgãos do governo Lula",
-          "url": "https://www.estadao.com.br/politica/amiga-de-lulinha-fez-mais-de-40-visitas-fora-da-agenda-a-orgaos-do-governo-lula/"
+          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
+          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
         }
       ],
       "erro": null

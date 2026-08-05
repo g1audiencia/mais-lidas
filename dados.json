@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 10:17",
+  "atualizado_em": "05/08/2026 10:22",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
-          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         },
         {
           "rank": 2,
-          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
-          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
+          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
+          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Neymar provoca confusão e é chamado de ‘vagabundo’ por presidente do Remo; veja vídeos",
-          "url": "https://www.estadao.com.br/esportes/futebol/neymar-provoca-confusao-e-e-chamado-de-vagabundo-por-presidente-do-remo-veja-videos/"
+          "title": "Juros, inflação e endividamento altos freiam efeitos do pacote de ‘bondades’ do governo",
+          "url": "https://www.estadao.com.br/economia/juros-inflacao-e-endividamento-altos-freiam-efeitos-do-pacote-de-bondades-do-governo/"
         },
         {
           "rank": 5,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
+          "title": "Como as mudanças na cúpula militar da Ucrânia impactarão a ‘guerra dos drones’",
+          "url": "https://www.estadao.com.br/internacional/como-as-mudancas-na-cupula-militar-da-ucrania-impactarao-a-guerra-dos-drones/"
         }
       ],
       "erro": null
@@ -238,6 +238,11 @@
           "rank": 4,
           "title": "This summer isn’t breaking heat records — yet. Wait until El Nino kicks in, scientists say",
           "url": "https://apnews.com/article/warming-heat-climate-change-summer-el-nino-ffd31dd358a894667c63f4c0a21cd677"
+        },
+        {
+          "rank": 5,
+          "title": "Lawyers in Reflecting Pool case say Justice Department knew case was flawed",
+          "url": "https://apnews.com/article/reflecting-pool-charges-david-hearn-trump-pirro-3196c7e3d914ad9ef05562d586a8bff1"
         }
       ],
       "erro": null

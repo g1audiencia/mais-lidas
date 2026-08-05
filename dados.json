@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 18:18",
+  "atualizado_em": "05/08/2026 18:24",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
-          "title": "Trabalhadores aceitam proposta e encerram greve na CPTM, em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/greve-cptm-sao-paulo-2-dia.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Ilha mais povoada do mundo tem 500 moradores e é menor que campo de futebol",
           "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/05/ilha-mais-povoada-do-mundo-tem-500-moradores-e-e-menor-que-campo-de-futebol.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Josias de Souza: Alfredo Gaspar consegue ser pior que Flávio",
           "url": "https://www.uol.com.br/flash/?c=3689386fb39367eb775a1b543c935c220260805"
+        },
+        {
+          "rank": 4,
+          "title": "Escolha de vice de Flávio foi ligada a disputa ao Senado e envolveu Lira",
+          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/05/como-solucao-alagoas-do-pl-para-lira-empurrou-alfredo-para-vice-de-flavio.htm"
         },
         {
           "rank": 5,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Desconto se espalha por 91,5% dos fundos imobiliários da Bolsa; oportunidade ou sinal de alerta?",
-          "url": "https://www.estadao.com.br/einvestidor/einar-rivero/desconto-se-espalha-por-915-dos-fundos-imobiliarios-da-bolsa-oportunidade-ou-sinal-de-alerta/"
-        },
-        {
-          "rank": 4,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
+          "rank": 4,
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+        },
+        {
           "rank": 5,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+          "title": "Acidente Voepass: Pilotos relataram falha no sistema de gelo e comparam aeronave a um ‘fusquinha’",
+          "url": "https://www.estadao.com.br/brasil/acidente-voepass-pilotos-relataram-falha-no-sistema-de-gelo-e-comparam-aeronave-a-um-fusquinha-npr/"
         }
       ],
       "erro": null
@@ -290,13 +290,13 @@
         },
         {
           "rank": 3,
-          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
-          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
+          "title": "El importante reconocimiento a Franco Colapinto en medio de la decisión sobre su futuro: se quedó con la mejor maniobra de julio en la Fórmula 1",
+          "url": "https://www.clarin.com/deportes/importante-reconocimiento-franco-colapinto-medio-decision-futuro-quedo-mejor-maniobra-julio-formula-1_0_l2nv5VdCcn.html"
         },
         {
           "rank": 4,
-          "title": "El importante reconocimiento a Franco Colapinto en medio de la decisión sobre su futuro: se quedó con la mejor maniobra de julio en la Fórmula 1",
-          "url": "https://www.clarin.com/deportes/importante-reconocimiento-franco-colapinto-medio-decision-futuro-quedo-mejor-maniobra-julio-formula-1_0_l2nv5VdCcn.html"
+          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
+          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
         },
         {
           "rank": 5,

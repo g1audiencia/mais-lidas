@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 13:26",
+  "atualizado_em": "05/08/2026 13:32",
   "portais": [
     {
       "portal": "Folha",
@@ -44,18 +44,18 @@
         },
         {
           "rank": 2,
-          "title": "Como peça de 500 kg fez o crime mirar os carros elétricos no Brasil",
-          "url": "https://www.uol.com.br/carros/noticias/redacao/2026/08/05/como-peca-de-500-kg-fez-o-crime-mirar-os-carros-eletricos-no-brasil.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Flávio Bolsonaro anuncia Alfredo Gaspar em chapa pura à Presidência",
           "url": "https://noticias.uol.com.br/eleicoes/2026/08/05/flavio-bolsonaro-anuncia-vice-em-chapa-pura-a-presidencia.htm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Foco no delivery: hamburgueria em SP fatura quase R$ 10 mi com só duas lojas",
           "url": "https://economia.uol.com.br/empreendedorismo/noticias/redacao/2026/08/05/bruttus-hamburgueria-unidades-proprias-delivery.ghtm"
+        },
+        {
+          "rank": 4,
+          "title": "Como peça de 500 kg fez o crime mirar os carros elétricos no Brasil",
+          "url": "https://www.uol.com.br/carros/noticias/redacao/2026/08/05/como-peca-de-500-kg-fez-o-crime-mirar-os-carros-eletricos-no-brasil.ghtm"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
+          "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
+          "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
         },
         {
           "rank": 3,
-          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
-          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
-        },
-        {
-          "rank": 4,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
+          "rank": 4,
+          "title": "Jovens simulam compras em site de mentira em busca de dopamina; conheça tendência",
+          "url": "https://www.estadao.com.br/pulsa/mente-e-cerebro/jovens-simulam-compras-em-site-de-mentira-em-busca-de-dopamina-conheca-tendencia/"
+        },
+        {
           "rank": 5,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
+          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
+          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
         }
       ],
       "erro": null
@@ -231,13 +231,13 @@
         },
         {
           "rank": 3,
-          "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
-          "url": "https://apnews.com/article/fbi-patel-trump-justice-department-74958effbe23df23eccb33a960da4cc3"
+          "title": "Stevens and El-Sayed are in a close race for Michigan’s Democratic Senate nomination",
+          "url": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866"
         },
         {
           "rank": 4,
-          "title": "Stevens and El-Sayed are in a close race for Michigan’s Democratic Senate nomination",
-          "url": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866"
+          "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
+          "url": "https://apnews.com/article/fbi-patel-trump-justice-department-74958effbe23df23eccb33a960da4cc3"
         },
         {
           "rank": 5,
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-          "url": "https://www.bbc.com/news/articles/ckgdkpz07kvo"
+          "title": "Woman arrested after four stabbed in central London",
+          "url": "https://www.bbc.com/news/articles/cn0nk17881yo"
         },
         {
           "rank": 3,
-          "title": "Woman arrested after four stabbed in central London",
-          "url": "https://www.bbc.com/news/articles/cn0nk17881yo"
+          "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+          "url": "https://www.bbc.com/news/articles/ckgdkpz07kvo"
         },
         {
           "rank": 4,

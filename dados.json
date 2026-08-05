@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 12:53",
+  "atualizado_em": "05/08/2026 12:58",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
+        },
+        {
+          "rank": 4,
           "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
           "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
           "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
-        },
-        {
-          "rank": 5,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-          "url": "https://www.bbc.com/news/articles/ckgdkpz07kvo"
+          "title": "El-Sayed's victory sends tremors through Democratic Party",
+          "url": "https://www.bbc.com/news/articles/cp309ng0xq1o"
         },
         {
           "rank": 2,
-          "title": "El-Sayed's victory sends tremors through Democratic Party",
-          "url": "https://www.bbc.com/news/articles/cp309ng0xq1o"
+          "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+          "url": "https://www.bbc.com/news/articles/ckgdkpz07kvo"
         },
         {
           "rank": 3,
@@ -295,13 +295,13 @@
         },
         {
           "rank": 3,
-          "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
-          "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
+          "title": "Violencia en México: asesinan a tiros a un influencer durante una trasmisión en vivo en Tik Tok",
+          "url": "https://www.clarin.com/mundo/violencia-mexico-asesinan-tiros-influencer-trasmision-vivo-tik-tok_0_yI9Nz9Jg9p.html"
         },
         {
           "rank": 4,
-          "title": "Violencia en México: asesinan a tiros a un influencer durante una trasmisión en vivo en Tik Tok",
-          "url": "https://www.clarin.com/mundo/violencia-mexico-asesinan-tiros-influencer-trasmision-vivo-tik-tok_0_yI9Nz9Jg9p.html"
+          "title": "Un fallo de la Corte Suprema cambia la forma en que las prepagas deben cubrir los medicamentos más caros",
+          "url": "https://www.clarin.com/sociedad/fallo-corte-suprema-cambia-forma-prepagas-deben-cubrir-medicamentos-caros_0_lS5AVB2CEz.html"
         },
         {
           "rank": 5,

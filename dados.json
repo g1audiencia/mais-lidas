@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 23:43",
+  "atualizado_em": "04/08/2026 23:49",
   "portais": [
     {
       "portal": "Folha",
@@ -39,18 +39,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Neymar deixa banco, dá assistência, e Santos elimina Remo na Copa do Brasil",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/04/remo-x-santos-copa-do-brasil.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Mega-Sena acumula, e prêmio sobe para R$ 150 milhões; veja as dezenas sorteadas",
           "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/08/04/mega-sena-concurso-3040-sorteio-04-de-agosto.htm"
         },
         {
-          "rank": 2,
-          "title": "Governo Trump revoga visto de embaixadora do Brasil nos EUA",
-          "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/08/04/eua-visto-embaixador-brasil-agosto-2026.ghtm"
-        },
-        {
           "rank": 3,
-          "title": "André Mendonça rejeita derrubar vídeo de Flávio que associa PT ao PCC e ao CV",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/04/mendonca-rejeita-derrubar-video-de-flavio-que-associa-pt-ao-pcc-e-ao-cv.ghtm"
+          "title": "Ciclone-bomba deve se formar sobre o Brasil nos próximos dias, alerta Inmet",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/04/ciclone-bomba-deve-se-formar-sobre-o-brasil-nos-proximos-dias-alerta-o-inmet.htm"
         },
         {
           "rank": 4,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Ciclone-bomba deve se formar sobre o Brasil nos próximos dias, alerta Inmet",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/04/ciclone-bomba-deve-se-formar-sobre-o-brasil-nos-proximos-dias-alerta-o-inmet.htm"
+          "title": "Suspeito de induzir o suicídio de herdeira Sabine Boghici é preso no Rio",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/04/policia-prende-suspeito-de-induzir-suicidio-de-herdeira-sabine-boghici.ghtm"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Agência de Comunicação",
+          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/agencia-minera-brasil/sigma-lithium-operacao-plena-capacidade-minas-gerais/"
+        },
+        {
+          "rank": 2,
           "title": "Quando a publicidade entra pela porta do ChatGPT, sua aura de neutralidade sai pela janela",
           "url": "https://www.estadao.com.br/brasil/macaco-eletrico/quando-a-publicidade-entra-pela-porta-do-chatgpt-sua-aura-de-neutralidade-sai-pela-janela/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
           "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         },
         {
-          "rank": 3,
-          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
-          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
-        },
-        {
           "rank": 4,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+          "title": "Governo Lula acusa EUA de interferência eleitoral e repudia cancelamento de visto de embaixadora",
+          "url": "https://www.estadao.com.br/internacional/governo-lula-acusa-eua-de-interferencia-eleitoral-e-repudia-cancelamento-de-visto-de-embaixadora/"
         },
         {
           "rank": 5,
-          "title": "Campanha de Lula enfrenta escalada de crise entre Polícia Federal, STF e cúpula do PT; leia bastidor",
-          "url": "https://www.estadao.com.br/politica/vera-rosa/campanha-de-lula-enfrenta-escalada-de-crise-entre-policia-federal-stf-e-cupula-do-pt-leia-bastidor/"
+          "title": "Itamaraty rebaixa relação diplomática com Argentina após novas ofensas de Milei a Lula",
+          "url": "https://www.estadao.com.br/internacional/itamaraty-rebaixa-relacao-diplomatica-com-argentina-npr/"
         }
       ],
       "erro": null
@@ -241,8 +241,8 @@
         },
         {
           "rank": 5,
-          "title": "Authorities arrest arson suspect in connection with one of the devastating Spokane wildfires",
-          "url": "https://apnews.com/article/wildfire-spokane-washington-evacuate-8e42b37783bda01e7d004d71e546458e"
+          "title": "Trump criticizes Pirro’s move to drop Reflecting Pool vandalism charges, what to watch in today’s primaries, spicy cocktails",
+          "url": "https://apnews.com/newsletter/morning-wire/august-4-2026"
         }
       ],
       "erro": null

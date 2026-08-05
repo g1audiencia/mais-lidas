@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 14:27",
+  "atualizado_em": "05/08/2026 14:33",
   "portais": [
     {
       "portal": "Folha",
@@ -7,7 +7,7 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vice de Flavio é investigado por estupro de vulnerável e desvio de R$ 6 milhões em emendas",
+          "title": "Vice de Flavio é investigado sob suspeita de estupro de vulnerável e desvio de R$ 6 milhões em emendas",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/vice-de-flavio-e-investigado-por-estupro-de-vulneravel-e-desvio-de-r-6-milhoes-em-emendas.shtml"
         },
         {
@@ -113,13 +113,13 @@
         },
         {
           "rank": 3,
-          "title": "Defesa Civil envia 'alerta severo' para celulares por risco de ventos fortes no Rio nesta quarta-feira",
-          "url": "https://oglobo.globo.com/rio/noticia/2026/08/05/defesa-civil-envia-alerta-severo-para-ventos-fortes-e-reforca-recomendacoes-a-populacao-no-rio.ghtml"
+          "title": "Foguete da SpaceX atinge a Lua e abre cratera de 18 metros, diz Nasa",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/08/05/foguete-da-spacex-atinge-a-lua-e-abre-cratera-de-18-metros-diz-nasa.ghtml"
         },
         {
           "rank": 4,
-          "title": "Foguete da SpaceX atinge a Lua e abre cratera de 18 metros, diz Nasa",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/08/05/foguete-da-spacex-atinge-a-lua-e-abre-cratera-de-18-metros-diz-nasa.ghtml"
+          "title": "Defesa Civil envia 'alerta severo' para celulares por risco de ventos fortes no Rio nesta quarta-feira",
+          "url": "https://oglobo.globo.com/rio/noticia/2026/08/05/defesa-civil-envia-alerta-severo-para-ventos-fortes-e-reforca-recomendacoes-a-populacao-no-rio.ghtml"
         },
         {
           "rank": 5,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+        },
+        {
+          "rank": 2,
           "title": "Revogação de visto de embaixadora é primeiro passo de escalada maior de Trump? Entenda",
           "url": "https://www.estadao.com.br/internacional/filipe-figueiredo/escalada-ou-troca-precificada-entre-brasil-e-eua/"
         },
         {
-          "rank": 2,
+          "rank": 3,
+          "title": "Petistas veem escolha de Alfredo Gaspar como vice de Flávio como ‘tiro no pé’ e revivem acusações",
+          "url": "https://www.estadao.com.br/politica/petistas-veem-escolha-de-alfredo-gaspar-como-vice-de-flavio-como-tiro-no-pe-e-revivem-acusacoes/"
+        },
+        {
+          "rank": 4,
           "title": "Imprensa internacional repercute comportamento de Neymar e vê jogador ‘fora de controle’",
           "url": "https://www.estadao.com.br/esportes/futebol/imprensa-internacional-repercute-comportamento-de-neymar-e-ve-jogador-fora-de-controle/"
         },
         {
-          "rank": 3,
-          "title": "Marcola deixa campanha de Lula após PF descobrir pagamento feito a ele por lobista amiga de Lulinha",
-          "url": "https://www.estadao.com.br/politica/marcola-deixa-campanha-de-lula-apos-pf-descobrir-pagamento-feito-a-ele-por-lobista-amiga-de-lulinha/"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "Flávio radicaliza no vice e deixa mulheres em segundo plano",
           "url": "https://www.estadao.com.br/politica/raquel-landim/flavio-radicaliza-no-vice-e-deixa-mulheres-em-segundo-plano/"
-        },
-        {
-          "rank": 5,
-          "title": "The Economist: Esqueçam Airbus e Boeing; a Embraer está decolando",
-          "url": "https://www.estadao.com.br/economia/the-economist-esquecam-airbus-e-boeing-a-embraer-esta-decolando/"
         }
       ],
       "erro": null
@@ -221,13 +221,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Man charged with setting Spokane’s largest wildfire was questioned about 2 other blazes last year",
-          "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843"
+          "title": "Michigan awaits outcome of fierce Democratic Senate primary",
+          "url": "https://apnews.com/live/election-primary-08-04-2026"
         },
         {
           "rank": 2,
-          "title": "Michigan awaits outcome of fierce Democratic Senate primary",
-          "url": "https://apnews.com/live/election-primary-08-04-2026"
+          "title": "Man charged with setting Spokane’s largest wildfire was questioned about 2 other blazes last year",
+          "url": "https://apnews.com/article/spokane-wildfires-arson-washington-old-trails-f23e7a45456dc166344f08fc09db4843"
         },
         {
           "rank": 3,

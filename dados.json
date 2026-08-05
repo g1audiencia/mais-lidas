@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 05:35",
+  "atualizado_em": "05/08/2026 05:40",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "A próxima crise dos Estados Unidos pode vir do Japão",
+          "url": "https://www.estadao.com.br/einvestidor/vitor-miziara/a-proxima-crise-dos-estados-unidos-pode-vir-do-japao/"
+        },
+        {
+          "rank": 2,
           "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
           "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
-          "rank": 2,
-          "title": "A conta de padaria do STF",
-          "url": "https://www.estadao.com.br/opiniao/a-conta-de-padaria-do-stf/"
-        },
-        {
           "rank": 3,
-          "title": "Governo Trump revoga visto da embaixadora do Brasil nos Estados Unidos",
-          "url": "https://www.estadao.com.br/internacional/governo-trump-revoga-visto-embaixadora-brasil-estados-unidos-npr/"
+          "title": "Rogério Marinho é cotado para ser ‘Alckmin da chapa de Flávio Bolsonaro’; veja bastidores",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/rogerio-marinho-e-cotado-para-ser-alckmin-da-chapa-de-flavio-bolsonaro-veja-bastidores/"
         },
         {
           "rank": 4,
-          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
-          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
+          "title": "Estudo piloto da polilaminina é publicado em revista científica com tom cauteloso sobre eficácia",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/estudo-piloto-da-polilaminina-e-publicado-em-revista-cientifica-com-tom-cauteloso-sobre-eficacia/"
         },
         {
           "rank": 5,
-          "title": "Objetivo de Trump é constranger o Brasil com revogação do visto de embaixadora, dizem especialistas",
-          "url": "https://www.estadao.com.br/internacional/objetivo-de-trump-e-constranger-o-brasil-com-revogacao-do-visto-de-embaixadora-dizem-especialistas/"
+          "title": "Múcio diz que solução para invasão dos EUA seria ‘abrir o portão’",
+          "url": "https://www.estadao.com.br/politica/mucio-diz-que-solucao-para-invasao-dos-eua-seria-abrir-o-portao-nprp/"
         }
       ],
       "erro": null

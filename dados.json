@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 09:36",
+  "atualizado_em": "06/08/2026 09:42",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "A educação brasileira está melhorando. E quem puxa o bonde não é quem você pensa",
-          "url": "https://www.estadao.com.br/educacao/a-educacao-brasileira-esta-melhorando-e-quem-puxa-o-bonde-nao-e-quem-voce-pensa/"
-        },
-        {
-          "rank": 2,
           "title": "Calculadora de penduricalhos: descubra como seria o seu salário com os benefícios de um juiz",
           "url": "https://www.estadao.com.br/politica/calculadora-de-penduricalhos-descubra-como-seria-o-seu-salario-com-os-beneficios-de-um-juiz/"
         },
         {
-          "rank": 3,
-          "title": "Representação contra vice de Flávio após acusação de estupro na CPI do INSS está parada no Congresso",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/representacao-contra-vice-de-flavio-apos-acusacao-de-estupro-na-cpi-do-inss-esta-parada-no-congresso/"
+          "rank": 2,
+          "title": "A educação brasileira está melhorando. E quem puxa o bonde não é quem você pensa",
+          "url": "https://www.estadao.com.br/educacao/a-educacao-brasileira-esta-melhorando-e-quem-puxa-o-bonde-nao-e-quem-voce-pensa/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Antidiplomacia de Trump requer pragmatismo",
           "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
+        },
+        {
+          "rank": 5,
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
         }
       ],
       "erro": null

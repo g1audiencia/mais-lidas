@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Coleta as 5 mais lidas de 11 portais e salva em dados.json.
-Roda no GitHub Actions. Nada é instalado localmente.
+Executado periodicamente em ambiente automatizado; grava o resultado em dados.json.
 """
 import requests, json, datetime, re
 from zoneinfo import ZoneInfo
@@ -127,17 +127,66 @@ def coletor_r7(html_str):
     for i, it in enumerate(itens, 1): it["rank"] = i
     return itens
 
-def coletor_ap(html_str):
-    soup = BeautifulSoup(html_str, "html.parser")
-    bloco = soup.find(attrs={"data-gtm-region": re.compile("most read", re.I)})
-    if bloco is None: raise ValueError("bloco 'Most read' do AP não encontrado")
+def _ap_extrai(bloco):
+    """Extrai links de artigo de um bloco da AP, na ordem em que aparecem."""
     itens = []; vistos = set()
-    for a in bloco.find_all("a"):
-        href = a.get("href","").strip(); titulo = a.get_text(" ", strip=True)
-        if not href or not titulo or href in vistos: continue
+    for a in bloco.find_all("a", href=True):
+        href = a["href"].strip()
+        titulo = a.get_text(" ", strip=True)
+        if not href or not titulo or len(titulo) < 15:
+            continue
+        if "/article/" not in href:
+            continue
+        if href.startswith("/"):
+            href = "https://apnews.com" + href
+        if href in vistos:
+            continue
         vistos.add(href)
         itens.append({"rank": len(itens)+1, "title": titulo, "url": href})
     return itens
+
+
+def coletor_ap(html_str):
+    soup = BeautifulSoup(html_str, "html.parser")
+
+    # Estrategia 1: atributo data-gtm-region (marcacao antiga)
+    bloco = soup.find(attrs={"data-gtm-region": re.compile("most read", re.I)})
+    if bloco is not None:
+        itens = _ap_extrai(bloco)
+        if len(itens) >= 3:
+            return itens
+
+    # Estrategia 2: achar o titulo "Most Read" e subir ate um container com links
+    cabecalho = None
+    for tag in soup.find_all(["h1","h2","h3","h4","span","div"]):
+        txt = tag.get_text(" ", strip=True)
+        if txt and len(txt) <= 20 and re.fullmatch(r"most\s*read", txt, re.I):
+            cabecalho = tag
+            break
+    if cabecalho is not None:
+        pai = cabecalho
+        for _ in range(6):
+            pai = pai.parent
+            if pai is None:
+                break
+            itens = _ap_extrai(pai)
+            if len(itens) >= 3:
+                return itens[:10]
+
+    # Estrategia 3: bloco cujo texto comeca com "Most Read" e tem de 3 a 12 artigos
+    melhor = None
+    for tag in soup.find_all(["section","div","aside","ol","ul"]):
+        txt = tag.get_text(" ", strip=True)
+        if not re.match(r"most\s*read", txt, re.I):
+            continue
+        itens = _ap_extrai(tag)
+        if 3 <= len(itens) <= 12:
+            if melhor is None or len(itens) < len(melhor):
+                melhor = itens
+    if melhor:
+        return melhor
+
+    raise ValueError("bloco 'Most read' do AP nao encontrado (marcacao do site pode ter mudado)")
 
 
 def coletor_bbc(html_str):

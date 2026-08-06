@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 01:21",
+  "atualizado_em": "06/08/2026 01:27",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+        },
+        {
+          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
-          "rank": 2,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
           "rank": 3,
-          "title": "Acidente Voepass: Pilotos relataram falha no sistema de gelo e comparam aeronave a um ‘fusquinha’",
-          "url": "https://www.estadao.com.br/brasil/acidente-voepass-pilotos-relataram-falha-no-sistema-de-gelo-e-comparam-aeronave-a-um-fusquinha-npr/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         },
         {
           "rank": 4,
-          "title": "16 frases de Gabriel García Márquez sobre amor e solidão",
-          "url": "https://www.estadao.com.br/cultura/literatura/16-frases-de-gabriel-garcia-marquez-sobre-amor-e-solidao-nprec/"
+          "title": "Fux marca nova audiência de conciliação sobre empréstimo para salvar BRB após DF alegar ‘inércia’",
+          "url": "https://www.estadao.com.br/economia/fux-marca-nova-audiencia-de-conciliacao-sobre-emprestimo-para-salvar-brb/"
         },
         {
           "rank": 5,
-          "title": "Palmeiras perde para valente Fortaleza, mas conta com vantagem agregada e avança na Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/fortaleza-x-palmeiras-oitavas-de-final-copa-do-brasil-analise/"
+          "title": "Justiça sugere acordo para encerrar greve da CPTM após Tarcísio propor manutenção de funcionários",
+          "url": "https://www.estadao.com.br/sao-paulo/tarcisio-diz-que-apresentara-projeto-de-lei-para-manter-empregos-da-cptm-e-encerrar-a-greve-npr/"
         }
       ],
       "erro": null

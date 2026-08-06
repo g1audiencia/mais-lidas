@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 08:52",
+  "atualizado_em": "06/08/2026 08:57",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
-        },
-        {
-          "rank": 4,
           "title": "Eleições acirram disputas internas de grande relevância no STF",
           "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
         },
         {
+          "rank": 4,
+          "title": "Representação contra vice de Flávio após acusação de estupro na CPI do INSS está parada no Congresso",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/representacao-contra-vice-de-flavio-apos-acusacao-de-estupro-na-cpi-do-inss-esta-parada-no-congresso/"
+        },
+        {
           "rank": 5,
-          "title": "Antidiplomacia de Trump requer pragmatismo",
-          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
+          "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
         }
       ],
       "erro": null

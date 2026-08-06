@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 04:59",
+  "atualizado_em": "06/08/2026 05:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
-          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
+          "title": "Antidiplomacia de Trump requer pragmatismo",
+          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
         },
         {
           "rank": 2,
-          "title": "‘Cem Anos de Solidão’ retrata transformação de Macondo e ciclo de tragédias latinas na Parte 2",
-          "url": "https://www.estadao.com.br/cultura/series/cem-anos-de-solidao-mostra-a-transformacao-dos-buendia-e-de-macondo-na-parte-2-leia-entrevistas/"
-        },
-        {
-          "rank": 3,
-          "title": "Eleições acirram disputas internas de grande relevância no STF",
-          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
-        },
-        {
-          "rank": 4,
           "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
           "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+        },
+        {
+          "rank": 4,
+          "title": "Reunião da alta cúpula da Fifa termina em pedido de desculpas de Infantino e recado a críticos",
+          "url": "https://www.estadao.com.br/esportes/futebol/infantino-envia-carta-com-pedido-de-desculpas-por-erros-em-projeto-fracassado-na-fifa-npres/"
+        },
+        {
+          "rank": 5,
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
         }
       ],
       "erro": null

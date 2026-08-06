@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 03:30",
+  "atualizado_em": "06/08/2026 03:36",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Xuxa fará mais um show da turnê 'O Último Voo da Nave' em São Paulo",
-          "url": "https://guia.folha.uol.com.br/shows/2026/08/xuxa-fara-mais-um-show-da-turne-o-ultimo-voo-da-nave-em-sao-paulo.shtml"
+          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
         }
       ],
       "erro": null
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
-          "title": "Waack: Moraes, Lula e Alcolumbre se juntam na hora do aperto",
-          "url": "https://www.cnnbrasil.com.br/politica/waack-moraes-lula-e-alcolumbre-se-juntam-na-hora-do-aperto/"
-        },
-        {
-          "rank": 3,
           "title": "São Paulo instala Gabinete de Crise por previsão de ventos de até 100 km/h",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-instala-gabinete-de-crise-por-previsao-de-ventos-de-ate-100-km-h/"
         },
         {
+          "rank": 3,
+          "title": "Waack: Moraes, Lula e Alcolumbre se juntam na hora do aperto",
+          "url": "https://www.cnnbrasil.com.br/politica/waack-moraes-lula-e-alcolumbre-se-juntam-na-hora-do-aperto/"
+        },
+        {
           "rank": 4,
-          "title": "EUA exigirão caução de até R$ 1,2 milhão para concessão de vistos",
-          "url": "https://www.cnnbrasil.com.br/blogs/priscila-yazbek/internacional/eua-exigirao-caucao-de-ate-r-12-milhao-para-concessao-de-vistos/"
+          "title": "Unidade de mísseis norte-coreana é mobilizada na Rússia, diz Ucrânia",
+          "url": "https://www.cnnbrasil.com.br/internacional/unidade-de-misseis-norte-coreana-e-mobilizada-na-russia-diz-ucrania/"
         },
         {
           "rank": 5,
-          "title": "Trump critica ala à esquerda do Partido Democrata após vitória no Michigan",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-critica-ala-a-esquerda-do-partido-democrata-apos-vitoria-no-michigan/"
+          "title": "EUA exigirão caução de até R$ 1,2 milhão para concessão de vistos",
+          "url": "https://www.cnnbrasil.com.br/blogs/priscila-yazbek/internacional/eua-exigirao-caucao-de-ate-r-12-milhao-para-concessao-de-vistos/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Antidiplomacia de Trump requer pragmatismo",
+          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
+        },
+        {
+          "rank": 2,
+          "title": "Quem é o ator Marco Furlan, preso acusado de estuprar menino de 5 anos no interior de SP",
+          "url": "https://www.estadao.com.br/brasil/quem-e-marco-furlan-ator-preso-acusado-estuprar-menino-5-anos-sp-npr/"
+        },
+        {
+          "rank": 3,
+          "title": "16 frases de Gabriel García Márquez sobre amor e solidão",
+          "url": "https://www.estadao.com.br/cultura/literatura/16-frases-de-gabriel-garcia-marquez-sobre-amor-e-solidao-nprec/"
+        },
+        {
+          "rank": 4,
           "title": "‘Cem Anos de Solidão’ retrata transformação de Macondo e ciclo de tragédias latinas na Parte 2",
           "url": "https://www.estadao.com.br/cultura/series/cem-anos-de-solidao-mostra-a-transformacao-dos-buendia-e-de-macondo-na-parte-2-leia-entrevistas/"
         },
         {
-          "rank": 2,
-          "title": "Lula avalia alcance da suspensão de visto de embaixadora nos EUA para decidir sobre sua permanência",
-          "url": "https://www.estadao.com.br/internacional/lula-avalia-alcance-da-suspensao-de-visto-de-embaixadora-nos-eua-para-decidir-sobre-sua-permanencia/"
-        },
-        {
-          "rank": 3,
-          "title": "O motim das máquinas",
-          "url": "https://www.estadao.com.br/opiniao/eugenio-bucci/o-motim-das-maquinas/"
-        },
-        {
-          "rank": 4,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
           "rank": 5,
-          "title": "16 frases de Gabriel García Márquez sobre amor e solidão",
-          "url": "https://www.estadao.com.br/cultura/literatura/16-frases-de-gabriel-garcia-marquez-sobre-amor-e-solidao-nprec/"
+          "title": "Investimento em IA deve ter estratégia diversificada e global",
+          "url": "https://www.estadao.com.br/economia/investimento-em-ia-deve-ter-estrategia-diversificada-e-global/"
         }
       ],
       "erro": null

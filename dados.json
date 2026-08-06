@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 22:29",
+  "atualizado_em": "05/08/2026 22:35",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Xuxa fará mais um show da turnê 'O Último Voo da Nave' em São Paulo",
-          "url": "https://guia.folha.uol.com.br/shows/2026/08/xuxa-fara-mais-um-show-da-turne-o-ultimo-voo-da-nave-em-sao-paulo.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Lula sanciona piso do frete e veta anistia a caminhoneiros que bloquearam estradas em 2022",
           "url": "https://www1.folha.uol.com.br/mercado/2026/08/lula-sanciona-piso-do-frete-e-veta-anistia-a-caminhoneiros-que-bloquearam-estradas-em-2022.shtml"
         },
         {
+          "rank": 4,
+          "title": "Xuxa fará mais um show da turnê 'O Último Voo da Nave' em São Paulo",
+          "url": "https://guia.folha.uol.com.br/shows/2026/08/xuxa-fara-mais-um-show-da-turne-o-ultimo-voo-da-nave-em-sao-paulo.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Outro Canal: Globo acusa Pedro do BBB 26 de má-fé em processo e usa entrevista como prova",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/globo-acusa-pedro-do-bbb-26-de-ma-fe-em-processo-e-usa-entrevista-como-prova.shtml"
+          "title": "Fux sinaliza voto pela criminalização dos jogos de azar, e STF adia conclusão do julgamento para quinta (6)",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/pgr-defende-criminalizacao-de-jogos-de-azar-e-fux-diz-que-bet-e-atividade-deleteria.shtml"
         }
       ],
       "erro": null
@@ -140,18 +140,18 @@
         },
         {
           "rank": 2,
+          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
+          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+        },
+        {
+          "rank": 3,
           "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
           "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
           "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 4,
-          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
-          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
           "rank": 5,

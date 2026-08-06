@@ -1,0 +1,51 @@
+name: Publicar site
+
+# Substitui a publicacao automatica do Pages (modo "branch"), que baixava
+# o repositorio inteiro com todo o historico e levava ~6 minutos.
+# Aqui o checkout e raso (so o ultimo commit) e sobem apenas os 2 arquivos
+# que o site precisa. A publicacao passa a levar menos de um minuto.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'dados.json'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Montar o site
+        run: |
+          mkdir -p _site
+          cp index.html dados.json _site/
+          echo "Conteudo publicado:"
+          ls -la _site
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

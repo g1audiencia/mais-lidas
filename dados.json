@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 01:05",
+  "atualizado_em": "06/08/2026 01:10",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
+          "rank": 2,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
           "rank": 3,
-          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
-          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
           "rank": 4,
-          "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
-          "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
+          "title": "Palmeiras perde para valente Fortaleza, mas conta com vantagem agregada e avança na Copa do Brasil",
+          "url": "https://www.estadao.com.br/esportes/futebol/fortaleza-x-palmeiras-oitavas-de-final-copa-do-brasil-analise/"
         },
         {
           "rank": 5,
-          "title": "Papa Leão XIV visitará a América Latina em novembro; veja por quais países ele vai passar",
-          "url": "https://www.estadao.com.br/internacional/papa-leao-visitara-america-latina-em-novembro-quais-paises-npr/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         }
       ],
       "erro": null
@@ -217,25 +217,9 @@
     },
     {
       "portal": "AP",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Stevens and El-Sayed are in a close race for Michigan’s Democratic Senate nomination",
-          "url": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866"
-        },
-        {
-          "rank": 2,
-          "title": "Lawyers in Reflecting Pool case say Justice Department knew case was flawed",
-          "url": "https://apnews.com/article/reflecting-pool-charges-david-hearn-trump-pirro-3196c7e3d914ad9ef05562d586a8bff1"
-        },
-        {
-          "rank": 3,
-          "title": "Michigan awaits outcome of fierce Democratic Senate primary",
-          "url": "https://apnews.com/live/election-primary-08-04-2026"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "esperava ao menos 3 itens, achei 2"
     },
     {
       "portal": "BBC News",
@@ -275,13 +259,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Habló Candela Arizaga, la novia de Facundo Moyano: \"Tengo errores como cualquiera\"",
-          "url": "https://www.clarin.com/policiales/hablo-candela-arizaga-novia-facundo-moyano-errores_0_kSUZkp9SX5.html"
+          "title": "Cristina ya decidió a su candidato y los líos de Sturzenegger",
+          "url": "https://www.clarin.com/politica/cristina-decidio-candidato-lios-sturzenegger_0_Ia2pUclrEv.html"
         },
         {
           "rank": 2,
-          "title": "Cristina ya decidió a su candidato y los líos de Sturzenegger",
-          "url": "https://www.clarin.com/politica/cristina-decidio-candidato-lios-sturzenegger_0_Ia2pUclrEv.html"
+          "title": "Habló Candela Arizaga, la novia de Facundo Moyano: \"Tengo errores como cualquiera\"",
+          "url": "https://www.clarin.com/policiales/hablo-candela-arizaga-novia-facundo-moyano-errores_0_kSUZkp9SX5.html"
         },
         {
           "rank": 3,
@@ -290,8 +274,8 @@
         },
         {
           "rank": 4,
-          "title": "Lionel Messi, imparable en su debut en la Leagues Cup: doblete en un tiempo y remontada vs San Luis de México",
-          "url": "https://www.clarin.com/deportes/inter-miami-messi-vs-san-luis-leagues-cup-vivo-hora-formaciones-ver-partido-hoy_0_Q2DsXA6Bgr.html"
+          "title": "Cuti Romero negociaba con Inter pero apareció Atlético de Madrid para cumplir un viejo anhelo de Simeone",
+          "url": "https://www.clarin.com/deportes/cuti-romero-negociaba-inter-aparecio-atletico-madrid-cumplir-viejo-anhelo-simeone_0_JP2Vetr5Os.html"
         },
         {
           "rank": 5,

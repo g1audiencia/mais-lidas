@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 09:30",
+  "atualizado_em": "06/08/2026 09:36",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Flávio Bolsonaro sondou vereadora e definiu Alfredo Gaspar como vice a menos de 24 horas de anúncio",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-sondou-vereadora-e-definiu-gaspar-como-vice-a-menos-de-24-horas-de-anuncio.shtml"
+          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
           "rank": 3,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
+          "title": "Flávio Bolsonaro sondou vereadora e definiu Alfredo Gaspar como vice a menos de 24 horas de anúncio",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-sondou-vereadora-e-definiu-gaspar-como-vice-a-menos-de-24-horas-de-anuncio.shtml"
         },
         {
           "rank": 4,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
-        },
-        {
-          "rank": 4,
           "title": "Representação contra vice de Flávio após acusação de estupro na CPI do INSS está parada no Congresso",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/representacao-contra-vice-de-flavio-apos-acusacao-de-estupro-na-cpi-do-inss-esta-parada-no-congresso/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Antidiplomacia de Trump requer pragmatismo",
           "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
+        },
+        {
+          "rank": 5,
+          "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
+          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
         }
       ],
       "erro": null

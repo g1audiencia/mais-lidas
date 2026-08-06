@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 02:23",
+  "atualizado_em": "06/08/2026 02:29",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
-          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
-        },
-        {
-          "rank": 2,
           "title": "BYD lança novo Song Pro Flex, seu segundo híbrido plug-in capaz de rodar com etanol",
           "url": "https://www.estadao.com.br/jornal-do-carro/byd-lanca-novo-song-pro-flex-seu-segundo-hibrido-plug-in-capaz-de-rodar-com-etanol/"
         },
         {
-          "rank": 3,
-          "title": "Estado de São Paulo melhora no ensino médio, mas segue fora do top 5 do Ideb",
-          "url": "https://www.estadao.com.br/educacao/estado-de-sao-paulo-melhora-no-ensino-medio-mas-segue-fora-do-top-5-no-ideb/"
+          "rank": 2,
+          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
+          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
           "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
+          "rank": 4,
+          "title": "16 frases de Gabriel García Márquez sobre amor e solidão",
+          "url": "https://www.estadao.com.br/cultura/literatura/16-frases-de-gabriel-garcia-marquez-sobre-amor-e-solidao-nprec/"
+        },
+        {
           "rank": 5,
-          "title": "Lula avalia alcance da suspensão de visto de embaixadora nos EUA para decidir sobre sua permanência",
-          "url": "https://www.estadao.com.br/internacional/lula-avalia-alcance-da-suspensao-de-visto-de-embaixadora-nos-eua-para-decidir-sobre-sua-permanencia/"
+          "title": "Brasil e França enfrentam crise diplomática com Trump; 107 embaixadas dos EUA estão sem embaixador",
+          "url": "https://www.estadao.com.br/internacional/crise-diplomatica-trump-embaixadas-eua-sem-embaixador-npr/"
         }
       ],
       "erro": null

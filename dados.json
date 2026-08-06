@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 21:10",
+  "atualizado_em": "05/08/2026 21:15",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, pergunta Lula em defesa de Marcola",
-          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
+          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
           "rank": 2,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, pergunta Lula em defesa de Marcola",
+          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
         },
         {
           "rank": 5,
-          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
-          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         }
       ],
       "erro": null

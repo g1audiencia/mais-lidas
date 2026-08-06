@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 11:51",
+  "atualizado_em": "06/08/2026 11:59",
   "portais": [
     {
       "portal": "Folha",
@@ -67,9 +67,35 @@
     },
     {
       "portal": "CNN Brasil",
-      "ok": false,
-      "items": [],
-      "erro": "região 'Mais Lidas' não encontrada [86771 chars; 'mais lidas'=NAO; 'aria-label'=NAO]"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Ciclone bomba no Brasil: quais estados serão afetados pelo fenômeno",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-no-brasil-quais-estados-serao-afetados-pelo-fenomeno/"
+        },
+        {
+          "rank": 2,
+          "title": "Lindbergh baixa tom e busca PL para falar de acusação contra vice de Flávio",
+          "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/lindbergh-baixa-tom-e-busca-pl-para-falar-de-acusacao-contra-vice-de-flavio/"
+        },
+        {
+          "rank": 3,
+          "title": "Waack: Moraes, Lula e Alcolumbre se juntam na hora do aperto",
+          "url": "https://www.cnnbrasil.com.br/politica/waack-moraes-lula-e-alcolumbre-se-juntam-na-hora-do-aperto/"
+        },
+        {
+          "rank": 4,
+          "title": "São Paulo instala Gabinete de Crise por previsão de ventos de até 100 km/h",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-instala-gabinete-de-crise-por-previsao-de-ventos-de-ate-100-km-h/"
+        },
+        {
+          "rank": 5,
+          "title": "Unidade de mísseis norte-coreana é mobilizada na Rússia, diz Ucrânia",
+          "url": "https://www.cnnbrasil.com.br/internacional/unidade-de-misseis-norte-coreana-e-mobilizada-na-russia-diz-ucrania/"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "O Globo",
@@ -109,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF pede abertura de inquérito para apurar acusação de estupro contra Alfredo Gaspar, vice de Flávio",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-abertura-de-inquerito-para-apurar-acusacao-de-estupro-contra-alfredo-gaspar-vice-de-flavio/"
-        },
-        {
-          "rank": 2,
           "title": "Calculadora de penduricalhos: descubra como seria o seu salário com os benefícios de um juiz",
           "url": "https://www.estadao.com.br/politica/calculadora-de-penduricalhos-descubra-como-seria-o-seu-salario-com-os-beneficios-de-um-juiz/"
         },
         {
+          "rank": 2,
+          "title": "Estadão debate contas públicas na série ‘Brasil 2027: Caminhos para o País’; acompanhe ao vivo",
+          "url": "https://www.estadao.com.br/economia/estadao-debate-contas-publicas-serie-brasil-2027-caminhos-para-o-pais/"
+        },
+        {
           "rank": 3,
-          "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
+          "title": "PF pede abertura de inquérito para apurar acusação de estupro contra Alfredo Gaspar, vice de Flávio",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-abertura-de-inquerito-para-apurar-acusacao-de-estupro-contra-alfredo-gaspar-vice-de-flavio/"
         },
         {
           "rank": 4,
-          "title": "Estadão debate contas públicas na série ‘Brasil 2027: Caminhos para o País’; acompanhe ao vivo",
-          "url": "https://www.estadao.com.br/economia/estadao-debate-contas-publicas-serie-brasil-2027-caminhos-para-o-pais/"
+          "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
+          "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
         },
         {
           "rank": 5,
@@ -191,9 +217,35 @@
     },
     {
       "portal": "AP",
-      "ok": false,
-      "items": [],
-      "erro": "bloco 'Most read' do AP nao encontrado [165222 chars; 'most read'=NAO; 'data-gtm-region'=NAO; '/article/'=NAO]"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down",
+          "url": "https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55"
+        },
+        {
+          "rank": 2,
+          "title": "SpaceX rocket crashed into the moon as predicted, scientists report",
+          "url": "https://apnews.com/article/spacex-rocket-moon-crash-elon-musk-d64a98138fd19241700461c87b49e201"
+        },
+        {
+          "rank": 3,
+          "title": "Judge criticizes the Justice Department as he dismisses Jan. 6 seditious conspiracy case",
+          "url": "https://apnews.com/article/capitol-riot-oath-keepers-seditious-conspiracy-trump-01d72dec7f4091e4303d80297d524dcc"
+        },
+        {
+          "rank": 4,
+          "title": "Texas judge rules that law regulating firearm suppressors and some guns can’t be enforced",
+          "url": "https://apnews.com/article/gun-law-firearms-rifle-silencer-texas-judge-7a29ec3b20d9a4ee36e04eb1b276e372"
+        },
+        {
+          "rank": 5,
+          "title": "US suspends avocado inspections in Mexican state of Michoacan due to threat",
+          "url": "https://apnews.com/article/mexico-united-states-avocado-exports-threats-c5cf0ef4a260e6a517fae615c08a1f8b"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "BBC News",
@@ -238,23 +290,23 @@
         },
         {
           "rank": 2,
-          "title": "La tajante respuesta de Lionel Messi sobre los rumores de la salida de su hijo Thiago del Inter Miami a La Masía de Barcelona",
-          "url": "https://www.clarin.com/deportes/tajante-respuesta-lionel-messi-rumores-salida-hijo-thiago-inter-miami-masia-barcelona_0_tbhD8DmiKp.html"
-        },
-        {
-          "rank": 3,
           "title": "Dos senadores explotaron por la interna peronista: \"¡Me tiene podrida!\", \"¡que se dejen de hinchar las pelotas!\"",
           "url": "https://www.clarin.com/politica/senadores-explotaron-interna-peronista-podrida-dejen-hinchar-pelotas_0_o33WL9xMZB.html"
         },
         {
+          "rank": 3,
+          "title": "La tajante respuesta de Lionel Messi sobre los rumores de la salida de su hijo Thiago del Inter Miami a La Masía de Barcelona",
+          "url": "https://www.clarin.com/deportes/tajante-respuesta-lionel-messi-rumores-salida-hijo-thiago-inter-miami-masia-barcelona_0_tbhD8DmiKp.html"
+        },
+        {
           "rank": 4,
-          "title": "Fue un boom del turismo en la década del 90, vivió años de crisis y ahora busca la revancha: el destino del Caribe que suma un vuelo clave",
-          "url": "https://www.clarin.com/viajes/boom-turismo-decada-90-vivio-anos-crisis-ahora-busca-revancha-destino-caribe-suma-vuelo-clave_0_TI2LUqqns7.html"
+          "title": "Dijo que su esposa había muerto porque explotó el celular mientras lo cargaban en el auto pero ahora lo detuvieron por femicidio",
+          "url": "https://www.clarin.com/policiales/dijo-esposa-muerto-exploto-celular-cargaban-auto-ahora-detuvieron-femicidio_0_H0lCCNVVeJ.html"
         },
         {
           "rank": 5,
-          "title": "Thiago Almada a River: acuerdo total con Atlético de Madrid y el campeón del mundo llega por una cifra récord",
-          "url": "https://www.clarin.com/deportes/thiago-almada-river-acuerdo-total-atletico-madrid-campeon-mundo-llega-cifra-record_0_KCsmTJ9Mrb.html"
+          "title": "Fue un boom del turismo en la década del 90, vivió años de crisis y ahora busca la revancha: el destino del Caribe que suma un vuelo clave",
+          "url": "https://www.clarin.com/viajes/boom-turismo-decada-90-vivio-anos-crisis-ahora-busca-revancha-destino-caribe-suma-vuelo-clave_0_TI2LUqqns7.html"
         }
       ],
       "erro": null

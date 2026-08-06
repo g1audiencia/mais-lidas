@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 23:19",
+  "atualizado_em": "05/08/2026 23:24",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
+          "rank": 3,
           "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
           "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
-          "rank": 3,
-          "title": "Eleições acirram disputas internas de grande relevância no STF",
-          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
-        },
-        {
           "rank": 4,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
           "rank": 5,
-          "title": "Reviravolta em MG: União-PP retoma apoio a Simões e isola Marcelo Aro, chamado de ‘traidor’ por Zema",
-          "url": "https://www.estadao.com.br/politica/reviravolta-em-mg-uniao-pp-retoma-apoio-a-simoes-e-isola-marcelo-aro-chamado-de-traidor-por-zema/"
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         }
       ],
       "erro": null

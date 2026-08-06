@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 23:41",
+  "atualizado_em": "05/08/2026 23:46",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Fortaleza aproveita erros e vence, mas Palmeiras avança na Copa do Brasil",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/05/fortaleza-x-palmeiras-oitavas-de-final-copa-do-brasil-volta.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Por onde o ciclone-bomba pode passar a partir de amanhã e como ele afetará o Brasil",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/por-onde-o-ciclone-bomba-deve-passar-amanha-veja-lista-estados.ghtm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Selic a 14% frustra indústria, anima comércio e acende alerta de recessão",
           "url": "https://economia.uol.com.br/noticias/redacao/2026/08/05/selic-a-14-frustra-industria-anima-comercio-e-acende-alerta-de-recessao.ghtm"
         },
         {
-          "rank": 3,
-          "title": "'O cara do Vorcaro': como Fábio Faria ajudou o Banco Master",
-          "url": "https://piaui.uol.com.br/web/fabio-faria-daniel-vorcaro-lobby/?utm_source=home_uol"
-        },
-        {
           "rank": 4,
-          "title": "Escolha de vice de Flávio foi ligada a disputa ao Senado e envolveu Lira",
-          "url": "https://noticias.uol.com.br/colunas/carlos-madeiro/2026/08/05/como-solucao-alagoas-do-pl-para-lira-empurrou-alfredo-para-vice-de-flavio.htm"
+          "title": "Em noite mágica de Brenner, Vasco tira Fluminense de novo da Copa do Brasil",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/05/fluminense-x-vasco-oitavas-de-final-da-copa-do-brasil.ghtm"
         },
         {
           "rank": 5,
-          "title": "Brasileira poupa 70% da renda e se aposenta aos 33 anos",
-          "url": "https://www.uol.com.br/flash/?c=d2a97ac935d224e65f4271596e537cdd20260805"
+          "title": "'O cara do Vorcaro': como Fábio Faria ajudou o Banco Master",
+          "url": "https://piaui.uol.com.br/web/fabio-faria-daniel-vorcaro-lobby/?utm_source=home_uol"
         }
       ],
       "erro": null
@@ -118,13 +118,13 @@
         },
         {
           "rank": 4,
-          "title": "Foguete da SpaceX atinge a Lua e abre cratera de 18 metros, diz Nasa",
-          "url": "https://oglobo.globo.com/economia/noticia/2026/08/05/foguete-da-spacex-atinge-a-lua-e-abre-cratera-de-18-metros-diz-nasa.ghtml"
+          "title": "Declaração da mãe de Virginia Fonseca sobre Vini Jr. repercute nas redes e Zé Felipe é citado",
+          "url": "https://oglobo.globo.com/ela/noticia/2026/08/05/declaracao-da-mae-de-virginia-fonseca-sobre-vini-jr-repercute-nas-redes-e-ze-felipe-e-citado.ghtml"
         },
         {
           "rank": 5,
-          "title": "Declaração da mãe de Virginia Fonseca sobre Vini Jr. repercute nas redes e Zé Felipe é citado",
-          "url": "https://oglobo.globo.com/ela/noticia/2026/08/05/declaracao-da-mae-de-virginia-fonseca-sobre-vini-jr-repercute-nas-redes-e-ze-felipe-e-citado.ghtml"
+          "title": "Foguete da SpaceX atinge a Lua e abre cratera de 18 metros, diz Nasa",
+          "url": "https://oglobo.globo.com/economia/noticia/2026/08/05/foguete-da-spacex-atinge-a-lua-e-abre-cratera-de-18-metros-diz-nasa.ghtml"
         }
       ],
       "erro": null

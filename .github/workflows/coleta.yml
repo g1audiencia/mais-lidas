@@ -11,8 +11,8 @@ jobs:
   coletar:
     runs-on: ubuntu-latest
     # Limite do GitHub e 6h. Rodamos ~4,8h e passamos o bastao.
-    # Intervalo de 8 min entre coletas: a publicacao do Pages leva ~6 min
-    # e era cancelada pelo commit seguinte quando o intervalo era de 5 min.
+    # Intervalo de 5 min: a pagina le o dados.json direto do repositorio,
+    # entao nao depende mais do tempo de publicacao do Pages.
     timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
@@ -27,13 +27,13 @@ jobs:
       - name: Instalar dependências
         run: pip install requests beautifulsoup4
 
-      - name: Coletar em ciclo por ~5 horas (a cada 8 min)
+      - name: Coletar em ciclo por ~5 horas (a cada 5 min)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          for i in $(seq 1 35); do
-            echo "===== ciclo $i / 35 ====="
+          for i in $(seq 1 56); do
+            echo "===== ciclo $i / 56 ====="
             git pull --rebase origin main || git rebase --abort || true
 
             if python coletar.py; then
@@ -44,7 +44,7 @@ jobs:
               echo "coleta falhou neste ciclo; segue para o proximo"
             fi
 
-            sleep 480
+            sleep 300
           done
 
       - name: Passar o bastao para a proxima execucao

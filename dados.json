@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 03:07",
+  "atualizado_em": "06/08/2026 03:13",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
+          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+        },
+        {
+          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
-          "rank": 2,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
-        },
-        {
           "rank": 3,
-          "title": "Lavar o cabelo todo dia promove ou combate a queda dos fios?",
-          "url": "https://www.estadao.com.br/pulsa/autocuidado/lavar-o-cabelo-todo-dia-promove-ou-combate-a-queda-dos-fios/"
+          "title": "Novo IR mínimo faz investidor de alta renda rever a distribuição de dividendos; veja os impactos",
+          "url": "https://www.estadao.com.br/einvestidor/estrategia-e-patrimonio/novo-ir-minimo-faz-investidor-de-alta-renda-rever-a-distribuicao-de-dividendos-veja-os-impactos/"
         },
         {
           "rank": 4,
-          "title": "Investimento em IA deve ter estratégia diversificada e global",
-          "url": "https://www.estadao.com.br/economia/investimento-em-ia-deve-ter-estrategia-diversificada-e-global/"
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
         },
         {
           "rank": 5,
-          "title": "Comparação entre gastos no cartão corporativo de Lula e Bolsonaro engana ao usar dados diferentes",
-          "url": "https://www.estadao.com.br/estadao-verifica/gastos-cartao-corporativo-lula-bolsonaro/"
+          "title": "Romário diz que penhora de salário no Senado compromete sua sobrevivência: ‘Impacto irreversível’",
+          "url": "https://www.estadao.com.br/politica/romario-diz-penhora-salario-senado-compromete-sobrevivencia-impacto-irreversivel-npr/"
         }
       ],
       "erro": null

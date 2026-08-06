@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 00:53",
+  "atualizado_em": "06/08/2026 00:59",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
-        },
-        {
-          "rank": 3,
           "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
           "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
+          "rank": 3,
+          "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
+          "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
+        },
+        {
           "rank": 4,
-          "title": "Caso Marcola põe suspeita de corrupção na antessala de Lula e deixa 7 perguntas sem respostas",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/caso-marcola-poe-suspeita-de-corrupcao-na-antessala-de-lula-e-gera-encruzilhada-com-a-oposicao/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         },
         {
           "rank": 5,
-          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
+          "title": "Lula avalia alcance da suspensão de visto de embaixadora nos EUA para decidir sobre sua permanência",
+          "url": "https://www.estadao.com.br/internacional/lula-avalia-alcance-da-suspensao-de-visto-de-embaixadora-nos-eua-para-decidir-sobre-sua-permanencia/"
         }
       ],
       "erro": null

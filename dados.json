@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 04:53",
+  "atualizado_em": "06/08/2026 04:59",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
-        },
-        {
-          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
-          "rank": 3,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "title": "‘Cem Anos de Solidão’ retrata transformação de Macondo e ciclo de tragédias latinas na Parte 2",
           "url": "https://www.estadao.com.br/cultura/series/cem-anos-de-solidao-mostra-a-transformacao-dos-buendia-e-de-macondo-na-parte-2-leia-entrevistas/"
         },
         {
+          "rank": 3,
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
+        },
+        {
+          "rank": 4,
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+        },
+        {
           "rank": 5,
-          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         }
       ],
       "erro": null
@@ -237,13 +237,13 @@
         },
         {
           "rank": 3,
-          "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-          "url": "https://www.bbc.com/news/articles/cy8ev4y172yo"
+          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+          "url": "https://www.bbc.com/news/articles/ckg9d3eyeggo"
         },
         {
           "rank": 4,
-          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-          "url": "https://www.bbc.com/news/articles/ckg9d3eyeggo"
+          "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+          "url": "https://www.bbc.com/news/articles/cy8ev4y172yo"
         },
         {
           "rank": 5,

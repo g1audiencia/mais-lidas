@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 21:26",
+  "atualizado_em": "05/08/2026 21:32",
   "portais": [
     {
       "portal": "Folha",
@@ -285,18 +285,18 @@
         },
         {
           "rank": 3,
-          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
-          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
-        },
-        {
-          "rank": 4,
           "title": "El importante reconocimiento a Franco Colapinto en medio de la decisión sobre su futuro: se quedó con la mejor maniobra de julio en la Fórmula 1",
           "url": "https://www.clarin.com/deportes/importante-reconocimiento-franco-colapinto-medio-decision-futuro-quedo-mejor-maniobra-julio-formula-1_0_l2nv5VdCcn.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Cuti Romero negociaba con Inter pero apareció Atlético de Madrid para cumplir un viejo anhelo de Simeone",
           "url": "https://www.clarin.com/deportes/cuti-romero-negociaba-inter-aparecio-atletico-madrid-cumplir-viejo-anhelo-simeone_0_JP2Vetr5Os.html"
+        },
+        {
+          "rank": 5,
+          "title": "El examen toxicológico reveló que Candela Arizaga consumió cocaína y su abogado contradijo a Facundo Moyano: \"No está todo aclarado\"",
+          "url": "https://www.clarin.com/politica/examen-toxicologico-revelo-candela-arizaga-consumio-cocaina-abogado-contradijo-facundo-moyano-aclarado_0_3soT84CNKD.html"
         }
       ],
       "erro": null

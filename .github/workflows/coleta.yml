@@ -10,65 +10,60 @@ permissions:
 jobs:
   coletar:
     runs-on: ubuntu-latest
-    outputs:
-      duplicado: ${{ steps.guarda.outputs.duplicado }}
+    # Limite do GitHub e 6h. Rodamos ~4,8h e passamos o bastao.
+    # Intervalo de 8 min entre coletas: a publicacao do Pages leva ~6 min
+    # e era cancelada pelo commit seguinte quando o intervalo era de 5 min.
+    timeout-minutes: 350
     steps:
-      - name: Evitar correntes paralelas
-        id: guarda
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar dependências
+        run: pip install requests beautifulsoup4
+
+      - name: Coletar em ciclo por ~5 horas (a cada 8 min)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          for i in $(seq 1 35); do
+            echo "===== ciclo $i / 35 ====="
+            git pull --rebase origin main || git rebase --abort || true
+
+            if python coletar.py; then
+              git add dados.json
+              git commit -m "Atualiza dados $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "sem mudancas"
+              git push || echo "push falhou; tenta no proximo ciclo"
+            else
+              echo "coleta falhou neste ciclo; segue para o proximo"
+            fi
+
+            sleep 480
+          done
+
+      - name: Passar o bastao para a proxima execucao
+        if: always()
         env:
           GH_TOKEN: ${{ secrets.PAT_RONDA || secrets.GITHUB_TOKEN }}
         run: |
+          # Se houver outra execucao em curso mais antiga que esta,
+          # ela e quem continua a corrente. Esta encerra sem duplicar.
+          # A checagem e feita SO NO FIM, entao nenhum trabalho e perdido.
           MAIS_ANTIGA=$(curl -s \
             -H "Authorization: Bearer $GH_TOKEN" \
             -H "Accept: application/vnd.github+json" \
             "https://api.github.com/repos/${{ github.repository }}/actions/workflows/coleta.yml/runs?status=in_progress&per_page=100" \
             | jq -r '[.workflow_runs[].id] | min // empty')
 
-          echo "Esta execucao: ${{ github.run_id }} | mais antiga em curso: $MAIS_ANTIGA"
-
           if [ -n "$MAIS_ANTIGA" ] && [ "$MAIS_ANTIGA" != "${{ github.run_id }}" ]; then
-            echo "Ja existe uma corrente mais antiga rodando. Esta encerra aqui."
-            echo "duplicado=true" >> $GITHUB_OUTPUT
-          else
-            echo "duplicado=false" >> $GITHUB_OUTPUT
+            echo "Execucao mais antiga ($MAIS_ANTIGA) segue rodando. Encerrando sem duplicar."
+            exit 0
           fi
 
-      - uses: actions/checkout@v4
-        if: steps.guarda.outputs.duplicado != 'true'
-      - uses: actions/setup-python@v5
-        if: steps.guarda.outputs.duplicado != 'true'
-        with:
-          python-version: '3.12'
-      - name: Instalar dependências
-        if: steps.guarda.outputs.duplicado != 'true'
-        run: pip install requests beautifulsoup4
-      - name: Rodar coleta
-        if: steps.guarda.outputs.duplicado != 'true'
-        run: python coletar.py
-      - name: Salvar dados.json
-        if: steps.guarda.outputs.duplicado != 'true'
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add dados.json
-          git commit -m "Atualiza dados $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "sem mudancas"
-          git pull --rebase origin main || true
-          git push
-
-  reagendar:
-    needs: coletar
-    # Continua a corrente mesmo se a coleta falhar,
-    # mas NAO continua se esta execucao era uma corrente duplicada.
-    if: always() && needs.coletar.outputs.duplicado != 'true'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Esperar 5 minutos e disparar de novo
-        env:
-          GH_TOKEN: ${{ secrets.PAT_RONDA || secrets.GITHUB_TOKEN }}
-        run: |
-          sleep 300
-          curl -X POST \
+          echo "Passando o bastao."
+          curl -s -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer $GH_TOKEN" \
-            https://api.github.com/repos/${{ github.repository }}/actions/workflows/coleta.yml/dispatches \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/coleta.yml/dispatches" \
             -d '{"ref":"main"}'

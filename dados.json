@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 08:24",
+  "atualizado_em": "06/08/2026 08:29",
   "portais": [
     {
       "portal": "Folha",
@@ -76,18 +76,18 @@
         },
         {
           "rank": 2,
-          "title": "Brasil não tem segurança jurídica, afirma André Mendonça ao CNN Talks",
-          "url": "https://www.cnnbrasil.com.br/infra/brasil-nao-tem-seguranca-juridica-afirma-andre-mendonca/"
-        },
-        {
-          "rank": 3,
           "title": "Unidade de mísseis norte-coreana é mobilizada na Rússia, diz Ucrânia",
           "url": "https://www.cnnbrasil.com.br/internacional/unidade-de-misseis-norte-coreana-e-mobilizada-na-russia-diz-ucrania/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "São Paulo instala Gabinete de Crise por previsão de ventos de até 100 km/h",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-instala-gabinete-de-crise-por-previsao-de-ventos-de-ate-100-km-h/"
+        },
+        {
+          "rank": 4,
+          "title": "Brasil não tem segurança jurídica, afirma André Mendonça ao CNN Talks",
+          "url": "https://www.cnnbrasil.com.br/infra/brasil-nao-tem-seguranca-juridica-afirma-andre-mendonca/"
         },
         {
           "rank": 5,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Eleições acirram disputas internas de grande relevância no STF",
-          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
+          "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
+          "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
         },
         {
           "rank": 5,
-          "title": "Nova fase da IA pode privatizar a influência sobre nossas decisões",
-          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/nova-fase-da-ia-pode-privatizar-a-influencia-sobre-nossas-decisoes/"
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
         }
       ],
       "erro": null
@@ -189,28 +189,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cosme: Neymar pai quer o filho na Copa, mas atleta nega e cogita aposentadoria",
-          "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-pai-deixa-claro-que-quer-o-filho-na-selecao-neymar-e-direto-corta-a-esperanca-pela-raiz-nao-e-ele-quem-joga-foi-alem-analisa-a-aposentadoria-04082026/"
+          "title": "Palmeiras perde para o Fortaleza, mas avança às quartas da Copa do Brasil",
+          "url": "https://esportes.r7.com/jogada-10/palmeiras-perde-para-o-fortaleza-mas-avanca-as-quartas-da-copa-do-brasil-06082026/"
         },
         {
           "rank": 2,
-          "title": "Cinco estados estão sujeitos a temporais, granizo e vendavais",
-          "url": "https://noticias.r7.com/cidades/ciclone-bomba-cinco-estados-estao-sujeitos-a-temporais-granizo-e-vendavais-ate-sabado-05082026/"
+          "title": "Irmã de Kim Jong-un ganha protagonismo e sobe o tom contra o Japão",
+          "url": "https://noticias.r7.com/internacional/irma-de-kim-jong-un-ganha-protagonismo-na-coreia-do-norte-e-sobe-o-tom-contra-o-japao-05082026/"
         },
         {
           "rank": 3,
-          "title": "Ministro diz não apoiar reforma da Previdência que aumente tempo de contribuição",
-          "url": "https://noticias.r7.com/brasilia/ministro-diz-nao-apoiar-reforma-da-previdencia-que-aumente-tempo-de-contribuicao-05082026/"
+          "title": "Bortoleto recebe apoio de Verstappen após crítica à Fórmula 1 2026",
+          "url": "https://esportes.r7.com/lance/bortoleto-recebe-apoio-de-verstappen-apos-critica-a-f1-2026-05082026/"
         },
         {
           "rank": 4,
-          "title": "Incêndio de grandes proporções atinge indústria de solventes em SP",
-          "url": "https://record.r7.com/cidade-alerta/video/incendio-de-grandes-proporcoes-atinge-industria-quimica-em-itaquaquecetuba-sp-04082026/"
+          "title": "Abel admite falta de concentração do Palmeiras: ‘Minha responsabilidade’",
+          "url": "https://esportes.r7.com/jogada-10/abel-admite-falta-de-concentracao-do-palmeiras-minha-responsabilidade-06082026/"
         },
         {
           "rank": 5,
-          "title": "Ex-lateral Roberto Carlos se declara a rival do Palmeiras após polêmica",
-          "url": "https://esportes.r7.com/lance/roberto-carlos-se-declara-a-rival-do-palmeiras-apos-polemica-05082026/"
+          "title": "Aliada de Putin, Coreia do Norte posiciona mísseis para ataque à Ucrânia",
+          "url": "https://noticias.r7.com/internacional/aliada-de-putin-coreia-do-norte-posiciona-misseis-para-ataque-a-ucrania-05082026/"
         }
       ],
       "erro": null
@@ -247,8 +247,8 @@
         },
         {
           "rank": 5,
-          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-          "url": "https://www.bbc.com/news/articles/ckg9d3eyeggo"
+          "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+          "url": "https://www.bbc.com/news/articles/cm2g0038yr8o"
         }
       ],
       "erro": null

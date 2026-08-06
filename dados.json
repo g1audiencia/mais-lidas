@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 04:42",
+  "atualizado_em": "06/08/2026 04:48",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Veja desempenho de todas as escolas do país avaliadas no Ideb, que mede qualidade do ensino",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/veja-o-desempenho-de-todas-as-escolas-do-pais-no-ideb-que-mede-qualidade-do-ensino.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
           "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
         },
         {
+          "rank": 4,
+          "title": "Veja desempenho de todas as escolas do país avaliadas no Ideb, que mede qualidade do ensino",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/veja-o-desempenho-de-todas-as-escolas-do-pais-no-ideb-que-mede-qualidade-do-ensino.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono",
-          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/os-riscos-de-dormir-pouco-e-por-que-algumas-pessoas-precisam-de-menos-horas-de-sono.shtml"
+          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
         }
       ],
       "erro": null
@@ -108,13 +108,13 @@
         },
         {
           "rank": 2,
-          "title": "Ana Rosa fala do retorno às novelas após uma década, dos filhos e da relação com Dedé Santana, seu ex-marido",
-          "url": "https://oglobo.globo.com/play/entrevistas/noticia/2026/08/05/ana-rosa-fala-do-retorno-as-novelas-apos-uma-decada-dos-filhos-e-da-relacao-com-o-ex-marido-dede-santana.ghtml"
+          "title": "Lula defende Marcola em reunião com aliados: 'Quem nunca pediu empréstimo para um amigo?'",
+          "url": "https://oglobo.globo.com/politica/noticia/2026/08/05/lula-defende-marcola-em-reuniao-com-aliados-quem-nunca-pediu-emprestimo-para-um-amigo.ghtml"
         },
         {
           "rank": 3,
-          "title": "Lula defende Marcola em reunião com aliados: 'Quem nunca pediu empréstimo para um amigo?'",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/05/lula-defende-marcola-em-reuniao-com-aliados-quem-nunca-pediu-emprestimo-para-um-amigo.ghtml"
+          "title": "Ana Rosa fala do retorno às novelas após uma década, dos filhos e da relação com Dedé Santana, seu ex-marido",
+          "url": "https://oglobo.globo.com/play/entrevistas/noticia/2026/08/05/ana-rosa-fala-do-retorno-as-novelas-apos-uma-decada-dos-filhos-e-da-relacao-com-o-ex-marido-dede-santana.ghtml"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
-          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
-        },
-        {
-          "rank": 2,
           "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
           "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
-          "rank": 3,
-          "title": "Acidente Voepass: Pilotos relataram falha no sistema de gelo e comparam aeronave a um ‘fusquinha’",
-          "url": "https://www.estadao.com.br/brasil/acidente-voepass-pilotos-relataram-falha-no-sistema-de-gelo-e-comparam-aeronave-a-um-fusquinha-npr/"
+          "rank": 2,
+          "title": "‘Cem Anos de Solidão’ retrata transformação de Macondo e ciclo de tragédias latinas na Parte 2",
+          "url": "https://www.estadao.com.br/cultura/series/cem-anos-de-solidao-mostra-a-transformacao-dos-buendia-e-de-macondo-na-parte-2-leia-entrevistas/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Palmeiras perde para valente Fortaleza, mas conta com vantagem agregada e avança na Copa do Brasil",
           "url": "https://www.estadao.com.br/esportes/futebol/fortaleza-x-palmeiras-oitavas-de-final-copa-do-brasil-analise/"
         },
         {
+          "rank": 4,
+          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
+          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+        },
+        {
           "rank": 5,
-          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         }
       ],
       "erro": null

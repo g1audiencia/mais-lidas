@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 22:07",
+  "atualizado_em": "05/08/2026 22:12",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
-        },
-        {
-          "rank": 3,
           "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
           "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
+          "rank": 3,
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+        },
+        {
           "rank": 4,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
         },
         {
           "rank": 5,
-          "title": "Eleições acirram disputas internas de grande relevância no STF",
-          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
+          "title": "Desconto se espalha por 91,5% dos fundos imobiliários da Bolsa; oportunidade ou sinal de alerta?",
+          "url": "https://www.estadao.com.br/einvestidor/einar-rivero/desconto-se-espalha-por-915-dos-fundos-imobiliarios-da-bolsa-oportunidade-ou-sinal-de-alerta/"
         }
       ],
       "erro": null
@@ -263,8 +263,8 @@
         },
         {
           "rank": 5,
-          "title": "Drone carrying explosives found at German airport, police say",
-          "url": "https://www.bbc.com/news/articles/cyvlg4q48l3o"
+          "title": "See the Sun like never before with most detailed images yet",
+          "url": "https://www.bbc.com/news/articles/c36d4376nd2o"
         }
       ],
       "erro": null

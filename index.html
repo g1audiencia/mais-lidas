@@ -44,6 +44,9 @@
   .col__name{font-size:18px;font-weight:800;}
   .dot{width:7px;height:7px;border-radius:50%;}
   .dot--ok{background:var(--ok);}
+  .dot--erro{background:var(--g1);}
+  .col--erro .col__head{background:#fff5f4;}
+  .col__erro{padding:10px 12px;font-size:12px;color:var(--g1-dark);line-height:1.4;}
   ol.list{list-style:none;}
   .item{display:grid;grid-template-columns:22px 1fr;gap:9px;padding:9px 13px;border-bottom:1px solid var(--rule);align-items:start;}
   .item:last-child{border-bottom:none;}
@@ -146,17 +149,28 @@ const exemplo=null;
 function render(dados){
   document.getElementById("updated").innerHTML="Coletado <b>"+dados.atualizado_em+"</b> · a página se atualiza sozinha";
   const grid=document.getElementById("grid");grid.innerHTML="";
+  let falhas=0;
   for(const p of dados.portais){
     const col=document.createElement("div");col.className="col";
-    const ok=p.ok&&p.items&&p.items.length;
-    col.innerHTML='<div class="col__head"><span class="col__name">'+p.portal+'</span><span class="dot dot--ok"></span></div>';
-    const ol=document.createElement("ol");ol.className="list";
-    for(const it of p.items){const li=document.createElement("li");li.className="item";
-      const a=document.createElement("a");a.href=it.url;a.target="_blank";a.textContent=it.title;
-      li.innerHTML='<div class="item__rank">'+it.rank+'</div>';li.appendChild(a);ol.appendChild(li);}
-    col.appendChild(ol);grid.appendChild(col);
+    const ok=!!(p.ok&&p.items&&p.items.length);
+    if(!ok) col.className="col col--erro";
+    col.innerHTML='<div class="col__head"><span class="col__name">'+p.portal+'</span><span class="dot '+(ok?'dot--ok':'dot--erro')+'"></span></div>';
+    if(ok){
+      const ol=document.createElement("ol");ol.className="list";
+      for(const it of p.items){const li=document.createElement("li");li.className="item";
+        const a=document.createElement("a");a.href=it.url;a.target="_blank";a.textContent=it.title;
+        li.innerHTML='<div class="item__rank">'+it.rank+'</div>';li.appendChild(a);ol.appendChild(li);}
+      col.appendChild(ol);
+    }else{
+      falhas++;
+      const d=document.createElement("div");d.className="col__erro";
+      d.textContent="Coleta falhou. "+(p.erro||"bloco de mais lidas nao encontrado");
+      col.appendChild(d);
+    }
+    grid.appendChild(col);
   }
-  document.getElementById("foot").textContent=dados.portais.length+" de "+dados.portais.length+" portais carregados";
+  const total=dados.portais.length;
+  document.getElementById("foot").textContent=(total-falhas)+" de "+total+" portais carregados"+(falhas?" \u00b7 "+falhas+" com falha":"");
 }
 async function carregar(){
   try{

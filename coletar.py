@@ -58,10 +58,26 @@ def coletor_uol(html_str):
         itens.append({"rank": i, "title": titulo, "url": a["href"].strip()})
     return itens
 
+
+def _diagnostico(html_str, *marcadores):
+    """Resumo do que veio na resposta, para aparecer na mensagem de erro."""
+    baixo = html_str.lower()
+    partes = ["%d chars" % len(html_str)]
+    for m in marcadores:
+        partes.append("'%s'=%s" % (m, "sim" if m.lower() in baixo else "NAO"))
+    suspeitas = [p for p in ("captcha", "access denied", "are you a robot",
+                             "unusual traffic", "cloudflare", "just a moment",
+                             "enable javascript") if p in baixo]
+    if suspeitas:
+        partes.append("possivel bloqueio: " + ", ".join(suspeitas))
+    return "; ".join(partes)
+
 def coletor_cnn(html_str):
     soup = BeautifulSoup(html_str, "html.parser")
     bloco = soup.find(attrs={"aria-label": re.compile(r"mais\s*lidas", re.I)})
-    if bloco is None: raise ValueError("região 'Mais Lidas' não encontrada")
+    if bloco is None:
+        raise ValueError("região 'Mais Lidas' não encontrada [" +
+                         _diagnostico(html_str, "mais lidas", "aria-label") + "]")
     PREFIXO = re.compile(r"^\s*Imagem representando a matéria:\s*", re.I)
     itens = []; vistos = set()
     for a in bloco.find_all("a"):
@@ -203,7 +219,8 @@ def coletor_ap(html_str):
     if melhor:
         return melhor
 
-    raise ValueError("bloco 'Most read' do AP nao encontrado (marcacao do site pode ter mudado)")
+    raise ValueError("bloco 'Most read' do AP nao encontrado [" +
+                     _diagnostico(html_str, "most read", "data-gtm-region", "/article/") + "]")
 
 
 def coletor_bbc(html_str):

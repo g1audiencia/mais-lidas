@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 05:27",
+  "atualizado_em": "06/08/2026 05:32",
   "portais": [
     {
       "portal": "Folha",
@@ -17,13 +17,13 @@
         },
         {
           "rank": 3,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
+          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
         },
         {
           "rank": 4,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
+          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
           "rank": 5,
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Promessa de Bolsonaro a Arthur Lira abriu caminho no PL a Alfredo Gaspar, escolhido vice de Flávio",
+          "url": "https://www.estadao.com.br/politica/promessa-de-bolsonaro-a-arthur-lira-abriu-caminho-no-pl-a-alfredo-gaspar-escolhido-vice-de-flavio/"
+        },
+        {
+          "rank": 3,
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+        },
+        {
+          "rank": 4,
           "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
           "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
-          "rank": 3,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
-        },
-        {
-          "rank": 4,
-          "title": "Eleições acirram disputas internas de grande relevância no STF",
-          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
-        },
-        {
           "rank": 5,
-          "title": "Antidiplomacia de Trump requer pragmatismo",
-          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
+          "title": "Acidente Voepass: Pilotos relataram falha no sistema de gelo e comparam aeronave a um ‘fusquinha’",
+          "url": "https://www.estadao.com.br/brasil/acidente-voepass-pilotos-relataram-falha-no-sistema-de-gelo-e-comparam-aeronave-a-um-fusquinha-npr/"
         }
       ],
       "erro": null
@@ -189,28 +189,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Cinco estados estão sujeitos a temporais, granizo e vendavais",
-          "url": "https://noticias.r7.com/cidades/ciclone-bomba-cinco-estados-estao-sujeitos-a-temporais-granizo-e-vendavais-ate-sabado-05082026/"
-        },
-        {
-          "rank": 2,
-          "title": "Incêndio de grandes proporções atinge indústria de solventes em SP",
-          "url": "https://record.r7.com/cidade-alerta/video/incendio-de-grandes-proporcoes-atinge-industria-quimica-em-itaquaquecetuba-sp-04082026/"
-        },
-        {
-          "rank": 3,
           "title": "Cosme: Neymar pai quer o filho na Copa, mas atleta nega e cogita aposentadoria",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-pai-deixa-claro-que-quer-o-filho-na-selecao-neymar-e-direto-corta-a-esperanca-pela-raiz-nao-e-ele-quem-joga-foi-alem-analisa-a-aposentadoria-04082026/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Cinco estados estão sujeitos a temporais, granizo e vendavais",
+          "url": "https://noticias.r7.com/cidades/ciclone-bomba-cinco-estados-estao-sujeitos-a-temporais-granizo-e-vendavais-ate-sabado-05082026/"
+        },
+        {
+          "rank": 3,
           "title": "Ministro diz não apoiar reforma da Previdência que aumente tempo de contribuição",
           "url": "https://noticias.r7.com/brasilia/ministro-diz-nao-apoiar-reforma-da-previdencia-que-aumente-tempo-de-contribuicao-05082026/"
         },
         {
+          "rank": 4,
+          "title": "Incêndio de grandes proporções atinge indústria de solventes em SP",
+          "url": "https://record.r7.com/cidade-alerta/video/incendio-de-grandes-proporcoes-atinge-industria-quimica-em-itaquaquecetuba-sp-04082026/"
+        },
+        {
           "rank": 5,
-          "title": "Após eliminação, presidente do Remo ataca Neymar: 'Vagabundo'",
-          "url": "https://esportes.r7.com/prisma/cosme-rimoli/esse-vagabundo-do-neymar-faz-palhacadas-e-vem-provocar-presidente-do-remo-detona-o-jogador-do-santos-que-responde-obrigado-pelo-carinho-belem-05082026/"
+          "title": "Ex-lateral Roberto Carlos se declara a rival do Palmeiras após polêmica",
+          "url": "https://esportes.r7.com/lance/roberto-carlos-se-declara-a-rival-do-palmeiras-apos-polemica-05082026/"
         }
       ],
       "erro": null

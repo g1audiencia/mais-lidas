@@ -16,6 +16,11 @@ jobs:
     timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Usa o PAT para que os commits do dados.json disparem o workflow
+          # "Publicar site". Push feito com o GITHUB_TOKEN padrao NAO dispara
+          # outros workflows (trava anti-recursao do GitHub).
+          token: ${{ secrets.PAT_RONDA || secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'

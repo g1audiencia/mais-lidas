@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 04:15",
+  "atualizado_em": "06/08/2026 04:21",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Jovens de uma geração de mal-educados não dizem ?bom dia?",
-          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/08/jovens-de-uma-geracao-de-mal-educados-nao-dizem-bom-dia.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Veja desempenho de todas as escolas do país avaliadas no Ideb, que mede qualidade do ensino",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/veja-o-desempenho-de-todas-as-escolas-do-pais-no-ideb-que-mede-qualidade-do-ensino.shtml"
         },
         {
+          "rank": 3,
+          "title": "Jovens de uma geração de mal-educados não dizem ?bom dia?",
+          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/08/jovens-de-uma-geracao-de-mal-educados-nao-dizem-bom-dia.shtml"
+        },
+        {
           "rank": 4,
-          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
+          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
         },
         {
           "rank": 5,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
+          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
-          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
           "rank": 2,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
+          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
           "rank": 3,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+          "title": "Antidiplomacia de Trump requer pragmatismo",
+          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
         },
         {
           "rank": 4,
-          "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
-          "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
         },
         {
           "rank": 5,
-          "title": "SP instala gabinete de crise com previsão de ventos de até 100 km/h; Defesa Civil dispara aviso",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-instala-gabinete-de-crise-ventos-ate-100-km-h-defesa-civil-dispara-aviso-npr/"
+          "title": "Qual é a diferença entre um ciclone-bomba e um ciclone normal?",
+          "url": "https://www.estadao.com.br/brasil/qual-e-a-diferenca-entre-um-ciclone-bomba-e-um-ciclone-normal/"
         }
       ],
       "erro": null

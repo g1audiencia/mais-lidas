@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 03:02",
+  "atualizado_em": "06/08/2026 03:07",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
-        },
-        {
-          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
+          "rank": 2,
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
+        },
+        {
           "rank": 3,
-          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
-          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+          "title": "Lavar o cabelo todo dia promove ou combate a queda dos fios?",
+          "url": "https://www.estadao.com.br/pulsa/autocuidado/lavar-o-cabelo-todo-dia-promove-ou-combate-a-queda-dos-fios/"
         },
         {
           "rank": 4,
-          "title": "Vasco domina Fluminense, elimina rival de novo e vai às quartas de final da Copa do Brasil",
-          "url": "https://www.estadao.com.br/esportes/futebol/vasco-domina-fluminense-elimina-rival-de-novo-e-vai-as-quartas-de-final-da-copa-do-brasil/"
+          "title": "Investimento em IA deve ter estratégia diversificada e global",
+          "url": "https://www.estadao.com.br/economia/investimento-em-ia-deve-ter-estrategia-diversificada-e-global/"
         },
         {
           "rank": 5,
-          "title": "Investimento em IA deve ter estratégia diversificada e global",
-          "url": "https://www.estadao.com.br/economia/investimento-em-ia-deve-ter-estrategia-diversificada-e-global/"
+          "title": "Comparação entre gastos no cartão corporativo de Lula e Bolsonaro engana ao usar dados diferentes",
+          "url": "https://www.estadao.com.br/estadao-verifica/gastos-cartao-corporativo-lula-bolsonaro/"
         }
       ],
       "erro": null

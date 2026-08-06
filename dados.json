@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 11:05",
+  "atualizado_em": "06/08/2026 11:11",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "PF faz buscas em casa de ex-governador do MT para apurar desvio em acordo firmado com a Oi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/desvio-de-r-308-milhoes-em-contrato-com-empresa-de-telefonia-em-mt-leva-pf-a-executar-25-buscas/"
+          "title": "A educação brasileira está melhorando. E quem puxa o bonde não é quem você pensa",
+          "url": "https://www.estadao.com.br/educacao/a-educacao-brasileira-esta-melhorando-e-quem-puxa-o-bonde-nao-e-quem-voce-pensa/"
         },
         {
           "rank": 5,
-          "title": "Estadão debate contas públicas na série ‘Brasil 2027: Caminhos para o País’; acompanhe ao vivo",
-          "url": "https://www.estadao.com.br/economia/estadao-debate-contas-publicas-serie-brasil-2027-caminhos-para-o-pais/"
+          "title": "Antidiplomacia de Trump requer pragmatismo",
+          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "PGR pede à PF diligências sobre denúncia contra vice de Flávio",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/pgr-pede-a-pf-diligencias-sobre-denuncia-contra-vice-de-flavio-por"
+          "title": "Após crise diplomática, Lula sinaliza nova conversa com Trump",
+          "url": "https://www.metropoles.com/brasil/apos-crise-diplomatica-lula-sinaliza-nova-conversa-com-trump"
         },
         {
           "rank": 2,
-          "title": "Vereadora do PL em Curitiba manda colega do PT \"voltar para o Ceará\".",
-          "url": "https://www.metropoles.com/brasil/vereadora-do-pl-em-curitiba-manda-colega-do-pt-voltar-para-o-ceara"
+          "title": "A “genialidade” de Flávio Bolsonaro – tal pai, tal filho",
+          "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/a-genialidade-de-flavio-bolsonaro-tal-pai-tal-filho"
         },
         {
           "rank": 3,
-          "title": "A “genialidade” de Flávio Bolsonaro – tal pai, tal filho",
-          "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/a-genialidade-de-flavio-bolsonaro-tal-pai-tal-filho"
+          "title": "Mauro Mendes, ex-governador do MT, é alvo da PF por suspeita de desvio de R$ 308 milhões",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-investiga-grupo-por-desvio-de-r-308-milhoes-de-cofres-publicos"
         }
       ],
       "erro": null
@@ -238,6 +238,11 @@
           "rank": 4,
           "title": "Texas judge rules that law regulating firearm suppressors and some guns can’t be enforced",
           "url": "https://apnews.com/article/gun-law-firearms-rifle-silencer-texas-judge-7a29ec3b20d9a4ee36e04eb1b276e372"
+        },
+        {
+          "rank": 5,
+          "title": "AP Exclusive: Trump’s immigration crackdown has detained more than 50 military spouses and parents",
+          "url": "https://apnews.com/article/military-families-immigration-trump-detained-deported-3337173bff1f06153738c217da52e846"
         }
       ],
       "erro": null
@@ -248,18 +253,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Mark Hughes' son died of sudden adult death syndrome",
+          "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
+        },
+        {
+          "rank": 2,
           "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
           "url": "https://www.bbc.com/news/articles/cm2g0j3y339o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ukraine hits two oil refineries deep in Russian territory",
           "url": "https://www.bbc.com/news/articles/cwymv212xrxo"
-        },
-        {
-          "rank": 3,
-          "title": "Mark Hughes' son died of sudden adult death syndrome",
-          "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
         },
         {
           "rank": 4,
@@ -268,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Meredith Kercher's sister criticises Amanda Knox comedy show",
-          "url": "https://www.bbc.com/news/articles/cy07pd7qe2ro"
+          "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+          "url": "https://www.bbc.com/news/articles/c1m18158my9o"
         }
       ],
       "erro": null
@@ -295,8 +300,8 @@
         },
         {
           "rank": 4,
-          "title": "La ANMAT prohibió la venta y el uso de una conocida crema para dolores musculares: cuál es y qué pasó",
-          "url": "https://www.clarin.com/sociedad/anmat-prohibio-venta-uso-conocida-crema-dolores-musculares-paso_0_vLHXxE6lC8.html"
+          "title": "Thiago Almada a River: acuerdo total con Atlético de Madrid y el campeón del mundo llega por una cifra récord",
+          "url": "https://www.clarin.com/deportes/thiago-almada-river-acuerdo-total-atletico-madrid-campeon-mundo-llega-cifra-record_0_KCsmTJ9Mrb.html"
         },
         {
           "rank": 5,

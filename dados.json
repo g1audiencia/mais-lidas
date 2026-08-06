@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 10:54",
+  "atualizado_em": "06/08/2026 11:00",
   "portais": [
     {
       "portal": "Folha",
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Selic cai para 14% ao ano: ainda vale a pena investir em renda fixa? Especialistas respondem",
-          "url": "https://oglobo.globo.com/economia/financas/noticia/2026/08/06/selic-cai-para-14percent-ao-ano-ainda-vale-a-pena-investir-em-renda-fixa-especialistas-respondem.ghtml"
+          "title": "Maior contratação da história do Real Madrid: clube fecha com Yan Diomande por até R$ 828 milhões",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/06/maior-contratacao-da-historia-do-real-madrid-clube-fecha-com-yan-diomande-por-ate-r-828-milhoes.ghtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "PF pede abertura de inquérito para apurar acusação de estupro contra Alfredo Gaspar, vice de Flávio",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-abertura-de-inquerito-para-apurar-acusacao-de-estupro-contra-alfredo-gaspar-vice-de-flavio/"
-        },
-        {
-          "rank": 2,
           "title": "Calculadora de penduricalhos: descubra como seria o seu salário com os benefícios de um juiz",
           "url": "https://www.estadao.com.br/politica/calculadora-de-penduricalhos-descubra-como-seria-o-seu-salario-com-os-beneficios-de-um-juiz/"
         },
         {
+          "rank": 2,
+          "title": "PF pede abertura de inquérito para apurar acusação de estupro contra Alfredo Gaspar, vice de Flávio",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-abertura-de-inquerito-para-apurar-acusacao-de-estupro-contra-alfredo-gaspar-vice-de-flavio/"
+        },
+        {
           "rank": 3,
+          "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
+          "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
+        },
+        {
+          "rank": 4,
           "title": "A educação brasileira está melhorando. E quem puxa o bonde não é quem você pensa",
           "url": "https://www.estadao.com.br/educacao/a-educacao-brasileira-esta-melhorando-e-quem-puxa-o-bonde-nao-e-quem-voce-pensa/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
-        },
-        {
-          "rank": 5,
-          "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
-          "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
         }
       ],
       "erro": null
@@ -236,8 +236,8 @@
         },
         {
           "rank": 4,
-          "title": "AP Exclusive: Trump’s immigration crackdown has detained more than 50 military spouses and parents",
-          "url": "https://apnews.com/article/military-families-immigration-trump-detained-deported-3337173bff1f06153738c217da52e846"
+          "title": "Texas judge rules that law regulating firearm suppressors and some guns can’t be enforced",
+          "url": "https://apnews.com/article/gun-law-firearms-rifle-silencer-texas-judge-7a29ec3b20d9a4ee36e04eb1b276e372"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
         },
         {
           "rank": 2,
-          "title": "Women tell BBC of rape and abuse at Army teen college",
-          "url": "https://www.bbc.com/news/articles/c3w07p7wqv1o"
-        },
-        {
-          "rank": 3,
           "title": "Ukraine hits two oil refineries deep in Russian territory",
           "url": "https://www.bbc.com/news/articles/cwymv212xrxo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Mark Hughes' son died of sudden adult death syndrome",
           "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
+        },
+        {
+          "rank": 4,
+          "title": "Women tell BBC of rape and abuse at Army teen college",
+          "url": "https://www.bbc.com/news/articles/c3w07p7wqv1o"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 22:40",
+  "atualizado_em": "05/08/2026 22:46",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
+        },
+        {
+          "rank": 3,
+          "title": "Quando a publicidade entra pela porta do ChatGPT, sua aura de neutralidade sai pela janela",
+          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/quando-a-publicidade-entra-pela-porta-do-chatgpt-sua-aura-de-neutralidade-sai-pela-janela/"
+        },
+        {
+          "rank": 4,
           "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
           "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
-          "rank": 3,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
           "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
-        },
-        {
-          "rank": 5,
-          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
-          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
         }
       ],
       "erro": null

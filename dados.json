@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 04:31",
+  "atualizado_em": "06/08/2026 04:37",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Jovens de uma geração de mal-educados não dizem ?bom dia?",
+          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/08/jovens-de-uma-geracao-de-mal-educados-nao-dizem-bom-dia.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Veja desempenho de todas as escolas do país avaliadas no Ideb, que mede qualidade do ensino",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/veja-o-desempenho-de-todas-as-escolas-do-pais-no-ideb-que-mede-qualidade-do-ensino.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Jovens de uma geração de mal-educados não dizem ?bom dia?",
-          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/08/jovens-de-uma-geracao-de-mal-educados-nao-dizem-bom-dia.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
+          "title": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono",
+          "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/os-riscos-de-dormir-pouco-e-por-que-algumas-pessoas-precisam-de-menos-horas-de-sono.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "David Eagleman: neurocientista quebra mitos sobre o cérebro e conta como se manter mentalmente jovem",
-          "url": "https://www.estadao.com.br/ciencia/david-eagleman-neurocientista-quebra-mitos-sobre-o-cerebro-e-conta-como-se-manter-mentalmente-jovem/"
-        },
-        {
-          "rank": 3,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
+          "rank": 3,
+          "title": "David Eagleman: neurocientista quebra mitos sobre o cérebro e conta como se manter mentalmente jovem",
+          "url": "https://www.estadao.com.br/ciencia/david-eagleman-neurocientista-quebra-mitos-sobre-o-cerebro-e-conta-como-se-manter-mentalmente-jovem/"
+        },
+        {
           "rank": 4,
-          "title": "‘Cem Anos de Solidão’ retrata transformação de Macondo e ciclo de tragédias latinas na Parte 2",
-          "url": "https://www.estadao.com.br/cultura/series/cem-anos-de-solidao-mostra-a-transformacao-dos-buendia-e-de-macondo-na-parte-2-leia-entrevistas/"
+          "title": "Acidente Voepass: Pilotos relataram falha no sistema de gelo e comparam aeronave a um ‘fusquinha’",
+          "url": "https://www.estadao.com.br/brasil/acidente-voepass-pilotos-relataram-falha-no-sistema-de-gelo-e-comparam-aeronave-a-um-fusquinha-npr/"
         },
         {
           "rank": 5,
-          "title": "Eleições acirram disputas internas de grande relevância no STF",
-          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
+          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
         }
       ],
       "erro": null

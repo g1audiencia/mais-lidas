@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 10:15",
+  "atualizado_em": "06/08/2026 10:20",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
+          "title": "Lula diz que falará com Trump em meio a crise diplomática entre Brasil e EUA",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/lula-diz-que-falara-com-trump-em-meio-a-crise-diplomatica-entre-brasil-e-eua.shtml"
         },
         {
           "rank": 5,
-          "title": "Outro Canal: Atriz que estrelou Turma da Mônica no cinema assina com a Globo para estrear em novelas",
-          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/atriz-que-estrelou-turma-da-monica-no-cinema-assina-com-a-globo-para-estrear-em-novelas.shtml"
+          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
         }
       ],
       "erro": null
@@ -123,8 +123,8 @@
         },
         {
           "rank": 5,
-          "title": "Lula defende Marcola em reunião com aliados: 'Quem nunca pediu empréstimo para um amigo?'",
-          "url": "https://oglobo.globo.com/politica/noticia/2026/08/05/lula-defende-marcola-em-reuniao-com-aliados-quem-nunca-pediu-emprestimo-para-um-amigo.ghtml"
+          "title": "Da segurança ao desgaste sobre Lulinha: o que levou Flávio a trocar plano de mulher na vice por relator da CPI do INSS",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/06/da-seguranca-ao-desgaste-sobre-lulinha-o-que-levou-flavio-a-trocar-plano-de-mulher-na-vice-por-relator-da-cpi-do-inss.ghtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Antidiplomacia de Trump requer pragmatismo",
+          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
+        },
+        {
+          "rank": 4,
           "title": "Copom reduz Selic para 14%: o que muda para renda fixa, Bolsa e FIIs",
           "url": "https://www.estadao.com.br/einvestidor/onde-investir/copom-reduz-selic-para-14-o-que-muda-para-renda-fixa-bolsa-e-fiis/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
           "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
-        },
-        {
-          "rank": 5,
-          "title": "Antidiplomacia de Trump requer pragmatismo",
-          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
         }
       ],
       "erro": null
@@ -217,9 +217,25 @@
     },
     {
       "portal": "AP",
-      "ok": false,
-      "items": [],
-      "erro": "esperava ao menos 3 itens, achei 2"
+      "ok": true,
+      "items": [
+        {
+          "rank": 1,
+          "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down",
+          "url": "https://apnews.com/article/iran-war-us-hormuz-trump-august-5-2026-ecdbd96f2b46c70beb5926d8508f9c55"
+        },
+        {
+          "rank": 2,
+          "title": "SpaceX rocket crashed into the moon as predicted, scientists report",
+          "url": "https://apnews.com/article/spacex-rocket-moon-crash-elon-musk-d64a98138fd19241700461c87b49e201"
+        },
+        {
+          "rank": 3,
+          "title": "AP Exclusive: Trump’s immigration crackdown has detained more than 50 military spouses and parents",
+          "url": "https://apnews.com/article/military-families-immigration-trump-detained-deported-3337173bff1f06153738c217da52e846"
+        }
+      ],
+      "erro": null
     },
     {
       "portal": "BBC News",

@@ -3,11 +3,28 @@
 Coleta as 5 mais lidas de 11 portais e salva em dados.json.
 Executado periodicamente em ambiente automatizado; grava o resultado em dados.json.
 """
-import requests, json, datetime, re
+import requests, json, datetime, re, time
 from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"}
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9,pt-BR;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Sec-Ch-Ua": '"Chromium";v="126", "Google Chrome";v="126", "Not-A.Brand";v="99"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Windows"',
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+    "DNT": "1",
+    "Connection": "keep-alive",
+}
 MAX_ITENS = 5
 
 def coletor_folha(html_str):
@@ -260,8 +277,20 @@ def coletar():
     resultados = []
     for nome, url, func, minimo in PORTAIS:
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=25)
-            resp.raise_for_status()
+            resp = None
+            ultimo_erro = None
+            for tentativa in range(3):
+                try:
+                    resp = requests.get(url, headers=HEADERS, timeout=25)
+                    resp.raise_for_status()
+                    break
+                except Exception as e:
+                    ultimo_erro = e
+                    resp = None
+                    if tentativa < 2:
+                        time.sleep(3 * (tentativa + 1))
+            if resp is None:
+                raise ultimo_erro
             resp.encoding = "utf-8"
             itens = func(resp.text)
             if len(itens) < minimo:

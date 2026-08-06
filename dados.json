@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 23:08",
+  "atualizado_em": "05/08/2026 23:13",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
-        },
-        {
-          "rank": 3,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 4,
           "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
           "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
         },
         {
+          "rank": 3,
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+        },
+        {
+          "rank": 4,
+          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
+        },
+        {
           "rank": 5,
-          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
-          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+          "title": "Lula avalia alcance da suspensão de visto de embaixadora nos EUA para decidir sobre sua permanência",
+          "url": "https://www.estadao.com.br/internacional/lula-avalia-alcance-da-suspensao-de-visto-de-embaixadora-nos-eua-para-decidir-sobre-sua-permanencia/"
         }
       ],
       "erro": null
@@ -263,8 +263,8 @@
         },
         {
           "rank": 5,
-          "title": "What's causing record high US beef prices?",
-          "url": "https://www.bbc.com/news/articles/cdrv0k0j662o"
+          "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+          "url": "https://www.bbc.com/news/articles/c8dnrpmgv4yo"
         }
       ],
       "erro": null

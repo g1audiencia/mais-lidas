@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 11:00",
+  "atualizado_em": "06/08/2026 11:05",
   "portais": [
     {
       "portal": "Folha",
@@ -39,23 +39,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Vini apaga foto e todas as postagens de seu perfil no Instagram",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/06/vini-jr-postagem-redes-sociais.ghtm"
+        },
+        {
+          "rank": 2,
           "title": "Champions e concorrente de R$ 200 mi: o que Endrick pode encontrar na Roma",
           "url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2026/08/06/champions-e-concorrente-de-r-200-mi-o-que-endrick-pode-encontrar-na-roma.htm"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "River Plate supera concorrência do Flamengo e acerta contratação de Almada",
           "url": "https://www.uol.com.br/esporte/colunas/mercado-da-bola/2026/08/06/river-plate-acerta-contratacao-de-thiago-almada.htm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Impacto das canetas emagrecedoras vai além do peso e preocupa até cassinos, diz médico",
           "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/08/06/paulo-gusmao-no-alt-tabet.ghtm"
-        },
-        {
-          "rank": 4,
-          "title": "Daniela Lima: Estilo dos Bolsonaro selou maior tempo de TV a Lula e isolamento de Flávio",
-          "url": "https://noticias.uol.com.br/colunas/daniela-lima/2026/08/06/estilo-dos-bolsonaro-selou-isolamento-de-flavio-e-maior-tempo-de-tv-a-lula.htm"
         },
         {
           "rank": 5,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "A educação brasileira está melhorando. E quem puxa o bonde não é quem você pensa",
-          "url": "https://www.estadao.com.br/educacao/a-educacao-brasileira-esta-melhorando-e-quem-puxa-o-bonde-nao-e-quem-voce-pensa/"
+          "title": "PF faz buscas em casa de ex-governador do MT para apurar desvio em acordo firmado com a Oi",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/desvio-de-r-308-milhoes-em-contrato-com-empresa-de-telefonia-em-mt-leva-pf-a-executar-25-buscas/"
         },
         {
           "rank": 5,
-          "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
-          "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
+          "title": "Estadão debate contas públicas na série ‘Brasil 2027: Caminhos para o País’; acompanhe ao vivo",
+          "url": "https://www.estadao.com.br/economia/estadao-debate-contas-publicas-serie-brasil-2027-caminhos-para-o-pais/"
         }
       ],
       "erro": null

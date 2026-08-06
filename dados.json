@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 11:27",
+  "atualizado_em": "06/08/2026 11:35",
   "portais": [
     {
       "portal": "Folha",
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
+          "title": "Eleição será a primeira deste século sem mulheres em chapas presidenciais competitivas",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/eleicao-sera-a-primeira-deste-seculo-sem-mulheres-em-chapas-presidenciais-competitivas.shtml"
         }
       ],
       "erro": null
@@ -69,7 +69,7 @@
       "portal": "CNN Brasil",
       "ok": false,
       "items": [],
-      "erro": "região 'Mais Lidas' não encontrada"
+      "erro": "região 'Mais Lidas' não encontrada [86900 chars; 'mais lidas'=NAO; 'aria-label'=NAO]"
     },
     {
       "portal": "O Globo",
@@ -92,13 +92,13 @@
         },
         {
           "rank": 4,
-          "title": "Da segurança ao desgaste sobre Lulinha: o que levou Flávio a trocar plano de mulher na vice por relator da CPI do INSS",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/06/da-seguranca-ao-desgaste-sobre-lulinha-o-que-levou-flavio-a-trocar-plano-de-mulher-na-vice-por-relator-da-cpi-do-inss.ghtml"
+          "title": "Maior contratação da história do Real Madrid: clube fecha com Yan Diomande por até R$ 828 milhões",
+          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/06/maior-contratacao-da-historia-do-real-madrid-clube-fecha-com-yan-diomande-por-ate-r-828-milhoes.ghtml"
         },
         {
           "rank": 5,
-          "title": "Maior contratação da história do Real Madrid: clube fecha com Yan Diomande por até R$ 828 milhões",
-          "url": "https://oglobo.globo.com/esportes/noticia/2026/08/06/maior-contratacao-da-historia-do-real-madrid-clube-fecha-com-yan-diomande-por-ate-r-828-milhoes.ghtml"
+          "title": "Da segurança ao desgaste sobre Lulinha: o que levou Flávio a trocar plano de mulher na vice por relator da CPI do INSS",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/06/da-seguranca-ao-desgaste-sobre-lulinha-o-que-levou-flavio-a-trocar-plano-de-mulher-na-vice-por-relator-da-cpi-do-inss.ghtml"
         }
       ],
       "erro": null
@@ -119,18 +119,18 @@
         },
         {
           "rank": 3,
-          "title": "Estadão debate contas públicas na série ‘Brasil 2027: Caminhos para o País’; acompanhe ao vivo",
-          "url": "https://www.estadao.com.br/economia/estadao-debate-contas-publicas-serie-brasil-2027-caminhos-para-o-pais/"
-        },
-        {
-          "rank": 4,
           "title": "PF faz buscas na casa de ex-governador de MT em operação sobre desvio de R$ 308 mi em acordo com Oi",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/desvio-de-r-308-milhoes-em-contrato-com-empresa-de-telefonia-em-mt-leva-pf-a-executar-25-buscas/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "O encontro secreto de Lula e Alcolumbre na casa de Alexandre de Moraes | Estadão Analisa",
           "url": "https://www.estadao.com.br/podcasts/estadao-analisa/o-encontro-segredo-de-lula-e-alcolumbre-na-casa-de-alexandre-de-moraes-estadao-analisa/"
+        },
+        {
+          "rank": 5,
+          "title": "Estadão debate contas públicas na série ‘Brasil 2027: Caminhos para o País’; acompanhe ao vivo",
+          "url": "https://www.estadao.com.br/economia/estadao-debate-contas-publicas-serie-brasil-2027-caminhos-para-o-pais/"
         }
       ],
       "erro": null
@@ -193,7 +193,7 @@
       "portal": "AP",
       "ok": false,
       "items": [],
-      "erro": "bloco 'Most read' do AP nao encontrado (marcacao do site pode ter mudado)"
+      "erro": "bloco 'Most read' do AP nao encontrado [162424 chars; 'most read'=NAO; 'data-gtm-region'=NAO; '/article/'=NAO]"
     },
     {
       "portal": "BBC News",
@@ -248,13 +248,13 @@
         },
         {
           "rank": 4,
-          "title": "Thiago Almada a River: acuerdo total con Atlético de Madrid y el campeón del mundo llega por una cifra récord",
-          "url": "https://www.clarin.com/deportes/thiago-almada-river-acuerdo-total-atletico-madrid-campeon-mundo-llega-cifra-record_0_KCsmTJ9Mrb.html"
+          "title": "Dos senadores explotaron por la interna peronista: \"¡Me tiene podrida!\", \"¡que se dejen de hinchar las pelotas!\"",
+          "url": "https://www.clarin.com/politica/senadores-explotaron-interna-peronista-podrida-dejen-hinchar-pelotas_0_o33WL9xMZB.html"
         },
         {
           "rank": 5,
-          "title": "Guerra de los canales de noticias: debutó +Perfil y TN amplió su liderazgo, mientras A24 se acercó a C5N",
-          "url": "https://www.clarin.com/politica/guerra-canales-noticias-debuto-perfil-tn-amplio-liderazgo-a24-acerco-c5n_0_PbOjRa2IlU.html"
+          "title": "Thiago Almada a River: acuerdo total con Atlético de Madrid y el campeón del mundo llega por una cifra récord",
+          "url": "https://www.clarin.com/deportes/thiago-almada-river-acuerdo-total-atletico-madrid-campeon-mundo-llega-cifra-record_0_KCsmTJ9Mrb.html"
         }
       ],
       "erro": null

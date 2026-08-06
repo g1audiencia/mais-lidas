@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 23:30",
+  "atualizado_em": "05/08/2026 23:35",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
-        },
-        {
-          "rank": 3,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
-        },
-        {
-          "rank": 4,
           "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
           "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
+          "rank": 3,
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+        },
+        {
+          "rank": 4,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
           "rank": 5,
-          "title": "Promessa de Bolsonaro a Arthur Lira abriu caminho no PL a Alfredo Gaspar, escolhido vice de Flávio",
-          "url": "https://www.estadao.com.br/politica/promessa-de-bolsonaro-a-arthur-lira-abriu-caminho-no-pl-a-alfredo-gaspar-escolhido-vice-de-flavio/"
+          "title": "David Eagleman: neurocientista quebra mitos sobre o cérebro e conta como se manter mentalmente jovem",
+          "url": "https://www.estadao.com.br/ciencia/david-eagleman-neurocientista-quebra-mitos-sobre-o-cerebro-e-conta-como-se-manter-mentalmente-jovem/"
         }
       ],
       "erro": null

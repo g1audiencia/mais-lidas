@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 10:20",
+  "atualizado_em": "06/08/2026 10:26",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
-          "title": "Unidade de mísseis norte-coreana é mobilizada na Rússia, diz Ucrânia",
-          "url": "https://www.cnnbrasil.com.br/internacional/unidade-de-misseis-norte-coreana-e-mobilizada-na-russia-diz-ucrania/"
-        },
-        {
-          "rank": 4,
           "title": "São Paulo instala Gabinete de Crise por previsão de ventos de até 100 km/h",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-instala-gabinete-de-crise-por-previsao-de-ventos-de-ate-100-km-h/"
         },
         {
+          "rank": 4,
+          "title": "Unidade de mísseis norte-coreana é mobilizada na Rússia, diz Ucrânia",
+          "url": "https://www.cnnbrasil.com.br/internacional/unidade-de-misseis-norte-coreana-e-mobilizada-na-russia-diz-ucrania/"
+        },
+        {
           "rank": 5,
-          "title": "Greve dos funcionários da CPTM é encerrada; trens voltam a operar",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-dos-funcionarios-da-cptm-e-encerrada-trens-voltam-a-operar/"
+          "title": "Três carros bons, mas que venderam poucas unidades no Brasil em 2026",
+          "url": "https://www.cnnbrasil.com.br/auto/tres-carros-bons-mas-que-venderam-poucas-unidades-no-brasil-em-2026/"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
+          "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
+        },
+        {
+          "rank": 4,
           "title": "Antidiplomacia de Trump requer pragmatismo",
           "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Copom reduz Selic para 14%: o que muda para renda fixa, Bolsa e FIIs",
           "url": "https://www.estadao.com.br/einvestidor/onde-investir/copom-reduz-selic-para-14-o-que-muda-para-renda-fixa-bolsa-e-fiis/"
-        },
-        {
-          "rank": 5,
-          "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
-          "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
         }
       ],
       "erro": null

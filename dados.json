@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 22:35",
+  "atualizado_em": "05/08/2026 22:40",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
-          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
-        },
-        {
-          "rank": 4,
           "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
           "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
         },
         {
+          "rank": 4,
+          "title": "‘Estamos a apenas 2 anos de distância de um salto muito importante no avanço da IA’, diz Levy",
+          "url": "https://www.estadao.com.br/economia/negocios/estamos-a-apenas-2-anos-de-distancia-de-um-salto-muito-importante-no-avanco-da-ia-diz-levy/"
+        },
+        {
           "rank": 5,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
         }
       ],
       "erro": null
@@ -280,23 +280,23 @@
         },
         {
           "rank": 2,
-          "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
-          "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
-        },
-        {
-          "rank": 3,
           "title": "Inter Miami de Messi vs San Luis, por la Leagues Cup, EN VIVO: cómo va, resultado y minuto a minuto del partido",
           "url": "https://www.clarin.com/deportes/inter-miami-messi-vs-san-luis-leagues-cup-vivo-hora-formaciones-ver-partido-hoy_0_Q2DsXA6Bgr.html"
         },
         {
+          "rank": 3,
+          "title": "La embajada de Estados Unidos amenazó con revocar las visas de los directivos de una empresa argentina por un acuerdo con China",
+          "url": "https://www.clarin.com/politica/embajada-estados-unidos-amenazo-revocar-visas-directivos-empresa-argentina-acuerdo-china_0_toWefKEvHM.html"
+        },
+        {
           "rank": 4,
-          "title": "Aparecieron nuevos videos de Facundo Moyano y su novia Candela Arizaga corriendo semidesnuda por Barrancas de Belgrano",
-          "url": "https://www.clarin.com/politica/aparecieron-nuevos-videos-facundo-moyano-novia-candela-arizaga-corriendo-semidesnuda-barrancas-belgrano_0_9vPpkMF8Ak.html"
+          "title": "El importante reconocimiento a Franco Colapinto en medio de la decisión sobre su futuro: se quedó con la mejor maniobra de julio en la Fórmula 1",
+          "url": "https://www.clarin.com/deportes/importante-reconocimiento-franco-colapinto-medio-decision-futuro-quedo-mejor-maniobra-julio-formula-1_0_l2nv5VdCcn.html"
         },
         {
           "rank": 5,
-          "title": "El importante reconocimiento a Franco Colapinto en medio de la decisión sobre su futuro: se quedó con la mejor maniobra de julio en la Fórmula 1",
-          "url": "https://www.clarin.com/deportes/importante-reconocimiento-franco-colapinto-medio-decision-futuro-quedo-mejor-maniobra-julio-formula-1_0_l2nv5VdCcn.html"
+          "title": "Aparecieron nuevos videos de Facundo Moyano y su novia Candela Arizaga corriendo semidesnuda por Barrancas de Belgrano",
+          "url": "https://www.clarin.com/politica/aparecieron-nuevos-videos-facundo-moyano-novia-candela-arizaga-corriendo-semidesnuda-barrancas-belgrano_0_9vPpkMF8Ak.html"
         }
       ],
       "erro": null

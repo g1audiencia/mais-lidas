@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 02:51",
+  "atualizado_em": "06/08/2026 02:56",
   "portais": [
     {
       "portal": "Folha",
@@ -237,18 +237,18 @@
         },
         {
           "rank": 3,
+          "title": "See the Sun like never before with most detailed images yet",
+          "url": "https://www.bbc.com/news/articles/c36d4376nd2o"
+        },
+        {
+          "rank": 4,
           "title": "Meta says AI model accessed the internet and hacked another firm",
           "url": "https://www.bbc.com/news/articles/cx2kgdnyk2po"
         },
         {
-          "rank": 4,
-          "title": "El-Sayed's victory sends tremors through Democratic Party",
-          "url": "https://www.bbc.com/news/articles/cp309ng0xq1o"
-        },
-        {
           "rank": 5,
-          "title": "See the Sun like never before with most detailed images yet",
-          "url": "https://www.bbc.com/news/articles/c36d4376nd2o"
+          "title": "Trump administration pays back $100bn in 'Liberation Day' tariffs to businesses",
+          "url": "https://www.bbc.com/news/articles/cwyewn5wexvo"
         }
       ],
       "erro": null

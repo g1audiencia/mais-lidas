@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 09:08",
+  "atualizado_em": "06/08/2026 09:14",
   "portais": [
     {
       "portal": "Folha",
@@ -76,18 +76,18 @@
         },
         {
           "rank": 2,
+          "title": "Ciclone bomba no Brasil: quais estados serão afetados pelo fenômeno",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-no-brasil-quais-estados-serao-afetados-pelo-fenomeno/"
+        },
+        {
+          "rank": 3,
           "title": "Unidade de mísseis norte-coreana é mobilizada na Rússia, diz Ucrânia",
           "url": "https://www.cnnbrasil.com.br/internacional/unidade-de-misseis-norte-coreana-e-mobilizada-na-russia-diz-ucrania/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "São Paulo instala Gabinete de Crise por previsão de ventos de até 100 km/h",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/sao-paulo-instala-gabinete-de-crise-por-previsao-de-ventos-de-ate-100-km-h/"
-        },
-        {
-          "rank": 4,
-          "title": "Brasil não tem segurança jurídica, afirma André Mendonça ao CNN Talks",
-          "url": "https://www.cnnbrasil.com.br/infra/brasil-nao-tem-seguranca-juridica-afirma-andre-mendonca/"
         },
         {
           "rank": 5,
@@ -135,23 +135,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Calculadora de penduricalhos: descubra como seria o seu salário com os benefícios de um juiz",
-          "url": "https://www.estadao.com.br/politica/calculadora-de-penduricalhos-descubra-como-seria-o-seu-salario-com-os-beneficios-de-um-juiz/"
-        },
-        {
-          "rank": 2,
           "title": "A educação brasileira está melhorando. E quem puxa o bonde não é quem você pensa",
           "url": "https://www.estadao.com.br/educacao/a-educacao-brasileira-esta-melhorando-e-quem-puxa-o-bonde-nao-e-quem-voce-pensa/"
         },
         {
+          "rank": 2,
+          "title": "Calculadora de penduricalhos: descubra como seria o seu salário com os benefícios de um juiz",
+          "url": "https://www.estadao.com.br/politica/calculadora-de-penduricalhos-descubra-como-seria-o-seu-salario-com-os-beneficios-de-um-juiz/"
+        },
+        {
           "rank": 3,
-          "title": "‘Revolver’, o LP ácido dos Beatles, faz 60 anos. Por que foi tão revolucionário?",
-          "url": "https://www.estadao.com.br/cultura/musica/revolver-o-lp-acido-dos-beatles-faz-60-anos-por-que-foi-tao-revolucionario/"
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
         },
         {
           "rank": 4,
-          "title": "Representação contra vice de Flávio após acusação de estupro na CPI do INSS está parada no Congresso",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/representacao-contra-vice-de-flavio-apos-acusacao-de-estupro-na-cpi-do-inss-esta-parada-no-congresso/"
+          "title": "Pasta de amendoim é mais que um ingrediente para dar energia na academia",
+          "url": "https://www.estadao.com.br/paladar/comida/pasta-de-amendoim-e-mais-que-um-ingrediente-para-dar-energia-na-academia/"
         },
         {
           "rank": 5,

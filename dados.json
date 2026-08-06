@@ -1,69 +1,17 @@
 {
-  "atualizado_em": "06/08/2026 10:31",
+  "atualizado_em": "06/08/2026 10:38",
   "portais": [
     {
       "portal": "Folha",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Famílias brasileiras perderam R$ 62,5 bilhões para bets em 2025, aponta estudo",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/08/familias-brasileiras-perderam-r-625-bilhoes-para-bets-em-2025-aponta-estudo.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Flávio Bolsonaro sondou vereadora e definiu Alfredo Gaspar como vice a menos de 24 horas de anúncio",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-sondou-vereadora-e-definiu-gaspar-como-vice-a-menos-de-24-horas-de-anuncio.shtml"
-        },
-        {
-          "rank": 4,
-          "title": "Lula diz que falará com Trump em meio a crise diplomática entre Brasil e EUA",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/lula-diz-que-falara-com-trump-em-meio-a-crise-diplomatica-entre-brasil-e-eua.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "HTTPSConnectionPool(host='www.folha.uol.com.br', port=443): Read timed out. (read timeout=25)"
     },
     {
       "portal": "UOL",
-      "ok": true,
-      "items": [
-        {
-          "rank": 1,
-          "title": "Por onde o ciclone-bomba pode passar a partir de hoje e como ele afetará o Brasil",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/05/por-onde-o-ciclone-bomba-deve-passar-amanha-veja-lista-estados.ghtm"
-        },
-        {
-          "rank": 2,
-          "title": "Champions e concorrente de R$ 200 mi: o que Endrick pode encontrar na Roma",
-          "url": "https://www.uol.com.br/esporte/futebol/colunas/rafael-reis/2026/08/06/champions-e-concorrente-de-r-200-mi-o-que-endrick-pode-encontrar-na-roma.htm"
-        },
-        {
-          "rank": 3,
-          "title": "River Plate supera concorrência do Flamengo e acerta contratação de Almada",
-          "url": "https://www.uol.com.br/esporte/colunas/mercado-da-bola/2026/08/06/river-plate-acerta-contratacao-de-thiago-almada.htm"
-        },
-        {
-          "rank": 4,
-          "title": "Impacto das canetas emagrecedoras vai além do peso e preocupa até cassinos, diz médico",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/08/06/paulo-gusmao-no-alt-tabet.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Daniela Lima: Estilo dos Bolsonaro selou maior tempo de TV a Lula e isolamento de Flávio",
-          "url": "https://noticias.uol.com.br/colunas/daniela-lima/2026/08/06/estilo-dos-bolsonaro-selou-isolamento-de-flavio-e-maior-tempo-de-tv-a-lula.htm"
-        }
-      ],
-      "erro": null
+      "ok": false,
+      "items": [],
+      "erro": "HTTPSConnectionPool(host='www.uol.com.br', port=443): Read timed out."
     },
     {
       "portal": "CNN Brasil",
@@ -155,8 +103,8 @@
         },
         {
           "rank": 5,
-          "title": "Antidiplomacia de Trump requer pragmatismo",
-          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
+          "title": "Copom reduz Selic para 14%: o que muda para renda fixa, Bolsa e FIIs",
+          "url": "https://www.estadao.com.br/einvestidor/onde-investir/copom-reduz-selic-para-14-o-que-muda-para-renda-fixa-bolsa-e-fiis/"
         }
       ],
       "erro": null
@@ -231,6 +179,11 @@
         },
         {
           "rank": 3,
+          "title": "Judge criticizes the Justice Department as he dismisses Jan. 6 seditious conspiracy case",
+          "url": "https://apnews.com/article/capitol-riot-oath-keepers-seditious-conspiracy-trump-01d72dec7f4091e4303d80297d524dcc"
+        },
+        {
+          "rank": 4,
           "title": "AP Exclusive: Trump’s immigration crackdown has detained more than 50 military spouses and parents",
           "url": "https://apnews.com/article/military-families-immigration-trump-detained-deported-3337173bff1f06153738c217da52e846"
         }
@@ -290,13 +243,13 @@
         },
         {
           "rank": 4,
-          "title": "Guerra de los canales de noticias: debutó +Perfil y TN amplió su liderazgo, mientras A24 se acercó a C5N",
-          "url": "https://www.clarin.com/politica/guerra-canales-noticias-debuto-perfil-tn-amplio-liderazgo-a24-acerco-c5n_0_PbOjRa2IlU.html"
+          "title": "La ANMAT prohibió la venta y el uso de una conocida crema para dolores musculares: cuál es y qué pasó",
+          "url": "https://www.clarin.com/sociedad/anmat-prohibio-venta-uso-conocida-crema-dolores-musculares-paso_0_vLHXxE6lC8.html"
         },
         {
           "rank": 5,
-          "title": "La ANMAT prohibió la venta y el uso de una conocida crema para dolores musculares: cuál es y qué pasó",
-          "url": "https://www.clarin.com/sociedad/anmat-prohibio-venta-uso-conocida-crema-dolores-musculares-paso_0_vLHXxE6lC8.html"
+          "title": "Guerra de los canales de noticias: debutó +Perfil y TN amplió su liderazgo, mientras A24 se acercó a C5N",
+          "url": "https://www.clarin.com/politica/guerra-canales-noticias-debuto-perfil-tn-amplio-liderazgo-a24-acerco-c5n_0_PbOjRa2IlU.html"
         }
       ],
       "erro": null

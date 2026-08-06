@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 00:59",
+  "atualizado_em": "06/08/2026 01:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
+          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
           "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Explosão das bets: entenda em quatro gráficos os números desse mercado no Brasil",
           "url": "https://www.estadao.com.br/economia/explosao-bets-entenda-quatro-graficos-numeros-desse-mercado-no-brasil/"
         },
         {
-          "rank": 4,
-          "title": "CNJ afasta desembargadores do Tribunal da Lava Jato por atropelar anulações de Toffoli",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-afasta-desembargadores-do-tribunal-da-lava-jato-por-atropelar-anulacoes-de-toffoli/"
-        },
-        {
           "rank": 5,
-          "title": "Lula avalia alcance da suspensão de visto de embaixadora nos EUA para decidir sobre sua permanência",
-          "url": "https://www.estadao.com.br/internacional/lula-avalia-alcance-da-suspensao-de-visto-de-embaixadora-nos-eua-para-decidir-sobre-sua-permanencia/"
+          "title": "Papa Leão XIV visitará a América Latina em novembro; veja por quais países ele vai passar",
+          "url": "https://www.estadao.com.br/internacional/papa-leao-visitara-america-latina-em-novembro-quais-paises-npr/"
         }
       ],
       "erro": null

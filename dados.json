@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 21:43",
+  "atualizado_em": "05/08/2026 21:49",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Veja desempenho de todas as escolas do país avaliadas no Ideb, que mede qualidade do ensino",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/veja-o-desempenho-de-todas-as-escolas-do-pais-no-ideb-que-mede-qualidade-do-ensino.shtml"
-        },
-        {
-          "rank": 2,
           "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
           "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
         },
         {
+          "rank": 2,
+          "title": "Veja desempenho de todas as escolas do país avaliadas no Ideb, que mede qualidade do ensino",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/veja-o-desempenho-de-todas-as-escolas-do-pais-no-ideb-que-mede-qualidade-do-ensino.shtml"
+        },
+        {
           "rank": 3,
+          "title": "Xuxa fará mais um show da turnê 'O Último Voo da Nave' em São Paulo",
+          "url": "https://guia.folha.uol.com.br/shows/2026/08/xuxa-fara-mais-um-show-da-turne-o-ultimo-voo-da-nave-em-sao-paulo.shtml"
+        },
+        {
+          "rank": 4,
           "title": "Vice de Flavio é alvo de pedido de investigação da PF no Supremo por suspeita de estupro de vulnerável",
           "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/vice-de-flavio-e-investigado-por-estupro-de-vulneravel-e-desvio-de-r-6-milhoes-em-emendas.shtml"
         },
         {
-          "rank": 4,
-          "title": "Ideb 2025: veja as notas da sua cidade no índice de educação do MEC",
-          "url": "https://www1.folha.uol.com.br/educacao/2026/08/ideb-2025-veja-as-notas-da-sua-cidade-no-indice-de-educacao-do-mec.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
+          "title": "Outro Canal: Globo acusa Pedro do BBB 26 de má-fé em processo e usa entrevista como prova",
+          "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/08/globo-acusa-pedro-do-bbb-26-de-ma-fe-em-processo-e-usa-entrevista-como-prova.shtml"
         }
       ],
       "erro": null
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, pergunta Lula em defesa de Marcola",
-          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
+          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
           "rank": 2,
-          "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
-          "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
+          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
+          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
         },
         {
           "rank": 3,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
-          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
+          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
         },
         {
           "rank": 5,
-          "title": "O que é carro ‘só pra rodar’ e por que você não deveria comprar um",
-          "url": "https://www.estadao.com.br/jornal-do-carro/o-que-e-carro-so-pra-rodar-e-por-que-voce-nao-deveria-comprar-um/"
+          "title": "Opção por Gaspar como vice de Flávio reforça tema Lulinha na campanha, mas tem efeitos colaterais",
+          "url": "https://www.estadao.com.br/politica/ricardo-correa/escolha-de-gaspar-como-vice-de-flavio-reforca-tema-lulinha-na-campanha-mas-tem-efeitos-colaterais/"
         }
       ],
       "erro": null

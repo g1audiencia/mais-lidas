@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 05:16",
+  "atualizado_em": "06/08/2026 05:21",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Jovens de uma geração de mal-educados não dizem ?bom dia?",
-          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/08/jovens-de-uma-geracao-de-mal-educados-nao-dizem-bom-dia.shtml"
-        },
-        {
-          "rank": 2,
-          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
-          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Veja desempenho de todas as escolas do país avaliadas no Ideb, que mede qualidade do ensino",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/veja-o-desempenho-de-todas-as-escolas-do-pais-no-ideb-que-mede-qualidade-do-ensino.shtml"
         },
         {
+          "rank": 2,
+          "title": "Jovens de uma geração de mal-educados não dizem ?bom dia?",
+          "url": "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/08/jovens-de-uma-geracao-de-mal-educados-nao-dizem-bom-dia.shtml"
+        },
+        {
+          "rank": 3,
+          "title": "Quem é Marco Furlan, ator preso por suspeita de estuprar uma criança",
+          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/quem-e-marco-furlan-ator-preso-por-suspeita-de-estuprar-uma-crianca.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Flávio Bolsonaro diz que fez duas filhas mulheres para ser cuidado na velhice",
+          "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/flavio-bolsonaro-disse-que-fez-duas-filhas-mulheres-para-ser-cuidado-na-velhice.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
+          "title": "Lula sanciona piso do frete e veta anistia a caminhoneiros que bloquearam estradas em 2022",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/lula-sanciona-piso-do-frete-e-veta-anistia-a-caminhoneiros-que-bloquearam-estradas-em-2022.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Agência de Comunicação",
-          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/agencia-minera-brasil/sigma-lithium-operacao-plena-capacidade-minas-gerais/"
-        },
-        {
-          "rank": 2,
           "title": "Qual é a qualidade da educação da sua cidade? Veja a nota de cada uma no Ideb",
           "url": "https://www.estadao.com.br/educacao/qual-e-a-qualidade-da-educacao-da-sua-cidade-veja-a-nota-de-cada-uma-no-ideb/"
         },
         {
+          "rank": 2,
+          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
+          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
+        },
+        {
           "rank": 3,
-          "title": "Uma greve irresponsável",
-          "url": "https://www.estadao.com.br/opiniao/uma-greve-irresponsavel/"
+          "title": "‘Envelhecer bem vai além de não ter doenças’: especialistas listam 4 pilares para ter velhice ativa",
+          "url": "https://www.estadao.com.br/pulsa/envelhecer-bem-vai-alem-de-nao-ter-doencas-especialistas-listam-4-pilares-para-ter-velhice-ativa/"
         },
         {
           "rank": 4,
-          "title": "Estado de São Paulo melhora no ensino médio, mas segue fora do top 5 do Ideb",
-          "url": "https://www.estadao.com.br/educacao/estado-de-sao-paulo-melhora-no-ensino-medio-mas-segue-fora-do-top-5-no-ideb/"
+          "title": "Copom corta Selic e evita sinalizar próximos passos; mercado busca pistas no comunicado",
+          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/copom-corta-selic-e-evita-sinalizar-proximos-passos-mercado-busca-pistas-no-comunicado/"
         },
         {
           "rank": 5,
-          "title": "Fórum dos Leitores",
-          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-6-8-2026/"
+          "title": "Eleições acirram disputas internas de grande relevância no STF",
+          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
         }
       ],
       "erro": null
@@ -232,23 +232,23 @@
         },
         {
           "rank": 2,
-          "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-          "url": "https://www.bbc.com/news/articles/cy8ev4y172yo"
-        },
-        {
-          "rank": 3,
           "title": "Cambridge professor at centre of plagiarism row resigns",
           "url": "https://www.bbc.com/news/articles/c1e146jw618o"
         },
         {
+          "rank": 3,
+          "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+          "url": "https://www.bbc.com/news/articles/cy8ev4y172yo"
+        },
+        {
           "rank": 4,
-          "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
-          "url": "https://www.bbc.com/news/articles/cm2g0038yr8o"
+          "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+          "url": "https://www.bbc.com/news/articles/cm2g0j3y339o"
         },
         {
           "rank": 5,
-          "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-          "url": "https://www.bbc.com/news/articles/ckg9d3eyeggo"
+          "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
+          "url": "https://www.bbc.com/news/articles/cm2g0038yr8o"
         }
       ],
       "erro": null

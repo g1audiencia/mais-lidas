@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 11:22",
+  "atualizado_em": "07/08/2026 11:24",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Marcola é Lula",
-          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
-        },
-        {
-          "rank": 3,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
-        },
-        {
-          "rank": 4,
           "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h; porto e balsa de Santos retomam operações",
           "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
         },
         {
+          "rank": 3,
+          "title": "Marcola é Lula",
+          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
+        },
+        {
+          "rank": 4,
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
+        },
+        {
           "rank": 5,
-          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
-          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
+          "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
         }
       ],
       "erro": null

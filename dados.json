@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 08:56",
+  "atualizado_em": "07/08/2026 08:58",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h; balsa e porto de Santos paralisam operação",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
+          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
+          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
         },
         {
           "rank": 5,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h; balsa e porto de Santos paralisam operação",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 06:15",
+  "atualizado_em": "07/08/2026 06:17",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "Corinthians vence o Inter, mas cai na Copa do Brasil; veja os classificados",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/08/corinthians-vence-o-inter-mas-cai-na-copa-do-brasil-veja-os-classificados.shtml"
+          "title": "Ventania do ciclone-bomba deve atingir capital e litoral paulista nesta sexta (7)",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/ventania-do-ciclone-bomba-deve-atingir-capital-e-litoral-paulista-nesta-sexta-7.shtml"
         },
         {
           "rank": 5,
-          "title": "Ventania do ciclone-bomba deve atingir capital e litoral paulista nesta sexta (7)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/ventania-do-ciclone-bomba-deve-atingir-capital-e-litoral-paulista-nesta-sexta-7.shtml"
+          "title": "Entenda quem pode ter isenção de impostos para comprar carros após decisão do STF",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/entenda-quem-pode-ter-isencao-de-impostos-para-comprar-carros-apos-decisao-do-stf.shtml"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
-        },
-        {
-          "rank": 3,
           "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         },
         {
+          "rank": 3,
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
+        },
+        {
           "rank": 4,
-          "title": "Cadeira de Buzzi está em disputa desde antes da punição do STJ",
-          "url": "https://www.estadao.com.br/politica/cadeira-de-buzzi-esta-em-disputa-desde-antes-da-punicao-do-stj/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
           "rank": 5,
-          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
+          "title": "Cadeira de Buzzi está em disputa desde antes da punição do STJ",
+          "url": "https://www.estadao.com.br/politica/cadeira-de-buzzi-esta-em-disputa-desde-antes-da-punicao-do-stj/"
         }
       ],
       "erro": null

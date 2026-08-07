@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 02:00",
+  "atualizado_em": "07/08/2026 02:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Antidiplomacia de Trump requer pragmatismo",
-          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
-        },
-        {
-          "rank": 2,
           "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
           "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
+          "rank": 2,
+          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
+        },
+        {
           "rank": 3,
-          "title": "STJ condena Marco Buzzi por assédio sexual e importunação e indica perda de cargo do ministro",
-          "url": "https://www.estadao.com.br/politica/stj-condena-marco-buzzi-por-assedio-sexual-e-importunacao/"
+          "title": "De acidente nos EUA ao Clube do Otimismo: a história resgatada da 1º medalha paralímpica do Brasil",
+          "url": "https://www.estadao.com.br/esportes/de-acidente-nos-eua-ao-clube-do-otimismo-a-historia-resgatada-da-1-medalha-paralimpica-do-brasil/"
         },
         {
           "rank": 4,
-          "title": "Mercado vê ‘guerra fria’ entre Durigan e Moretti, que apontam caminhos distintos para ajuste fiscal",
-          "url": "https://www.estadao.com.br/economia/alvaro-gribel/mercado-ve-guerra-fria-entre-durigan-e-moretti-que-apontam-caminhos-distintos-para-ajuste-fiscal/"
+          "title": "Alex Escobar passa por cirurgia para retirada de tumor em hospital no Rio de Janeiro",
+          "url": "https://www.estadao.com.br/esportes/alex-escobar-passa-por-cirurgia-para-retirada-de-tumor-em-hospital-no-rio-de-janeiro-npres/"
         },
         {
           "rank": 5,
-          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
-          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+          "title": "Acidente da Voepass: testemunha cita possível propina e PF pede que Anac seja investigada",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-testemunha-cita-propina-e-pf-recomenda-que-mpf-investigue-anac/"
         }
       ],
       "erro": null
@@ -231,13 +231,13 @@
         },
         {
           "rank": 3,
-          "title": "Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant’s second reactor running",
-          "url": "https://apnews.com/article/romania-europe-nuclear-danube-drought-1ddb89604f06026c938363d57da53071"
+          "title": "US suspends avocado inspections in Mexican state of Michoacan due to threat",
+          "url": "https://apnews.com/article/mexico-united-states-avocado-exports-threats-c5cf0ef4a260e6a517fae615c08a1f8b"
         },
         {
           "rank": 4,
-          "title": "US suspends avocado inspections in Mexican state of Michoacan due to threat",
-          "url": "https://apnews.com/article/mexico-united-states-avocado-exports-threats-c5cf0ef4a260e6a517fae615c08a1f8b"
+          "title": "New images of the sun show its surface in the finest detail yet",
+          "url": "https://apnews.com/article/sun-surface-solar-telescope-kelvin-heimholtz-instability-32eb28c17e8c4005dad9a5b51dd3eb2a"
         }
       ],
       "erro": null

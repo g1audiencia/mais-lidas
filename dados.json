@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 07:29",
+  "atualizado_em": "07/08/2026 07:31",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
+          "title": "Dupla tenta roubar moto, PM chega segundos depois e mata os dois em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/ocorrencia-grande-sp-agosto-2026.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "Veja os oito times classificados às quartas de final da Copa do Brasil",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/06/copa-do-brasil-define-oito-classificados-para-as-quartas-de-final-veja.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Em virada incrível, Vitória atropela o Athletico e avança na Copa do Brasil",
           "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/06/vitoria-atropela-athletico-vira-confronto-e-se-classifica-em-noite-heroica.ghtm"
         },
         {
-          "rank": 4,
-          "title": "Mega-Sena acumula, e prêmio sobe para R$ 165 milhões; veja números",
-          "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/08/06/mega-sena-concurso-3041-sorteio-6-de-agosto.ghtm"
-        },
-        {
           "rank": 5,
-          "title": "Chegada de ciclone provoca tornado no RS; Inmet emite alerta vermelho",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/primeiros-efeitos-do-ciclone-causam-granizo-no-sul-em-alerta-para-tornado.ghtm"
+          "title": "Seca do Mar Morto gera crateras com água doce e lembra profecia bíblica",
+          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/06/seca-do-mar-morto-gera-crateras-com-agua-doce-e-lembra-profecia-biblica.ghtm"
         }
       ],
       "erro": null
@@ -258,18 +258,18 @@
         },
         {
           "rank": 3,
-          "title": "England footballer Toney charged with assault in Soho",
-          "url": "https://www.bbc.com/news/articles/cpw9nz7qwyqo"
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
         },
         {
           "rank": 4,
-          "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-          "url": "https://www.bbc.com/news/articles/c89nqlz5p4qo"
+          "title": "Spokane wildfire arson suspect waited for dry, windy day to start blaze, police say",
+          "url": "https://www.bbc.com/news/articles/cy0j5nyxk68o"
         },
         {
           "rank": 5,
-          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
+          "title": "England footballer Toney charged with assault in Soho",
+          "url": "https://www.bbc.com/news/articles/cpw9nz7qwyqo"
         }
       ],
       "erro": null

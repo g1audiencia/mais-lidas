@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 11:48",
+  "atualizado_em": "07/08/2026 11:50",
   "portais": [
     {
       "portal": "Folha",
@@ -39,28 +39,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Dupla tenta roubar moto, PM chega segundos depois e mata os dois em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/ocorrencia-grande-sp-agosto-2026.ghtm"
-        },
-        {
-          "rank": 2,
-          "title": "SP confirma 23 casos de sarampo e envia mais doses da vacina às cidades afetadas",
-          "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2026/08/07/sp-confirma-23-casos-de-sarampo-e-amplia-vacinacao-em-3-cidades.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "Ciclone causa danos no RS, suspende aulas no RJ e fecha o porto de Santos (SP)",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/07/ciclone-sul-sudeste-emergencia-climatica-brasil.ghtm"
         },
         {
+          "rank": 2,
+          "title": "Dupla tenta roubar moto, PM chega segundos depois e mata os dois em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/ocorrencia-grande-sp-agosto-2026.ghtm"
+        },
+        {
+          "rank": 3,
+          "title": "Inmet emite alertas de vendaval para 11 estados; veja onde há risco",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/inmet-emite-alertas-de-vendaval-para-11-estados-veja-onde-ha-risco.ghtm"
+        },
+        {
           "rank": 4,
-          "title": "Josias de Souza: Flávio cospe no prato onde centrão não o deixou comer",
-          "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/08/07/flavio-cospe-no-prato-em-que-o-centrao-nao-o-deixou-comer.htm"
+          "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/07/meu-marido-virou-minha-crianca-ela-mudou-de-vida-para-cuidar-de-jovem.ghtm"
         },
         {
           "rank": 5,
-          "title": "Família decide sair de casa após encontrar 10 escorpiões dentro do imóvel em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/tensao-familia-de-sp-vive-pesadelo-ao-encontrar-dez-escorpioes-em-casa.ghtm"
+          "title": "SP confirma 23 casos de sarampo e envia mais doses da vacina às cidades afetadas",
+          "url": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2026/08/07/sp-confirma-23-casos-de-sarampo-e-amplia-vacinacao-em-3-cidades.ghtm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
-        },
-        {
-          "rank": 4,
           "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
           "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         },
         {
+          "rank": 4,
+          "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
+        },
+        {
           "rank": 5,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
+          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
         }
       ],
       "erro": null
@@ -236,8 +236,8 @@
         },
         {
           "rank": 4,
-          "title": "Trump administration moves forward with Head Start overhaul, proposing to eliminate regulations",
-          "url": "https://apnews.com/article/head-start-trump-rfk-standards-18693283cd6791f43e9c181363229a77"
+          "title": "Lindsay Clancy sobs at murder trial as jurors view autopsy photos of her youngest child",
+          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-autopsy-photos-757f3d658943cb7a993aeba42f0c7e5d"
         }
       ],
       "erro": null

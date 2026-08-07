@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 14:19",
+  "atualizado_em": "07/08/2026 14:21",
   "portais": [
     {
       "portal": "Folha",
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
+          "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
+          "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
         },
         {
           "rank": 5,
-          "title": "Justiça expede mandado de prisão contra suspeito de matar advogado na Vila Madalena",
-          "url": "https://www.estadao.com.br/sao-paulo/justica-expede-mandado-de-prisao-contra-suspeito-de-matar-advogado-na-vila-madalena-npr/"
+          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
         }
       ],
       "erro": null
@@ -238,6 +238,11 @@
           "rank": 4,
           "title": "South Korean satellite captures before and after views of SpaceX rocket’s moon crash",
           "url": "https://apnews.com/article/spacex-rocket-moon-crash-61dc5c43f671623622960013e06aeeb1"
+        },
+        {
+          "rank": 5,
+          "title": "Lindsay Clancy sobs at murder trial as jurors view autopsy photos of her youngest child",
+          "url": "https://apnews.com/article/lindsay-clancy-murder-trial-autopsy-photos-757f3d658943cb7a993aeba42f0c7e5d"
         }
       ],
       "erro": null

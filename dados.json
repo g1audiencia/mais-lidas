@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 11:58",
+  "atualizado_em": "07/08/2026 12:01",
   "portais": [
     {
       "portal": "Folha",
@@ -81,18 +81,18 @@
         },
         {
           "rank": 3,
+          "title": "Alerta, aulas suspensas e tornado: veja impactos de ciclone-bomba pelo país",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/alerta-aulas-suspensas-e-tornado-veja-impactos-de-ciclone-bomba-pelo-pais/"
+        },
+        {
+          "rank": 4,
           "title": "Xuxa desabafa sobre ataques de Mara Maravilha: “Quer pegar carona na nave”",
           "url": "https://www.cnnbrasil.com.br/pop/celebridades/xuxa-desabafa-sobre-ataques-de-mara-maravilha-quer-pegar-carona-na-nave/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Ciclone-bomba: aulas são suspensas após previsão de ventania no Rio",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/ciclone-bomba-aulas-sao-suspensas-apos-previsao-de-ventania-no-rio/"
-        },
-        {
-          "rank": 5,
-          "title": "Alerta, aulas suspensas e tornado: veja impactos de ciclone-bomba pelo país",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/alerta-aulas-suspensas-e-tornado-veja-impactos-de-ciclone-bomba-pelo-pais/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 02:57",
+  "atualizado_em": "07/08/2026 03:02",
   "portais": [
     {
       "portal": "Folha",
@@ -258,18 +258,18 @@
         },
         {
           "rank": 3,
-          "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-          "url": "https://www.bbc.com/news/articles/c89nqlz5p4qo"
-        },
-        {
-          "rank": 4,
           "title": "Spokane wildfire arson suspect waited for dry, windy day to start blaze, police say",
           "url": "https://www.bbc.com/news/articles/cy0j5nyxk68o"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Trump again tries to limit US birthright citizenship with new executive orders",
           "url": "https://www.bbc.com/news/articles/cj63966j95yo"
+        },
+        {
+          "rank": 5,
+          "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+          "url": "https://www.bbc.com/news/articles/c89nqlz5p4qo"
         }
       ],
       "erro": null

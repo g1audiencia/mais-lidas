@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 02:15",
+  "atualizado_em": "07/08/2026 02:21",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "'Eram profissionais fazendo gambiarra em uma aeronave que iria matar', diz mãe de vítima de acidente da Voepass",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/eram-profissionais-fazendo-gambiarra-em-uma-aeronave-que-iria-matar-diz-mae-de-vitima-de-acidente-da-voepass.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "STJ decide tirar cargo de ministro Marco Buzzi por acusações de assédio sexual",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/stj-decide-punir-ministro-marco-buzzi-com-perda-de-cargo-por-acusacoes-de-assedio-sexual.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Alice Carvalho evita confirmar romance com Anitta e diz: 'Me relaciono de CPF para CPF'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/08/alice-carvalho-evita-confirmar-romance-com-anitta-e-diz-me-relaciono-de-cpf-para-cpf.shtml"
         },
         {
+          "rank": 3,
+          "title": "'Eram profissionais fazendo gambiarra em uma aeronave que iria matar', diz mãe de vítima de acidente da Voepass",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/eram-profissionais-fazendo-gambiarra-em-uma-aeronave-que-iria-matar-diz-mae-de-vitima-de-acidente-da-voepass.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "STJ decide tirar cargo de ministro Marco Buzzi por acusações de assédio sexual",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/stj-decide-punir-ministro-marco-buzzi-com-perda-de-cargo-por-acusacoes-de-assedio-sexual.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
+          "title": "'Não é câncer, é cálcio'; pacientes veem tumor avançar após médica indicar tratamento com testosterona",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/nao-e-cancer-e-calcio-pacientes-veem-tumor-avancar-apos-medica-indicar-tratamento-com-testosterona.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
-        },
-        {
-          "rank": 2,
           "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
           "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
         },
         {
+          "rank": 2,
+          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
+          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+        },
+        {
           "rank": 3,
-          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+          "title": "Antidiplomacia de Trump requer pragmatismo",
+          "url": "https://www.estadao.com.br/opiniao/antidiplomacia-de-trump-requer-pragmatismo/"
         },
         {
           "rank": 4,
-          "title": "Por que brasileiros estão escolhendo o Paraguai para trabalhar e empreender",
-          "url": "https://www.estadao.com.br/economia/por-que-brasileiros-estao-escolhendo-o-paraguai-para-trabalhar-e-empreender/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
           "rank": 5,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         }
       ],
       "erro": null
@@ -285,7 +285,7 @@
         },
         {
           "rank": 2,
-          "title": "Ley de Propiedad Privada hoy, EN VIVO: lo que dejó la maratónica sesión que le dio media sanción a la ley de Propiedad Privada",
+          "title": "Ley de Propiedad Privada hoy, EN VIVO: cruces y marchas atrás, lo que dejó la maratónica sesión que le dio media sanción al proyecto",
           "url": "https://www.clarin.com/politica/sesion-senado-hoy-vivo-retirar-polemico-capitulo-venta-tierras-extranjeros-gobierno-busca-aprobar-ley-propiedad-privada_0_EVUnkoxkt8.html"
         },
         {

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 23:29",
+  "atualizado_em": "06/08/2026 23:34",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "STJ decide tirar cargo de ministro Marco Buzzi por acusações de assédio sexual",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/stj-decide-punir-ministro-marco-buzzi-com-perda-de-cargo-por-acusacoes-de-assedio-sexual.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Alice Carvalho evita confirmar romance com Anitta e diz: 'Me relaciono de CPF para CPF'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/alice-carvalho-evita-confirmar-romance-com-anitta-e-diz-me-relaciono-de-cpf-para-cpf.shtml"
-        },
-        {
-          "rank": 4,
           "title": "'Eram profissionais fazendo gambiarra em uma aeronave que iria matar', diz mãe de vítima de acidente da Voepass",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/eram-profissionais-fazendo-gambiarra-em-uma-aeronave-que-iria-matar-diz-mae-de-vitima-de-acidente-da-voepass.shtml"
         },
         {
+          "rank": 3,
+          "title": "STJ decide tirar cargo de ministro Marco Buzzi por acusações de assédio sexual",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/stj-decide-punir-ministro-marco-buzzi-com-perda-de-cargo-por-acusacoes-de-assedio-sexual.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "Alice Carvalho evita confirmar romance com Anitta e diz: 'Me relaciono de CPF para CPF'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/alice-carvalho-evita-confirmar-romance-com-anitta-e-diz-me-relaciono-de-cpf-para-cpf.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Tornado atinge cidade no RS, e Defesa Civil emite alerta máximo para Porto Alegre e região",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/tornado-atinge-cidade-no-rs-e-defesa-civil-emite-alerta-maximo-para-porto-alegre-e-regiao.shtml"
+          "title": "Janja chama Discord de 'rede horrorosa' após caso de suicídio ao vivo e pede seu bloqueio no Brasil",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/janja-chama-discord-de-rede-horrorosa-apos-caso-de-suicidio-ao-vivo-e-pede-seu-bloqueio-no-brasil.shtml"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Agência de Comunicação",
-          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/agencia-memoria-da-eletricidade/francisco-canhos-inventor-chuveiro-eletrico/"
-        },
-        {
-          "rank": 2,
           "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
           "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
+          "rank": 2,
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+        },
+        {
           "rank": 3,
-          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
+          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
         },
         {
           "rank": 4,

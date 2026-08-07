@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 10:26",
+  "atualizado_em": "07/08/2026 10:27",
   "portais": [
     {
       "portal": "Folha",
@@ -248,18 +248,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Surprise fall in US jobs last month as slow summer continues",
-          "url": "https://www.bbc.com/news/articles/c20j5rle717o"
-        },
-        {
-          "rank": 2,
           "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
           "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Murkowski opposes Blanche nomination as attorney general, putting confirmation in doubt",
           "url": "https://www.bbc.com/news/articles/c0kme3114xko"
+        },
+        {
+          "rank": 3,
+          "title": "Surprise fall in US jobs last month as slow summer continues",
+          "url": "https://www.bbc.com/news/articles/c20j5rle717o"
         },
         {
           "rank": 4,

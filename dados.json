@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 04:39",
+  "atualizado_em": "07/08/2026 04:41",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
+          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+        },
+        {
+          "rank": 2,
           "title": "Marcola é Lula",
           "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
         },
         {
-          "rank": 2,
-          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
-          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
-        },
-        {
           "rank": 3,
-          "title": "Lucro da Petrobras quase dobra e chega a R$ 52,4 bi com guerra no Irã e alta do petróleo",
-          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/lucro-da-petrobras-petr3petr4-dispara-968-em-um-ano-e-atinge-r-524-bilhoes/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
           "rank": 4,
-          "title": "Acidente da Voepass: testemunha cita possível propina e PF pede que Anac seja investigada",
-          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-testemunha-cita-propina-e-pf-recomenda-que-mpf-investigue-anac/"
+          "title": "Bancos privados fecham 2 mil agências e cortam 14 mil vagas em um ano",
+          "url": "https://www.estadao.com.br/economia/coluna-do-broad/bancos-privados-fecham-2-mil-agencias-e-cortam-14-mil-vagas-em-um-ano/"
         },
         {
           "rank": 5,
-          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+          "title": "Acidente da Voepass: testemunha cita possível propina e PF pede que Anac seja investigada",
+          "url": "https://www.estadao.com.br/brasil/acidente-da-voepass-testemunha-cita-propina-e-pf-recomenda-que-mpf-investigue-anac/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 14:24",
+  "atualizado_em": "07/08/2026 14:26",
   "portais": [
     {
       "portal": "Folha",
@@ -295,18 +295,18 @@
         },
         {
           "rank": 3,
-          "title": "La orden de Karina tras las críticas a Sturzenegger: “Todos los proyectos tienen que pasar por Santilli”",
-          "url": "https://www.clarin.com/politica/orden-karina-criticas-sturzenegger-proyectos-pasar-santilli_0_6mKS4UihTY.html"
-        },
-        {
-          "rank": 4,
           "title": "Revés para Tapia y Toviggino: un juez calificó de “una mera formalidad y ficción jurídica” el cambio de domicilio de la AFA",
           "url": "https://www.clarin.com/politica/reves-tapia-toviggino-juez-califico-mera-formalidad-ficcion-juridica-cambio-domicilio-afa_0_tzgi3vJYzd.html"
         },
         {
+          "rank": 4,
+          "title": "Línea F de subte: cuál es el barrio con mayor potencial y más oportunidades inmobiliarias",
+          "url": "https://www.clarin.com/propiedades/linea-f-subte-barrio-mayor-potencial-oportunidades-inmobiliarias_0_AAk2U55ZSo.html"
+        },
+        {
           "rank": 5,
-          "title": "Combatió la pandemia de Covid y ahora Trump lo persigue: ¿Qué le puede pasar a Anthony Fauci, acusado de desacato?",
-          "url": "https://www.clarin.com/mundo/combatio-pandemia-covid-ahora-trump-persigue-puede-pasar-anthony-fauci-acusado-desacato_0_hkGu3RBWrB.html"
+          "title": "La orden de Karina tras las críticas a Sturzenegger: “Todos los proyectos tienen que pasar por Santilli”",
+          "url": "https://www.clarin.com/politica/orden-karina-criticas-sturzenegger-proyectos-pasar-santilli_0_6mKS4UihTY.html"
         }
       ],
       "erro": null

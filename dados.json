@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 15:38",
+  "atualizado_em": "07/08/2026 15:40",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
-          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
           "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
         },
         {
+          "rank": 4,
+          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
+          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Eleições acirram disputas internas de grande relevância no STF",
-          "url": "https://www.estadao.com.br/politica/william-waack/eleicoes-acirram-disputas-internas-de-grande-relevancia-no-stf/"
+          "title": "Justiça expede mandado de prisão contra suspeito de matar advogado na Vila Madalena",
+          "url": "https://www.estadao.com.br/sao-paulo/justica-expede-mandado-de-prisao-contra-suspeito-de-matar-advogado-na-vila-madalena-npr/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
-        },
-        {
-          "rank": 2,
           "title": "Mysterious orb seen racing over residential area in new UFO files",
           "url": "https://www.bbc.com/news/articles/ce8kr7p2pmdo"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
           "url": "https://www.bbc.com/news/articles/cwyq80jqqleo"
+        },
+        {
+          "rank": 3,
+          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+          "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
         },
         {
           "rank": 4,

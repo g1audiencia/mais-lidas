@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 04:31",
+  "atualizado_em": "07/08/2026 04:34",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "PT planeja levar militantes de outros estados a SP para lotar ato de Lula em estádio e evitar fiasco",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/pt-planeja-levar-militantes-de-outros-estados-a-sp-para-lotar-ato-de-lula-em-estadio-e-evitar-fiasco.shtml"
+          "title": "Corinthians vence o Inter, mas cai na Copa do Brasil; veja os classificados",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/08/corinthians-vence-o-inter-mas-cai-na-copa-do-brasil-veja-os-classificados.shtml"
         },
         {
           "rank": 3,
-          "title": "Corinthians vence o Inter, mas cai na Copa do Brasil; veja os classificados",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/08/corinthians-vence-o-inter-mas-cai-na-copa-do-brasil-veja-os-classificados.shtml"
+          "title": "PT planeja levar militantes de outros estados a SP para lotar ato de Lula em estádio e evitar fiasco",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/pt-planeja-levar-militantes-de-outros-estados-a-sp-para-lotar-ato-de-lula-em-estadio-e-evitar-fiasco.shtml"
         },
         {
           "rank": 4,
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
-        },
-        {
-          "rank": 2,
           "title": "Marcola é Lula",
           "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
           "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
+          "rank": 3,
+          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
+        },
+        {
           "rank": 4,
-          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+          "title": "Quem é Maria Luiza Ribeiro Viotti, embaixadora do Brasil nos Estados Unidos que teve visto revogado",
+          "url": "https://www.estadao.com.br/internacional/quem-e-maria-luiza-ribeiro-viotti-embaixadora-do-brasil-nos-estados-unidos-que-teve-visto-revogado-npr/"
         },
         {
           "rank": 5,
-          "title": "Empresário envolvido em tiroteio entre policiais diz que pediu 'empréstimo' a doleiro",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/empresario-envolvido-em-tiroteio-entre-policiais-diz-que-pediu-emprestimo-a-doleiro/"
+          "title": "CNJ enterra aposentadoria com salários como punição a juízes acusados de corrupção e abusos",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-enterra-aposentadoria-com-salarios-como-punicao-a-juizes-acusados-de-corrupcao-e-abusos/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 08:41",
+  "atualizado_em": "07/08/2026 08:43",
   "portais": [
     {
       "portal": "Folha",
@@ -81,7 +81,7 @@
         },
         {
           "rank": 3,
-          "title": "Ciclone bomba: aulas são suspensas após previsão de ventania no Rio",
+          "title": "Ciclone-bomba: aulas são suspensas após previsão de ventania no Rio",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/ciclone-bomba-aulas-sao-suspensas-apos-previsao-de-ventania-no-rio/"
         },
         {
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
-        },
-        {
-          "rank": 3,
           "title": "Nova fase da IA pode privatizar a influência sobre nossas decisões",
           "url": "https://www.estadao.com.br/brasil/macaco-eletrico/nova-fase-da-ia-pode-privatizar-a-influencia-sobre-nossas-decisoes/"
         },
         {
+          "rank": 3,
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
+        },
+        {
           "rank": 4,
-          "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h; balsa e porto de Santos paralisam operação",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
           "rank": 5,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
+          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
         }
       ],
       "erro": null

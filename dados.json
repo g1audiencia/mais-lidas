@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 02:51",
+  "atualizado_em": "07/08/2026 02:57",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
-        },
-        {
-          "rank": 2,
-          "title": "CNJ enterra aposentadoria com salários como punição a juízes acusados de corrupção e abusos",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-enterra-aposentadoria-com-salarios-como-punicao-a-juizes-acusados-de-corrupcao-e-abusos/"
-        },
-        {
-          "rank": 3,
-          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
-        },
-        {
-          "rank": 4,
           "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         },
         {
-          "rank": 5,
+          "rank": 2,
+          "title": "Alfredo Gaspar não pareceu muito feliz e satisfeito com a missão de ser vice de Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/alfredo-gaspar-nao-pareceu-muito-feliz-e-satisfeito-com-a-missao-de-ser-vice-de-flavio-bolsonaro/"
+        },
+        {
+          "rank": 3,
+          "title": "Por que vários políticos rejeitaram disputar o governo de Minas?",
+          "url": "https://www.estadao.com.br/politica/por-que-varios-politicos-rejeitaram-disputar-o-governo-de-minas/"
+        },
+        {
+          "rank": 4,
           "title": "Alex Escobar passa por cirurgia para retirada de tumor em hospital no Rio de Janeiro",
           "url": "https://www.estadao.com.br/esportes/alex-escobar-passa-por-cirurgia-para-retirada-de-tumor-em-hospital-no-rio-de-janeiro-npres/"
+        },
+        {
+          "rank": 5,
+          "title": "Quais FIIs comprar em agosto? Veja os escolhidos por bancos e corretoras após corte da Selic",
+          "url": "https://www.estadao.com.br/einvestidor/onde-investir/quais-fiis-comprar-em-agosto-veja-os-escolhidos-por-bancos-e-corretoras-apos-corte-da-selic/"
         }
       ],
       "erro": null

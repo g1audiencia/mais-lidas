@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 16:45",
+  "atualizado_em": "07/08/2026 16:47",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Caixa coloca apartamento de Eduardo Bolsonaro em leilão",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/caixa-coloca-apartamento-de-eduardo-bolsonaro-em-leilao.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Senado dos EUA confirma Daniel Perez para embaixada no Brasil em meio a crise com governo Lula",
           "url": "https://www1.folha.uol.com.br/mundo/2026/08/em-meio-a-crise-com-brasil-senado-dos-eua-confirma-daniel-perez-como-embaixador.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Cúpula da Voepass orientava em grupo de WhatsApp que falhas fossem omitidas, diz PF",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/cupula-da-voepass-orientava-em-grupo-de-whatsapp-que-falhas-fossem-omitidas-diz-pf.shtml"
         },
         {
-          "rank": 4,
-          "title": "Patrimônio de Zema aumenta R$ 49 milhões em quatro anos",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/patrimonio-de-zema-aumenta-r-49-milhoes-em-quatro-anos.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Gostou de 'O Convite'? Veja 6 filmes e séries no streaming sobre sexo e relacionamento",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/gostou-de-o-convite-veja-6-filmes-e-series-no-streaming-sobre-sexo-e-relacionamento.shtml"
+          "title": "Governo Trump cobra 'proposta satisfatória' para não punir Brasil em cota de açúcar",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/governo-trump-cobra-proposta-satisfatoria-para-nao-punir-brasil-em-cota-de-acucar.shtml"
         }
       ],
       "erro": null

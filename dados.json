@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 18:44",
+  "atualizado_em": "07/08/2026 18:45",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "‘Não existe bom pai que bate na mãe dos filhos’, diz Lili de Grammont, filha de Lindomar Castilho",
-          "url": "https://www.estadao.com.br/brasil/nao-existe-bom-pai-que-bate-na-mae-dos-filhos-diz-lili-de-grammont-filha-de-lindomar-castilho/"
-        },
-        {
-          "rank": 3,
-          "title": "Lula chama Marco Rubio de ‘bolsonarista’ e ‘anti-latino-americano’",
-          "url": "https://www.estadao.com.br/politica/lula-chama-marco-rubio-de-bolsonarista-e-anti-latino-americano/"
-        },
-        {
-          "rank": 4,
           "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
         },
         {
+          "rank": 3,
+          "title": "Roubos de casas e carros assustam o Morumbi: ‘Sensação de liberdade do criminoso’",
+          "url": "https://www.estadao.com.br/sao-paulo/roubos-de-casas-e-carros-assustam-o-morumbi-sensacao-de-liberdade-do-criminoso/"
+        },
+        {
+          "rank": 4,
+          "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
+          "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
+        },
+        {
           "rank": 5,
-          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         }
       ],
       "erro": null

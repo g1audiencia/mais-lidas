@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 03:43",
+  "atualizado_em": "07/08/2026 03:44",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Marcola é Lula",
-          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
-        },
-        {
-          "rank": 2,
           "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
           "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
+          "rank": 2,
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+        },
+        {
           "rank": 3,
-          "title": "Alex Escobar passa por cirurgia para retirada de tumor em hospital no Rio de Janeiro",
-          "url": "https://www.estadao.com.br/esportes/alex-escobar-passa-por-cirurgia-para-retirada-de-tumor-em-hospital-no-rio-de-janeiro-npres/"
+          "title": "Mendonça e ministro da Justiça selam acordo para arrefecer tensão entre STF  e direção da PF",
+          "url": "https://www.estadao.com.br/politica/ministro-da-justica-se-reune-com-andre-mendonca-para-tentar-amenizar-crise-com-a-policia-federal/"
         },
         {
           "rank": 4,
-          "title": "Lavar o cabelo todo dia promove ou combate a queda dos fios?",
-          "url": "https://www.estadao.com.br/pulsa/autocuidado/lavar-o-cabelo-todo-dia-promove-ou-combate-a-queda-dos-fios/"
+          "title": "CNJ enterra aposentadoria com salários como punição a juízes acusados de corrupção e abusos",
+          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-enterra-aposentadoria-com-salarios-como-punicao-a-juizes-acusados-de-corrupcao-e-abusos/"
         },
         {
           "rank": 5,
-          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
-          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         }
       ],
       "erro": null

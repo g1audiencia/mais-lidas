@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 04:34",
+  "atualizado_em": "07/08/2026 04:36",
   "portais": [
     {
       "portal": "Folha",
@@ -194,23 +194,23 @@
         },
         {
           "rank": 2,
-          "title": "Irmã de Kim Jong-un ganha protagonismo e sobe o tom contra o Japão",
-          "url": "https://noticias.r7.com/internacional/irma-de-kim-jong-un-ganha-protagonismo-na-coreia-do-norte-e-sobe-o-tom-contra-o-japao-05082026/"
-        },
-        {
-          "rank": 3,
           "title": "Embaixador da Argentina pode deixar o Brasil após alteração em relações",
           "url": "https://noticias.r7.com/prisma/diplomacia-e-embaixadas/embaixador-da-argentina-e-avisado-pelo-itamaraty-que-pode-deixar-o-brasil-apos-rebaixamento-das-relacoes-diplomaticas-05082026/"
         },
         {
+          "rank": 3,
+          "title": "Irmã de Kim Jong-un ganha protagonismo e sobe o tom contra o Japão",
+          "url": "https://noticias.r7.com/internacional/irma-de-kim-jong-un-ganha-protagonismo-na-coreia-do-norte-e-sobe-o-tom-contra-o-japao-05082026/"
+        },
+        {
           "rank": 4,
-          "title": "Palmeiras perde para o Fortaleza, mas avança às quartas da Copa do Brasil",
-          "url": "https://esportes.r7.com/jogada-10/palmeiras-perde-para-o-fortaleza-mas-avanca-as-quartas-da-copa-do-brasil-06082026/"
+          "title": "Cosme: Neymar escapa da suspensão após confusão; Remo deve ser punido",
+          "url": "https://esportes.r7.com/prisma/cosme-rimoli/neymar-escapa-do-stjd-os-palavroes-as-provocacoes-foram-reacoes-naturais-e-quem-deve-ser-punido-pela-confusao-em-belem-e-so-o-remo-direcao-revoltada-06082026/"
         },
         {
           "rank": 5,
-          "title": "Bortoleto recebe apoio de Verstappen após crítica à Fórmula 1 2026",
-          "url": "https://esportes.r7.com/lance/bortoleto-recebe-apoio-de-verstappen-apos-critica-a-f1-2026-05082026/"
+          "title": "RJ suspende aulas da rede municipal após previsão de ventos de 90 km/h",
+          "url": "https://noticias.r7.com/rio-de-janeiro/rio-suspende-aulas-da-rede-municipal-apos-previsao-de-ventos-acima-de-90-kmh-07082026/"
         }
       ],
       "erro": null

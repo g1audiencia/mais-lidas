@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 15:07",
+  "atualizado_em": "07/08/2026 15:08",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
+          "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
+        },
+        {
+          "rank": 4,
           "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
           "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
-        },
-        {
-          "rank": 5,
-          "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
-          "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
         }
       ],
       "erro": null
@@ -253,13 +253,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-          "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
+          "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+          "url": "https://www.bbc.com/news/articles/cwyq80jqqleo"
         },
         {
           "rank": 2,
-          "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-          "url": "https://www.bbc.com/news/articles/cwyq80jqqleo"
+          "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+          "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
         },
         {
           "rank": 3,

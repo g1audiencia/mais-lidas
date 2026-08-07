@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 03:34",
+  "atualizado_em": "07/08/2026 03:38",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Diniz detona arbitragem após eliminação do Corinthians: ‘Foi determinante no confronto’",
-          "url": "https://www.estadao.com.br/esportes/futebol/diniz-detona-arbitragem-apos-eliminacao-do-corinthians-foi-determinante-no-confronto/"
-        },
-        {
-          "rank": 2,
           "title": "Marcola é Lula",
           "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
         },
         {
+          "rank": 2,
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
+        },
+        {
           "rank": 3,
-          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
-          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+          "title": "Alex Escobar passa por cirurgia para retirada de tumor em hospital no Rio de Janeiro",
+          "url": "https://www.estadao.com.br/esportes/alex-escobar-passa-por-cirurgia-para-retirada-de-tumor-em-hospital-no-rio-de-janeiro-npres/"
         },
         {
           "rank": 4,
-          "title": "Diplomata dos EUA participará de reunião no TSE após Brasil negar visto a oficiais americanos",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/diplomata-dos-eua-participara-de-reuniao-no-tse-apos-brasil-negar-visto-a-oficiais-americanos/"
+          "title": "Lavar o cabelo todo dia promove ou combate a queda dos fios?",
+          "url": "https://www.estadao.com.br/pulsa/autocuidado/lavar-o-cabelo-todo-dia-promove-ou-combate-a-queda-dos-fios/"
         },
         {
           "rank": 5,
-          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
         }
       ],
       "erro": null

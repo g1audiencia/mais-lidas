@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 16:47",
+  "atualizado_em": "07/08/2026 16:49",
   "portais": [
     {
       "portal": "Folha",
@@ -7,28 +7,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Caixa coloca apartamento de Eduardo Bolsonaro em leilão",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/caixa-coloca-apartamento-de-eduardo-bolsonaro-em-leilao.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Senado dos EUA confirma Daniel Perez para embaixada no Brasil em meio a crise com governo Lula",
           "url": "https://www1.folha.uol.com.br/mundo/2026/08/em-meio-a-crise-com-brasil-senado-dos-eua-confirma-daniel-perez-como-embaixador.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Cúpula da Voepass orientava em grupo de WhatsApp que falhas fossem omitidas, diz PF",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/cupula-da-voepass-orientava-em-grupo-de-whatsapp-que-falhas-fossem-omitidas-diz-pf.shtml"
         },
         {
-          "rank": 4,
-          "title": "Patrimônio de Zema aumenta R$ 49 milhões em quatro anos",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/patrimonio-de-zema-aumenta-r-49-milhoes-em-quatro-anos.shtml"
-        },
-        {
           "rank": 5,
-          "title": "Gostou de 'O Convite'? Veja 6 filmes e séries no streaming sobre sexo e relacionamento",
-          "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/gostou-de-o-convite-veja-6-filmes-e-series-no-streaming-sobre-sexo-e-relacionamento.shtml"
+          "title": "Governo Trump cobra 'proposta satisfatória' para não punir Brasil em cota de açúcar",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/governo-trump-cobra-proposta-satisfatoria-para-nao-punir-brasil-em-cota-de-acucar.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
-        },
-        {
-          "rank": 2,
           "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
         },
         {
-          "rank": 3,
-          "title": "‘Não existe bom pai que bate na mãe dos filhos’, diz Lili de Grammont, filha de Lindomar Castilho",
-          "url": "https://www.estadao.com.br/brasil/nao-existe-bom-pai-que-bate-na-mae-dos-filhos-diz-lili-de-grammont-filha-de-lindomar-castilho/"
+          "rank": 2,
+          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
         },
         {
+          "rank": 4,
+          "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
+          "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
+        },
+        {
           "rank": 5,
-          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
-          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
+          "title": "‘Não existe bom pai que bate na mãe dos filhos’, diz Lili de Grammont, filha de Lindomar Castilho",
+          "url": "https://www.estadao.com.br/brasil/nao-existe-bom-pai-que-bate-na-mae-dos-filhos-diz-lili-de-grammont-filha-de-lindomar-castilho/"
         }
       ],
       "erro": null

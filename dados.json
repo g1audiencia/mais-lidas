@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 06:04",
+  "atualizado_em": "07/08/2026 06:07",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
-        },
-        {
-          "rank": 2,
           "title": "Marcola é Lula",
           "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
         },
         {
+          "rank": 2,
+          "title": "Cadeira de Buzzi está em disputa desde antes da punição do STJ",
+          "url": "https://www.estadao.com.br/politica/cadeira-de-buzzi-esta-em-disputa-desde-antes-da-punicao-do-stj/"
+        },
+        {
           "rank": 3,
-          "title": "Ex-governador de MT, juiz e deputado são alvo da PF por desvio de R$ 308 milhões em acordo com a Oi",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/desvio-de-r-308-milhoes-em-contrato-com-empresa-de-telefonia-em-mt-leva-pf-a-executar-25-buscas/"
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         },
         {
           "rank": 4,
-          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
         },
         {
           "rank": 5,
-          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
-          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+          "title": "Desajuste fiscal transforma o Brasil no país do super-rentismo",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/desajuste-fiscal-transforma-o-brasil-no-pais-do-super-rentismo/"
         }
       ],
       "erro": null

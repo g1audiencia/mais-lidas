@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 19:32",
+  "atualizado_em": "07/08/2026 19:33",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Lula chama Marco Rubio de ‘bolsonarista’ e ‘anti-latino-americano’",
-          "url": "https://www.estadao.com.br/politica/lula-chama-marco-rubio-de-bolsonarista-e-anti-latino-americano/"
-        },
-        {
-          "rank": 3,
           "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
           "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
         },
         {
+          "rank": 3,
+          "title": "Roubos de casas e carros assustam o Morumbi: ‘Sensação de liberdade do criminoso’",
+          "url": "https://www.estadao.com.br/sao-paulo/roubos-de-casas-e-carros-assustam-o-morumbi-sensacao-de-liberdade-do-criminoso/"
+        },
+        {
           "rank": 4,
-          "title": "Navios da 2ª Guerra estão reaparecendo no meio do Danúbio em meio a onda de calor na Europa",
-          "url": "https://www.estadao.com.br/internacional/navios-da-2-guerra-estao-reaparecendo-no-meio-do-danubio-em-meio-a-onda-de-calor-na-europa/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
           "rank": 5,
-          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
+          "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
         }
       ],
       "erro": null

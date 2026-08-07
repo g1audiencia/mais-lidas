@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 10:12",
+  "atualizado_em": "07/08/2026 10:13",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Bruno Gagliasso fala pela 1ª vez sobre polêmica com rede de fast food",
-          "url": "https://hugogloss.uol.com.br/famosos/bruno-gagliasso-fala-pela-primeira-vez-sobre-polemica-com-turno-de-rede-de-fast-food/"
-        },
-        {
-          "rank": 3,
           "title": "Kéfera faz topless durante banho de sol à beira da piscina",
           "url": "https://natelinha.uol.com.br/famosos/2026/08/06/kefera-faz-topless-com-bumbum-para-cima-foto-245790.php"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Família decide sair de casa após encontrar 10 escorpiões dentro do imóvel em SP",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/tensao-familia-de-sp-vive-pesadelo-ao-encontrar-dez-escorpioes-em-casa.ghtm"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Pai é preso suspeito de mandar matar filho por dívida de R$ 50 mil no interior de Goiás",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/pai-e-preso-suspeito-de-matar-filho-por-divida-de-r-50-mil-em-goias.ghtm"
+        },
+        {
+          "rank": 5,
+          "title": "Bruno Gagliasso fala pela 1ª vez sobre polêmica com rede de fast food",
+          "url": "https://hugogloss.uol.com.br/famosos/bruno-gagliasso-fala-pela-primeira-vez-sobre-polemica-com-turno-de-rede-de-fast-food/"
         }
       ],
       "erro": null

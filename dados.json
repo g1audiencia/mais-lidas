@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 11:26",
+  "atualizado_em": "07/08/2026 11:27",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
-        },
-        {
-          "rank": 2,
-          "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h; porto e balsa de Santos retomam operações",
-          "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
-        },
-        {
-          "rank": 3,
           "title": "Marcola é Lula",
           "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
         },
         {
-          "rank": 4,
+          "rank": 2,
+          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
+        },
+        {
+          "rank": 3,
           "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
           "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
           "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
+        },
+        {
+          "rank": 5,
+          "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h; porto e balsa de Santos retomam operações",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 13:16",
+  "atualizado_em": "07/08/2026 13:19",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Entenda quem pode ter isenção de impostos para comprar carros após decisão do STF",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/08/entenda-quem-pode-ter-isencao-de-impostos-para-comprar-carros-apos-decisao-do-stf.shtml"
-        },
-        {
-          "rank": 3,
           "title": "Ministros do STF sinalizam apoio à proposta de súmula de Gilmar Mendes para barrar pautas-bomba",
           "url": "https://www1.folha.uol.com.br/mercado/2026/08/ministros-do-stf-sinalizam-apoio-a-proposta-de-sumula-de-gilmar-mendes-para-barrar-pautas-bomba.shtml"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Alex Escobar passa por cirurgia no Rio para retirada de tumor no timo",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/08/alex-escobar-passa-por-cirurgia-no-rio-para-retirada-de-tumor-no-timo.shtml"
         },
         {
+          "rank": 4,
+          "title": "Ataques da Ucrânia levam apoio à guerra ao menor nível na Rússia",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/ataques-da-ucrania-levam-apoio-a-guerra-ao-menor-nivel-na-russia.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Ventania do ciclone-bomba deve atingir capital e litoral paulista nesta sexta (7)",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/ventania-do-ciclone-bomba-deve-atingir-capital-e-litoral-paulista-nesta-sexta-7.shtml"
+          "title": "Governo do Rio pede falência da Refit na Justiça por dívida bilionária",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/governo-do-rio-pede-falencia-da-refit-na-justica-por-divida-bilionaria.shtml"
         }
       ],
       "erro": null
@@ -118,7 +118,7 @@
         },
         {
           "rank": 4,
-          "title": "Defesa Civil dispara novos alertas de celular por risco de chuva e ventos fortes no Rio: 'Busque local seguro'",
+          "title": "Defesa Civil dispara alertas de celular na madrugada por risco de chuva e ventos fortes no Rio",
           "url": "https://oglobo.globo.com/rio/noticia/2026/08/07/novo-alerta-defesa-civil.ghtml"
         },
         {
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Ameaças de Trump no Ártico estão empurrando a Islândia para os braços da União Europeia",
-          "url": "https://www.estadao.com.br/internacional/ameacas-de-trump-no-artico-estao-empurrando-a-islandia-para-os-bracos-da-uniao-europeia/"
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         },
         {
           "rank": 3,
-          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
-          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
+          "title": "STF tentou frear penduricalhos, mas brecha está aberta e juízes querem mais",
+          "url": "https://www.estadao.com.br/politica/carolina-brigido/stf-tentou-frear-penduricalhos-mas-brecha-esta-aberta-e-juizes-querem-mais/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
+          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
         }
       ],
       "erro": null
@@ -236,8 +236,8 @@
         },
         {
           "rank": 4,
-          "title": "Youngest Black professor at Cambridge resigns as university investigates allegations of plagiarism",
-          "url": "https://apnews.com/article/britain-cambridge-professor-arday-culture-wars-black-dddb05e9ade901ec35f85b6b3e7d9056"
+          "title": "South Korean satellite captures before and after views of SpaceX rocket’s moon crash",
+          "url": "https://apnews.com/article/spacex-rocket-moon-crash-61dc5c43f671623622960013e06aeeb1"
         }
       ],
       "erro": null

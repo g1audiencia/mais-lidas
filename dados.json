@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 09:25",
+  "atualizado_em": "07/08/2026 09:27",
   "portais": [
     {
       "portal": "Folha",
@@ -71,23 +71,23 @@
       "items": [
         {
           "rank": 1,
+          "title": "Defesa Civil emite novo alerta para ventos e chuva forte no Rio de Janeiro",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/defesa-civil-emite-novo-alerta-para-ventos-e-chuva-forte-no-rio-de-janeiro/"
+        },
+        {
+          "rank": 2,
           "title": "Ciclone-bomba: veja regiões com previsão de ventos fortes no estado de SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ciclone-bomba-veja-regioes-com-previsao-de-ventos-fortes-no-estado-de-sp/"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Xuxa desabafa sobre ataques de Mara Maravilha: “Quer pegar carona na nave”",
           "url": "https://www.cnnbrasil.com.br/pop/celebridades/xuxa-desabafa-sobre-ataques-de-mara-maravilha-quer-pegar-carona-na-nave/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ciclone-bomba: aulas são suspensas após previsão de ventania no Rio",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/ciclone-bomba-aulas-sao-suspensas-apos-previsao-de-ventania-no-rio/"
-        },
-        {
-          "rank": 4,
-          "title": "Defesa Civil emite novo alerta para ventos e chuva forte no Rio de Janeiro",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/defesa-civil-emite-novo-alerta-para-ventos-e-chuva-forte-no-rio-de-janeiro/"
         },
         {
           "rank": 5,
@@ -150,13 +150,13 @@
         },
         {
           "rank": 4,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h; balsa e porto de Santos paralisam operação",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
         },
         {
           "rank": 5,
-          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
+          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
+          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
         }
       ],
       "erro": null

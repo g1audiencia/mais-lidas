@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 16:28",
+  "atualizado_em": "07/08/2026 16:30",
   "portais": [
     {
       "portal": "Folha",
@@ -253,18 +253,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-          "url": "https://www.bbc.com/news/articles/cwyq80jqqleo"
-        },
-        {
-          "rank": 2,
           "title": "Mysterious orb seen racing over residential area in new UFO files",
           "url": "https://www.bbc.com/news/articles/ce8kr7p2pmdo"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
           "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
+        },
+        {
+          "rank": 3,
+          "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+          "url": "https://www.bbc.com/news/articles/cwyq80jqqleo"
         },
         {
           "rank": 4,

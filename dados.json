@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 16:16",
+  "atualizado_em": "07/08/2026 16:18",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Senado dos EUA confirma Daniel Perez para embaixada no Brasil em meio a crise com governo Lula",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/em-meio-a-crise-com-brasil-senado-dos-eua-confirma-daniel-perez-como-embaixador.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Governo Trump cobra 'proposta satisfatória' para não punir Brasil em cota de açúcar",
           "url": "https://www1.folha.uol.com.br/mercado/2026/08/governo-trump-cobra-proposta-satisfatoria-para-nao-punir-brasil-em-cota-de-acucar.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Senado dos EUA confirma Daniel Perez para embaixada no Brasil em meio a crise com governo Lula",
-          "url": "https://www1.folha.uol.com.br/mundo/2026/08/em-meio-a-crise-com-brasil-senado-dos-eua-confirma-daniel-perez-como-embaixador.shtml"
         },
         {
           "rank": 4,
@@ -49,13 +49,13 @@
         },
         {
           "rank": 3,
-          "title": "Ciclone causa danos no RS, suspende aulas no RJ e fecha o porto de Santos (SP)",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/07/ciclone-sul-sudeste-emergencia-climatica-brasil.ghtm"
+          "title": "Onde fica o timo, órgão pouco conhecido de onde Alex Escobar teve tumor retirado",
+          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/07/onde-fica-o-timo-orgao-pouco-conhecido-em-que-alex-escobar-teve-tumor.ghtm"
         },
         {
           "rank": 4,
-          "title": "Onde fica o timo, órgão pouco conhecido de onde Alex Escobar teve tumor retirado",
-          "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/07/onde-fica-o-timo-orgao-pouco-conhecido-em-que-alex-escobar-teve-tumor.ghtm"
+          "title": "Ciclone causa danos no RS, suspende aulas no RJ e fecha o porto de Santos (SP)",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/07/ciclone-sul-sudeste-emergencia-climatica-brasil.ghtm"
         },
         {
           "rank": 5,

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 12:25",
+  "atualizado_em": "07/08/2026 12:27",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Marcola é Lula",
-          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
-        },
-        {
-          "rank": 3,
           "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
           "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
         },
         {
+          "rank": 3,
+          "title": "Marcola é Lula",
+          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
+        },
+        {
           "rank": 4,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
+          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
+          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
         },
         {
           "rank": 5,
-          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
-          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         }
       ],
       "erro": null
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Chefes de gabinete de Zoe pedem demissão após divulgação de patrimônio",
-          "url": "https://www.metropoles.com/sao-paulo/zoe-demissao-patrimonio"
+          "title": "Ciclone-bomba: ventos de até 110 km/h deixam Sul e Sudeste sob alerta máximo",
+          "url": "https://www.metropoles.com/brasil/ciclone-bomba-ventos-de-ate-110-km-h-deixam-sul-e-sudeste-sob-alerta"
         },
         {
           "rank": 2,
-          "title": "Jair Renan Bolsonaro declara patrimônio quatro vezes maior que em 2024",
-          "url": "https://www.metropoles.com/brasil/jair-renan-bolsonaro-declara-patrimonio-quatro-vezes-maior-que-em-2024"
+          "title": "PM arranca à força motorista de ônibus que pediu passagem para viatura.",
+          "url": "https://www.metropoles.com/sao-paulo/pm-arranca-motorista-onibus"
         },
         {
           "rank": 3,
-          "title": "Marcola e Lulinha: campanha de Lula tem semana de crise e mede impacto",
-          "url": "https://www.metropoles.com/brasil/marcola-e-lulinha-campanha-de-lula-tem-semana-de-crise-e-mede-impacto"
+          "title": "Ciclone-bomba tem ventos de 132 km/h e deixa rastro de destruição pelo país.",
+          "url": "https://www.metropoles.com/brasil/ciclone-bomba-se-intensifca-com-ventos-de-ate-132-km-h-ha-morte-no-rs"
         }
       ],
       "erro": null

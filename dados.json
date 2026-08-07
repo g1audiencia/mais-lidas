@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 16:26",
+  "atualizado_em": "07/08/2026 16:28",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
-        },
-        {
-          "rank": 3,
-          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
-          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
-        },
-        {
-          "rank": 4,
           "title": "‘Não existe bom pai que bate na mãe dos filhos’, diz Lili de Grammont, filha de Lindomar Castilho",
           "url": "https://www.estadao.com.br/brasil/nao-existe-bom-pai-que-bate-na-mae-dos-filhos-diz-lili-de-grammont-filha-de-lindomar-castilho/"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
+        },
+        {
+          "rank": 4,
+          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
+          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
+        },
+        {
+          "rank": 5,
+          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
         }
       ],
       "erro": null

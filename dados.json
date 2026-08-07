@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 23:24",
+  "atualizado_em": "06/08/2026 23:29",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+          "title": "Agência de Comunicação",
+          "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/agencia-memoria-da-eletricidade/francisco-canhos-inventor-chuveiro-eletrico/"
         },
         {
           "rank": 2,
-          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
-          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
           "rank": 3,
-          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
+          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
+          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Lavar o cabelo todo dia promove ou combate a queda dos fios?",
-          "url": "https://www.estadao.com.br/pulsa/autocuidado/lavar-o-cabelo-todo-dia-promove-ou-combate-a-queda-dos-fios/"
+          "title": "Projeto bilionário prevê reativar ferrovia que liga interior ao litoral de SP; veja como será",
+          "url": "https://www.estadao.com.br/sao-paulo/projeto-bilionario-preve-reativar-ferrovia-que-liga-interior-ao-litoral-de-sp-veja-como-sera/"
         }
       ],
       "erro": null
@@ -253,23 +253,23 @@
         },
         {
           "rank": 2,
-          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
-        },
-        {
-          "rank": 3,
-          "title": "Artificial Intelligence used to design brand new viruses",
-          "url": "https://www.bbc.com/news/articles/c5y3j3ngevmo"
-        },
-        {
-          "rank": 4,
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
           "url": "https://www.bbc.com/news/articles/cd7lz3wr2rlo"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
+        },
+        {
+          "rank": 4,
           "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
           "url": "https://www.bbc.com/news/articles/cn4n1eyze05o"
+        },
+        {
+          "rank": 5,
+          "title": "Artificial Intelligence used to design brand new viruses",
+          "url": "https://www.bbc.com/news/articles/c5y3j3ngevmo"
         }
       ],
       "erro": null

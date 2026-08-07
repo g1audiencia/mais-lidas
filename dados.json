@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 00:16",
+  "atualizado_em": "07/08/2026 00:21",
   "portais": [
     {
       "portal": "Folha",
@@ -12,13 +12,13 @@
         },
         {
           "rank": 2,
-          "title": "Alice Carvalho evita confirmar romance com Anitta e diz: 'Me relaciono de CPF para CPF'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/alice-carvalho-evita-confirmar-romance-com-anitta-e-diz-me-relaciono-de-cpf-para-cpf.shtml"
+          "title": "STJ decide tirar cargo de ministro Marco Buzzi por acusações de assédio sexual",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/stj-decide-punir-ministro-marco-buzzi-com-perda-de-cargo-por-acusacoes-de-assedio-sexual.shtml"
         },
         {
           "rank": 3,
-          "title": "STJ decide tirar cargo de ministro Marco Buzzi por acusações de assédio sexual",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/stj-decide-punir-ministro-marco-buzzi-com-perda-de-cargo-por-acusacoes-de-assedio-sexual.shtml"
+          "title": "Alice Carvalho evita confirmar romance com Anitta e diz: 'Me relaciono de CPF para CPF'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/alice-carvalho-evita-confirmar-romance-com-anitta-e-diz-me-relaciono-de-cpf-para-cpf.shtml"
         },
         {
           "rank": 4,
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
+          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+        },
+        {
+          "rank": 4,
           "title": "O suspiro final do Universo: como a Física prevê o fim de tudo e o que isso significa para nós",
           "url": "https://www.estadao.com.br/ciencia/o-suspiro-final-do-universo-como-a-fisica-preve-o-fim-de-tudo-e-o-que-isso-significa-para-nos/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
           "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
-        },
-        {
-          "rank": 5,
-          "title": "Mendonça e ministro da Justiça selam acordo para arrefecer tensão entre STF  e direção da PF",
-          "url": "https://www.estadao.com.br/politica/ministro-da-justica-se-reune-com-andre-mendonca-para-tentar-amenizar-crise-com-a-policia-federal/"
         }
       ],
       "erro": null

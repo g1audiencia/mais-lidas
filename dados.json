@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 17:39",
+  "atualizado_em": "07/08/2026 17:41",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
+          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
+        },
+        {
+          "rank": 4,
           "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
         },
         {
-          "rank": 4,
-          "title": "Marcola é Lula",
-          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
-        },
-        {
           "rank": 5,
-          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
-          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         }
       ],
       "erro": null

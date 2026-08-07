@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 05:28",
+  "atualizado_em": "07/08/2026 05:31",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Marcola é Lula",
-          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
-        },
-        {
-          "rank": 2,
-          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
-          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
-        },
-        {
-          "rank": 3,
           "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
           "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
+          "rank": 2,
+          "title": "Marcola é Lula",
+          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
+        },
+        {
+          "rank": 3,
+          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
+          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+        },
+        {
           "rank": 4,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
         },
         {
           "rank": 5,
-          "title": "Como é e onde será a maior ponte do Estado de São Paulo",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-e-onde-sera-a-maior-ponte-do-estado-de-sao-paulo/"
+          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
+          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
         }
       ],
       "erro": null

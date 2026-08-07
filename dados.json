@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 14:52",
+  "atualizado_em": "07/08/2026 14:53",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
-          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
-        },
-        {
-          "rank": 4,
           "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
         },
         {
+          "rank": 4,
+          "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
+          "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
+        },
+        {
           "rank": 5,
-          "title": "Justiça expede mandado de prisão contra suspeito de matar advogado na Vila Madalena",
-          "url": "https://www.estadao.com.br/sao-paulo/justica-expede-mandado-de-prisao-contra-suspeito-de-matar-advogado-na-vila-madalena-npr/"
+          "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
+          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
         }
       ],
       "erro": null

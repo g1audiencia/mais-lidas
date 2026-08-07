@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 02:46",
+  "atualizado_em": "07/08/2026 02:51",
   "portais": [
     {
       "portal": "Folha",
@@ -22,13 +22,13 @@
         },
         {
           "rank": 4,
-          "title": "'Supergirl' encerra passagem pelos cinemas como maior fracasso da DC em 16 anos",
-          "url": "https://f5.folha.uol.com.br/cinema-e-series/2026/08/supergirl-encerra-passagem-pelos-cinemas-como-maior-fracasso-da-dc-em-16-anos.shtml"
+          "title": "'Não é câncer, é cálcio'; pacientes veem tumor avançar após médica indicar tratamento com testosterona",
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/nao-e-cancer-e-calcio-pacientes-veem-tumor-avancar-apos-medica-indicar-tratamento-com-testosterona.shtml"
         },
         {
           "rank": 5,
-          "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
+          "title": "Tornado atinge cidade no RS, e Defesa Civil emite alerta máximo para Porto Alegre e região",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/tornado-atinge-cidade-no-rs-e-defesa-civil-emite-alerta-maximo-para-porto-alegre-e-regiao.shtml"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
           "rank": 2,
-          "title": "STJ condena Marco Buzzi por assédio sexual e importunação e indica perda de cargo do ministro",
-          "url": "https://www.estadao.com.br/politica/stj-condena-marco-buzzi-por-assedio-sexual-e-importunacao/"
-        },
-        {
-          "rank": 3,
           "title": "CNJ enterra aposentadoria com salários como punição a juízes acusados de corrupção e abusos",
           "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-enterra-aposentadoria-com-salarios-como-punicao-a-juizes-acusados-de-corrupcao-e-abusos/"
         },
         {
+          "rank": 3,
+          "title": "CPTM pede liberação para trem que ligará litoral de SP ao interior; veja trajeto",
+          "url": "https://www.estadao.com.br/sao-paulo/cptm-pede-liberacao-para-trem-que-ligara-litoral-de-sp-ao-interior-veja-trajeto/"
+        },
+        {
           "rank": 4,
-          "title": "Pela 1ª vez, cientistas usam IA para criar um vírus: ‘Qual é o risco do que nunca vimos antes?’",
-          "url": "https://www.estadao.com.br/ciencia/pela-1-vez-cientistas-usam-ia-para-criar-um-virus-qual-e-o-risco-do-que-nunca-vimos-antes/"
+          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         },
         {
           "rank": 5,
-          "title": "PF pede abertura de inquérito para apurar acusação de estupro contra Alfredo Gaspar, vice de Flávio",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/pf-pede-abertura-de-inquerito-para-apurar-acusacao-de-estupro-contra-alfredo-gaspar-vice-de-flavio/"
+          "title": "Alex Escobar passa por cirurgia para retirada de tumor em hospital no Rio de Janeiro",
+          "url": "https://www.estadao.com.br/esportes/alex-escobar-passa-por-cirurgia-para-retirada-de-tumor-em-hospital-no-rio-de-janeiro-npres/"
         }
       ],
       "erro": null

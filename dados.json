@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 06:30",
+  "atualizado_em": "07/08/2026 06:33",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
-          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
-        },
-        {
-          "rank": 3,
-          "title": "Cadeira de Buzzi está em disputa desde antes da punição do STJ",
-          "url": "https://www.estadao.com.br/politica/cadeira-de-buzzi-esta-em-disputa-desde-antes-da-punicao-do-stj/"
-        },
-        {
-          "rank": 4,
           "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
           "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         },
         {
+          "rank": 3,
+          "title": "13 pontos que você precisa saber antes de usar canetas para obesidade",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/13-pontos-que-voce-precisa-saber-antes-de-usar-canetas-para-obesidade/"
+        },
+        {
+          "rank": 4,
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
+        },
+        {
           "rank": 5,
-          "title": "Calculadora de penduricalhos: descubra como seria o seu salário com os benefícios de um juiz",
-          "url": "https://www.estadao.com.br/politica/calculadora-de-penduricalhos-descubra-como-seria-o-seu-salario-com-os-beneficios-de-um-juiz/"
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
         }
       ],
       "erro": null

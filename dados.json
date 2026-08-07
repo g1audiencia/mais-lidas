@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 13:42",
+  "atualizado_em": "07/08/2026 13:45",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
-          "title": "Dupla tenta roubar moto, PM chega segundos depois e mata os dois em SP",
-          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/ocorrencia-grande-sp-agosto-2026.ghtm"
-        },
-        {
-          "rank": 3,
           "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/07/meu-marido-virou-minha-crianca-ela-mudou-de-vida-para-cuidar-de-jovem.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Ciclone causa danos no RS, suspende aulas no RJ e fecha o porto de Santos (SP)",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/07/ciclone-sul-sudeste-emergencia-climatica-brasil.ghtm"
         },
         {
+          "rank": 4,
+          "title": "Dupla tenta roubar moto, PM chega segundos depois e mata os dois em SP",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/ocorrencia-grande-sp-agosto-2026.ghtm"
+        },
+        {
           "rank": 5,
-          "title": "Veja vídeo da passagem de tornado por Pedro Osório (RS)",
-          "url": "https://www.uol.com.br/flash/?c=27a4a9f9e22e7e46e137ab33acb1f8e420260806"
+          "title": "Príncipe William tem acessos de raiva, diz biógrafo: 'Charles tem medo dele'",
+          "url": "https://www.uol.com.br/flash/?c=986a7d8c723d9a88a8f2cfc971544cd20260806"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
-        },
-        {
-          "rank": 3,
           "title": "Ciclone-bomba causa estragos no Rio Grande do Sul e põe SP e Rio em alerta por fortes ventos",
           "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
         },
         {
+          "rank": 3,
+          "title": "‘Não existe bom pai que bate na mãe dos filhos’, diz Lili de Grammont, filha de Lindomar Castilho",
+          "url": "https://www.estadao.com.br/brasil/nao-existe-bom-pai-que-bate-na-mae-dos-filhos-diz-lili-de-grammont-filha-de-lindomar-castilho/"
+        },
+        {
           "rank": 4,
-          "title": "Marcola é Lula",
-          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         },
         {
           "rank": 5,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "Ameaças de Trump no Ártico estão empurrando a Islândia para os braços da União Europeia",
+          "url": "https://www.estadao.com.br/internacional/ameacas-de-trump-no-artico-estao-empurrando-a-islandia-para-os-bracos-da-uniao-europeia/"
         }
       ],
       "erro": null

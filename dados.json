@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 07:39",
+  "atualizado_em": "07/08/2026 07:41",
   "portais": [
     {
       "portal": "Folha",
@@ -248,28 +248,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Meta fined $567m in largest child safety ruling against social media giant",
-          "url": "https://www.bbc.com/news/articles/cd7lz3wr2rlo"
-        },
-        {
-          "rank": 2,
           "title": "Mark Hughes' son died of sudden adult death syndrome",
           "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
         },
         {
+          "rank": 2,
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "url": "https://www.bbc.com/news/articles/cd7lz3wr2rlo"
+        },
+        {
           "rank": 3,
-          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
+          "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+          "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
         },
         {
           "rank": 4,
-          "title": "Spokane wildfire arson suspect waited for dry, windy day to start blaze, police say",
-          "url": "https://www.bbc.com/news/articles/cy0j5nyxk68o"
+          "title": "Trump-backed Republican congressman loses primary in Tennessee",
+          "url": "https://www.bbc.com/news/articles/c79grd2prnro"
         },
         {
           "rank": 5,
-          "title": "England footballer Toney charged with assault in Soho",
-          "url": "https://www.bbc.com/news/articles/cpw9nz7qwyqo"
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
         }
       ],
       "erro": null

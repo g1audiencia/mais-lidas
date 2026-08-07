@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 20:09",
+  "atualizado_em": "07/08/2026 20:10",
   "portais": [
     {
       "portal": "Folha",
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Lula chama Marco Rubio de ‘bolsonarista’ e ‘anti-latino-americano’",
+          "url": "https://www.estadao.com.br/politica/lula-chama-marco-rubio-de-bolsonarista-e-anti-latino-americano/"
+        },
+        {
+          "rank": 2,
           "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
           "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         },
         {
-          "rank": 2,
-          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
-        },
-        {
           "rank": 3,
-          "title": "Lula chama Marco Rubio de ‘bolsonarista’ e ‘anti-latino-americano’",
-          "url": "https://www.estadao.com.br/politica/lula-chama-marco-rubio-de-bolsonarista-e-anti-latino-americano/"
+          "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
         },
         {
           "rank": 4,

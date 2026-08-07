@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 05:15",
+  "atualizado_em": "07/08/2026 05:18",
   "portais": [
     {
       "portal": "Folha",
@@ -12,23 +12,23 @@
         },
         {
           "rank": 2,
-          "title": "Corinthians vence o Inter, mas cai na Copa do Brasil; veja os classificados",
-          "url": "https://www1.folha.uol.com.br/esporte/2026/08/corinthians-vence-o-inter-mas-cai-na-copa-do-brasil-veja-os-classificados.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "'Eram profissionais fazendo gambiarra em uma aeronave que iria matar', diz mãe de vítima de acidente da Voepass",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/eram-profissionais-fazendo-gambiarra-em-uma-aeronave-que-iria-matar-diz-mae-de-vitima-de-acidente-da-voepass.shtml"
-        },
-        {
-          "rank": 4,
           "title": "PT planeja levar militantes de outros estados a SP para lotar ato de Lula em estádio e evitar fiasco",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/pt-planeja-levar-militantes-de-outros-estados-a-sp-para-lotar-ato-de-lula-em-estadio-e-evitar-fiasco.shtml"
         },
         {
+          "rank": 3,
+          "title": "Corinthians vence o Inter, mas cai na Copa do Brasil; veja os classificados",
+          "url": "https://www1.folha.uol.com.br/esporte/2026/08/corinthians-vence-o-inter-mas-cai-na-copa-do-brasil-veja-os-classificados.shtml"
+        },
+        {
+          "rank": 4,
+          "title": "'Eram profissionais fazendo gambiarra em uma aeronave que iria matar', diz mãe de vítima de acidente da Voepass",
+          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/eram-profissionais-fazendo-gambiarra-em-uma-aeronave-que-iria-matar-diz-mae-de-vitima-de-acidente-da-voepass.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Câncer de estômago é cada vez mais comum em adultos jovens",
-          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/cancer-de-estomago-e-cada-vez-mais-comum-em-adultos-jovens.shtml"
+          "title": "'Supergirl' encerra passagem pelos cinemas como maior fracasso da DC em 16 anos",
+          "url": "https://f5.folha.uol.com.br/cinema-e-series/2026/08/supergirl-encerra-passagem-pelos-cinemas-como-maior-fracasso-da-dc-em-16-anos.shtml"
         }
       ],
       "erro": null
@@ -140,13 +140,13 @@
         },
         {
           "rank": 2,
-          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
-          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+          "title": "Marcola é Lula",
+          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
         },
         {
           "rank": 3,
-          "title": "Marcola é Lula",
-          "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Como é e onde será a maior ponte do Estado de São Paulo",
-          "url": "https://www.estadao.com.br/sao-paulo/como-e-e-onde-sera-a-maior-ponte-do-estado-de-sao-paulo/"
+          "title": "Copa do Brasil tem classificados às quartas definidos: saiba datas, horários e formato do sorteio",
+          "url": "https://www.estadao.com.br/esportes/futebol/copa-do-brasil-tem-classificados-as-quartas-definidos-saiba-datas-horarios-formato-do-sorteio-npres/"
         }
       ],
       "erro": null
@@ -248,13 +248,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
+          "title": "Mark Hughes' son died of sudden adult death syndrome",
+          "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
         },
         {
           "rank": 2,
-          "title": "Mark Hughes' son died of sudden adult death syndrome",
-          "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
+          "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+          "url": "https://www.bbc.com/news/articles/cj63966j95yo"
         },
         {
           "rank": 3,
@@ -268,8 +268,8 @@
         },
         {
           "rank": 5,
-          "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-          "url": "https://www.bbc.com/news/articles/cqjxgx5y51lo"
+          "title": "Miss North Carolina USA stripped of title after 'information' surfaces",
+          "url": "https://www.bbc.com/news/articles/c8jnwd7w19yo"
         }
       ],
       "erro": null

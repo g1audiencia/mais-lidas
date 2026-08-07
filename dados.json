@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 12:54",
+  "atualizado_em": "07/08/2026 12:55",
   "portais": [
     {
       "portal": "Folha",
@@ -253,23 +253,23 @@
         },
         {
           "rank": 2,
+          "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+          "url": "https://www.bbc.com/news/articles/cwyq80jqqleo"
+        },
+        {
+          "rank": 3,
           "title": "Mark Hughes' son died of sudden adult death syndrome",
           "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
         },
         {
-          "rank": 3,
-          "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+          "rank": 4,
+          "title": "Seven killed after Thai student opens fire at home and school",
           "url": "https://www.bbc.com/news/articles/c980j3j578do"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump-backed Republican congressman loses primary in Tennessee",
           "url": "https://www.bbc.com/news/articles/c79grd2prnro"
-        },
-        {
-          "rank": 5,
-          "title": "Surprise fall in US jobs last month as slow summer continues",
-          "url": "https://www.bbc.com/news/articles/c20j5rle717o"
         }
       ],
       "erro": null

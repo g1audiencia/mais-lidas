@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 08:15",
+  "atualizado_em": "07/08/2026 08:17",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
-        },
-        {
-          "rank": 3,
           "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
           "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
         },
         {
+          "rank": 3,
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
+        },
+        {
           "rank": 4,
-          "title": "‘Sou o único professor de História que não é de esquerda’, diz secretário do Paraná, 1º no Ideb",
-          "url": "https://www.estadao.com.br/educacao/secretario-da-educacao-do-parana-fala-sobre-resultado-do-ideb/"
+          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         },
         {
           "rank": 5,
-          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
-          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
+          "title": "Desajuste fiscal transforma o Brasil no país do super-rentismo",
+          "url": "https://www.estadao.com.br/politica/fernando-schuler/desajuste-fiscal-transforma-o-brasil-no-pais-do-super-rentismo/"
         }
       ],
       "erro": null

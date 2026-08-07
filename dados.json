@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 07:43",
+  "atualizado_em": "07/08/2026 07:44",
   "portais": [
     {
       "portal": "Folha",
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Seca do Mar Morto gera crateras com água doce e lembra profecia bíblica",
-          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/06/seca-do-mar-morto-gera-crateras-com-agua-doce-e-lembra-profecia-biblica.ghtm"
+          "title": "Inmet emite alertas de vendaval para 11 estados; veja onde há risco",
+          "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/inmet-emite-alertas-de-vendaval-para-11-estados-veja-onde-ha-risco.ghtm"
         }
       ],
       "erro": null
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
-        },
-        {
-          "rank": 3,
-          "title": "13 pontos que você precisa saber antes de usar canetas para obesidade",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/13-pontos-que-voce-precisa-saber-antes-de-usar-canetas-para-obesidade/"
-        },
-        {
-          "rank": 4,
           "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         },
         {
+          "rank": 3,
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
+        },
+        {
+          "rank": 4,
+          "title": "SP tem alerta para chuva e ventos fortes de até 100 km/h nesta sexta-feira; veja a previsão do tempo",
+          "url": "https://www.estadao.com.br/sao-paulo/sp-tem-alerta-para-chuva-e-ventos-fortes-previsao-do-tempo-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
+          "title": "‘Não existe bom pai que bate na mãe dos filhos’, diz Lili de Grammont, filha de Lindomar Castilho",
+          "url": "https://www.estadao.com.br/brasil/nao-existe-bom-pai-que-bate-na-mae-dos-filhos-diz-lili-de-grammont-filha-de-lindomar-castilho/"
         }
       ],
       "erro": null

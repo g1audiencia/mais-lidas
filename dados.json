@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 04:03",
+  "atualizado_em": "07/08/2026 04:05",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Petrobras aprova R$ 17,4 bilhões em dividendos e JCP",
-          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/petrobras-petr3petr4-aprova-r-174-bilhoes-em-dividendos-e-jcp/"
-        },
-        {
-          "rank": 3,
-          "title": "Diplomata dos EUA participará de reunião no TSE após Brasil negar visto a oficiais americanos",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/diplomata-dos-eua-participara-de-reuniao-no-tse-apos-brasil-negar-visto-a-oficiais-americanos/"
-        },
-        {
-          "rank": 4,
           "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
           "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
         },
         {
+          "rank": 3,
+          "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
+          "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
+        },
+        {
+          "rank": 4,
+          "title": "Diniz detona arbitragem após eliminação do Corinthians: ‘Foi determinante no confronto’",
+          "url": "https://www.estadao.com.br/esportes/futebol/diniz-detona-arbitragem-apos-eliminacao-do-corinthians-foi-determinante-no-confronto/"
+        },
+        {
           "rank": 5,
-          "title": "CNJ enterra aposentadoria com salários como punição a juízes acusados de corrupção e abusos",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/cnj-enterra-aposentadoria-com-salarios-como-punicao-a-juizes-acusados-de-corrupcao-e-abusos/"
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
         }
       ],
       "erro": null

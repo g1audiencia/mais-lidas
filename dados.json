@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 14:17",
+  "atualizado_em": "07/08/2026 14:18",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Governo Trump cobra 'proposta satisfatória' para não punir Brasil em cota de açúcar",
+          "url": "https://www1.folha.uol.com.br/mercado/2026/08/governo-trump-cobra-proposta-satisfatoria-para-nao-punir-brasil-em-cota-de-acucar.shtml"
+        },
+        {
+          "rank": 2,
           "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Cúpula da Voepass orientava em grupo de WhatsApp que falhas fossem omitidas, diz PF",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/cupula-da-voepass-orientava-em-grupo-de-whatsapp-que-falhas-fossem-omitidas-diz-pf.shtml"
-        },
-        {
-          "rank": 3,
-          "title": "Governo Trump cobra 'proposta satisfatória' para não punir Brasil em cota de açúcar",
-          "url": "https://www1.folha.uol.com.br/mercado/2026/08/governo-trump-cobra-proposta-satisfatoria-para-nao-punir-brasil-em-cota-de-acucar.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "Prefeitura de RJ decreta ponto facultativo e envia alerta recomendando fim do expediente; cidade está em alerta para vendaval",
-          "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/moradores-do-rj-recebem-alerta-nos-celulares-recomendando-antecipar-fim-do-expediente-cidade-esta-em-alerta-para-vendaval.shtml"
+          "title": "Ataques da Ucrânia levam apoio à guerra ao menor nível na Rússia",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/08/ataques-da-ucrania-levam-apoio-a-guerra-ao-menor-nivel-na-russia.shtml"
         }
       ],
       "erro": null

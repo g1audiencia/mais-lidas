@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 04:24",
+  "atualizado_em": "07/08/2026 04:26",
   "portais": [
     {
       "portal": "Folha",
@@ -253,23 +253,23 @@
         },
         {
           "rank": 2,
-          "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-          "url": "https://www.bbc.com/news/articles/c89nqlz5p4qo"
-        },
-        {
-          "rank": 3,
           "title": "Meta fined $567m in largest child safety ruling against social media giant",
           "url": "https://www.bbc.com/news/articles/cd7lz3wr2rlo"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Trump again tries to limit US birthright citizenship with new executive orders",
           "url": "https://www.bbc.com/news/articles/cj63966j95yo"
         },
         {
+          "rank": 4,
+          "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+          "url": "https://www.bbc.com/news/articles/c89nqlz5p4qo"
+        },
+        {
           "rank": 5,
-          "title": "Spokane wildfire arson suspect waited for dry, windy day to start blaze, police say",
-          "url": "https://www.bbc.com/news/articles/cy0j5nyxk68o"
+          "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+          "url": "https://www.bbc.com/news/articles/cn4n03xg981o"
         }
       ],
       "erro": null

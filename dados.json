@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 08:25",
+  "atualizado_em": "07/08/2026 08:26",
   "portais": [
     {
       "portal": "Folha",
@@ -113,18 +113,18 @@
         },
         {
           "rank": 3,
-          "title": "Vendaval: prefeitura do Rio apela ao Cacique Coral e fecha consultoria climática com médium até 2051",
-          "url": "https://oglobo.globo.com/rio/noticia/2026/08/06/vendaval-prefeitura-do-rio-apela-ao-cacique-coral-e-fecha-consultoria-climatica-com-medium-ate-2051.ghtml"
-        },
-        {
-          "rank": 4,
           "title": "Defesa Civil dispara novos alertas de celular por risco de chuva e ventos fortes no Rio: 'Busque local seguro'",
           "url": "https://oglobo.globo.com/rio/noticia/2026/08/07/novo-alerta-defesa-civil.ghtml"
         },
         {
+          "rank": 4,
+          "title": "Vendaval: prefeitura do Rio apela ao Cacique Coral e fecha consultoria climática com médium até 2051",
+          "url": "https://oglobo.globo.com/rio/noticia/2026/08/06/vendaval-prefeitura-do-rio-apela-ao-cacique-coral-e-fecha-consultoria-climatica-com-medium-ate-2051.ghtml"
+        },
+        {
           "rank": 5,
-          "title": "Mudança no Mar Morto leva fiéis a relacionarem fenômeno a profecia bíblica; ciência explica",
-          "url": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/08/06/mudanca-no-mar-morto-leva-fieis-a-relacionarem-fenomeno-a-profecia-biblica-ciencia-explica.ghtml"
+          "title": "Campanha de Flávio monta defesa sobre Gaspar, e aliados de Lula preveem ofensiva sobre vice após fim do prazo de registro",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/07/campanha-de-flavio-monta-defesa-sobre-gaspar-e-aliados-de-lula-preveem-ofensiva-sobre-vice-apos-fim-do-prazo-de-registro.ghtml"
         }
       ],
       "erro": null

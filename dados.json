@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 17:37",
+  "atualizado_em": "07/08/2026 17:38",
   "portais": [
     {
       "portal": "Folha",
@@ -226,23 +226,23 @@
         },
         {
           "rank": 2,
+          "title": "Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant’s second reactor running",
+          "url": "https://apnews.com/article/romania-europe-nuclear-danube-drought-1ddb89604f06026c938363d57da53071"
+        },
+        {
+          "rank": 3,
           "title": "Trump again tries to restrict birthright citizenship after Supreme Court ruling",
           "url": "https://apnews.com/article/trump-border-immigration-birthright-citizenship-494add8239eb1c0c9f4ccb45db03f1f0"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "South Korean satellite captures before and after views of SpaceX rocket’s moon crash",
           "url": "https://apnews.com/article/spacex-rocket-moon-crash-61dc5c43f671623622960013e06aeeb1"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Lindsay Clancy sobs at murder trial as jurors view autopsy photos of her youngest child",
           "url": "https://apnews.com/article/lindsay-clancy-murder-trial-autopsy-photos-757f3d658943cb7a993aeba42f0c7e5d"
-        },
-        {
-          "rank": 5,
-          "title": "McConnell says he’s leaving rehabilitation center to continue recovery at home",
-          "url": "https://apnews.com/article/mitch-mcconnell-health-rehab-hospital-recovery-3a2a633482882c25471b52baec1ebba0"
         }
       ],
       "erro": null

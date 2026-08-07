@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 12:30",
+  "atualizado_em": "07/08/2026 12:32",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
-          "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
-        },
-        {
-          "rank": 3,
           "title": "Marcola é Lula",
           "url": "https://www.estadao.com.br/opiniao/marcola-e-lula/"
         },
         {
+          "rank": 3,
+          "title": "Não basta emagrecer: consenso aponta novos cuidados no tratamento com canetas para obesidade",
+          "url": "https://www.estadao.com.br/pulsa/nutricao/nao-basta-emagrecer-consenso-aponta-novos-cuidados-no-tratamento-com-canetas-para-obesidade/"
+        },
+        {
           "rank": 4,
-          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
-          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
+          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
+          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
         },
         {
           "rank": 5,
-          "title": "Brasil vai enfrentar deterioração crescente se não resolver o fiscal, dizem Vescovi e Schwartsman",
-          "url": "https://www.estadao.com.br/economia/brasil-vai-enfrentar-deterioracao-crescente-se-nao-resolver-o-fiscal-dizem-vescovi-e-schwartsman/"
+          "title": "Ventos de 109 km/h atingem Santos; cidades do litoral paulista suspendem aulas devido à ventania",
+          "url": "https://www.estadao.com.br/sao-paulo/ventos-santos-cidades-litoral-paulista-aulas-suspensas-ventania-npr/"
         }
       ],
       "erro": null

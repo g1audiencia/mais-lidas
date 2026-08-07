@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 14:45",
+  "atualizado_em": "07/08/2026 14:47",
   "portais": [
     {
       "portal": "Folha",
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Caixa leva a leilão apartamento de Eduardo Bolsonaro no Rio",
+          "url": "https://www.metropoles.com/brasil/caixa-leva-a-leilao-apartamento-de-eduardo-bolsonaro-no-rio"
+        },
+        {
+          "rank": 2,
           "title": "Ciclone-bomba: ventos de até 110 km/h deixam Sul e Sudeste sob alerta máximo",
           "url": "https://www.metropoles.com/brasil/ciclone-bomba-ventos-de-ate-110-km-h-deixam-sul-e-sudeste-sob-alerta"
         },
         {
-          "rank": 2,
-          "title": "PM arranca à força motorista de ônibus que pediu passagem para viatura.",
-          "url": "https://www.metropoles.com/sao-paulo/pm-arranca-motorista-onibus"
-        },
-        {
           "rank": 3,
-          "title": "Ciclone-bomba tem ventos de 132 km/h e deixa rastro de destruição pelo país.",
-          "url": "https://www.metropoles.com/brasil/ciclone-bomba-se-intensifca-com-ventos-de-ate-132-km-h-ha-morte-no-rs"
+          "title": "Ata do PL abre caminho para vice de Flávio voltar à disputa ao Senado",
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/ata-do-pl-abre-caminho-para-vice-de-flavio-voltar-a-disputa-ao-senado"
         }
       ],
       "erro": null

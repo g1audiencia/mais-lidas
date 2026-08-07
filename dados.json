@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 10:08",
+  "atualizado_em": "07/08/2026 10:10",
   "portais": [
     {
       "portal": "Folha",
@@ -248,28 +248,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Surprise fall in US jobs last month as slow summer continues",
+          "url": "https://www.bbc.com/news/articles/c20j5rle717o"
+        },
+        {
+          "rank": 2,
           "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
           "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Murkowski opposes Blanche nomination as attorney general, putting confirmation in doubt",
           "url": "https://www.bbc.com/news/articles/c0kme3114xko"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Mark Hughes' son died of sudden adult death syndrome",
           "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump-backed Republican congressman loses primary in Tennessee",
           "url": "https://www.bbc.com/news/articles/c79grd2prnro"
-        },
-        {
-          "rank": 5,
-          "title": "Miss North Carolina USA stripped of title after 'information' surfaces",
-          "url": "https://www.bbc.com/news/articles/c8jnwd7w19yo"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 03:02",
+  "atualizado_em": "07/08/2026 03:07",
   "portais": [
     {
       "portal": "Folha",
@@ -71,28 +71,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ciclone bomba no Brasil: quais estados serão afetados pelo fenômeno",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-no-brasil-quais-estados-serao-afetados-pelo-fenomeno/"
-        },
-        {
-          "rank": 2,
-          "title": "Ciclone bomba chega ao Brasil hoje e Defesa Civil Nacional faz alerta",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/ciclone-bomba-chega-ao-brasil-hoje-e-defesa-civil-nacional-faz-alerta/"
-        },
-        {
-          "rank": 3,
           "title": "Ciclone Bomba: veja regiões com previsão de ventos fortes no estado de SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ciclone-bomba-veja-regioes-com-previsao-de-ventos-fortes-no-estado-de-sp/"
         },
         {
+          "rank": 2,
+          "title": "Ciclone bomba: aulas são suspensas após previsão de ventania no Rio",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/ciclone-bomba-aulas-sao-suspensas-apos-previsao-de-ventania-no-rio/"
+        },
+        {
+          "rank": 3,
+          "title": "Xuxa desabafa sobre ataques de Mara Maravilha: “Quer pegar carona na nave”",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/xuxa-desabafa-sobre-ataques-de-mara-maravilha-quer-pegar-carona-na-nave/"
+        },
+        {
           "rank": 4,
-          "title": "Lindbergh baixa tom e busca PL para falar de acusação contra vice de Flávio",
-          "url": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/lindbergh-baixa-tom-e-busca-pl-para-falar-de-acusacao-contra-vice-de-flavio/"
+          "title": "Grande tornado gerado por passagem de ciclone bomba atinge RS",
+          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/grande-tornado-gerado-por-passagem-de-ciclone-bomba-atinge-rs/"
         },
         {
           "rank": 5,
-          "title": "Bruno Gagliasso causa revolta por reclamar de fast-food fechado: \"Surreal\"",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/bruno-gagliasso-causa-revolta-por-reclamar-de-fast-food-fechado-surreal/"
+          "title": "Participante desiste do \"MasterChef Brasil\" após picada de aranha; entenda",
+          "url": "https://www.cnnbrasil.com.br/pop/realities/participante-desiste-do-masterchef-brasil-apos-picada-de-aranha-entenda/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Entenda os interesses por trás da visita de assessor de Putin ao Brasil e o encontro com Lula",
+          "url": "https://www.estadao.com.br/internacional/entenda-os-interesses-por-tras-da-visita-de-assessor-de-putin-ao-brasil-e-o-encontro-com-lula/"
+        },
+        {
+          "rank": 2,
           "title": "Flávio recuperou fôlego e Lula não é imbatível, mas muita água (suja) ainda vai rolar",
           "url": "https://www.estadao.com.br/politica/eliane-cantanhede/flavio-recuperou-folego-e-lula-nao-e-imbativel-mas-muita-agua-suja-ainda-vai-rolar/"
         },
         {
-          "rank": 2,
-          "title": "Alfredo Gaspar não pareceu muito feliz e satisfeito com a missão de ser vice de Flávio Bolsonaro",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/alfredo-gaspar-nao-pareceu-muito-feliz-e-satisfeito-com-a-missao-de-ser-vice-de-flavio-bolsonaro/"
-        },
-        {
           "rank": 3,
-          "title": "Por que vários políticos rejeitaram disputar o governo de Minas?",
-          "url": "https://www.estadao.com.br/politica/por-que-varios-politicos-rejeitaram-disputar-o-governo-de-minas/"
+          "title": "Doutorando da USP, advogado é encontrado morto em estrada de SP; polícia apura crime de ódio",
+          "url": "https://www.estadao.com.br/sao-paulo/doutorando-da-usp-advogado-e-encontrado-morto-em-estrada-de-sp-policia-apura-crime-de-odio-npr/"
         },
         {
           "rank": 4,
-          "title": "Alex Escobar passa por cirurgia para retirada de tumor em hospital no Rio de Janeiro",
-          "url": "https://www.estadao.com.br/esportes/alex-escobar-passa-por-cirurgia-para-retirada-de-tumor-em-hospital-no-rio-de-janeiro-npres/"
+          "title": "Sem perspectiva de juros baixos",
+          "url": "https://www.estadao.com.br/opiniao/sem-perspectiva-de-juros-baixos/"
         },
         {
           "rank": 5,
-          "title": "Quais FIIs comprar em agosto? Veja os escolhidos por bancos e corretoras após corte da Selic",
-          "url": "https://www.estadao.com.br/einvestidor/onde-investir/quais-fiis-comprar-em-agosto-veja-os-escolhidos-por-bancos-e-corretoras-apos-corte-da-selic/"
+          "title": "Alfredo Gaspar não pareceu muito feliz e satisfeito com a missão de ser vice de Flávio Bolsonaro",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/alfredo-gaspar-nao-pareceu-muito-feliz-e-satisfeito-com-a-missao-de-ser-vice-de-flavio-bolsonaro/"
         }
       ],
       "erro": null

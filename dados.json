@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 06:55",
+  "atualizado_em": "07/08/2026 06:56",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Estados Unidos ameaçam escalar crise contra o Brasil, segundo diplomatas americanos a empresários",
+          "url": "https://www.estadao.com.br/politica/raquel-landim/estados-unidos-ameacam-escalar-crise-contra-o-brasil-segundo-diplomatas-americanos-a-empresarios/"
+        },
+        {
+          "rank": 4,
           "title": "Cadeira de Buzzi está em disputa desde antes da punição do STJ",
           "url": "https://www.estadao.com.br/politica/cadeira-de-buzzi-esta-em-disputa-desde-antes-da-punicao-do-stj/"
         },
         {
-          "rank": 4,
-          "title": "Flávio Bolsonaro diz não entender tanto de economia e pergunta a Daniella Marques sobre Selic",
-          "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-diz-nao-entender-tanto-de-economia-e-pergunta-a-daniella-marques-sobre-selic/"
-        },
-        {
           "rank": 5,
-          "title": "13 pontos que você precisa saber antes de usar canetas para obesidade",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/13-pontos-que-voce-precisa-saber-antes-de-usar-canetas-para-obesidade/"
+          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
+          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
         }
       ],
       "erro": null

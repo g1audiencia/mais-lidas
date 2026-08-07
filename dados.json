@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 18:12",
+  "atualizado_em": "07/08/2026 18:13",
   "portais": [
     {
       "portal": "Folha",
@@ -44,23 +44,23 @@
         },
         {
           "rank": 2,
+          "title": "Gato selvagem que dizimou animais é abatido após três anos na Nova Zelândia",
+          "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/08/07/gato-selvagem-que-dizimou-animais-e-abatido-apos-3-anos-na-nova-zelandia.ghtm"
+        },
+        {
+          "rank": 3,
           "title": "'Virou minha criança': ela mudou de vida para cuidar do marido com demência",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/07/meu-marido-virou-minha-crianca-ela-mudou-de-vida-para-cuidar-de-jovem.ghtm"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Ciclone causa danos no RS, suspende aulas no RJ e fecha o porto de Santos (SP)",
           "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/07/ciclone-sul-sudeste-emergencia-climatica-brasil.ghtm"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Onde fica o timo, órgão pouco conhecido de onde Alex Escobar teve tumor retirado",
           "url": "https://www.uol.com.br/vivabem/noticias/redacao/2026/08/07/onde-fica-o-timo-orgao-pouco-conhecido-em-que-alex-escobar-teve-tumor.ghtm"
-        },
-        {
-          "rank": 5,
-          "title": "Caiado compara tentativa de golpe no 8/1 à soltura de Lula em 2019",
-          "url": "https://noticias.uol.com.br/eleicoes/2026/08/07/caiado-compara-tentativa-de-golpe-no-81-a-soltura-do-lula-em-2018.ghtm"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "São Paulo Innovation Week cresce e terá 40 palcos em 2027",
-          "url": "https://www.estadao.com.br/economia/negocios/sao-paulo-innovation-week-cresce-e-tera-40-palcos-em-2027/"
+          "title": "Lula chama Marco Rubio de ‘bolsonarista’ e ‘anti-latino-americano’",
+          "url": "https://www.estadao.com.br/politica/lula-chama-marco-rubio-de-bolsonarista-e-anti-latino-americano/"
         },
         {
           "rank": 4,
-          "title": "Tatiana Sampaio mostra dados de uso compassivo da polilaminina e desdenha de novo estudo: ‘Pra quê?’",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/tatiana-sampaio-mostra-dados-de-uso-compassivo-da-polilaminina-e-desdenha-de-novo-estudo-pra-que/"
+          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
         },
         {
           "rank": 5,
-          "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
+          "title": "Tribunal de Contas e MPs investigam R$ 185 milhões de dinheiro de aposentadoria em fundo imobiliário",
+          "url": "https://www.estadao.com.br/economia/negocios/tribunal-de-contas-mp-investigacao-previdencias-fundo-imobiliario/"
         }
       ],
       "erro": null

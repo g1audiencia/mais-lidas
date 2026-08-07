@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 18:05",
+  "atualizado_em": "07/08/2026 18:07",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
+          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         },
         {
           "rank": 3,
+          "title": "São Paulo Innovation Week cresce e terá 40 palcos em 2027",
+          "url": "https://www.estadao.com.br/economia/negocios/sao-paulo-innovation-week-cresce-e-tera-40-palcos-em-2027/"
+        },
+        {
+          "rank": 4,
           "title": "Tatiana Sampaio mostra dados de uso compassivo da polilaminina e desdenha de novo estudo: ‘Pra quê?’",
           "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/tatiana-sampaio-mostra-dados-de-uso-compassivo-da-polilaminina-e-desdenha-de-novo-estudo-pra-que/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
           "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
-        },
-        {
-          "rank": 5,
-          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         }
       ],
       "erro": null

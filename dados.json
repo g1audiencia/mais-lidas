@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 22:49",
+  "atualizado_em": "07/08/2026 22:50",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Nova fase da IA pode privatizar a influência sobre nossas decisões",
-          "url": "https://www.estadao.com.br/brasil/macaco-eletrico/nova-fase-da-ia-pode-privatizar-a-influencia-sobre-nossas-decisoes/"
-        },
-        {
-          "rank": 3,
-          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
-        },
-        {
-          "rank": 4,
           "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
           "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
         },
         {
+          "rank": 3,
+          "title": "Mendonça determina que PT entregue documentos do congresso da sigla e do projeto Porta-Vozes de Lula",
+          "url": "https://www.estadao.com.br/politica/mendonca-determina-que-pt-entregue-documentos-do-congresso-da-sigla-e-do-projeto-porta-vozes-de-lula-nprp/"
+        },
+        {
+          "rank": 4,
+          "title": "Plano de governo de Lula promete manter arcabouço fiscal e enfrentar emendas parlamentares",
+          "url": "https://www.estadao.com.br/economia/plano-de-governo-de-lula-promete-manter-arcabouco-fiscal-e-enfrentar-emendas-parlamentares/"
+        },
+        {
           "rank": 5,
-          "title": "Luis Roberto retorna às transmissões da Globo após fim do tratamento contra o câncer",
-          "url": "https://www.estadao.com.br/esportes/luis-roberto-retorna-as-transmissoes-apos-fim-do-tratamento-contra-cancer-npres/"
+          "title": "Navios da 2ª Guerra estão reaparecendo no meio do Danúbio em meio a onda de calor na Europa",
+          "url": "https://www.estadao.com.br/internacional/navios-da-2-guerra-estao-reaparecendo-no-meio-do-danubio-em-meio-a-onda-de-calor-na-europa/"
         }
       ],
       "erro": null

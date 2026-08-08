@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 00:05",
+  "atualizado_em": "08/08/2026 00:07",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Tribunal decide que Trump não pode construir salão na Casa Branca sem aprovação do Congresso",
-          "url": "https://www.estadao.com.br/internacional/tribunal-apelacao-decide-trump-nao-pode-construir-salao-casa-branca-aprovacao-congresso-npr/"
-        },
-        {
-          "rank": 2,
-          "title": "Em nova reviravolta, Republicanos confirma Cleitinho Azevedo como candidato a governador de Minas",
-          "url": "https://www.estadao.com.br/politica/em-nova-reviravolta-republicanos-confirma-cleitinho-azevedo-como-candidato-a-governador-de-minas/"
-        },
-        {
-          "rank": 3,
           "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
           "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         },
         {
+          "rank": 2,
+          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
+          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
+        },
+        {
+          "rank": 3,
+          "title": "Navios da 2ª Guerra estão reaparecendo no meio do Danúbio em meio a onda de calor na Europa",
+          "url": "https://www.estadao.com.br/internacional/navios-da-2-guerra-estao-reaparecendo-no-meio-do-danubio-em-meio-a-onda-de-calor-na-europa/"
+        },
+        {
           "rank": 4,
-          "title": "Mendonça determina que PT entregue documentos do congresso da sigla e do projeto Porta-Vozes de Lula",
-          "url": "https://www.estadao.com.br/politica/mendonca-determina-que-pt-entregue-documentos-do-congresso-da-sigla-e-do-projeto-porta-vozes-de-lula-nprp/"
+          "title": "Em nova reviravolta, Republicanos confirma Cleitinho Azevedo como candidato a governador de Minas",
+          "url": "https://www.estadao.com.br/politica/em-nova-reviravolta-republicanos-confirma-cleitinho-azevedo-como-candidato-a-governador-de-minas/"
         },
         {
           "rank": 5,
-          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
-          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
+          "title": "Tamara Klink pede que leitores não comprem mais seu livro best-seller ‘Bom Dia, Inverno’; entenda",
+          "url": "https://www.estadao.com.br/cultura/literatura/tamara-klink-pede-que-leitores-nao-comprem-mais-seu-livro-bestseller-doem-ou-emprestem-nprec/"
         }
       ],
       "erro": null

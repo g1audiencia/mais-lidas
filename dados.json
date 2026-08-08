@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 15:40",
+  "atualizado_em": "08/08/2026 15:42",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
+        },
+        {
+          "rank": 4,
           "title": "A invasão marroquina mostra como o mundo é feito de pedaços fora do lugar; Entenda no vídeo",
           "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/a-invasao-marroquina-mostra-como-o-mundo-e-feito-de-pedacos-fora-do-lugar-entenda-no-video/"
         },
         {
-          "rank": 4,
-          "title": "Quatro morrem em queda de helicóptero na Vista Chinesa, zona sul do Rio",
-          "url": "https://www.estadao.com.br/brasil/quatro-morrem-em-queda-de-helicoptero-na-vista-chinesa-zona-sul-do-rio-npr/"
-        },
-        {
           "rank": 5,
-          "title": "Pitbull enfrenta onça-parda para proteger família em condomínio na zona norte de SP",
-          "url": "https://www.estadao.com.br/sao-paulo/pitbull-enfrenta-onca-parda-para-proteger-familia-em-condominio-na-zona-norte-de-sp/"
+          "title": "Moraes nega visitas a Jair Bolsonaro no Dia dos Pais",
+          "url": "https://www.estadao.com.br/politica/moraes-nega-visitas-a-jair-bolsonaro-no-dia-dos-pais/"
         }
       ],
       "erro": null
@@ -233,6 +233,11 @@
           "rank": 3,
           "title": "Lindsay Clancy trial spotlights her psychiatric care before she killed her 3 children",
           "url": "https://apnews.com/article/lindsay-clancy-murder-trial-psychiatric-hospital-c977c42546d3b496df6d44924149451b"
+        },
+        {
+          "rank": 4,
+          "title": "ICE will release body camera video only when seen in the agency’s ‘best interests,’ policy says",
+          "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57"
         }
       ],
       "erro": null

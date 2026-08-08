@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 07:17",
+  "atualizado_em": "08/08/2026 07:19",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
-          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
-        },
-        {
-          "rank": 2,
           "title": "Indigestão institucional",
           "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
         },
         {
+          "rank": 2,
+          "title": "A invasão marroquina mostra como o mundo é feito de pedaços fora do lugar; Entenda no vídeo",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/a-invasao-marroquina-mostra-como-o-mundo-e-feito-de-pedacos-fora-do-lugar-entenda-no-video/"
+        },
+        {
           "rank": 3,
+          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
+          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
+        },
+        {
+          "rank": 4,
           "title": "‘Ele dizia ganhar o mesmo que eu’: o que é infidelidade financeira e como se proteger?",
           "url": "https://www.estadao.com.br/pulsa/vida-leve/ele-dizia-ganhar-o-mesmo-que-eu-o-que-e-infidelidade-financeira-e-como-se-proteger/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "O pai que ninguém vê: quando o valor do homem é medido pelo boleto",
           "url": "https://www.estadao.com.br/einvestidor/ana-paula-hornos/o-pai-que-ninguem-ve-quando-o-valor-do-homem-e-medido-pelo-boleto/"
-        },
-        {
-          "rank": 5,
-          "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
-          "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
         }
       ],
       "erro": null

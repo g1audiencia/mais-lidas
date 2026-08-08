@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 00:07",
+  "atualizado_em": "08/08/2026 00:09",
   "portais": [
     {
       "portal": "Folha",
@@ -263,18 +263,18 @@
         },
         {
           "rank": 3,
+          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+          "url": "https://www.bbc.com/news/articles/cy8ey458pv5o"
+        },
+        {
+          "rank": 4,
           "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
           "url": "https://www.bbc.com/news/articles/c5yv5l6yr5ko"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
           "url": "https://www.bbc.com/news/articles/c4g305dz0y9o"
-        },
-        {
-          "rank": 5,
-          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-          "url": "https://www.bbc.com/news/articles/cy8ey458pv5o"
         }
       ],
       "erro": null

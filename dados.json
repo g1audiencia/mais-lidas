@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 04:58",
+  "atualizado_em": "08/08/2026 04:59",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
-        },
-        {
-          "rank": 2,
-          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
-        },
-        {
-          "rank": 3,
           "title": "Indigestão institucional",
           "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
         },
         {
+          "rank": 2,
+          "title": "Rebeca Andrade crava salto e recebe a maior nota do mundo no aparelho em 2026",
+          "url": "https://www.estadao.com.br/esportes/rebeca-andrade-crava-salto-e-recebe-a-maior-nota-do-mundo-no-aparelho-em-2026/"
+        },
+        {
+          "rank": 3,
+          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
+        },
+        {
           "rank": 4,
-          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
+          "title": "Ator Renato Scarpin desabafa após apresentar peça para plateia de 4 pessoas",
+          "url": "https://www.estadao.com.br/emais/gente/ator-renato-scarpin-desabafa-apos-apresentar-peca-para-plateia-de-4-pessoas-nprec/"
         },
         {
           "rank": 5,
-          "title": "Calculando os privilégios",
-          "url": "https://www.estadao.com.br/opiniao/calculando-os-privilegios/"
+          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
         }
       ],
       "erro": null

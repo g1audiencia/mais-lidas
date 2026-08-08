@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 01:53",
+  "atualizado_em": "08/08/2026 01:56",
   "portais": [
     {
       "portal": "Folha",
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
-          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
-          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
-        },
-        {
-          "rank": 3,
           "title": "Ciclone-bomba: veja regiões com previsão de ventos fortes no estado de SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ciclone-bomba-veja-regioes-com-previsao-de-ventos-fortes-no-estado-de-sp/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Defesa Civil emite novo alerta para ventos e chuva forte no Rio de Janeiro",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/defesa-civil-emite-novo-alerta-para-ventos-e-chuva-forte-no-rio-de-janeiro/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "STF contraria Moraes e abre brecha para reduzir penas de réus do 8/1",
           "url": "https://www.cnnbrasil.com.br/politica/stf-contraria-moraes-e-abre-brecha-para-reduzir-penas-de-reus-do-8-1/"
+        },
+        {
+          "rank": 5,
+          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
+          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
         }
       ],
       "erro": null
@@ -258,13 +258,13 @@
         },
         {
           "rank": 2,
-          "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-          "url": "https://www.bbc.com/news/articles/cz05xn35xj7o"
+          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+          "url": "https://www.bbc.com/news/articles/cy8ey458pv5o"
         },
         {
           "rank": 3,
-          "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-          "url": "https://www.bbc.com/news/articles/cy8ey458pv5o"
+          "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+          "url": "https://www.bbc.com/news/articles/cz05xn35xj7o"
         },
         {
           "rank": 4,
@@ -273,8 +273,8 @@
         },
         {
           "rank": 5,
-          "title": "Mark Hughes' son died of sudden adult death syndrome",
-          "url": "https://www.bbc.com/news/articles/c5yrq8n52n0o"
+          "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+          "url": "https://www.bbc.com/news/articles/c4g305dz0y9o"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 00:04",
+  "atualizado_em": "08/08/2026 00:05",
   "portais": [
     {
       "portal": "Folha",
@@ -103,23 +103,23 @@
       "items": [
         {
           "rank": 1,
-          "title": "Os irmãos que tentaram sequestrar Xuxa e Letícia Spiller, há 35 anos",
-          "url": "https://oglobo.globo.com/blogs/blog-do-acervo/post/2026/08/os-irmaos-que-tentaram-sequestrar-xuxa-e-leticia-spiller-ha-35-anos.ghtml"
-        },
-        {
-          "rank": 2,
-          "title": "Dono de 50% de Almada, Botafogo precisa repor adiantamento e não receberá valor por compra do River",
-          "url": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/dono-de-50percent-de-almada-botafogo-precisa-repor-adiantamento-e-nao-recebera-valor-por-compra-do-river.ghtml"
-        },
-        {
-          "rank": 3,
           "title": "Corrida maluca em Minas: Republicanos desiste de veto, e Cleitinho será candidato a governador",
           "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/07/corrida-maluca-em-minas-republicanos-desiste-de-veto-e-lanca-cleitinho-candidato-a-governador.ghtml"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "'Ventos cruzados': Avião arremete durante pouso no Aeroporto de Vitória, e cena viraliza nas redes; veja vídeo",
           "url": "https://oglobo.globo.com/brasil/noticia/2026/08/07/aviao-arremete-durante-pouso-no-aeroporto-de-vitoria-e-cena-viraliza-nas-redes-veja-video.ghtml"
+        },
+        {
+          "rank": 3,
+          "title": "Dono de 50% de Almada, Botafogo precisa repor adiantamento e não receberá valor por compra do River",
+          "url": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/dono-de-50percent-de-almada-botafogo-precisa-repor-adiantamento-e-nao-recebera-valor-por-compra-do-river.ghtml"
+        },
+        {
+          "rank": 4,
+          "title": "Os irmãos que tentaram sequestrar Xuxa e Letícia Spiller, há 35 anos",
+          "url": "https://oglobo.globo.com/blogs/blog-do-acervo/post/2026/08/os-irmaos-que-tentaram-sequestrar-xuxa-e-leticia-spiller-ha-35-anos.ghtml"
         },
         {
           "rank": 5,

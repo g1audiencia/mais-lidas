@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 14:38",
+  "atualizado_em": "08/08/2026 14:40",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
+          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
+        },
+        {
+          "rank": 4,
           "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
           "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
         },
         {
-          "rank": 4,
-          "title": "Indigestão institucional",
-          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
-        },
-        {
           "rank": 5,
-          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
+          "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
+          "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
         }
       ],
       "erro": null

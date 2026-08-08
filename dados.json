@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 09:40",
+  "atualizado_em": "08/08/2026 09:41",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "A invasão marroquina mostra como o mundo é feito de pedaços fora do lugar; Entenda no vídeo",
-          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/a-invasao-marroquina-mostra-como-o-mundo-e-feito-de-pedacos-fora-do-lugar-entenda-no-video/"
-        },
-        {
-          "rank": 4,
           "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
           "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
         },
         {
+          "rank": 4,
+          "title": "A invasão marroquina mostra como o mundo é feito de pedaços fora do lugar; Entenda no vídeo",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/a-invasao-marroquina-mostra-como-o-mundo-e-feito-de-pedacos-fora-do-lugar-entenda-no-video/"
+        },
+        {
           "rank": 5,
-          "title": "Com custo da dívida mais alto em 10 anos, frente quer fixar teto e orçamento 100% impositivo",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/com-custo-da-divida-mais-alto-em-10-anos-frente-quer-fixar-teto-e-orcamento-100-impositivo/"
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
         }
       ],
       "erro": null

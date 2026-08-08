@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 03:57",
+  "atualizado_em": "08/08/2026 03:59",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
+          "title": "A neutralidade eleitoral compensa",
+          "url": "https://www.estadao.com.br/opiniao/a-neutralidade-eleitoral-compensa/"
         },
         {
           "rank": 3,
+          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
+          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
+        },
+        {
+          "rank": 4,
           "title": "Roubos de casas e carros assustam o Morumbi: ‘Sensação de liberdade do criminoso’",
           "url": "https://www.estadao.com.br/sao-paulo/roubos-de-casas-e-carros-assustam-o-morumbi-sensacao-de-liberdade-do-criminoso/"
         },
         {
-          "rank": 4,
-          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
-          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
-        },
-        {
           "rank": 5,
-          "title": "Não vai dar para o BRB",
-          "url": "https://www.estadao.com.br/opiniao/nao-vai-dar-para-o-brb/"
+          "title": "Como os computadores estão ajudando cientistas a decifrar os segredos do cérebro",
+          "url": "https://www.estadao.com.br/pulsa/futuro-e-inovacao/como-os-computadores-estao-ajudando-cientistas-a-decifrar-os-segredos-do-cerebro/"
         }
       ],
       "erro": null

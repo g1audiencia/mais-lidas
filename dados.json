@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 15:47",
+  "atualizado_em": "08/08/2026 15:48",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Coronel é condenado em ação penal por livro em que critica Exército e faz acusação de corrupção",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/coronel-e-condenado-em-acao-penal-por-livro-em-que-critica-exercito-e-faz-acusacao-de-corrupcao.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Milena diz que amizade com Ana Paula Renault e Juliano Floss acabou: 'Tinha expectativa'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/08/milena-diz-que-amizade-com-ana-paula-renault-e-juliano-floss-acabou-tinha-expectativa.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Queda da inflação não melhora humor social no governo Milei",
           "url": "https://www1.folha.uol.com.br/colunas/sylvia-colombo/2026/08/queda-da-inflacao-nao-melhora-humor-social-no-governo-milei.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Flávio Bolsonaro fala em indicar mulheres ao STF em evento com aliadas",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-fala-em-indicar-mulheres-ao-stf-em-evento-com-aliadas.shtml"
         }
       ],
       "erro": null

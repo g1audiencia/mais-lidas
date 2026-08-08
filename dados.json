@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 13:45",
+  "atualizado_em": "08/08/2026 13:47",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Milena diz que amizade com Ana Paula Renault e Juliano Floss acabou: 'Tinha expectativa'",
-          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/milena-diz-que-amizade-com-ana-paula-renault-e-juliano-floss-acabou-tinha-expectativa.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Novas imagens mostram morte de jovem rendido em Paraisópolis; PMs foram absolvidos em júri",
           "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/novas-imagens-mostram-morte-de-jovem-rendido-em-paraisopolis-pms-foram-absolvidos-em-juri.shtml"
         },
         {
+          "rank": 4,
+          "title": "Milena diz que amizade com Ana Paula Renault e Juliano Floss acabou: 'Tinha expectativa'",
+          "url": "https://f5.folha.uol.com.br/celebridades/2026/08/milena-diz-que-amizade-com-ana-paula-renault-e-juliano-floss-acabou-tinha-expectativa.shtml"
+        },
+        {
           "rank": 5,
-          "title": "Bitelo quebra o próprio recorde e levanta 420 kg em campeonato na Islândia",
-          "url": "https://www1.folha.uol.com.br/blogs/musculo/2026/08/bitelo-quebra-o-proprio-recorde-e-levanta-420-kg-em-campeonato-na-islandia.shtml"
+          "title": "Moraes rejeita pedido de Bolsonaro para receber visita de filhos no Dia dos Pais",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/moraes-rejeita-pedido-de-bolsonaro-para-receber-visita-de-filhos-no-dia-dos-pais.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "‘Ele dizia ganhar o mesmo que eu’: o que é infidelidade financeira e como se proteger?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/ele-dizia-ganhar-o-mesmo-que-eu-o-que-e-infidelidade-financeira-e-como-se-proteger/"
-        },
-        {
-          "rank": 4,
           "title": "Pitbull enfrenta onça-parda para proteger família em condomínio na zona norte de SP",
           "url": "https://www.estadao.com.br/sao-paulo/pitbull-enfrenta-onca-parda-para-proteger-familia-em-condominio-na-zona-norte-de-sp/"
         },
         {
+          "rank": 4,
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
+        },
+        {
           "rank": 5,
-          "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
-          "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
+          "title": "Morre pai de Lionel Messi aos 68 anos na Argentina",
+          "url": "https://www.estadao.com.br/esportes/futebol/morre-pai-de-lionel-messi-aos-68-anos-na-argentina/"
         }
       ],
       "erro": null

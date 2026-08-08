@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 10:38",
+  "atualizado_em": "08/08/2026 10:39",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Indigestão institucional",
-          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
-        },
-        {
-          "rank": 2,
           "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
           "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
         },
         {
-          "rank": 3,
-          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
-          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
+          "rank": 2,
+          "title": "Indigestão institucional",
+          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Morre pai de Lionel Messi aos 68 anos na Argentina",
           "url": "https://www.estadao.com.br/esportes/futebol/morre-pai-de-lionel-messi-aos-68-anos-na-argentina/"
         },
         {
+          "rank": 4,
+          "title": "A invasão marroquina mostra como o mundo é feito de pedaços fora do lugar; Entenda no vídeo",
+          "url": "https://www.estadao.com.br/internacional/rodrigo-da-silva/a-invasao-marroquina-mostra-como-o-mundo-e-feito-de-pedacos-fora-do-lugar-entenda-no-video/"
+        },
+        {
           "rank": 5,
-          "title": "Ator Renato Scarpin desabafa após apresentar peça para plateia de 4 pessoas",
-          "url": "https://www.estadao.com.br/emais/gente/ator-renato-scarpin-desabafa-apos-apresentar-peca-para-plateia-de-4-pessoas-nprec/"
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
         }
       ],
       "erro": null

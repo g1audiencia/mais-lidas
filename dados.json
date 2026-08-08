@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 21:40",
+  "atualizado_em": "07/08/2026 21:43",
   "portais": [
     {
       "portal": "Folha",
@@ -167,18 +167,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "Caixa leva a leilão apartamento de Eduardo Bolsonaro no Rio",
-          "url": "https://www.metropoles.com/brasil/caixa-leva-a-leilao-apartamento-de-eduardo-bolsonaro-no-rio"
-        },
-        {
-          "rank": 2,
           "title": "Cleitinho reverte decisão e será candidato ao governo de Minas",
           "url": "https://www.metropoles.com/minas-gerais/cleitinho-reverte-decisao-e-sera-candidato-ao-governo-de-minas"
         },
         {
+          "rank": 2,
+          "title": "Caixa leva a leilão apartamento de Eduardo Bolsonaro no Rio",
+          "url": "https://www.metropoles.com/brasil/caixa-leva-a-leilao-apartamento-de-eduardo-bolsonaro-no-rio"
+        },
+        {
           "rank": 3,
-          "title": "EUA diz não ter interesse em aumentar tensão diplomática com o Brasil",
-          "url": "https://www.metropoles.com/mundo/eua-tensao-diplomatica-brasil"
+          "title": "Ex-primeira-dama, Mayara Noronha registra candidatura a deputada federal",
+          "url": "https://www.metropoles.com/colunas/grande-angular/ex-primeira-dama-mayara-noronha-registra-candidatura-a-deputada-federal"
         }
       ],
       "erro": null

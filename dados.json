@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 15:19",
+  "atualizado_em": "08/08/2026 15:21",
   "portais": [
     {
       "portal": "Folha",
@@ -39,13 +39,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Morre pai de Lionel Messi aos 68 anos na Argentina",
-          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/08/morre-pai-de-lionel-messi-aos-68-anos-na-argentina.ghtm"
+          "title": "Patrimônio de Lula diminui 35%, com gasto de R$ 2,2 mi da aposentadoria",
+          "url": "https://noticias.uol.com.br/colunas/tatiana-farah/2026/08/08/patrimonio-de-lula-diminui-35-com-gasto-de-r-22-mi-da-aposentadoria.htm"
         },
         {
           "rank": 2,
-          "title": "Patrimônio de Lula diminui 35%, com gasto de R$ 2,2 mi da aposentadoria",
-          "url": "https://noticias.uol.com.br/colunas/tatiana-farah/2026/08/08/patrimonio-de-lula-diminui-35-com-gasto-de-r-22-mi-da-aposentadoria.htm"
+          "title": "Morre pai de Lionel Messi aos 68 anos na Argentina",
+          "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2026/08/08/morre-pai-de-lionel-messi-aos-68-anos-na-argentina.ghtm"
         },
         {
           "rank": 3,
@@ -59,8 +59,8 @@
         },
         {
           "rank": 5,
-          "title": "Moraes nega visita de filhos a Bolsonaro no Dia dos Pais",
-          "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/08/moraes-nega-visita-de-filhos-a-bolsonaro-no-dia-dos-pais.ghtm"
+          "title": "Cauã Reymond deixa repórter em saia justa ao perguntar sobre canudinho",
+          "url": "https://www.uol.com.br/splash/noticias/2026/08/08/caua-reymond-deixa-reporter-em-saia-justa-ao-perguntar-sobre-canudinho.ghtm"
         }
       ],
       "erro": null
@@ -135,18 +135,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
-        },
-        {
-          "rank": 2,
           "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
           "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
         },
         {
+          "rank": 2,
+          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
+          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
+        },
+        {
           "rank": 3,
-          "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
-          "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
+          "title": "Mendonça determina que PT entregue documentos do congresso da sigla e do projeto Porta-Vozes de Lula",
+          "url": "https://www.estadao.com.br/politica/mendonca-determina-que-pt-entregue-documentos-do-congresso-da-sigla-e-do-projeto-porta-vozes-de-lula-nprp/"
         },
         {
           "rank": 4,
@@ -155,8 +155,8 @@
         },
         {
           "rank": 5,
-          "title": "Berkshire, de Buffett, concentra carteira em 5 ações e faz alerta após balanço",
-          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/berkshire-de-buffett-concentra-carteira-em-5-acoes-e-faz-alerta-apos-balanco/"
+          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
         }
       ],
       "erro": null
@@ -233,11 +233,6 @@
           "rank": 3,
           "title": "Lindsay Clancy trial spotlights her psychiatric care before she killed her 3 children",
           "url": "https://apnews.com/article/lindsay-clancy-murder-trial-psychiatric-hospital-c977c42546d3b496df6d44924149451b"
-        },
-        {
-          "rank": 4,
-          "title": "ICE will release body camera video only when seen in the agency’s ‘best interests,’ policy says",
-          "url": "https://apnews.com/article/ice-body-cameras-officers-shootings-dab1b294c8dc412d9ef8557ccbebfd57"
         }
       ],
       "erro": null

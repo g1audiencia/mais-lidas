@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 01:27",
+  "atualizado_em": "08/08/2026 01:30",
   "portais": [
     {
       "portal": "Folha",
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
+          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
+          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
+        },
+        {
+          "rank": 3,
           "title": "Ciclone-bomba: veja regiões com previsão de ventos fortes no estado de SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ciclone-bomba-veja-regioes-com-previsao-de-ventos-fortes-no-estado-de-sp/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Defesa Civil emite novo alerta para ventos e chuva forte no Rio de Janeiro",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/defesa-civil-emite-novo-alerta-para-ventos-e-chuva-forte-no-rio-de-janeiro/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "STF contraria Moraes e abre brecha para reduzir penas de réus do 8/1",
           "url": "https://www.cnnbrasil.com.br/politica/stf-contraria-moraes-e-abre-brecha-para-reduzir-penas-de-reus-do-8-1/"
-        },
-        {
-          "rank": 5,
-          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
-          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 09:16",
+  "atualizado_em": "08/08/2026 09:17",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "A vice do Flávio é a Gretchen!",
-          "url": "https://www1.folha.uol.com.br/colunas/josesimao/2026/08/a-vice-do-flavio-e-a-gretchen.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Flávio Bolsonaro concentrou emendas em segurança e defesa e deixou ciência e agricultura de fora",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-concentrou-emendas-em-seguranca-e-defesa-e-deixou-ciencia-e-agricultura-de-fora.shtml"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Sob Trump, 90% das indicações de embaixadores são destinadas a apoiadores políticos",
           "url": "https://www1.folha.uol.com.br/mundo/2026/08/sob-trump-90-das-indicacoes-de-embaixadores-sao-destinadas-a-apoiadores-politicos.shtml"
+        },
+        {
+          "rank": 5,
+          "title": "Bitelo quebra o próprio recorde e levanta 420 kg em campeonato na Islândia",
+          "url": "https://www1.folha.uol.com.br/blogs/musculo/2026/08/bitelo-quebra-o-proprio-recorde-e-levanta-420-kg-em-campeonato-na-islandia.shtml"
         }
       ],
       "erro": null

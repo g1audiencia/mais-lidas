@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 01:58",
+  "atualizado_em": "08/08/2026 02:01",
   "portais": [
     {
       "portal": "Folha",
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
+          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
+          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
+        },
+        {
+          "rank": 3,
           "title": "Ciclone-bomba: veja regiões com previsão de ventos fortes no estado de SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ciclone-bomba-veja-regioes-com-previsao-de-ventos-fortes-no-estado-de-sp/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Defesa Civil emite novo alerta para ventos e chuva forte no Rio de Janeiro",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/defesa-civil-emite-novo-alerta-para-ventos-e-chuva-forte-no-rio-de-janeiro/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "STF contraria Moraes e abre brecha para reduzir penas de réus do 8/1",
           "url": "https://www.cnnbrasil.com.br/politica/stf-contraria-moraes-e-abre-brecha-para-reduzir-penas-de-reus-do-8-1/"
-        },
-        {
-          "rank": 5,
-          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
-          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
-          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
-        },
-        {
-          "rank": 2,
-          "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
-          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
-        },
-        {
-          "rank": 3,
           "title": "Quem são as mulheres que ocupam metade da diretoria da Petrobras pela primeira vez na história?",
           "url": "https://www.estadao.com.br/economia/quem-sao-mulheres-ocupam-metade-diretoria-petrobras-primeira-vez-historia/"
         },
         {
+          "rank": 2,
+          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
+          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
+        },
+        {
+          "rank": 3,
+          "title": "Lavar o cabelo todo dia promove ou combate a queda dos fios?",
+          "url": "https://www.estadao.com.br/pulsa/autocuidado/lavar-o-cabelo-todo-dia-promove-ou-combate-a-queda-dos-fios/"
+        },
+        {
           "rank": 4,
-          "title": "Programa de Lula traz 31 vezes a palavra soberania e rejeita ‘servilismo’ a ideologias fracassadas",
-          "url": "https://www.estadao.com.br/politica/programa-de-lula-traz-31-vezes-a-palavra-soberania-e-rejeita-servilismo-a-ideologias-fracassadas/"
+          "title": "‘Um horror, estamos muito revoltados’, diz professora da USP sobre morte de aluno de doutorado",
+          "url": "https://www.estadao.com.br/sao-paulo/um-horror-estamos-muito-revoltados-diz-professora-da-usp-sobre-morte-de-aluno-de-doutorado-npr/"
         },
         {
           "rank": 5,
-          "title": "O que é miastenia gravis, doença do apresentador Alex Escobar?",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/o-que-e-miastenia-gravis-doenca-do-apresentador-alex-escobar/"
+          "title": "Ciclone-bomba causa estragos e morte no Rio Grande do Sul; SP e Rio têm fortes ventos",
+          "url": "https://www.estadao.com.br/brasil/ciclone-bomba-estragos-no-rio-grande-do-sul-sp-rio-alerta-por-fortes-ventos-npr/"
         }
       ],
       "erro": null

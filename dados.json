@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 05:30",
+  "atualizado_em": "08/08/2026 05:32",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
-          "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
-        },
-        {
-          "rank": 4,
           "title": "Coronel é condenado em ação penal por livro em que critica Exército e faz acusação de corrupção",
           "url": "https://www1.folha.uol.com.br/poder/2026/08/coronel-e-condenado-em-acao-penal-por-livro-em-que-critica-exercito-e-faz-acusacao-de-corrupcao.shtml"
         },
         {
+          "rank": 4,
+          "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
+        },
+        {
           "rank": 5,
-          "title": "PT aciona STF e cobra apuração sobre vazamento de áudios de filho de Lula para Flávio Bolsonaro",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/pt-aciona-stf-e-cobra-apuracao-sobre-vazamento-de-audios-de-filho-de-lula-para-flavio-bolsonaro.shtml"
+          "title": "A vice do Flávio é a Gretchen!",
+          "url": "https://www1.folha.uol.com.br/colunas/josesimao/2026/08/a-vice-do-flavio-e-a-gretchen.shtml"
         }
       ],
       "erro": null
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Discord será investigado após morte de adolescente de 13 anos",
-          "url": "https://www.estadao.com.br/brasil/discord-sera-investigado-apos-morte-de-adolescente-de-13-anos/"
-        },
-        {
-          "rank": 4,
           "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
           "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
         },
         {
+          "rank": 4,
+          "title": "Vorcaro ‘perdeu’ iate de R$ 2 bi e dinheiro pode ficar com bilionário canadense",
+          "url": "https://www.estadao.com.br/economia/negocios/vorcaro-perdeu-iate-de-r-2-bi-e-dinheiro-pode-ficar-com-bilionario-canadense/"
+        },
+        {
           "rank": 5,
-          "title": "São Paulo Innovation Week cresce e terá 40 palcos em 2027",
-          "url": "https://www.estadao.com.br/economia/negocios/sao-paulo-innovation-week-cresce-e-tera-40-palcos-em-2027/"
+          "title": "A neutralidade eleitoral compensa",
+          "url": "https://www.estadao.com.br/opiniao/a-neutralidade-eleitoral-compensa/"
         }
       ],
       "erro": null

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 08:00",
+  "atualizado_em": "08/08/2026 08:01",
   "portais": [
     {
       "portal": "Folha",
@@ -135,13 +135,13 @@
       "items": [
         {
           "rank": 1,
-          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
-          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
+          "title": "Indigestão institucional",
+          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
         },
         {
           "rank": 2,
-          "title": "Indigestão institucional",
-          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
+          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
+          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
         },
         {
           "rank": 3,
@@ -258,23 +258,23 @@
         },
         {
           "rank": 2,
-          "title": "The phone book that led us to Assad's spy chief in hiding",
-          "url": "https://www.bbc.com/news/articles/c4gyrzn8p94o"
-        },
-        {
-          "rank": 3,
           "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
           "url": "https://www.bbc.com/news/articles/cz05xn35xj7o"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
           "url": "https://www.bbc.com/news/articles/cy8ey458pv5o"
         },
         {
+          "rank": 4,
+          "title": "I went for a full body MOT and the results came as a shock",
+          "url": "https://www.bbc.com/news/articles/cx2dj82v1rko"
+        },
+        {
           "rank": 5,
-          "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
-          "url": "https://www.bbc.com/news/articles/cewr898jy8go"
+          "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+          "url": "https://www.bbc.com/news/articles/c5yv5l6yr5ko"
         }
       ],
       "erro": null

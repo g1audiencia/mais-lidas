@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 13:31",
+  "atualizado_em": "08/08/2026 13:32",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
-          "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
-        },
-        {
-          "rank": 4,
           "title": "‘Ele dizia ganhar o mesmo que eu’: o que é infidelidade financeira e como se proteger?",
           "url": "https://www.estadao.com.br/pulsa/vida-leve/ele-dizia-ganhar-o-mesmo-que-eu-o-que-e-infidelidade-financeira-e-como-se-proteger/"
         },
         {
+          "rank": 4,
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
+        },
+        {
           "rank": 5,
-          "title": "Pitbull enfrenta onça-parda para proteger família em condomínio na zona norte de SP",
-          "url": "https://www.estadao.com.br/sao-paulo/pitbull-enfrenta-onca-parda-para-proteger-familia-em-condominio-na-zona-norte-de-sp/"
+          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
         }
       ],
       "erro": null
@@ -285,23 +285,23 @@
         },
         {
           "rank": 2,
-          "title": "La muerte de Jorge Messi, minuto a minuto: la decisión de la AFA para todos los partidos de la fecha y el comunicado de la clínica donde estaba internado",
+          "title": "La muerte de Jorge Messi, minuto a minuto: el conmovedor mensaje de Newell's y el comunicado de la clínica donde estaba internado",
           "url": "https://www.clarin.com/deportes/muerte-jorge-messi-minuto-minuto-conmovedor-mensaje-newells-fallecimiento-padre-lionel-messi_0_jckPdVSLse.html"
         },
         {
           "rank": 3,
-          "title": "La historia de la servilleta en la que Jorge Messi firmó el primer contrato de Leo en el Barcelona: nervios, el temor al ninguneo y el club de tenis que selló el destino del crack",
-          "url": "https://www.clarin.com/deportes/historia-servilleta-jorge-messi-firmo-primer-contrato-leo-barcelona-nervios-temor-ninguneo-club-tenis-sello-destino-crack_0_bDX4UEGPLk.html"
-        },
-        {
-          "rank": 4,
           "title": "Las razones del sugestivo cambio de postura de Candela Arizaga y los beneficios de ser un Moyano",
           "url": "https://www.clarin.com/policiales/razones-sugestivo-cambio-postura-candela-arizaga-beneficios-moyano_0_Hf3LcfpcUn.html"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Fue capitán de River, su frase sobre un \"silencio atroz\" todavía retumba en el fútbol y ahora entra a la política: será candidato a intendente libertario",
           "url": "https://www.clarin.com/politica/capitan-river-frase-silencio-atroz-todavia-retumba-futbol-ahora-entra-politica-candidato-intendente-libertario_0_t9YxPkkICD.html"
+        },
+        {
+          "rank": 5,
+          "title": "La historia de la servilleta en la que Jorge Messi firmó el primer contrato de Leo en el Barcelona: nervios, el temor al ninguneo y el club de tenis que selló el destino del crack",
+          "url": "https://www.clarin.com/deportes/historia-servilleta-jorge-messi-firmo-primer-contrato-leo-barcelona-nervios-temor-ninguneo-club-tenis-sello-destino-crack_0_bDX4UEGPLk.html"
         }
       ],
       "erro": null

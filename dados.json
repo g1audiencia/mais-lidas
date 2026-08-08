@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 01:26",
+  "atualizado_em": "08/08/2026 01:27",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Programa de Lula traz 31 vezes a palavra soberania e rejeita ‘servilismo’ a ideologias fracassadas",
-          "url": "https://www.estadao.com.br/politica/programa-de-lula-traz-31-vezes-a-palavra-soberania-e-rejeita-servilismo-a-ideologias-fracassadas/"
-        },
-        {
-          "rank": 2,
           "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
           "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
         },
         {
+          "rank": 2,
+          "title": "Roubos de casas e carros assustam o Morumbi: ‘Sensação de liberdade do criminoso’",
+          "url": "https://www.estadao.com.br/sao-paulo/roubos-de-casas-e-carros-assustam-o-morumbi-sensacao-de-liberdade-do-criminoso/"
+        },
+        {
           "rank": 3,
-          "title": "PwC não consegue verificar 86% de FIDC da Apex e fica sem base para opinar",
-          "url": "https://www.estadao.com.br/einvestidor/direto-da-faria-lima/pwc-nao-consegue-verificar-86-de-fidc-da-apex-e-fica-sem-base-para-opinar/"
+          "title": "Programa de Lula traz 31 vezes a palavra soberania e rejeita ‘servilismo’ a ideologias fracassadas",
+          "url": "https://www.estadao.com.br/politica/programa-de-lula-traz-31-vezes-a-palavra-soberania-e-rejeita-servilismo-a-ideologias-fracassadas/"
         },
         {
           "rank": 4,
-          "title": "O que é miastenia gravis, doença do apresentador Alex Escobar?",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/o-que-e-miastenia-gravis-doenca-do-apresentador-alex-escobar/"
+          "title": "Tamara Klink pede que leitores não comprem mais seu livro best-seller ‘Bom Dia, Inverno’; entenda",
+          "url": "https://www.estadao.com.br/cultura/literatura/tamara-klink-pede-que-leitores-nao-comprem-mais-seu-livro-bestseller-doem-ou-emprestem-nprec/"
         },
         {
           "rank": 5,
-          "title": "Juiz é afastado por instalar câmeras de vídeo e escuta dentro de lâmpadas no gabinete e refeitório",
-          "url": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/juiz-e-afastado-por-instalar-cameras-de-video-e-escuta-dentro-de-lampadas-no-gabinete-e-refeitorio/"
+          "title": "Quem era Lucas Lopes, advogado aluno de doutorado na USP encontrado morto com sinais de violência",
+          "url": "https://www.estadao.com.br/sao-paulo/quem-era-lucas-lopes-advogado-aluno-de-doutorado-na-usp-encontrado-morto-com-sinais-de-violencia-npr/"
         }
       ],
       "erro": null

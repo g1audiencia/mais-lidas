@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 02:45",
+  "atualizado_em": "08/08/2026 02:47",
   "portais": [
     {
       "portal": "Folha",
@@ -17,18 +17,18 @@
         },
         {
           "rank": 3,
+          "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
+          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
+        },
+        {
+          "rank": 4,
           "title": "PT aciona STF e cobra apuração sobre vazamento de áudios de filho de Lula para Flávio Bolsonaro",
           "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/pt-aciona-stf-e-cobra-apuracao-sobre-vazamento-de-audios-de-filho-de-lula-para-flavio-bolsonaro.shtml"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Lúcia Veríssimo defende Xuxa após críticas a maiô cavado em show: 'Pura inveja'",
           "url": "https://f5.folha.uol.com.br/celebridades/2026/08/lucia-verissimo-sai-em-defesa-de-xuxa-apos-criticas-a-maio-cavado-em-show-pura-inveja.shtml"
-        },
-        {
-          "rank": 5,
-          "title": "Bruno Gagliasso diz que foi 'impulsivo e imaturo' ao expor queixa por McDonald's fechado",
-          "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/bruno-gagliasso-diz-que-foi-impulsivo-e-imaturo-ao-expor-queixa-por-mcdonalds-fechado.shtml"
         }
       ],
       "erro": null
@@ -76,23 +76,23 @@
         },
         {
           "rank": 2,
+          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
+          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
+        },
+        {
+          "rank": 3,
           "title": "Ciclone-bomba: veja regiões com previsão de ventos fortes no estado de SP",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/ciclone-bomba-veja-regioes-com-previsao-de-ventos-fortes-no-estado-de-sp/"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Defesa Civil emite novo alerta para ventos e chuva forte no Rio de Janeiro",
           "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/defesa-civil-emite-novo-alerta-para-ventos-e-chuva-forte-no-rio-de-janeiro/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "STF contraria Moraes e abre brecha para reduzir penas de réus do 8/1",
           "url": "https://www.cnnbrasil.com.br/politica/stf-contraria-moraes-e-abre-brecha-para-reduzir-penas-de-reus-do-8-1/"
-        },
-        {
-          "rank": 5,
-          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
-          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
         }
       ],
       "erro": null

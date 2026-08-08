@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 08:43",
+  "atualizado_em": "08/08/2026 08:44",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
-          "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
-        },
-        {
-          "rank": 4,
           "title": "O pai que ninguém vê: quando o valor do homem é medido pelo boleto",
           "url": "https://www.estadao.com.br/einvestidor/ana-paula-hornos/o-pai-que-ninguem-ve-quando-o-valor-do-homem-e-medido-pelo-boleto/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Nova fase da IA pode privatizar a influência sobre nossas decisões",
           "url": "https://www.estadao.com.br/brasil/macaco-eletrico/nova-fase-da-ia-pode-privatizar-a-influencia-sobre-nossas-decisoes/"
+        },
+        {
+          "rank": 5,
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
         }
       ],
       "erro": null

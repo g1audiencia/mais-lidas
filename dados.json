@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 15:24",
+  "atualizado_em": "08/08/2026 15:26",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
-          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
-        },
-        {
-          "rank": 2,
           "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
           "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
         },
         {
+          "rank": 2,
+          "title": "‘Holding ostentação’ de Daniel Vorcaro é liquidada nas Ilhas Cayman",
+          "url": "https://www.estadao.com.br/economia/negocios/holding-ostentacao-de-daniel-vorcaro-e-liquidada-nas-ilhas-cayman/"
+        },
+        {
           "rank": 3,
-          "title": "Mendonça determina que PT entregue documentos do congresso da sigla e do projeto Porta-Vozes de Lula",
-          "url": "https://www.estadao.com.br/politica/mendonca-determina-que-pt-entregue-documentos-do-congresso-da-sigla-e-do-projeto-porta-vozes-de-lula-nprp/"
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
         },
         {
           "rank": 4,
-          "title": "Indigestão institucional",
-          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
+          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
         },
         {
           "rank": 5,
-          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
+          "title": "Pitbull enfrenta onça-parda para proteger família em condomínio na zona norte de SP",
+          "url": "https://www.estadao.com.br/sao-paulo/pitbull-enfrenta-onca-parda-para-proteger-familia-em-condominio-na-zona-norte-de-sp/"
         }
       ],
       "erro": null

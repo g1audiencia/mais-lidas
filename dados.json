@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 11:36",
+  "atualizado_em": "08/08/2026 11:38",
   "portais": [
     {
       "portal": "Folha",
@@ -199,18 +199,18 @@
         },
         {
           "rank": 3,
+          "title": "Como cinco gatos domésticos alteraram o ecossistema de ilha na África",
+          "url": "https://noticias.r7.com/internacional/como-cinco-gatos-alteraram-o-ecossistema-de-uma-ilha-na-africa-08082026/"
+        },
+        {
+          "rank": 4,
           "title": "Júlia Cardoso leva painel do 'Canta Comigo Teen' às lágrimas duas vezes",
           "url": "https://record.r7.com/canta-comigo/canta-comigo-teen-6/novidades/julia-cardoso-leva-painel-as-lagrimas-as-pessoas-com-deficiencia-podem-chegar-onde-quiserem-06082026/"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Cosme: Direção do Timão troca acusações sobre renovação de Memphis",
           "url": "https://esportes.r7.com/prisma/cosme-rimoli/troca-de-acusacoes-no-corinthians-eliminado-por-memphis-o-presidente-osmar-stabile-e-cobrado-por-nao-renovar-e-deixar-o-time-enfraquecido-contra-o-07082026/"
-        },
-        {
-          "rank": 5,
-          "title": "Ata do PL mantém aberta volta de vice de Flávio à corrida pelo Senado",
-          "url": "https://noticias.r7.com/brasilia/documento-do-pl-mantem-aberta-volta-de-vice-de-flavio-bolsonaro-a-corrida-pelo-senado-07082026/"
         }
       ],
       "erro": null

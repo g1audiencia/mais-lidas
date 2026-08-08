@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 08:17",
+  "atualizado_em": "08/08/2026 08:18",
   "portais": [
     {
       "portal": "Folha",
@@ -7,18 +7,18 @@
       "items": [
         {
           "rank": 1,
+          "title": "Coronel é condenado em ação penal por livro em que critica Exército e faz acusação de corrupção",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/coronel-e-condenado-em-acao-penal-por-livro-em-que-critica-exercito-e-faz-acusacao-de-corrupcao.shtml"
+        },
+        {
+          "rank": 2,
           "title": "USP anula concurso para professor após aprovado apresentar cartas de ministros do STF",
           "url": "https://www1.folha.uol.com.br/educacao/2026/08/usp-anula-concurso-para-professor-apos-aprovado-apresentar-cartas-de-ministros-do-stf.shtml"
         },
         {
-          "rank": 2,
-          "title": "Caixa coloca apartamento de Eduardo Bolsonaro em leilão",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/caixa-coloca-apartamento-de-eduardo-bolsonaro-em-leilao.shtml"
-        },
-        {
           "rank": 3,
-          "title": "Coronel é condenado em ação penal por livro em que critica Exército e faz acusação de corrupção",
-          "url": "https://www1.folha.uol.com.br/poder/2026/08/coronel-e-condenado-em-acao-penal-por-livro-em-que-critica-exercito-e-faz-acusacao-de-corrupcao.shtml"
+          "title": "A vice do Flávio é a Gretchen!",
+          "url": "https://www1.folha.uol.com.br/colunas/josesimao/2026/08/a-vice-do-flavio-e-a-gretchen.shtml"
         },
         {
           "rank": 4,
@@ -27,8 +27,8 @@
         },
         {
           "rank": 5,
-          "title": "A vice do Flávio é a Gretchen!",
-          "url": "https://www1.folha.uol.com.br/colunas/josesimao/2026/08/a-vice-do-flavio-e-a-gretchen.shtml"
+          "title": "Flávio Bolsonaro concentrou emendas em segurança e defesa e deixou ciência e agricultura de fora",
+          "url": "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-concentrou-emendas-em-seguranca-e-defesa-e-deixou-ciencia-e-agricultura-de-fora.shtml"
         }
       ],
       "erro": null

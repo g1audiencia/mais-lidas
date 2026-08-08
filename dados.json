@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 05:24",
+  "atualizado_em": "08/08/2026 05:25",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
-          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
+          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
+          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
         },
         {
           "rank": 3,
-          "title": "Tamara Klink pede que leitores não comprem mais seu livro best-seller ‘Bom Dia, Inverno’; entenda",
-          "url": "https://www.estadao.com.br/cultura/literatura/tamara-klink-pede-que-leitores-nao-comprem-mais-seu-livro-bestseller-doem-ou-emprestem-nprec/"
-        },
-        {
-          "rank": 4,
           "title": "Discord será investigado após morte de adolescente de 13 anos",
           "url": "https://www.estadao.com.br/brasil/discord-sera-investigado-apos-morte-de-adolescente-de-13-anos/"
         },
         {
+          "rank": 4,
+          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
+          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
+        },
+        {
           "rank": 5,
-          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
-          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
+          "title": "São Paulo Innovation Week cresce e terá 40 palcos em 2027",
+          "url": "https://www.estadao.com.br/economia/negocios/sao-paulo-innovation-week-cresce-e-tera-40-palcos-em-2027/"
         }
       ],
       "erro": null

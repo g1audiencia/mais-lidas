@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 06:13",
+  "atualizado_em": "08/08/2026 06:15",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
-          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
-          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
-        },
-        {
-          "rank": 3,
           "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
           "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
         },
         {
+          "rank": 3,
+          "title": "O pai que ninguém vê: quando o valor do homem é medido pelo boleto",
+          "url": "https://www.estadao.com.br/einvestidor/ana-paula-hornos/o-pai-que-ninguem-ve-quando-o-valor-do-homem-e-medido-pelo-boleto/"
+        },
+        {
           "rank": 4,
-          "title": "Essa cidade do sertão do Ceará é a nº 1 do País em ranking educacional - o que eles fizeram?",
-          "url": "https://www.estadao.com.br/educacao/cidade-cearense-destaque-no-ideb/"
+          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
+          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
         },
         {
           "rank": 5,
-          "title": "Justiça barra prédio de 22 andares na Pompeia após perícia encontrar nascentes na região",
-          "url": "https://www.estadao.com.br/sao-paulo/justica-barra-predio-de-22-andares-na-pompeia-apos-pericia-encontrar-nascentes-na-regiao/"
+          "title": "‘Ele dizia ganhar o mesmo que eu’: o que é infidelidade financeira e como se proteger?",
+          "url": "https://www.estadao.com.br/pulsa/vida-leve/ele-dizia-ganhar-o-mesmo-que-eu-o-que-e-infidelidade-financeira-e-como-se-proteger/"
         }
       ],
       "erro": null

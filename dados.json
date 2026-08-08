@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/08/2026 23:39",
+  "atualizado_em": "07/08/2026 23:41",
   "portais": [
     {
       "portal": "Folha",
@@ -91,8 +91,8 @@
         },
         {
           "rank": 5,
-          "title": "Cantor sertanejo é internado e descobre leucemia aos 38 anos",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/cantor-sertanejo-e-internado-e-descobre-leucemia-aos-38-anos/"
+          "title": "O que é a miastenia gravis, doença diagnosticada em Alex Escobar",
+          "url": "https://www.cnnbrasil.com.br/saude/o-que-e-a-miastenia-gravis-doenca-diagnosticada-em-alex-escobar/"
         }
       ],
       "erro": null
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Em nova reviravolta, Republicanos confirma Cleitinho Azevedo como candidato a governador de Minas",
-          "url": "https://www.estadao.com.br/politica/em-nova-reviravolta-republicanos-confirma-cleitinho-azevedo-como-candidato-a-governador-de-minas/"
-        },
-        {
-          "rank": 2,
           "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
           "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         },
         {
+          "rank": 2,
+          "title": "Em nova reviravolta, Republicanos confirma Cleitinho Azevedo como candidato a governador de Minas",
+          "url": "https://www.estadao.com.br/politica/em-nova-reviravolta-republicanos-confirma-cleitinho-azevedo-como-candidato-a-governador-de-minas/"
+        },
+        {
           "rank": 3,
-          "title": "Como os computadores estão ajudando cientistas a decifrar os segredos do cérebro",
-          "url": "https://www.estadao.com.br/pulsa/futuro-e-inovacao/como-os-computadores-estao-ajudando-cientistas-a-decifrar-os-segredos-do-cerebro/"
+          "title": "Preço de usados estaciona em julho; elétricos acumulam 46% de desvalorização",
+          "url": "https://www.estadao.com.br/jornal-do-carro/preco-de-usados-estaciona-em-julho-eletricos-acumulam-46-de-desvalorizacao/"
         },
         {
           "rank": 4,
-          "title": "Os sinais de que a tireoide não vai bem — e quase ninguém percebe",
-          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/os-sinais-de-que-a-tireoide-nao-vai-bem-e-quase-ninguem-percebe/"
+          "title": "Gilmar não aceitará pedido de vice de Flávio para acelerar exame de DNA em ação sobre estupro",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/gilmar-nao-aceitara-pedido-de-vice-de-flavio-para-acelerar-exame-de-dna-em-acao-sobre-estupro/"
         },
         {
           "rank": 5,
-          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
-          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
+          "title": "O que é miastenia gravis, doença do apresentador Alex Escobar?",
+          "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/o-que-e-miastenia-gravis-doenca-do-apresentador-alex-escobar/"
         }
       ],
       "erro": null
@@ -236,13 +236,13 @@
         },
         {
           "rank": 4,
-          "title": "Trump again tries to restrict birthright citizenship after Supreme Court ruling",
-          "url": "https://apnews.com/article/trump-border-immigration-birthright-citizenship-494add8239eb1c0c9f4ccb45db03f1f0"
+          "title": "US job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump",
+          "url": "https://apnews.com/article/economy-jobs-trump-unemployment-rate-jobseekers-9c2d147c14bc428458be5a1e83e54957"
         },
         {
           "rank": 5,
-          "title": "US job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump",
-          "url": "https://apnews.com/article/economy-jobs-trump-unemployment-rate-jobseekers-9c2d147c14bc428458be5a1e83e54957"
+          "title": "Trump again tries to restrict birthright citizenship after Supreme Court ruling",
+          "url": "https://apnews.com/article/trump-border-immigration-birthright-citizenship-494add8239eb1c0c9f4ccb45db03f1f0"
         }
       ],
       "erro": null

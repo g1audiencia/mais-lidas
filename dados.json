@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 01:07",
+  "atualizado_em": "08/08/2026 01:09",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
+          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
+        },
+        {
+          "rank": 2,
           "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
           "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
         },
         {
-          "rank": 2,
-          "title": "Em nova reviravolta, Republicanos confirma Cleitinho Azevedo como candidato a governador de Minas",
-          "url": "https://www.estadao.com.br/politica/em-nova-reviravolta-republicanos-confirma-cleitinho-azevedo-como-candidato-a-governador-de-minas/"
-        },
-        {
           "rank": 3,
-          "title": "Roubos de casas e carros assustam o Morumbi: ‘Sensação de liberdade do criminoso’",
-          "url": "https://www.estadao.com.br/sao-paulo/roubos-de-casas-e-carros-assustam-o-morumbi-sensacao-de-liberdade-do-criminoso/"
+          "title": "Tribunal decide que Trump não pode construir salão na Casa Branca sem aprovação do Congresso",
+          "url": "https://www.estadao.com.br/internacional/tribunal-apelacao-decide-trump-nao-pode-construir-salao-casa-branca-aprovacao-congresso-npr/"
         },
         {
           "rank": 4,
-          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
-          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
+          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
+          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
         },
         {
           "rank": 5,
-          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
-          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
+          "title": "‘Um horror, estamos muito revoltados’, diz professora da USP sobre morte de aluno de doutorado",
+          "url": "https://www.estadao.com.br/sao-paulo/um-horror-estamos-muito-revoltados-diz-professora-da-usp-sobre-morte-de-aluno-de-doutorado-npr/"
         }
       ],
       "erro": null

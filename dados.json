@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 16:08",
+  "atualizado_em": "08/08/2026 16:09",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
+          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
+        },
+        {
+          "rank": 3,
           "title": "‘Holding ostentação’ de Daniel Vorcaro é liquidada nas Ilhas Cayman",
           "url": "https://www.estadao.com.br/economia/negocios/holding-ostentacao-de-daniel-vorcaro-e-liquidada-nas-ilhas-cayman/"
         },
         {
-          "rank": 3,
-          "title": "Pitbull enfrenta onça-parda para proteger família em condomínio na zona norte de SP",
-          "url": "https://www.estadao.com.br/sao-paulo/pitbull-enfrenta-onca-parda-para-proteger-familia-em-condominio-na-zona-norte-de-sp/"
-        },
-        {
           "rank": 4,
-          "title": "The Economist: Os governos estão fazendo uma aposta perigosa no boom da IA",
-          "url": "https://www.estadao.com.br/economia/the-economist-governos-aposta-perigosa-boom-ia/"
+          "title": "Quatro morrem em queda de helicóptero na Vista Chinesa, zona sul do Rio",
+          "url": "https://www.estadao.com.br/brasil/quatro-morrem-em-queda-de-helicoptero-na-vista-chinesa-zona-sul-do-rio-npr/"
         },
         {
           "rank": 5,
-          "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
-          "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
+          "title": "Pitbull enfrenta onça-parda para proteger família em condomínio na zona norte de SP",
+          "url": "https://www.estadao.com.br/sao-paulo/pitbull-enfrenta-onca-parda-para-proteger-familia-em-condominio-na-zona-norte-de-sp/"
         }
       ],
       "erro": null

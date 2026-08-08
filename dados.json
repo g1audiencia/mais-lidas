@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 06:03",
+  "atualizado_em": "08/08/2026 06:05",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Indigestão institucional",
-          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
-        },
-        {
-          "rank": 2,
           "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
           "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
         },
         {
+          "rank": 2,
+          "title": "Indigestão institucional",
+          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
+        },
+        {
           "rank": 3,
-          "title": "‘Ele dizia ganhar o mesmo que eu’: o que é infidelidade financeira e como se proteger?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/ele-dizia-ganhar-o-mesmo-que-eu-o-que-e-infidelidade-financeira-e-como-se-proteger/"
+          "title": "O pai que ninguém vê: quando o valor do homem é medido pelo boleto",
+          "url": "https://www.estadao.com.br/einvestidor/ana-paula-hornos/o-pai-que-ninguem-ve-quando-o-valor-do-homem-e-medido-pelo-boleto/"
         },
         {
           "rank": 4,
-          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
+          "title": "Com custo da dívida mais alto em 10 anos, frente quer fixar teto e orçamento 100% impositivo",
+          "url": "https://www.estadao.com.br/politica/coluna-do-estadao/com-custo-da-divida-mais-alto-em-10-anos-frente-quer-fixar-teto-e-orcamento-100-impositivo/"
         },
         {
           "rank": 5,
-          "title": "Fórum dos Leitores",
-          "url": "https://www.estadao.com.br/opiniao/forum-dos-leitores/forum-dos-leitores-8-8-2026/"
+          "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
+          "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
         }
       ],
       "erro": null

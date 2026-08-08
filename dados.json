@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 05:41",
+  "atualizado_em": "08/08/2026 05:42",
   "portais": [
     {
       "portal": "Folha",
@@ -140,23 +140,23 @@
         },
         {
           "rank": 2,
+          "title": "Fator Lulinha: o dia em que a PF suspeitou de negócios do filho do presidente",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/fator-lulinha-o-dia-em-que-a-pf-suspeitou-de-negocios-do-filho-do-presidente/"
+        },
+        {
+          "rank": 3,
           "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
           "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
         },
         {
-          "rank": 3,
-          "title": "‘Quem aqui nunca pediu empréstimo para um amigo?’, perguntou Lula em defesa de Marcola",
-          "url": "https://www.estadao.com.br/politica/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-pergunta-lula-em-defesa-de-marcola/"
-        },
-        {
           "rank": 4,
-          "title": "Após ventos de 109 km/h, SP mantém gabinete de crise; veja como fica o tempo no fim de semana",
-          "url": "https://www.estadao.com.br/sao-paulo/gabinete-de-crise-segue-mobilizado-apos-ventania-veja-como-fica-o-tempo-no-fim-de-semana-em-sp-npr/"
+          "title": "Como os computadores estão ajudando cientistas a decifrar os segredos do cérebro",
+          "url": "https://www.estadao.com.br/pulsa/futuro-e-inovacao/como-os-computadores-estao-ajudando-cientistas-a-decifrar-os-segredos-do-cerebro/"
         },
         {
           "rank": 5,
-          "title": "A guerra no Irã fracassou; qual será o  próximo passo de Trump?",
-          "url": "https://www.estadao.com.br/economia/celso-ming/a-guerra-no-ira-fracassou-qual-sera-o-proximo-passo-de-trump/"
+          "title": "Da estante à taça: especialistas revelam quais vinhos combinam com diferentes livros",
+          "url": "https://www.estadao.com.br/paladar/bebida/da-estante-a-taca-especialistas-revelam-quais-vinhos-combinam-com-diferentes-livros/"
         }
       ],
       "erro": null

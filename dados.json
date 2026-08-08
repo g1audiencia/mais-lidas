@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 03:54",
+  "atualizado_em": "08/08/2026 03:55",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
-          "title": "Preço de usados estaciona em julho; elétricos acumulam 46% de desvalorização",
-          "url": "https://www.estadao.com.br/jornal-do-carro/preco-de-usados-estaciona-em-julho-eletricos-acumulam-46-de-desvalorizacao/"
+          "title": "Indigestão institucional",
+          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
         },
         {
           "rank": 2,
-          "title": "Liquidante do Master avança em caça ao dinheiro e consegue devassa sobre apartamentos nos EUA",
-          "url": "https://www.estadao.com.br/economia/negocios/liquidante-do-master-avanca-em-caca-ao-dinheiro-e-consegue-devassa-sobre-apartamentos-nos-eua/"
-        },
-        {
-          "rank": 3,
           "title": "Desconfianças entre Mendonça e PF só existem pois o investigado é Lulinha",
           "url": "https://www.estadao.com.br/politica/carlos-andreazza/desconfiancas-entre-mendonca-e-pf-so-existem-pois-o-investigado-e-lulinha/"
         },
         {
+          "rank": 3,
+          "title": "Roubos de casas e carros assustam o Morumbi: ‘Sensação de liberdade do criminoso’",
+          "url": "https://www.estadao.com.br/sao-paulo/roubos-de-casas-e-carros-assustam-o-morumbi-sensacao-de-liberdade-do-criminoso/"
+        },
+        {
           "rank": 4,
-          "title": "Tamara Klink pede que leitores não comprem mais seu livro best-seller ‘Bom Dia, Inverno’; entenda",
-          "url": "https://www.estadao.com.br/cultura/literatura/tamara-klink-pede-que-leitores-nao-comprem-mais-seu-livro-bestseller-doem-ou-emprestem-nprec/"
+          "title": "Por que Anthony Fauci, médico alvo de Trump, foi questionado no Senado dos EUA sobre origem da covid",
+          "url": "https://www.estadao.com.br/ciencia/por-que-anthony-fauci-medico-alvo-de-trump-foi-questionado-no-senado-dos-eua-sobre-origem-da-covid-npr/"
         },
         {
           "rank": 5,
-          "title": "16 frases de Gabriel García Márquez sobre amor e solidão",
-          "url": "https://www.estadao.com.br/cultura/literatura/16-frases-de-gabriel-garcia-marquez-sobre-amor-e-solidao-nprec/"
+          "title": "Não vai dar para o BRB",
+          "url": "https://www.estadao.com.br/opiniao/nao-vai-dar-para-o-brb/"
         }
       ],
       "erro": null

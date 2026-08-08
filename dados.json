@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 15:14",
+  "atualizado_em": "08/08/2026 15:16",
   "portais": [
     {
       "portal": "Folha",
@@ -135,28 +135,28 @@
       "items": [
         {
           "rank": 1,
+          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
+          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
+        },
+        {
+          "rank": 2,
           "title": "Bolinha chega aos 80 anos fiel ao feijão, ao fogão e à tradição",
           "url": "https://www.estadao.com.br/paladar/restaurantes-e-bares/bolinha-chega-aos-80-anos-fiel-ao-feijao-ao-fogao-e-a-tradicao/"
         },
         {
-          "rank": 2,
-          "title": "‘Holding ostentação’ de Daniel Vorcaro é liquidada nas Ilhas Cayman",
-          "url": "https://www.estadao.com.br/economia/negocios/holding-ostentacao-de-daniel-vorcaro-e-liquidada-nas-ilhas-cayman/"
-        },
-        {
           "rank": 3,
-          "title": "Lula faz acordo com Ciro para apoiar Motta à frente da Câmara em 2027 e tenta pacto com Alcolumbre",
-          "url": "https://www.estadao.com.br/politica/lula-faz-acordo-com-ciro-para-apoiar-motta-a-frente-da-camara-em-2027-e-tenta-pacto-com-alcolumbre/"
+          "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
+          "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
         },
         {
           "rank": 4,
-          "title": "‘Ele dizia ganhar o mesmo que eu’: o que é infidelidade financeira e como se proteger?",
-          "url": "https://www.estadao.com.br/pulsa/vida-leve/ele-dizia-ganhar-o-mesmo-que-eu-o-que-e-infidelidade-financeira-e-como-se-proteger/"
+          "title": "Indigestão institucional",
+          "url": "https://www.estadao.com.br/opiniao/indigestao-institucional/"
         },
         {
           "rank": 5,
-          "title": "A ilha da fantasia existe e juízes e promotores moram lá",
-          "url": "https://www.estadao.com.br/politica/francisco-leali/a-ilha-da-fantasia-existe-e-juizes-e-promotores-moram-la/"
+          "title": "Berkshire, de Buffett, concentra carteira em 5 ações e faz alerta após balanço",
+          "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/berkshire-de-buffett-concentra-carteira-em-5-acoes-e-faz-alerta-apos-balanco/"
         }
       ],
       "erro": null
@@ -253,18 +253,18 @@
         },
         {
           "rank": 2,
-          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-          "url": "https://www.bbc.com/news/articles/cewr898jy8go"
-        },
-        {
-          "rank": 3,
           "title": "Mysterious orb seen racing over residential area in new UFO files",
           "url": "https://www.bbc.com/news/articles/ce8kr7p2pmdo"
         },
         {
+          "rank": 3,
+          "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+          "url": "https://www.bbc.com/news/articles/cewr898jy8go"
+        },
+        {
           "rank": 4,
-          "title": "I went for a full body MOT and the results came as a shock",
-          "url": "https://www.bbc.com/news/articles/cx2dj82v1rko"
+          "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+          "url": "https://www.bbc.com/news/articles/cz05xn35xj7o"
         },
         {
           "rank": 5,

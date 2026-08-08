@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 12:11",
+  "atualizado_em": "08/08/2026 12:12",
   "portais": [
     {
       "portal": "Folha",
@@ -145,18 +145,18 @@
         },
         {
           "rank": 3,
-          "title": "Morre pai de Lionel Messi aos 68 anos na Argentina",
-          "url": "https://www.estadao.com.br/esportes/futebol/morre-pai-de-lionel-messi-aos-68-anos-na-argentina/"
-        },
-        {
-          "rank": 4,
           "title": "Eles deixaram um emprego na Faria Lima e o consultório. E foram a todos os parques nacionais do País",
           "url": "https://www.estadao.com.br/brasil/eles-deixaram-um-emprego-na-faria-lima-e-o-consultorio-e-foram-a-todos-os-parques-nacionais-do-pais/"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "Pitbull enfrenta onça-parda para proteger família em condomínio na zona norte de SP",
           "url": "https://www.estadao.com.br/sao-paulo/pitbull-enfrenta-onca-parda-para-proteger-familia-em-condominio-na-zona-norte-de-sp/"
+        },
+        {
+          "rank": 5,
+          "title": "O pai que ninguém vê: quando o valor do homem é medido pelo boleto",
+          "url": "https://www.estadao.com.br/einvestidor/ana-paula-hornos/o-pai-que-ninguem-ve-quando-o-valor-do-homem-e-medido-pelo-boleto/"
         }
       ],
       "erro": null
